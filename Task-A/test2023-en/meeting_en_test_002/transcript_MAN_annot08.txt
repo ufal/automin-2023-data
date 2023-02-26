@@ -1,0 +1,875 @@
+(PERSON1) Hi, [PERSON2].
+(PERSON2) Hi, ow are you?
+(PERSON1) I'm good, you?
+(PERSON2) Me too.
+<other_noise/>
+(PERSON1) How's the- the- second ASR coming up? You- you are training one more, right?
+Uh, the Czech ASR?
+(PERSON2) Uh- uh, well I'm not training it. 
+But, the like the problem is that I don't have time to make it online.
+(PERSON1) Uh uh.
+(PERSON2) And so I'm currently uh uhm-
+Currently uh focusing on- on- my paper I want to write on (EMNLP).
+(PERSON1) Oh, okay.
+(PERSON2) Which is due due uhm somewhere in in June.
+(PERSON1) Uh huh.
+(PERSON7) Čau.
+(PERSON2) And uh and the problem is that uh I I need to finish the research first, and then after I finish the research I can start writing the paper.
+And I want the paper really bad, so.
+<laugh/>
+(PERSON1) <laugh/>
+(PERSON2) <laugh/>
+(PERSON1) Yeah I think I can help you with the (??) after June 10th, because I think I'll be done with my exams by then.
+(PERSON2) Okay, then you can think of a Flask, uh I guess Flask is the best.
+(PERSON1) Yeah.
+(PERSON2) Mhm and I I don't think it should be like much work but I have no no experience with Flask whatsoever.
+(PERSON1) So w- what do you mean only (annotation) exactly? 
+(PERSON2) Like like for me, what I need is is uhm is uh HTTP server, which can receive a stream of audio.
+And will send back uh stream of text and can do this for multiple users at time.
+So I think that the best is Flask maybe?
+(PERSON1) Yeah, yeah, yeah.
+(PERSON2) And and if you implement this, I can p- fill in the the ASR and and uh so so I definitely not think it's much work, I I I think that uh if if anyone knows Flask, then this should be maybe done in an hour or so.
+(PERSON1) <laugh/> D- D- The real problem would be serving multiple people on the same (ASR, I mean). 
+Uh, scaling, w- pretty much.
+(PERSON2) I mean like like that's something I can handle, I think uh.
+I would do batching uhm.
+(PERSON1) Uh huh.
+(PERSON2) Like I'm not sure how the Flask is s- serves more people at a time.
+Uh.
+If it's like every every uh user in a different (front) or or how this is ex- exactly implemented.
+(PERSON1) Uh.
+(PERSON2) But but I I think that it's not really important, because my model would be in a separate process.
+And uh the these two processes, like the fr- Flask process with whatever number of (fronts) uh we'll use uh and and my my my model will use uh <other_noise/> uh queue.
+Uh to synchronize, so and and the model will will take many requests at time, put it to one batch, do the inference and whenever I'm finished with infering, then there there will be a second data structure.
+Uhm. 
+Uhm like a queue per uh user.
+Where I put uh the intermediate uh intermediate uhm results. 
+And the server can then directly send it back to the uh uh client.
+So so what I I need is really like like uh like the the the the Flask or or whatever it will be, should create a queue.
+Mhm.
+Like a Python queue you you know which queue-
+(PERSON1) Yeah.
+(PERSON2) I'm talking about.
+And and fill this queue for example like every 200 milliseconds with new audio frame.
+(PERSON1) Mhm.
+(PERSON2) Which gets uh a stream of bytes, you don't have to work with whatever.
+Just just think of the speech as stream of bytes.
+(PERSON1) Yeah yeah.
+(PERSON2) And uhm.
+<other_noise/>
+And we'll put uh uh I don't know like every interval, like let's say 200 milliseconds this this piece of audio to the to the queue and that's it. 
+And uh-
+(PERSON1) Do you think 200 milliseconds as an audio stream is-
+I don't know how your ASR would handle that.
+Is it okay it's not any legible thing, so-
+200 milliseconds is like too small.
+(PERSON2) Yeah yeah I I I have like four 250 milliseconds and I'm using for speech translation and well, it's definitely doesn't have that good results, but it's for speech translation, which is not diffi- difficult task.
+So I I think that actually uh for for speech transla- speech recognition, this might be okay.
+But uh uh I I will handle the further logic uh later.
+(PERSON1) Mhm.
+(PERSON2) So I I told you to 200 milliseconds just to like uh make room for me and to do the other optimization later uh in for the model.
+(PERSON1) <laugh/>
+(PERSON2) Because that's (code) which I I can handle myself.
+(PERSON1) Mhm.
+(PERSON2) But but the Flask part or or the communication part with the client is something that I cannot do.
+Because I have no experience and no time f- to to get it running to-
+(PERSON1) I (thought) (??) meant something using I don't know, mediator from (??).
+(PERSON2) No, no really like like, just like make uh uh HTTP client which can fill the queue and read from another queue. 
+And and send send the the text back in in a HTTP request.
+Because my idea is that uh uh like like user clicks be- uh well it should be used in the Ukrainian project too.
+(PERSON1) Mhm. 
+(PERSON2) And my idea is that a cli- client clicks uh this microphone button.
+And uh starts to speak and and when when the the user is speaking, you are sending at the same time the audio in r- small chunks.
+Let's say 200 or or even 100 milliseconds.
+And and uh to the to the uhm HTTP server, the HTTP server uh put it to a queue which I will handle the queue later with (ASR).
+And the model will do some logic uh, like like some some inference with that.
+And whenever it has a new piece of transcript, it will send back and the the user should get the uh get the uh <other_noise/> uh partial transcript back.
+And it should be immediately displayed in the text field.
+(PERSON1) Uh I could think about that.
+Just I don't really know Flask either, but yeah, I can think about that. 
+(PERSON2) Oh maybe maybe a different HTTP server.
+I don't know like uh uh maybe we don't even need like like some some uh uh fancy HTTP server for that.
+(PERSON1) I mean for only text flow we use something like Hypercore, but I'm not sure if that would work for this.
+(PERSON2) Yeah the the the only requirement is that it should handle uh more connection at at a time.
+(PERSON1) Well I I think (online text flow) something around 2 000 at least. 
+Something like that.
+Like it can connect like 2 000 people-
+But the thing is uh that's just one way.
+So basically, we are sending data to them.
+We are not receiving anything.
+(PERSON2) Ah okay.
+So that's that's problem, because this has to be-
+(PERSON1) Yeah, yeah both ways.
+(PERSON2) Both ways.
+Yeah.
+And well uh a solution would be to have like two connection.
+(PERSON1) Mhm.
+(PERSON2) If if it doesn't duplex is not possible, then one connection for streaming the audio to us and one connection to s- to getting the audio back.
+For example, what I can imagine is that once you create the connection, then before uh you s- like the client starts streaming the audio, the client gets uh client ID.
+And with the client ID, it can then query uh the transcript.
+And there will be a stream of transcript, if if if the client is querying it.
+So maybe that also can could work.
+But I think I I think that actually HTTP should (be duplex).
+(PERSON1) Yeah, I- it is actually.
+Yeah, it is. 
+(PERSON2) So so then there shouldn't be a problem.
+(PERSON1) Yeah.
+I I I'll I'll definitely look into that.
+Like just after-
+Yeah.
+If it makes sense.
+(PERSON2) Okay. 
+Okay.
+Perfect.
+Um.
+Then then uh good luck for your exams.
+(PERSON1) <laugh/>
+Thanks.
+(PERSON2) And I really don't envy you.
+<laugh/>
+(PERSON1) <laugh/>
+Well I mean it's I guess it's just two exams, more or less.
+(PERSON2) Oh, okay.
+(PERSON1) Which does (a bit pretty tough).
+One is data structure and another is-
+Well, I didn't (ICC) last semester, so I'm giving (ICC) this semester.
+(PERSON2) Yeah, ICC?
+(PERSON1) Introduction to Computability and Complexity.
+(PERSON2) Oh, but I heard that it's-
+They made it uh easier.
+(PERSON1) No <laugh/>, it's as complex.
+It's it's not easy.
+Definitely not easy.
+<laugh/>
+(PERSON2) Okay, well it was compulsatory also for me.
+Oh no, they they did uh- 
+Data structures are easier now.
+(PERSON1) Yeah.
+(PERSON2) Because before we had to code the data structures in C++.
+Like you could also do it in Java, but uh if you do it in Java, they will I I think that they like gave you less points I think.
+Because.
+(PERSON1) Uh.
+(PERSON2) Like they were definitely they were already really disappointed and unhappy if you use different something different from pure uh pure uh C or or C++.
+<laugh/>
+(PERSON1) Yeah, I guess this semester-
+I mean we have a (??) C++, or Python.
+We have like two options.
+(PERSON2) [PERSON7], you had also uh, you had already Python allowed?
+(PERSON7) Yeah, I think that we had we had.
+(PERSON2) Okay, I think that we were the last uh last year who ha- had to do the the dirty stuff.
+(PERSON1) Doing it in C++ is fun, but well in Python, it's just less work.
+<laugh/>
+(PERSON2) Well, it it really depends al- and of course, we had just I think that three or four assignments and I heard that you might might-
+(PERSON1) I had like 12 or 10.
+(PERSON2) Yeah, you have many many and like you have to like finish some code, I think, right?
+(PERSON1) Yeah, so-
+It's basically-
+Well, technically, we just have to (limit) the function.
+(PERSON2) Oh, okay, because for us, it was like you have zero code and huge assignment.
+And we had like four maybe assignments.
+Or or maybe five.
+Huge assignments and and the-
+I think that it would be fine if we should have used C++, but if they if they would provide some uh like like already some code that would help a lot, but because we uh everyone had to have had to write his own code, then it was really problematic, because-
+(PERSON1) Yeah, it's the same thing with us, but the thing is and like in our case, well technically, all we get is a (??) well files implemented.
+So basically, test files.
+(PERSON2) Test files.
+(PERSON1) So he has already implemented the tests.
+We get the test files and most of the time, the actual implementation is just I don't know.
+Some part of it is implemented, which is pretty easy.
+But the other part, which is actually the part about the doing things, that is still like completely empty and we were supposed to find it.
+(PERSON2) Yeah, but the problem is that we didn't even have the interface and then-
+(PERSON1) Oh, yeah.
+(PERSON2) If you if you fucked up the interface, then like writing the code was really like pointless.
+Um.
+And this was many time the case.
+And even like I I do not remember what it was, but I think there was no other way to do it then just use the templates in C++.
+And some- some like crazy templates.
+(PERSON1) <laugh/>
+(PERSON2) It wasn't just basic stuff.
+So.
+It was real pain.
+And actually, it was pain for me and I was quite good in C++.
+(PERSON1) Oh!
+<laugh/>
+(PERSON2) <laugh/>
+So so.
+(PERSON1) I can imagine what has it been for others.
+(PERSON2) Yeah, I think that the many people had failed just because of this. 
+(PERSON1) Mhm.
+Yeah, I guess.
+I think in DL we also had a lot of assignments.
+But it was fun.
+<laugh/>
+(PERSON2) In?
+(PERSON1) In Deep Learning.
+(PERSON2) Uh, yeah.
+But Deep Learning, it's different thing I mean.
+I think that, well [PERSON9] is is like pretty crazy about the assignments.
+(PERSON1) Yeah.
+<laugh/>
+(PERSON2) You can you can I think you can just you can just reserve the whole semester just for [PERSON9]'s courses and you will have like lot of work and no free times even even though you have just one subject.
+But I think it's a different thing, because I think it's not a really thing to fail his courses.
+Like to fail, because you you are unable to finish it.
+Of course, like people are just giving up, but I mean it's maybe for different reason that just it's impossible to pass.
+I think that it's definitely possible, but it's a lot of work.
+(PERSON1) Yeah, I think that he told us in the beginning of the semester that well uh if we want a one (??) you'll get a one.
+Just within the second deadline, you should submit it.
+That's pretty much the only thing he asked.
+But he also told us that judging by previous years' trends, uh a lot of people don't do that.
+They find it it's easier to read for the exam.
+No, sorry, (study) for the exam-
+(PERSON2) Yeah yeah because well in general, he's- his exams are rather easy.
+(PERSON1) Yeah.
+<laugh/>
+(PERSON2) So I uh well I wouldn't say it's like absolutely super easy.
+Like like no like almost no question (??), because there are some courses where the exam is like fun.
+Just fun.
+(PERSON1) Oh well, one of them was yesterday for me.
+Uhm.
+I had the (??) exam for (??) with [PERSON5] (??).
+(PERSON2) Oh, so that's something something you I guess-
+(PERSON1) Yeah (??) taking this course probably 16 or 17, I don't know.
+(PERSON2) Oh, maybe that's uh new thing, because, well, they were both away.
+(PERSON1) Yeah, yeah, yeah, yeah.
+(PERSON2) When I was.
+So.
+Yeah, maybe that's-
+(PERSON1) But the good thing was that it's not graded, so <laugh/>
+(PERSON2) Uh, okay. (PERSON1) Just basically I'll write the exam.
+<unintelligible/>
+And there is no grades in that.
+So you just go there-
+But (??) it was actually quite a nice class for me.
+(PERSON2) Yeah.
+Oh, that's good.
+Uhm.
+Okay, uhm.
+Well.
+(PERSON1) Yeah, I don't think we have anything else to discuss.
+I guess.
+(PERSON2) Yeah, I I wanted to ask [PERSON7], if he has something on us.
+(PERSON7) Uhm.
+Actually.
+Well actually uh, the what are you working on now, [PERSON2]?
+Because you mentioned that you were working on some some automatic evaluation for for compression?
+Or?
+Is it just or or what?
+Because I don't-
+(PERSON2) No, no, no, no-
+I'm definitely not working on evaluation for compression.
+But uh I just notice that even the even the <other_noise/> COMET uh metric which I though that would be-
+Uh well, I cannot say if it's bad, but I think it's it's highly correlated with (BLEU) for at least for my purposes.
+Uhm.
+Like my purpose is that I have one model and I'm trying different inference um.
+Uh strategies to get it running online, so like logically, I expect that with lower latency, I get lower q- translation quality.
+And I thought that maybe there will be uh larger difference between the uh uh measurements and I thought that maybe the (BLEU) is uh not necessary so good for this task, because the l- lower latency also uh changes the mean- like changes the wording a lot.
+It produces definitely much more words, because when it prematurely commits to something and if it gets more context, then it turns out to be not that well translated, the prefix, which is already committed and it- the model cannot change it, then it usually tries to somehow uh uh fix it.
+With and and for the the for fixing this, you need uh the model needs more more generate more tokens.
+And whilst still, I think that the overall quality sometimes is not that bad.
+But uhm.
+But uhm.
+<other_noise/>
+Uh.
+But uh I I thought that maybe maybe the like v- the drop in (BLEU) was quite huge and I thought that maybe it's not only because the quality dropped a bit, because I thought that just it should drop a bit.
+But the drop was was quite huge for (BLEU) and I thought that maybe if I take the the COMET uh it will be like the differences should be smaller.
+And actually I think they were comparable.
+So.
+But but the problem is that uh the the COMET also needed needs the reference.
+Which of course, it's not a problem for my use case, but still like if you have the reference, then the reference is of course translated uh is optimized for offline translation.
+Because it was done after the after the uh after the talk, so.
+So uh I think that this translation is this reference is not really good reference.
+(PERSON7) And uh.
+Are you sure that there is no reference?
+For COMET?
+Because I think-
+(PERSON2) Yeah yeah there there is uh (reference-free COMET) ad I actually tried that and.
+And what was the result?
+Uhm.
+Like extremely low scores.
+Even for offline (model).
+So it didn't it- well it did not do any difference to the (BLEU) and and because everyone else is sticking to (BLEU) and there is no difference for (comet), I'm sticking for- to (BLEU) as of now.
+(PERSON7) Well, because uh, yeah, so basically, you can cross like.
+So yeah.
+You have like the opposite.
+I'm trying to compress and like your output are actually like longer then, sometimes, right.
+(PERSON2) Yeah, yeah, yeah.
+Because because uh-
+(PERSON7) Because the (fixing) part, yeah.
+(PERSON2) Yeah, like it's it's really like when it has uh short context and because I I I do decisions based on very short context for this very low latency, then it really commits to something that in in for example second or two it figures out oh, well, actually this was bad translation.
+So uh it tries to to to use a different wording.
+To for example a specify the thing.
+So actually I really liked it.
+I I like some of the translations are really really like like I I was really amazed that even though like you could see that the model made mistake uh uh at the first try, but it really like wanted to do like some kind of correction.
+And it definitely (elicit) it sounded uh really fluent.
+Which I think that it's also important.
+You (mainly) if you really demand low latency, then then I think that even like a slightly lower quality is fine, if the fluency is good.
+Because if you have bad qua- translation quality uh and bad fluency, then I think that the reas- the translation is just pointless.
+But if the qua- the lower quality is because uh because just the translation is not uh like just does not like like at the end, if you read everything that you will get the uh like same information, but I th- maybe the wording is just poor, because it used for example more words and and and it like used some corrections and and stuff.
+So like uh- I think that this this this is completely fine for simultaneous as long as it does not like like if you if you don't lose any information. I mean.
+(PERSON7) Mhm.
+And uh or which uh language pairs do you have some this results, like some examples?
+Because I would like to look at it, just out of curiosity, because-
+(PERSON2) Oh definitely, I can I can dump you my my logs.
+(PERSON7) But uh, like in which languages? 
+Because you know I don't speak German.
+(PERSON2) English and German.
+(PERSON7) Yeah, but I don't (necessarily) speak German <laugh/>.
+(PERSON2) Then I can provide English-Chinese and English-Japanese if it helps <laugh/>.
+(PERSON7) <laugh/>
+Okay, so never mind.
+(PERSON2) <laugh/>
+Okay.
+Uh.
+Well I I don't have any other language.
+Which languages do you speak, if we are considering?
+Or well it doesn't make sense to do a different language, because like language of interest for me are all those from IWLST, because then I can claim that I I I beat the results, so <laugh/>
+(PERSON7) Yes, yes.
+Never mind.
+So like I speak Czech, Slovak, French I could understand something.
+Yeah, okay.
+Well, the reason I was asking it is that actually um I found a data set on (??) phase. 
+And it's for it's for com- it's like there are uh compression data set and there are I think like five levels of compression.
+And there are uh they are uh humanly evalua- like annotated.
+Like the quality in terms of grammar I think.
+And in terms of uh fluency.
+Or something like that.
+And so-
+Well, I'm conside-
+I was thinking about you know trying to derive some automatic metric based on this data set, because there is some like human evaluation.
+So, yeah, that's- or if you would like to do something with that, I'm not sure whether it's useful for you.
+I'm like letting you know that there is some data set.
+Like it's.
+(PERSON2) Okay, yeah, l- like first thing I I somehow uh well as of now, as I'm thinking about it, I kind of lost uh- interest to doing uh shorter translations, because actually I think that if you-
+(PERSON7) Longer are better?
+<laugh/>
+(PERSON2) <laugh/>
+Sorry?
+(PERSON7) That longer are better?
+(PERSON2) I mean like longer uhm.
+Like I- maybe it really depends on the user taste, but I think if we want lower latency, then we will probably-
+If we don't want to lose a lot of information, then we need to just generate more more more text.
+And so actually like f- for me, uh like doing high quality shortening means that then we will to have a low- long or large latency.
+(PERSON7) Yeah, I see.
+(PERSON2) So so and and I mean well maybe I I actually don't think that it really has like a good use case.
+And actually I think that the-
+I I I talked about this with someone, maybe it was you or maybe it was Dominik.
+Uhm like I maybe maybe uh the whole shortening thing which what the interpreters do, is they do it because it's not a feature, it's a human uh human uh limitation.
+(PERSON7) <laugh/>
+(PERSON2) I mean we we humans or and and particularly this interpreters we have like limited capacity and we cannot uh say as much as we wanted.
+As as we would like to.
+And and because like the interpreter has to like listen and at the same time, to to speak.
+So he definitely needs to shorter shorten the sentences.
+And actually I think that that this this is something that the computers don't have.
+They can generate like whatever amount of data at one time.
+And they couldn't do it simultaneously to listening.
+So uh actually I think like assuring the lowest latencies is not really by shortening, but rather by by lengthening.
+But not really trying to make the (??) longer, but rather it's like it's like it's also kind of limitation, because when you translate, you need context to translate with properly.
+And because you you don't have the whole sentence, you you don't know the context but but if you like like still want to have low latency, you cannot really wait till the sentence finishes, so you need to consider what's best right now. 
+Translate it and hope for the best that you you matched the translation and then, if you see that oh okay, well maybe I made a mistake.
+So you need to recover.
+And to do the recovery, you need to translate.
+You should just generate more text.
+So so it really depends on like what is our final goal.
+Uhm.
+And and if it's like low latency translation, then actually I think it's fine to generate more.
+Because if you generate l- because if you try to generate less, you will probably lose information.
+And the-
+Well-
+Okay, well maybe there is uh there is a use case I think for shortening.
+Um.
+Or maybe not really shortening, but it's called isometric translation. 
+And the goal of isometric translation is match is to match the length of of the source. 
+And uh I would be like I don't like to (at least) for online, I don't see any use case to for for lengthening because no one really wants to lengthen.
+And and uh-
+Uh yeah like of course it makes sense if you want to for example do offline dubbing, then you first have a video, and then you want to provide the dubbing and you want to match s- the person's like mimic and and lip movement and so stuff then then you want to perfectly match the length of the original speech, but I mean for for a use case when you just want to gather the information from the source, then maybe the shortening actually makes sense, because some languages like like I really I I really watch this series with [PERSON3]-
+(PERSON7) Yeah.
+(PERSON2) And uh he's speaking Russian and I don't speak Russian and so I had to like ch- w- watch the the uh subtitles. 
+And the problem with the with the the Russ- well, with- I mean it's probably not Russian, but it's like a problem of Russian, but problem of the show is that the the pace it's it's extremely d- uh extreme. 
+So so I I was just reading the the subtitles and I really didn't have time to enjoy the show, because all the time I was just reading, because there was lots of text.
+So so maybe for language pairs where the source is is uh more compact and allows for uh large information pa- pace, then maybe we need to uh need to uh shorten it a bit, so uh the user don't have to read so much.
+(PERSON7) So the source the the the input language was like the source language was Russian, and what was the target language?
+(PERSON2) Target language it was English I think or-
+Or Czech-
+(PERSON7) Okay, so-
+(PERSON2) I think, no, I think that it was English.
+But anyway, like i- it was not I mean it was not probably that Russian language is able to produce so many information a second, but it was just problem problem of the show.
+Right.
+Because it was a comedy and they were speaking like relatively fast.
+So so like they produced too many words per second.
+And then it's a problem to read it.
+So maybe then it makes sense to uh like maybe increase the delay a bit.
+And uh while enable me to to like watch the watch the video, like watch watch the actual show.
+So.
+Maybe for that reason, would be would make sense to make at least uh shortage short some kind of shortening.
+(PERSON7) Yeah, but actually, I like uh what you uh what you mentioned, like what you said about uh the isometric uh like languages.
+Because actually, I tried to-
+(PERSON2) Give me a second, I need to take something for drink, because I'm dying.
+(PERSON7) Okay. 
+<laugh/>
+(PERSON2) <laugh/>
+(PERSON1) [PERSON7], what are you working on now?
+I think you're done with IWSLT, right?
+(PERSON7) Yeah.
+I'm done.
+And yeah, I'm in Paris actually now.
+So I I'm here for an internship.
+(PERSON2) I'm sorry, it's extremely hot in here.
+(PERSON1) Yeah, same here.
+(PERSON7) Yeah actually, today here is not so hot.
+(PERSON2) And you have AC in the office?
+(PERSON7) Sorry?
+(PERSON2) Do you have AC? 
+<another_language/>
+(PERSON7) No. 
+(PERSON2) Oh, okay.
+(PERSON7) No, but I have the window open.
+Yeah, today it was raining in the morning, so.
+(PERSON2) Ah.
+(PERSON7) So it's not so-
+But there were some days during the week was so hot, like extremely hot.
+And inside the office, it was like really bad. 
+(PERSON2) Uh.
+Put it to the freezer.
+<laugh/>
+(PERSON7) <laugh/>
+So it was I I answer the question to [PERSON1].
+So I'm working on-
+I'm trying to do like text compression or like not text compression, but like machine translation compression, so that you have input in one language and like make a uh model which shortens the translation.
+So like initial uh idea the initial goal was to to do it for online or for like simultaneous translation, but like uh, well, we are now discussing with [PERSON2] whether it's like useful or not.
+But uh I think that generally I think it's good to think about this, because ik- like besides the use case you you have mentioned [PERSON2], about the isometric languages or but plus I think it's also like interesting to look at how much the length contributes to the to the sentence presentation.
+For example, that-
+Is it-
+How much can you actually compress the sentence?
+You know, the length of the sentence.
+Uh while you preserve the the information.
+And of course it's uh well probably it's not so useful for for simultaneous machine translation and like as we were thinking about this at the beginning.
+But I think that it can be really interesting uh study.
+(PERSON2) Yeah yeah, like I mean not even in theory.
+Well I mean in theory it's extremely interesting.
+Because like I I I almost know don't see any theoretical boundary for the compression ratio.
+Because I think I I maybe like or maybe it's also like language dependent, because I know that for example Germans are really famous for having s- words for lots of things.
+(PERSON7) <laugh/>
+(PERSON1) Yeah.
+<laugh/>
+(PERSON2) And you can like f- something that you would need to use a kind of a description sentence.
+For for some- something, then maybe in in some language, like for example in German, there is there is you have a special word for that.
+So.
+Like.
+For example, Germans have this <another_language/> which is uh like you you are uh you are happy, because someone is doing bad.
+So.
+Like-
+(PERSON7) <laugh/>
+(PERSON2) <laugh/>
+(PERSON1) <laugh/>
+(PERSON2) So <laugh/>, so you see that I think that you can you can like compress compress uh things into into like even one word.
+So <laugh/>.
+So.
+(PERSON1) Yeah, that's interesting with German.
+Because on the other hand, they also have some things (??) like one word in English and in German, it's concatenation of four different words.
+(PERSON2) Oh yeah.
+Uh h-
+(PERSON1) Something like uh hospital or ambulance.
+(PERSON2) Yeah, yeah, it's just two words, it's <another_language/>.
+(PERSON1) Yeah.
+(PERSON2) Like <another_language/> is for for uhm uh illness and <another_language/> is for for car.
+And-
+(PERSON1) Yeah so-
+(PERSON2) For example even this <another_language/> it's uh it's like two words, it's <another_language/>, which is like like uh uhm this uh like this someone is not doing well.
+And <another_language/> it's that happiness.
+<laugh/>
+Uh or or yeah, happiness.
+So so-
+(PERSON1) That's still more or less (words than) what you would do in English.
+I'm not happy-
+(PERSON2) Yeah but ac- actually what what I generally notice that Germans need much more words in general or maybe not words, but definitely letters to to describe the same thing.
+Usually.
+On on average.
+Like if you I I really tried to watch uh movies uh with German uh German uhm dubbing.
+And then, the I I really have problems to follow, because I'm not that good in German.
+But the pace, if they wanted to match English, then the pace is extreme.
+So, so, so.
+Def- definitely like different languages have different pace.
+And then uh I I think that the shortening makes makes uh sense.
+(PERSON1) Yeah.
+(PERSON7) Or like-
+Like uhm language what does this mean, the pace?
+Like when-
+(PERSON2) When you uh like I mean we are talking about something in in like let's say it's a constant pace that we have like some let's say that we're talking one information per unit time.
+And then two two two two like uh reproduce the same information in in different language.
+In this case in in German.
+It just takes it just takes uh more time.
+So so to say like uh let's say you have some sentence in English, uhm.
+I saw a car. 
+Uh.
+Then then for example, a German would say <another_language/>, so so much many words to to same the same information.
+And because I think that well it also probably language-dependent, but I mean in general, you I I guess people are telling the same amount of of uh uh like same speed like our uh like like the the phonemes takes approximately the same in both languages, but you need to say more phonemes in order to say the same information.
+Or more words, more letters, whatever you you you take.
+And and and so then it makes sense to do kind of a shortening.
+You could you could you could use a per example a different uh different uh grammar in in German to to uh to express the past.
+And then you will save one word.
+But it's more unusual to use this short tense in speech.
+In speech they prefer the the past tense which is made up of two words.
+And uh and I think that there are many many such things.
+That where you can save something.
+Or when you have more complex sentence, then you maybe can uh can uh uh read- remove some not that necessary information.
+(PERSON7) Yeah.
+Yeah so-
+(PERSON1) I think with movies it would be much more interesting, we have limited time (??) for a movie like two hours, so even the German dubbing should be two hours, but you (have to say a lot more things).
+(PERSON2) Well it's not just you know about just matching it in two hours, it's also that with dubbing, you want to match the even like like when the uh original uh person is speaking so.
+(PERSON1) Yeah.
+(PERSON2) So then you have to just just speak really quickly and it's really what I notice with the German dubbing of English series or English movies.
+(PERSON1) Mhm.
+(PERSON2) So like the the the pace is then really fast, they talk much more phonemes per second, than they tend to speak usual and then I'm really confused.
+Because I'm non native, so.
+Uh.
+(PERSON7) Uh-
+(PERSON2) So so uh th- this is it definitely has use case.
+But it's not as as we thought as you s- said it correctly, as we thought.
+I don't think that it's useful for online speech translation. 
+I think that for online speech translation, uh you probably uh want as low latency as possible.
+And if you if you need high quality, then you still don't want to do the compression, because then you need quality and you don't care if you read more, but you definitely don't want to lose any information and then you cannot definitely cannot do any shortening.
+(PERSON1) Mhm.
+Yeah I think the last time I heard someone who was shortening was [PERSON6]?
+(PERSON7) Yeah.
+(PERSON1) Is that right-
+(PERSON2) Yeah I I know he did some experiment uh I think that the experiment is describing a (CP) paper.
+Uh.
+(PERSON1) Yeah, I think so.
+(PERSON2) And yeah.
+That's that's but but I right now I'm I'm not interested in doing shortening, so I was before.
+But I'm not anymore.
+Well with the experience and the the realization that actually the low latency model uh should output more than less, <laugh/> because it's actually like it it's really it really should commit to something, like it should output something, because we want really low latency, but then if if you if the guess was bad and the translation is bad, then the model or or the- ideal scenario, it should correct itself.
+Or maybe uh uh to specif- specify the the translation.
+So I most of the time, I when you have like uh I think that this actually happens a lot in the data.
+Because the TED talks are in English and I'm translating to German.
+Then in English, you have subject and and the verb.
+As as usually first two words in the sentence.
+(PERSON1) Yeah.
+(PERSON2) So you are immediately able to translate the whole sen- the whole part, the whole first two words.
+But then, like, the the uh object is when when the model doesn't see the object and it translates, then it n- in German, you can if you if you for example have this past tense and then you have this specific past tense, then you cannot recover and you have to put a comma and and like uh uh subordinate sentence. 
+If you want to recover.
+(PERSON1) Yeah.
+(PERSON2) And for that you need uh to use like that like in translation that, or something like that some some connection between these two sentences to make it more fluent.
+And that's why you are actually translating then more words than than less.
+(PERSON1) Mhm.
+Makes sense. 
+(PERSON2) But this is just one example.
+You could find more I guess.
+Uh then uh as as you you said, these there are these compound words.
+And.
+If uhm and and n- you cannot sometimes uh pro- uh uh translate the same English word, because w- which like one English word can have like many meanings, depending on the context.
+(PERSON1) Yeah.
+(PERSON2) Yeah.
+And and uh for example, in German it might have a different translation in different context.
+And then o- again, if you don't have the context, you first translate to something, that is fo- for example more probable in general. 
+But then if you get the context and then you see okay, I I shouldn't have translated it as this word, but rather as another, then you need to recover from that.
+And then again you need more words.
+So like so I think that like it's a paradox then.
+If yo- if you want to to low latency, you have to actually generate more words.
+(PERSON1) Yeah, yeah.
+(PERSON2) At least at least to be correct.
+So.
+(PERSON1) Yeah.
+<laugh/>
+Oh oh by the way, [PERSON7], uh do you have any idea uh if (??) you would also be organizing IWLTS 2023?
+I'm-
+I'll be helping around (??) with 23, I think.
+(PERSON7) You will be helping?
+(PERSON1) Uh, yes, me and there is also (??) the uh uh ([PERSON8]), I don't know if you heard about that.
+[PERSON8] <unintelligible/>
+(PERSON7) I don't think so. 
+(PERSON1) Yeah, so, she uh (??), so she uh asked me like if I mean if I'm doing it, we can also help organize (??).
+(PERSON7) Mhm.
+Well, actually, I don't know.
+Uh.
+We'll see.
+Well, I don't know.
+<laugh/>
+I don't know.
+(PERSON1) <laugh/>
+Yeah, well, it's too early I guess.
+It starts somewhere in July, August, I don't know.
+August?
+September?
+Like, preparation for the.
+(PERSON7) Yeah, mhm.
+Well.
+Uh.
+Well, I I don't know when it starts in general, but I joined in I think the end of the year, like in the beginning of the year, well uh like in the beg- the beginning of this year.
+(PERSON1) Mhm.
+(PERSON7) Uh.
+(PERSON1) Yeah.
+(PERSON7) Actually I don't know.
+Well we still uh well.
+Cause I I still uh have some some some study which I started and it's not finished yet.
+And well, we used this evaluation uh to uh for IWLSLT.
+And I don't know like, because uh actually I wanted to ask you [PERSON2] as well that uh well or like to mention that uh actually when we I think when we like that uh we know because now you work with uh translation system which is which which is reach- retranslating, right?
+You know.
+It's like uh what what it's committed it just committed and you can't uh change that.
+But actually uh w- well I believe like in [PROJECT1] right, there is a retranslating system.
+Like which uh which (??)- 
+(PERSON1) Yeah.
+(PERSON2) Yeah.
+(PERSON7) So i think that there was the problem that uh uh there was a lot of flicker and a lot of changes a lot of upda- a lot of updates of the subtitles.
+And that was also the reason why uh [PERSON4] uh or like we wanted to uh somehow redo uh-
+Because there was a lot, there were a lot of words which were changing.
+And so well-
+It would be better for the reader if there are less words, so the text is like shorter.
+(PERSON2) Well, like, I-
+(PERSON7) Well, actually-
+I'm not sure whether this is-
+Just one thing.
+I'm not sure whether like retranslating system is is really useful nowadays.
+(PERSON2) No, I I like I I I in general, I I I hate the idea of retranslating systems-
+(PERSON7) <laugh/>
+(PERSON2) Because like I think it's just stupid.
+Because uh often I guess the reader is it's uh not so fast that he can read whatever the system decides to translate every few hundred milliseconds.
+So.
+Like.
+Uh at least when when I I I'm trying to watch like some retranslation system, and I I watch the the one from [PROJECT1] and I think that's like the whole idea of retranslating is stupid, in my opinion.
+Like like sorry, but I I don't I don't see any point in doing retranslating system.
+I think that we should really stick to uh to non non-re- like once committed, you- it is there.
+And uh I actually think that that we should s- we should actually uh try to do and maybe that's next step what I should do is to focus on extreme low latency.
+Like really forcing the model to output every time or almost every time something, but to make it fluent.
+That.
+(PERSON7) Yeah.
+(PERSON2) The model should know oh well, with this more context I I know that I made this mistake, so it should like correct itself in a way uh human tri- human translator would if the human translator would have that much time to think about the mistake.
+(PERSON7) Mhm.
+(PERSON2) So again, I mean to to make it humanly readable with-
+Because because this this flicker flickering that is really annoying and then you like lost l- lose focus on what was actually said, because like I maybe this this is also a question of someone who who knows bet- more about a human brain and how we work with informations, because like I think-
+Sorry, I never thought about it really in in in deep- in depth.
+But I think that whenever I I see a word, like I I like put it into my memory and my memory is not the line- a linear thing, but it's more like a bag.
+So I put a word into bag.
+And and I like connect the the the things in the bag to like get the like overall image of the word.
+And I think that that's the problem with the flicker like.
+If you translate uh m- something and then you change it, then actually I I read it already, it's in my brain.
+And and then I I like w- lose actually focus and and like control what was actually then translated as correct and was not what was not.
+So.
+So that's why I think that the whole flicker thing is not is bad and stupid by definition.
+And it shouldn't should while one should shouldn't do it.
+Like.
+Like I I I I see the motivation, like you want to display everything you have.
+Even though you cannot promise it's good.
+But I think that uh we we uh like cannot work cannot work with this extra information.
+And I think that if you like I think that maybe like the problem is that the uh systems uh are created by by people working with it.
+Like.
+He if if I'm if I'm a developing a system, then I'm really crazy happy if I see that even if if I I don't promise the translation is correct, I I still show it and it's somehow good, but I think that the developer is not really focusing on the content itself.
+And how you- you perceive the content, but rather that, oh yeah, my system can can output it really quickly.
+And like even even though it just guesses the quality is like like okayish, so and I think hat maybe that's the motivation why retranslation was created.
+Just just just the developers of the systems are eager to to display information and I think that because we are limited in in like the volume info- of information we can perceive per per some time, we like like see the extra information is for us just extra burden.
+So we should shouldn't should like like I think that it's not goo- it's not really good to to really show extra. 
+Like if you want to decrease latency, then instead of flicker, just lower the quality.
+I think that's still better than than uh than showing the flicker.
+Because what like like like like what what would be the real use case?
+Why would you need uh to see the uh unstable hypothesis, really?
+Really?
+Like from user perspective?
+(PERSON1) Like technically, when human (translators) (??) when they start translating, I mean the goal even their is for annotators they would uh try to follow the speech string of the original speaker.
+So there are times when they would say something and that would be wrong, so they would just correct itself- correct themselves, so.
+(PERSON2) Well but yeah this mean that what I actually think with uh like my my solution, like you would do not flicker, but you committed it, uh, like there is no way to change, but you correct itself.
+And that's actually what the translators are doing.
+They say it.
+And you cannot unsay thing.
+If you if you're interpreter.
+(PERSON1) Yeah, I mean that's the well that's the whole idea behind speech to speech.
+(PERSON2) Yeah, yeah.
+(PERSON1) And I mean and that's the whole (??) behind speech to speech (??) idea.
+Because uh well, I mean you're (??) every once in a while (??) and since you're already deciding when to speak (??) I guess that's pretty much the the (unresolved) question in speech to speech.
+Because you don't-
+(PERSON2) Yeah, but I think that you just uh like there is no way how to do it without some latency.
+Either you will have well larger latency and higher quality or you will just have lower quality and low- lower latency.
+I think that there is definitely some theoretical or like some some lear real real boundary which you which is not limitation of the technic- (??) limitation of like like it's natural uh law.
+(PERSON1) Yeah.
+(PERSON2) Like you cannot-
+(PERSON7) (??)
+(PERSON2) Well you cannot cannot see into the future.
+And-
+(PERSON1) Yeah.
+(PERSON2) Unless you can, you you never will be able to to uh translate correctly.
+And so I think that live speech to speech might be possible.
+But uh either with increased space where you will uh generate whenever you think that is something is almost certain.
+And then y- you will need to like uh increase the pace because then you need w- then you want to do this corrections for the- for what the interpreters do. 
+So so you will correct yourself.
+So the system will should correct itself.
+And uh but it should be like in some some certain uh boundaries, where it's like you cannot really increase the space I mean two times probably.
+Like I think-
+(PERSON1) Yeah, yeah I mean.
+(PERSON2) That-
+I mean like increasing one and half time it's fine I think.
+In most cases.
+Well it depending on the source speaker of course.
+But I mean-
+(PERSON1) Yeah.
+(PERSON2) For for at least for lectures like I know for myself <laugh/> when I'm watching a video then I'm always watching it on half one and half speed.
+Regardless.
+And and some speakers are able- able to to even on on two times.
+(PERSON1) Yeah, yeah.
+(PERSON2) But they really depends.
+Some some of them is really really unpossible to to (??) through to watch two times speed.
+So, well, and I think that uh.
+Like with retranslation I I think that even if you like (pluck) a TTS into it, it wouldn't work, I I can imagine like it would be it would be extremely unfluent if you like- uh pronounce the the the um like the the uh uh unstable hypotheses and then you will just correct it.
+But you- these corrections would be extremely unnatural because what the translators do, they they build up fluent sentences, right?
+Right, they are gra- they should grammatically correct.
+Maybe they are shortened, take like missing some bits of information.
+But they should be fluent in the in the target language.
+And uh and uh like m- like more or less contains uh it should contains the same information.
+So uh. 
+So I think that for speech to speech, I uh still I think that the only solution how or way how to do it is to do it without res- retranslation.
+Like- (PERSON1) Yeah, yeah.
+(PERSON2) So maybe to to some some somehow find uh a self-balancing system where you uh like where you set a maximum piece, pace of of the of the target audio or target text.
+And uh like I think that the more more more pace you allow, the lower the latency, because then yoiu have like more time to correct yourself.
+(PERSON1) Yeah, yeah.
+(PERSON2) Or or the model has more time to correct itself.
+(PERSON1) Yeah. 
+(PERSON7) Yeah like I think that the idea the idea behind the retranslating is that actually like uhm.
+There is a point where w- you have to guess, right?
+Because you are not sure.
+You are not sure what will be said.
+But you still want to display something, so you make a guess.
+And so if the guess is correct, that it's great.
+If it's not, then there is the flicker.
+I think that the idea was that uh no-
+If these guesses are very often correct, then it could be probably better to display it immediately, not wait. 
+You know.
+(PERSON2) Well, I still I'm still of the (??) when I think here about it (??) it's uhm a really like a problem of ask- of developers that we we are not really trying to like use our models to to uh to uh to like uh a translate a a some speech for example.
+And to get the information from the speech.
+But we are just looking at it at a piece of amazing technology and and.
+(PERSON7) Yeah, well-
+I'm not I'm not defending-
+(PERSON2) <laugh/>
+(PERSON7) Like retranslating or anything.
+Like or I was just wondering that because like I'm not sur- because I don't know like uh uh I just worked on on some like human evaluation so I don't know like what was uh <other_noise/> you know uh because like these retranslating system was uh in [PROJECT1] like two years ago.
+Yeah.
+And I don't know when it was developed, I don't know what state state of the art was back then.
+So.
+Uh.
+Well.
+I agree uh for me personally I think that it's also better to not have uh retranslating.
+Because like uh you you proved that really like uh uh like your model is really good.
+You know like uh when you just takes a different model.
+So I think that nowadays it's-
+Yeah, I agree with you, but I don't know, probably like-
+Do you know like two years ago like four years ago what was the standard of the- what was the-
+(PERSON2) Well I I I actually don't know and I think that the retranslating system is it's a standalone thing.
+And I'm not really sure if anyone is questioning the validity of of this.
+This approach.
+(PERSON1) I guess it would (??).
+(PERSON2) Sorry?
+(PERSON1) I guess it would also have to do how we as humans uh uh are more comfortable with waiting more for confirmed sentence.
+Or just you know.
+So it's it's basically two-fold guessing.
+One is when is machine guessing it and displaying something.
+And then you as a user is watching something.
+<unintelligible/> 
+And then you can also guess that well if previous previous words (??) and it just says this right now.
+So it means that translation (??) something else. 
+(PERSON2) Yeah, but I mean like like I think that it's you cannot say that uhm- retranslating systems are not stable (??) because i don't tink that there is like a question what is the state of the art.
+(PERSON1) Yeah yeah, that's.
+(PERSON2) It just I think it's just a different approach.
+And uh but I think that it's like purely artificial construct.
+That we have a s- w have as developers cre- as developers created.
+And it did not exist before automatic speech translation.
+And I I'm not really sure even if it was ever properly used.
+Because I'm to be honest I like judging by the [PROJECT1], it's not really that useful, right?
+Right, I mean the quality-
+(PERSON1) I guess the idea is from ASR that even if you have (a hypothesis) you display it, and then you self-correct it.
+So it's just-
+Well it's basically for [PROJECT1] to make sense. 
+Because if if you (do live speech to text translation), then you also have a hypothesis which is from ASR, so unless your ASR is confident that uh well.
+Well unless your ASR is giving out the exact thing it's supposed to with very low latency, because you are introducing latency in two places here, one would be ASR, the another is your MT.
+So. 
+If you're updating your ASR hypothesis, then it makes sense to also update your MT hypothesis.
+But yeah.
+If it's not live text like speech to text, yeah it does not make sense to go to retranslation.
+(PERSON2) Yeah I I-
+(PERSON1) Because-
+(PERSON2) Uh uh actually like I think that if actually uh I mean it's it's specifically o- not on the interest to do the retranslation in the live case.
+I think.
+<laugh/>
+(PERSON1) Well, I mean-
+The latency is much higher.
+So uh a-
+(PERSON2) Well but I think that actually uh uh uh I think that like like for the user it's it's in the best interest of the user to to like stick to something even if it's wrong.
+And and try to correct it in a like target language fluent way. 
+So.
+So.
+When the model sees okay okay I did something wrong, then it should say uh okay I think reformulate it.
+Say okay, though I made made mistake something like that.
+And just to correct it.
+Or or maybe the model should uh translate in very uhm safe way that it should translate in very generally.
+So.
+With with reduced context it p- it should produce uh like uh very very general translation.
+And then to specify it with more context for example.
+And although it won't be like precise uh translation from of the source, it will be fluent in the target language.
+And I think that this this is what the translators do.
+(PERSON1) Yeah.
+(PERSON2) They they do not cut off the the the sentence when they they have like better context and and like stop in in the middle of word and say stop.
+And and s- and and restart the sentence but I think that they they finish the sentence and and then try to recover from the mistake which which they did.
+So and I think that this uh is something that the computer should do and so there is no retranslation, there is a one uhm one translation that whenever you output something, it's already committed, there's no way to undoit and you can just correct it-
+(PERSON1) Yeah.
+(PERSON2) Within the target language.
+And I mean that's I think that's the uh that's the uh that should be our goal.
+(PERSON1) Yeah.
+(PERSON2) So actually, um.
+Actually, when when I'm actually thinking about the (??) I think that uhm.
+One should do kind of lengthening.
+(PERSON1) Yeah.
+(PERSON2) Like there would be definitely uh it would be useful to have a system that could uhm- oh yeah, that could uh it doesn't have to be necessary shortening.
+But it should it should be more like uh uh monotonite- monotonization of sentence.
+So you can uh you can take a a a any any uh prefix of the sentence and it should be uh wh- if you if you align the sentences like you write it ah underneath, then if you take any any window then it should be a valid translation.
+And maybe the the the output the target should be even longer.
+But wh- whenever you do the window, it should be it should be valid to translation.
+Or more or less uh I think that's what we want to do. 
+(PERSON1) Yeah.
+(PERSON2) So we definitely don't want to s- necessarily use less words.
+But but we like we want to use as fluent number of words as possible of course.
+We don't want to produce like garbage words in between but but you want to use it in in monotonous way.
+So I that would be ideal, so ev- every time you can you can translate translate the prefix of of the source sentence. 
+(PERSON1) Yeah.
+(PERSON2) And I think that's that that's what would create the lowest latency. 
+And yeah.
+So I think that's the best (??) approach for low latency. 
+(PERSON1) Yeah.
+(PERSON2) And I already saw some work and I think that if you guys can watch the IWSLT this year, then there is a paper, this one that is doing uh this kind of monotonous uh speech translation.
+And (??) even.
+You can actually check the they have made the paper public.
+On archives.
+So if you go to uh IWSLT and there are accepted papers, and you can uh you can Google which papers are on archive and one of them was uh this monotonous translation. 
+And so what they what what what they did is that they uhm <other_noise/> they uh like their translation system uh monotonically translated and and then they had like reordering network which which reordered the the the states. 
+And then there was this output layer which was matching the the reference, so it was the reference of course is (with normal) that they tested is not monotonous.
+So so uh. Like I'm not really sure about the quality of the outputs, but with some by by the authors handpicked uh examples, it looked good. 
+<laugh/>
+So but the idea was to make the translation monotonous. 
+(PERSON1) Yeah.
+Yeah.
+(PERSON7) Okay.
+Uhm.
+(PERSON2) I think, that yeah.
+(PERSON7) I will go.
+Because I- (??)
+(PERSON1) Yeah.
+(PERSON7) I need to finish something, but uh actually, it was a good talk.
+Uh about like-
+(PERSON1) Yeah.
+(PERSON7) Brainstorming.
+<laugh/>
+(PERSON2) Definitely.
+Definitely.
+(PERSON7) (Varied) ideas, so.
+Yeah.
+Uh.
+Yeah, I agree that retranslating system like yeah we should focus on other things.
+I mean (if we want to) (when) we want to uh uh to translate like (more live) speech.
+Uhm. 
+Yeah.
+So.
+Okay, so uh.
+Thank you very much for the discussion.
+(PERSON1) Yeah, thanks.
+(PERSON2) Yeah, thank you.
+(PERSON1) Bye.
+(PERSON2) And see you next week.
+(PERSON7) Yeah yeah.
+(PERSON1) Bye.
+(PERSON2) Bye.
+(PERSON7) Bye bye. 

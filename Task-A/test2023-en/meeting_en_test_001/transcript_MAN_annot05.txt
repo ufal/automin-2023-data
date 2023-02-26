@@ -1,0 +1,921 @@
+(PERSON6) Hi, hello.
+Can you hear me?
+(PERSON2) Yes.
+(PERSON6) I do not hear anyone.
+I have to reconnect again.
+Or maybe can someone else, give it a try as well, because – 
+(PERSON2) I can hear you.
+(PERSON6) [PERSON11], can you say something as well.
+Because with [PERSON2], I remember that [PERSON2] also had some microphone issues at times.
+(PERSON2) And you can hear –
+you cannot hear me or –
+(PERSON6) Yeah. 
+So.
+I'll try to reconnect.
+I'll –
+Yeah –
+So, [PERSON8].
+Hello, can you say something?
+(PERSON8) Oh yeah.
+Hi.
+(PERSON6) Oh, yeah.
+I. 
+I have to reconnect.
+Making [PERSON8] the host, for now.
+Yeah. 
+So, I'll make [PERSON8] the host for now, and I reconnect. 
+Leave meeting.
+(PERSON8) Oh, okay.
+I hear you, by the way.
+Hello.
+(PERSON6) Yeah, yeah.
+Now I can hear it.
+So, for some reason I have always to connect a few times until zoom starts sending also the sound to me.
+So, <laugh/> 
+It's annoying.
+Yeah.
+So.
+I was in a call until the very last minute.
+So, sorry that I didn't remind everybody to– to connect.
+Ah and–
+Ah, I'm happy to see that you are here.
+So, let's start.
+And also my machine crashed in the meantime, so I had to, like, restart it.
+And now it's all, like, starting up.
+So, so, I would like to start, maybe in the other order.
+In the opposite order than last week.
+So, [PERSON7], if you could start.
+You were one of those –
+(PERSON1) So, you want to hear, what did I do?
+(PERSON6) Yeah. Yeah, yeah, yeah.
+(PERSON1) So. 
+The transcripts for check are almost done.
+And one– one transcriber of Germany's working.
+And she wants to do it alone, until December the 10th.
+And my mother is writing the question for the German subti– subtitle user study.
+And she – and she has some progress, and then– then she will move it to the spreadsheet, so we can get, her feedback and– and continue with that.
+And I started to write deliverables.
+(PERSON6) Okay, that's great. 
+Starting to write de–
+That's – 
+That's excellent.
+Ah, I'm hopeful about [PERSON12], but I haven't heard from him back. 
+And he is not on the call either.
+So let's –
+feel free to ping [PERSON12] –
+yourself as well.
+So the more –
+(PERSON8) Okay.
+(PERSON6) The more – the more, we do, the better.
+Great.
+Yeah, then.
+(PERSON1) Can I ask [PERSON11] to do, the transcripts of –
+ by German ASR for the German transcriber.
+(PERSON6) Yeah, yeah, that–
+(PERSON11) So –
+So, I have just added the transcripts for the first 30 parts, and for the next ten parts, it's still running.
+(PERSON1) Okay.
+(PERSON11) But for some folders, for some reason, the audio format is wrong, so, something is wrongly –
+Basically, the big trade, or something is wrong.
+So, some files are still –
+have still weird output. 
+But – but for most folders, it should be already fine.
+(PERSON1) Okay, thanks.
+(PERSON6) Yeah, that's great.
+So, ah, I support this, it's, it's, it's great that, ah, Dá-
+[PERSON7], you have thought of [PERSON11].
+And [PERSON11] now has the time.
+There are other things where I was, thinking of [PERSON11] and that would be training of, empty systems, so that they do the shortening.
+So if you, [PERSON11], had the time.
+Obviously, there is no way we could do it for the next week.
+But we should really have the system – ready for –
+(PERSON11) Mhm.
+I looked at the tutorial from, from, from the NLP was it?
+(PERSON6) For the upcoming sessions and I've asked <unintelligible/> demand because I've seen the (meme) project demo.
+They do offline subtitling.
+So, that's sli– slightly easier than what we do. 
+They still have the same segmentation issues and so on.
+But, their mission translation is doing shortening simply because the data is shortening.
+And that's because their target size, is– are the subtitles which are created for the hearing-impaired.
+So, there is like natural shortening in the data.
+It'd be great if we could also locate some, such type of the data where there is some natural shortening happening.
+We would– wou–
+We would put it in the architecture.
+(PERSON11) Mhm. That's also possible.
+But also, I looked at the, at the –
+Tutorial from the, from the –
+(PERSON6) Yeah, it was <unintelligible/>.
+(PERSON11) Yes, <unintelligible/>.
+ Actually, so –
+So, all of our models, basically work with, with, yeah, sequence to sequence where we just process the entire –
+input sentence.
+And, then, when we have the final, output from, from, from the entire input sentence, we, start, generating, but, the output sentence.
+But, but, actually, so –
+The people from –
+I think, it was <unintelligible/> actually.
+They are doing it, so that they are just processing prefixes.
+So they pre–
+process first key words as they, as they, give them into the input.
+And hen they generate the first word.
+And, and then, basically with every new token that they get.
+They generate, the new – 
+one new token.
+So, basically, it is much faster because you just generate one word at a time.
+And also, I think it –
+It could be quite easy to implement the, shortening in this, in this model as well.
+(PERSON6) Yeah.
+(PERSON11) Because we can just stop generating after some time.
+(PERSON6) Yeah.
+So, it would be shortening because we ran out of time, right? <laugh/> 
+(PERSON11) Yes. 
+So basically we would just, call it like to –
+We would just train it, so that it s–
+Stops generating it after the –
+Some, some time.
+Yeah.
+So, so that could also work.
+(PERSON6)Yeah.
+So they have talked to [PERSON9].
+Or [PERSON9] mentioned it in a call that is, [PERSON3] is not ready, has no, specific things, for speech translation.
+So this  <unintelligible/> and other strategies are no longer <unintelligible/> [PERSON3].
+(PERSON11) Okay, okay, so we would have to implement this.
+(PERSON6)Yeah.
+And there is nobody –
+In Edinburgh, who would have the time to do that.
+So if you would have the time, then you are one possible candidate.
+And we actually don't have any other candidates.
+Where maybe I thought that, that maybe some students of [PERSON1], I do not know if he is on the call already.
+But that is also like very risky and like distant.
+So it would be difficult, but, so that –
+The only other possible candidate would be, [PERSON13], from the [PROJECT1].
+Who, like, works halfway in Prague and halfway in Brno.
+But he is working on other things in [PERSON3].
+So, I don't want to, like, to focus him too, too, much.
+So –
+[PERSON11], Please, think about it.
+If –
+(PERSON11) Okay, okay,bso right now I don't know if it is realistic, because I, I was just looking at the [PERSON3] <unintelligible/> some time ago.
+And, I saw, basically, like, yeah. 
+It's quite like, quite low level.
+It's written in <unintelligible/>.
+So, I don't know how, how hard it will be to change this.
+(PERSON6) Yeah.
+(PERSON11) But if I, I see that it is possible, if I understand what's going on in the code, then, yeah, I –
+(PERSON6) Yeah. 
+(PERSON11) Will like, let you know, based on, yeah, what they thi–
+(PERSON6) Yeah. Thanks.
+So let me check the –
+This is so –
+So poor.
+I would never use –
+So, we have [PERSON2], [PERSON4] and [PERSON8] you here on the call further.
+So now, from all of you, I would like to hear an update for the sessions, for next week.
+So, one thing is the Monday seminar. 
+That should be done very easily, don't bother yourself with that much.
+But I think that [PERSON4] should just like, click, click on s– some buttons and get the get the, vocabulary, expanded for that, right?
+(PERSON4) Well, yes –
+Will work on it tomorrow.
+(PERSON6) Yes, but then a lot of effort is to be put into – the preparation for the two setups.
+Um, for, [PROJECT2] and <unintelligible/>.
+And, [PERSON4] you mentioned that you don't have the webpage for [PROJECT2].
+Is that still true?
+(PERSON4) No.
+I fi– found it.
+And I, I just saw the programme for [PROJECT2], and I was checking the talks.
+And I am trying to, gather the data <unintelligible/>
+the relevant from those parts that are mentioned in the programme.
+(PERSON6) So, could you mer-
+Maybe, per– perhaps –
+Well, oh, you are you away?
+So, you are away the whole Friday?
+Or only at eleven?
+(PERSON4) I'm away from eleven to one. No, ten to twelve.
+(PERSON6)Ten to twelve.
+Okay, so in the afternoon, for example, in the Czech afternoon. 
+You are able to, to do something.
+So, I would suggest if it's not too late for, for issue.
+And I guess it's not.
+That, you could have a Zoom call again with the videos and –
+And to, to have a dry run of some past similar talks to [PROJECT2] talks. 
+And see how uh that system works.
+And, at the same time, we can do the same thing with the <unintelligible/> for example.
+The, the, Supreme Audit talks.
+So they are in the elite, the death set.
+So I will.
+We have the the links, some or else, maybe–
+(PERSON4) I'm, I'm a bit afraid that the <unintelligible/> probably will not be prepared till tomorrow.
+Because tomorrow I will be working on the Monday seminar model as well.
+So I think we can run the dataset for Monday.
+(PERSON6) Yeah, well –
+(PERSON4) Is it too late?
+(PERSON6) The more tests we do, the better.
+So, even if we do the test of, like, the two concurrent subtitlings without domain adaptation, it would be useful test.
+(PERSON4) Okay.
+For sure.
+(PERSON6) So, ah, so, [PERSON8], if you could plan for tomorrow afternoon, so that –
+(PERSON8) Yeah, I'm planning to do that.
+(PERSON6) So there –
+It will be two videos, played concurrently.
+So that actually means that we need you to operate two machines.
+That's another critical thing. <laugh/>
+(PERSON8) I can't op–
+I can operate two machines.
+I have two laptops at home.
+So, I can do that, I guess.
+(PERSON6) Yes, but you need two local machines.
+You need to unit ark, and one more machine with X to go.
+(PERSON8) I can use black bird. 
+(PERSON6) Okay.
+Yeah.
+So Ark and blackbird, right?
+Yeah.
+So tomorrow in the afternoon, should we say, like one or two, Czech time.
+What is better for you?
+(PERSON8) Both is okay with me.
+(PERSON4) Both are good for me.
+(PERSON6) So I suggest that at one.
+Czech time.
+So, like, Zoom Test for –
+Two –
+YouTube videos at the same time.
+So, [PERSON8], would the, two, presentations be ready to paragraph use ready?
+(PERSON8) So I got the access to, <unintelligible/>, my engage, last night, so it was pretty late in India.
+So I didn't set up my account.
+Then, I will complete it today. 
+Basically yesterday, I, worked with all the steps.
+So, it should be easy for me to do that now.
+Oh, it will be done today, I guess.
+Yeah.
+So tomorrow we are going –
+(PERSON6) There is, there is some chance that –
+Ah, yeah.
+So, and [PERSON6] will provide –
+[PERSON8], [PERSON8], setting up, two presentations.
+So, and [PERSON4], [PERSON4] has been working on adaptation, for the two domains.
+[PERSON8] setting up to online text –
+To paragraph setting.
+On (quest plus) virtual machines, behind.
+And then, Friday, test time for two concurrent sessions.
+So it will be arc plus blackbird.
+One will follow (saw) video, one will follow.
+I will say CL video.
+So [PERSON4], if you put, could put a link here.
+Please add a link –
+[PERSON4] –
+And, I will put a link, [PERSON6] will put a link here.
+Yeah, so this will be the two videos.
+We will start them, and we will watch that.
+The pipeline will be probably the very same.
+But still, you should like, have it as two separate pipelines.
+And you must not mess it up. <laugh/>
+And later.
+Ah, like later Friday, or on, in, on Monday.
+Ah, the models will be updated with the, with the domain elected ones.
+(PERSON4) Yeah.
+(PERSON6) So, on Friday, use –
+Two separate pipelines, but each running actually the same thing.
+Update the – each of the pipelines –
+Each of the pipelines on Monday for the two different domain adaptations.
+Yeah, so that is, that.
+And I'm curious about the evaluation, the scores, so [PERSON8], you have mentioned that you are already doing some ASR.
+(PERSON8) Yeah, so, I am compiling some days, are tasked for that.
+But I am, facing some issues.
+It's basically that some videos are not, are not, some videos are not <unintelligible/> properly into a 16 cave format.
+So I'm looking into that.
+So [PERSON10] told me yesterday that there are some issues with some audio, and I have to do that manually if that does not happen.
+(PERSON6) Yeah.
+So, this is essential–
+This should be –
+We should, we all should know like how to do it.
+It should be part of the automatic evaluation of a leader test set, right?
+(PERSON8) It is, yeah, it is.
+(PERSON6) That is, that is not working properly.
+(PERSON8) Yeah.
+But there are some audio files, where it, it gets converted to, the MP3 format.
+But when you pass it to the (sound) system, or the (sound) system will not work on that.
+(PERSON6) Mhm.
+So this is this is strange.
+Ah, issues with some files –
+With the –
+The 16 c– format, converted from so –
+Yeah, [PERSON8], seek for any help you can get.
+If [PERSON10] can do that, then, please tell [PERSON10] to do it.
+(PERSON8) Yeah, he is here with me, to do do it.
+So I am doing it today, but –
+(PERSON6) Yeah – 
+(PERSON8) That, that takes a bit of time, because I need to figure out which one is the one which is are getting passes where they <unintelligible/>. 
+So once I know that I can keep a track of it, so, for future –
+Or actually, for future I would not.
+Would not need it, because once I have the web be file, I probably won't, won't need to do convert.
+(PERSON6) Well, this, this should be actually –
+Can you still hear me?
+The sound quality is a little worse.
+So this should really be done, all the time.
+So every time we run this evaluation, it should be, run from scratch.
+So, every time, there should be a fresh download of a <unintelligible/> and fresh conversion and a fresh evaluation.
+(PERSON8) Yeah.
+But still, if I am keeping track of the files, which, are – need to be manually converted, so that I can write a script, and it could take care of at least the known ones.
+And of course, if we add some new files, I can see for that later.
+(PERSON6) Yeah.
+So this is an important thing that we should have, like come across, or it is, a months ago.
+Remember, it is, is– since August that I've been telling you that, that we want to evaluate on a later test set.
+And, like every time, you, you all.
+It is not just you, you personally, [PERSON8].
+There were other things, obviously.
+But like, every time, you thought about that, you thought that, well, this will be easy.
+We will just run it.
+And only when you actually do it, you will see all the problems.
+So this is known, common.
+It is always like that.
+So that's a message for everybody. 
+Before you try, you never know what would be the the problem.
+So for example, the call that I had, that, there was, someone was interviewing me so they, they, they wanted to record the video.
+Zoom never worked as badly for me as it, as it was today for the recording.
+So before you do, you cannot say whether it will work or, or not.
+And here we are running on the, in the problems of conversion, of the, of the file formats.
+So hopefully, we will be able to, like, quickly get the numbers.
+So do you have any word error rates so far?
+(PERSON8) No, I have not processed it.
+So [PERSON1] said that, once, they get the transcript, we will done it together.
+Because he also has not thoroughly <unintelligible/> the system.
+So he wanted to do it together.
+(PERSON6) Yeah, ye–
+And you have the –
+(PERSON8) And I'll have a call with –
+(PERSON6) Today.
+(PERSON8) Yes.
+(PERSON6) Yes, that is very important.
+So [PERSON1] is going to be extremely busy, because he is organising some event, tomorrow and over the weekend.
+So we, we must not rely on [PERSON1], so today is your last chance to get it running before the, the weekend.
+And then only from Monday onwards, probably he, he could help.
+So that is that thing.
+(PERSON8) Yeah.
+(PERSON6) Than maybe, have also [PERSON10] on that call with [PERSON1]?
+Is that planned that way?
+(PERSON8) Um, not right now.
+I will ask [PERSON10] if he is available.
+(PERSON6) Please do.
+And, who else could be of any help there?
+So, my only thinking, is of [PERSON11] who was able to simply come by and help immediately.
+(PERSON8) Well, in this –
+I do not think anything will be, any –
+I don't know.
+For now, there are like a lot of things to run, but I'm also simplifying everything, so that, ah, we won't have –
+I think –
+(PERSON6) Yeah, okay.
+Yeah, so let's hope it will all work out.
+So, as soon as you have any numbers, please send them to me.
+Just, regardless how low or high the numbers are, this –
+Just receiving the numbers will be a big relief for me.
+(PERSON8) I will, at least for –
+I, at least for <unintelligible/> , I will send you the numbers today.
+Yeah, so for for which data set, the –
+(PERSON8) It is a khanic admitted, that, it is the <unintelligible/> 2020, it's part of that.
+(PERSON6) Khan, Khan Academy?
+Ok, it is just –
+I mispronounced it.
+So probably, you know the correct pronunciation, and I do not recognise it.
+Yeah.
+So there is these (saw) files.
+And these are more important, because they reflect the domain that we have for the SG1 meeting.
+And there is the money dogs, and these are important for the, SL domain.
+(PERSON8) Yes, oh, okay, so, I, I, I will all the three.
+(PERSON6) Yeah, okay, great.
+Yeah.
+And, so, I know that [PERSON4] is working on the adaptation for the two domains.
+We'll do a Monday seminar, tomorrow, that we will like, one (shot) think.
+And, I'm very curious.
+So, [PERSON4], are you taking a part in that call, with [PERSON1] as well?
+(PERSON4) No.
+(PERSON6) I think it is a, I think you – you also should, because, you should also evaluate, the –
+So, I'm hoping that you will be able to have the multiple custom dictionaries in the, our system.
+The dictionaries that come from [PERSON2], and that you will choose, which is the best, one. 
+That you will have some numbers to, to choose – which of the ASR systems should be used.
+Which of the vocabulary should be used.
+And for that you need the evaluation.
+So, whatever you see by, shown by [PERSON1], will be also useful for you.
+Unless you already know how to run SLTF.
+(PERSON4) No, I don't know yet.
+And, so, I think there are some things to discuss about the, the multiple dictionaries.
+I received your email yesterday with, the thing I was –
+I mentioned in the mail, that the (ASR) system without using people's pronunciation was better than the one used with people's generated pronunciations.
+(PERSON6) So, so, sorry, say it again, and be more precise.
+So [PERSON2] sent this email with the four words, the Watson, IBM –
+(PERSON4) Yes.
+So this <unintelligible/> was.
+So, I sent the, files to [PERSON2], three (kinds) of IBM and three (kinds) of Watson.
+(PERSON6) Yeah.
+So he sent me, the phonemes spoken in those files.
+(PERSON6) Yeah.
+(PERSON4) And so, since his model works on some ESL.
+And so he first recognised the words in the audio file, and then converted into phonemes and then sent it to me.
+(PERSON6) Yeah.
+(PERSON4) So there was –
+For example, there was one file in which the word was for IBM.
+And so –
+The ESL decoded it, as I think, four IBM, and so the phonemes were <unintelligible/>.
+So in this way, he sent me the phonemes, and I added those pronunciations in my dictionary.
+And so the performance of de– description was exactly the same with the – without adding these pronunciations in their dictionaries.
+And the one, domain adaptation model, that I developed with my manual, pronunciations.
+The perform is slightly better than, these models.
+(PERSON6) Okay, yeah.
+Yeah, well, this is too small of a sample.
+And then I know that – [PERSON2] produced, the long, word list, right?
+And you have not tested that one yet.
+(PERSON4) Yes, there is, there is a phoneme to grapheme list. 
+(PERSON6) Yes.
+(PERSON4) I do not –
+So, or I'm confused.
+How can I use it as it is?
+I think, that can be used by developing for some model, from forming the graphic model and then using it.
+(PERSON6) No, no, no.
+This is –
+This is exactly what you did with the Watson.
+So, you just swap the columns.
+(PERSON4) Okay, okay.
+(PERSON6) So you just convert the, the international phonetic alphabet into the phonemes, that, that CMU knows.
+(PERSON4) So it means that, that the list should contain Watson.
+(PERSON6) Well, I don't know if the list contains Watson, but it's –
+(PERSON4) <unintelligible/>
+But I mean, it assumed that the list should contain our words –
+(PERSON6) Yes.
+Yeah, yeah.
+And then, I agree that there is a lot of noise in this dictionary.
+So, the thing that I asked for, is that you would have various versions of this dictionary by taking only the words that were observed, five times.
+And only the pronunciations that were observed three times or more, or something like that.
+So, that way, these random errors, such as the example with this four IBM instead of IBM.
+This will be not so frequent.
+But still, you will have the variants in pronunciation, because if the person, says this alzo, if you remember, if he says this alzo with Z 20 times in the in the talk, then you will see that in the data with the Z.
+And if he sometimes manages to say correctly also, then yeah, again, you will see that in the data.
+So, I would like, [PERSON4] to be in touch with [PERSON2].
+Maybe you continue on call, right?
+I have to –
+I, I will have to leave now, because I need to give the kids, the, the, the lunch and so on.
+But please stay on this call and figure out jointly how to use that dictionary.
+So [PERSON4], please show to [PERSON2] what is the dictionary that the system is accepting.
+Share your screen, and, and show it.
+And [PERSON2], please, have a look at that and help with converting the dictionary that you emitted to that file.
+One thing that will be still needed, is the, language model substitute.
+But all these words, should be like the known words.
+So [PERSON4], you need to figure out what words are in the – in the language model.
+And the words which are in the language model, should be simply copied.
+So the, the dictionary will have three columns.
+The grapheme, as it is output.
+One recognised.
+The phonemes, as [PERSON2] proposed.
+And there will be multiple lines with different phoneme variations.
+And the third column, that will be also the same again for all of those, and there will be, again, the same grapheme form.
+So that is when the language model sees.
+And I think that this way, the– these systems should be able to load it.
+And you will also possibly run into one more problem, that is not ready for two big custom dictionaries.
+So this is also something that has to be tested, but please test it, the you two together.
+So [PERSON2] knows what he created in the dictionary.
+And you know what the dictionary looks like, when you are creating it manually, and you need to put these two knowledges– 
+<laugh/>
+Pieces of knowledge together.
+Ah, so that it works with the, with the generated dictionary.
+(PERSON4) Okay, okay.
+(PERSON6) So [PERSON2], does this make sense?
+(PERSON2) Yeah, sure, we'll discuss it.
+(PERSON6) Yeah, so is there anything else, [PERSON2], that you – that you have?
+(PERSON2) Well, maybe, maybe interesting information for Dominik.
+I'm finishing training of a German ASR that may be used for, for time stamping.
+I'm not sure, how, good it will be because I'm trying to do it on (Libry) Speech.
+And although, when I was downloading, it, they claimed it has more than 600 hours.
+But then the training said that the actual training set contains only around 300 hours.
+And I'm still not sure whether this 300 hours does not contain, similar sentences.
+Or actually the same sentences, but spoken by, by, by different speakers.
+Yeah, so it's, it is, because, well –
+For example, in English or Czech I was used to, used to observe more steep conversions.
+And now it – now it, won't convert so fast.
+So, if, if I'm a –
+I, take, some samples of – during the training.
+Then there are some, still some, serious errors in the ASR output.
+So, so, maybe, I'm, I'm hopeful that for, for the time stamping, it is good enough.
+Or at least we, we might try it.
+(PERSON1) Okay, sure.
+And is it possible to enrich the language model by texts, because we have lots of relevant texts from your parliament.
+(PERSON2) Oh well, for, for the decoding.
+I, my views also language model. 
+Well, it depends on what we want to do.
+If we want to just infer like, like (open) transcripts, then we can, we can use the language model.
+And we can, we can also get, get the time stamps for, for, for the transcript.
+If, if you have transcript, and we want just, want to do just a time stamping then there is no way how we can use the language model.
+(PERSON1) Yes, I –
+We may need both.
+Transcripts for <unintelligible/> set.
+Or, I mean, forced alignment for the (fantast) set.
+And then reco–
+Recognition for, for the rest.
+For around a 100 hours.
+(PERSON2) Well, there are for the recognition, there is possibility to use language model.
+(PERSON1) Yeah.
+(PERSON6) Yeah, thanks for the progress.
+Please discuss this separately.
+I just – because I really have to leave.
+I would like [PERSON4] to stay on the call with [PERSON2], right?
+And discuss how to use the dictionary.
+And I see [PERSON10] here.
+So [PERSON10], how much time do you have in the coming days?
+(PERSON10) It actually depends on what day are we asking, like, I have some presentations to make an assignments are piling up.
+(PERSON6) Yeah.
+So, well there is a lot of things that [PERSON8] needs to do.
+And I think it would be good if you two would like split it among yourselves so that [PERSON8] can manage that in time.
+So there is this, the scoring, some meeting with [PERSON1] this afternoon.
+So I think you should really join that as well.
+(PERSON10) Okay –[PERSON4]
+(PERSON6) Because this is the numbers that we want to obtain for the different models.
+And then [PERSON8] needs to prepare to have the double system running.
+We will do first test of this tomorrow at 1 Prague time.
+So I think that if you, [PERSON10], focused more on getting the numbers, and [PERSON8] focus more on getting these systems running, then it would –
+Then we will reach the the goals.
+(PERSON10) Okay, makes sense, all right.
+(PERSON6) So please discuss this separately to find the time, I don't know the meeting time for, with [PERSON1].
+And, yeah –
+But I really want to see the numbers.
+So I would like to have the ASR numbers, today.
+And improved numbers on Monday, when [PERSON4] has the domain adaptation for those.
+And then we will, on Monday, decide which of the models to use.
+And we can still move Monday to Tuesday, but Tuesday is already the [PROJECT2] day.
+So the, the CL decision really has to happen on Monday.
+And we need at least two numbers to compare <laugh/>.
+So, get one number the baselines now and the – the improved on Monday.
+(PERSON10) Okay, okay.
+(PERSON6) Okay, so I'm leaving at the moment.
+And if it, asks me to know.
+Now, [PERSON8] is the host, so that is that is good.
+As long as the [PERSON8] is on the call –
+Like you, the call can run.
+So please, [PERSON4] and [PERSON2], synchronise and [PERSON10] follow that as well.
+And [PERSON8], and you synchronise –
+And get the numbers and send any numbers to me today.
+So as, as a baseline.
+So thanks and sorry for taking more time.
+And fingers crossed for – for all the, for these tests.
+Thanks.
+All right.
+(PERSON8) [PERSON10], I'll send you a text on Slack later or –
+(PERSON10) Yes.
+(PERSON8) So later today.
+Because, I was mentioned by you on the call, call yesterday, or the day before yesterday.
+I tried processing it but I think some of the files, even in khanic (terminators) are, are (those) files, which doesn't get converted into 16 <unintelligible/> format pretty easily.
+(PERSON10) Okay, that is not, not a big issue.
+But I'll take care of it again.
+So, are we discussing anything else? 
+I would stay in the call but I see silence, so –
+(PERSON7) By the way, what do you want compare, [PERSON8]?
+All the workers and their quality and latency?
+(PERSON8) actually mostly about the –
+It is basically about the error rates in (multitranslation) and the ASR?
+(PERSON1) Yes, I think we have only one option for ASR, don't we?
+Only one ASR, or there are two?
+(PERSON8) Sorry?
+(PERSON1) How many ASR workers do we have?
+(PERSON8) Right now.
+One is from (K80).
+One is what we use for our Monday Seminars.
+That's two.
+Ah, even with (K80), we have two.
+Ah, one is the (nearest) one – 
+(PERSON1) Okay.
+(PERSON8) Sequence to sequence, the other one is a normal one.
+(PERSON1) Yeah.
+(PERSON8) And in the Monday Seminar one, [PERSON4] is going, do the <unintelligible/> adaptation.
+For –
+For – both the different tasks.
+And, finally, on Monday, we'll see, or which model performs best.
+(PERSON1) Yes.
+When I did the comparison of the workers for <unintelligible/> SLT.
+Then I observed that, that there are no big differences in machine translation parts.
+But the, the bottleneck in quality, was the ASR quality.
+So you may select the best ASR worker in quality.
+And then, then, then pick the (MT) worker with the lowest latency and, and some good flicker.
+And latency and flicker may test quite, quite easily, on one document.
+And not, not, on the whole test set.
+(PERSON8) Yes.
+(PERSON10) I also –
+During the month of August, we also had numbers for the (MT) models.
+Where –
+What do I say, the rainbow (MT) models.
+Scores were better than our, our –
+I think, yeah, maybe <unintelligible/> or [PERSON11] –
+(PERSON8) It was [PERSON3].
+(PERSON10) You just, <unintelligible/> [PERSON3]?
+(PERSON8) Think so.
+(PERSON10) I'm not sure.
+No, I, you –
+I think you were not there, at that moment so –
+You may not know about it.
+(PERSON8) I have the school so –
+(PERSON10) Okay, you have this (course), so –
+So –
+Actually, [PERSON5] compared this course between –
+I think, it was rainbow and, summer set of workers.
+And rainbows set – a set of  rainbow workers were better.
+I think it was [PERSON11]'s, two, 43 to 43 languages.
+And that were kind of –
+They had like little lesser scores, I mean –
+Rainbow workers had better scores, in, in short, yeah.
+(PERSON8) Okay, basically.
+What on the remission on the call is divorced to use individual translation workers.
+You can see if they are performing better.
+So uh if not, then obviously we can fall back to, to the rainbow.
+(PERSON8) Okay, so I'll make [PERSON4] the host now, because I will go and have my lunch.
+It is pretty late here, and I did had my lunch.
+(PERSON4) <unintelligible/>
+(PERSON10) Thank you, bye, bye. 
+And text me on Slack in the weekend.
+(PERSON1) Yeah, bye.
+(PERSON11) Okay, [PERSON7].
+Okay, I am –
+(PERSON8) Bye.
+(PERSON11) I am just – trying to commit it.
+But – so okay.
+I have it in the good format now, but I just – because I'm just checking the folders.
+And for some folders, the output is like totally terrible.
+I don't know why is this.
+(PERSON1) Okay.
+(PERSON11) But for some folders, it is okay, for some it's terrible.
+Like all the words are some, just –
+(PERSON1) It may be caused by the speaker.
+Maybe he doesn't speak clearly for the ASR.
+(PERSON11) Because, like, it is just like the, most common words in the language, I would say, which are, which are recognised over and over.
+Like half of the world is like (aber).
+(PERSON1) <laugh/>
+Yeah.
+It may happen.
+Maybe you can, if you want to inspect it, then listen to the to the, to the source audio, and you will see.
+This is yeah, and it.
+(PERSON11) Yeah, I'm trying to do this, yes.
+(PERSON1) And it doesn't matter if, if we miss some, some, me of them.
+And the annotator will –
+Can and filter them out, by herself.
+We can keep them there –
+(PERSON11) Because like for the first files it worked.
+And now I have files with (Czech) names.
+And fo– for this, it is working quite bad.
+So, yeah, it could be this.
+(PERSON1) Yeah. 
+(PERSON11) I'm just going to check it once more, and then I will push it.
+(PERSON1) Great.
+And it will be good to commit or to save the, to –
+(PERSON11) <unintelligible/>
+I'd say it's probably not the speaker, but it's the files, because often for the files.
+Like when I converted them even to the right format.
+It just told me like (FFMPEG) again told me that, that there were wrong time stamps in the file, whatever that means.
+And basically, the – so – the yes –
+So, so I, I now see that the transcripts for, for these files are – don't have the right length.
+So they were processed incorrectly.
+And I'm not sure how, how to convert them properly, because (FFMPEG) just returns an error for those files, so –
+Yeah, but it does not support the format, actually.
+(PERSON1) You may try (sox).
+(PERSON11) Yeah, but it doesn't support the format, actually.
+(PERSON1) Which for– format, is it? (OGG)?
+(PERSON11) It is–
+Yes, it's actually O–
+Ah, wait.
+Then it should –
+I don't know why I didn't.
+I will try it once more.
+Okay, yeah, I will, I will.
+Then I really use (soxi), okay.
+I don't know what was actually the problem.
+Okay, yeah.
+Because, because for most of the folders that I transcribed later, there's this problem, that basically –
+The length is incorrect.
+Oh, okay, so I will change this to (soxi)?
+And actually, how many, how many work– workers can I run in parallel on CPU?
+Is it like – can I run, let's say 100?
+(PERSON1) On, on one machine, or?
+(PERSON11) I don't know, like on anywhere.
+(PERSON1) Or in (Q) to (F), you can run 100.
+(PERSON11) Okay, be- because right now –
+(PERSON1) <unintelligible/> or –
+(PERSON11) Yeah.
+Because I think that right now the best way is to throw away everything and to run everything in parallel, so that like in one hour everything would be done.
+(PERSON1) Yes.
+No, no, no, no problem.
+(PERSON11) Because, because like now, I think for m– maybe half of the files it would be, you know, like totally wrong.
+And that would like confuse everyone, a- and I can't really find which files it is, be–
+(PERSON1) Yes.
+(PERSON11) Because it's a lot of files.
+So I would have to open everything now, or <unintelligible/>.
+(PERSON1) Yeah.
+(PERSON11) So maybe I'll just change the converting –
+Okay.
+(PERSON1) And the converting command is called sox.
+S, O, X.
+S, O, X, I is another commanded.
+It gives you only information.
+And you may google of the format of the conversion– for the conversion.
+(PERSON11) Sorry.
+I accidentally refreshed –
+Okay, I will try it for one file if it works better.
+For this guy called (strejček).
+(PERSON1) [PERSON2], are you still here?
+(PERSON2) Yeah
+(PERSON1) And how much time do you have to work on the German ASR? Can we –
+Can we, or should we go forward with the language models to process the interpreters?
+(PERSON2) Like you would like to train a language model. 
+(PERSON1) Yes or –
+(PERSON2) well –
+ I am – continuously saving checkpoints so I can already run the ASR.
+So if you provide me a la– language model, then I –
+(PERSON1) I can only provide you the texts.
+The monolingual German text.
+The –
+In the European domain.
+And so it will be in domain.
+And then I hope there will be good quality for the recognition.
+(PERSON2) Well, one more thing.
+My ASR is – lowercase.
+is it okay for you?
+(PERSON1) Yes.
+(PERSON2) Okay. 
+And without punctuation also.
+(PERSON1) Yes, we don't –
+(PERSON2) Okay.
+(PERSON1) We don't care, so far.
+(PERSON2) Right.
+Then you can provide me with it.
+I'm not sure whether I, I, get it done by today, but –
+(PERSON1) No problem.
+(PERSON2) Tomorrow, I think it could be done.
+(PERSON1) Yeah. 
+(PERSON11) Okay, yeah, one more thing.
+So I figured out that actually, in the – in some of the files, there is –
+You don't just hear the interpreter, but you also hear the person saying something in English in the background.
+So maybe that could also be the problem.
+The speaking of the wrong person, actually.
+(PERSON1) Yeah, only – only at the beginning or during the whole –
+(PERSON11) Everywhere.
+That is the thing, everywhere.
+(PERSON1) Yeah.
+(PERSON11) But, so, if it does work now, then okay.
+If it doesn't work, then I can apply some kind of filter to cut off the –
+This effort with with low volume, maybe.
+(PERSON1) It's, it's okay or –
+(PERSON11) Okay, I will just try how it works.
+(PERSON1) Or we can ask the, the annotator, whether the transcription work helped, to spare the – her time.
+And, if she says that not, even when the quality is good, then, then we don't need to care much about the rest.
+(PERSON11) Okay.
+(PERSON1) And we are the focus on [PERSON2]'s high quality on, on the others. 
+(PERSON4) [PERSON2], we may discuss now?
+(PERSON2) Fine.
+(PERSON4) Now, we discuss, no?
+Or some thi– <unintelligible/>, [PERSON7]?
+(PERSON1) No, I, I think we are done.
+I will send an email to [PERSON2].
+(PERSON4) Okay, thank you.
+(PERSON1) And I may disconnect this call.
+So see you.
+(PERSON2) Bye.
+(PERSON4) So, if I am sharing my screen, just a minute.
+ I think can you see my screen?
+(PERSON2) Yes.
+(PERSON4) So, actually, this is the format of dictionary that is used by the ASR. 
+And, the, so first one is the word.
+And the next is the pronunciation of the word and – 
+(PERSON2) And –
+This, this (curly) brackets, wha–
+(PERSON4) I actually do not know why is this here.
+But there are the (curly) brackets around the pronunciation and be (curly) brackets around first and the last phoneme WB in there.
+(PERSON2) And, and that some special mark, or, or –
+(PERSON4) Which one?
+(PERSON2) The WB.
+(PERSON4) Yes, this is, this is, I don't know.
+Probably the, the requirement of the two kit.
+So it is WB for all the words.
+(PERSON2) Okay, okay.
+(PERSON4) It is the right before starting and ending phoneme.
+And even if – this is not there, I think it is not a big issue for me to append.
+But the problem is, so this is the, CMU dictionary.
+And it is actually, is in at public format.
+So I think you can find that, over, on Wikipedia, as well.
+By this alphabet.
+(PERSON2) Yeah.
+So it appeared to two, two letter.
+<unintelligible/> is also available on there.
+And I – there is a – I under–
+They found a package of our language, which, which automatically converts the IP to alphabet the other way around.
+So that can be converted easily but the problem is, that, there a– phonemes, there are some IP formats that are not in alphabet.
+Just let–
+This –
+I couldn't –
+(PERSON2) Okay.
+(PERSON4) That wasn't converted by s–
+This is the email window.
+And so, there was - were some phonemes that were not converted into the alphabet phonemes. 
+And, so, I am afraid that when I will be processing this list of graph–
+List of graphemes to phonemes, so probably there will be some issues regarding the, such phonemes.
+So if –
+I can share the other package with you, if, if you are familiar with that.
+It is very easy to use.
+Various manual is also available for that package, so –
+You can use that package as well. 
+Or in any way, if you would convert these – this IPA a into alphabet phonemes that would be great for me.
+Is it possible?
+(PERSON2) I can, take a look, at the –
+Well, I have a – 
+Send you some link once.
+But I'm not sure where it was.
+Was it done –
+It was on (Skype), I guess. 
+I found some dictionary.
+(PERSON4) Is it –
+But I think –
+(PERSON2) CMU to IPI and –
+Well, this strange A, you mentioned.
+Can you copy the, the, the letter to chat please?
+(PERSON4)  And just let me –
+(PERSON2) There it is.
+(PERSON4) There was another, as well, but I –
+I don't remember with one it was exactly.
+(PERSON4) Se– send another one.
+(PERSON2) It seems that, there is no –
+Well, maybe we could replace this phoneme with some other one.
+Because actually, we want t, we want to – produce some a– variable pronunciation. 
+So actually, actually.
+It's okay if we substitute, substitute it.
+I don't know how to copy this, but, if–
+There is some nice chart in, in Wikipedia, that shows you the nearest, nearest phonemes to this one. 
+And the nearest one are, for example. you did – the link.
+These two or this one.
+These three, so we can, just, so we can just, copy.
+We can just substitute each word with this phoneme.
+With two other words, with both, or, or three other versions of that word with using these three, this three phonemes?
+(PERSON4) Can you share the link of Wikipedia please?
+Because I think there may be some further phonemes problems.
+So you with that I would be okay.
+(PERSON2) If you go to the vowels paragraph, then there is some mapping or some map of how, which phonemes are actually near, and which are more, far apart.
+(PERSON4) Are you talking about this chart?
+(PERSON2) Can you open it in your window, because I'm still seeing your (common line).
+Yeah, yeah, this one.
+Yeah.
+(PERSON4) I don't know the pronunciation of any of this.
+(PERSON2) Sorry?
+(PERSON4) I don't know the pronunciation of any of these vowels.
+So are they actually near when they are spoken, or?
+(PERSON2) I, I guess that they are so –
+If – no – just open them.
+There should be some –
+There should be some examples.
+For example, for the open-mid, the central open-mid, the first, first IPA phoneme.
+If if you click on it, then, for example, it's not bird like bird.
+Like the flying, flying animal, a bird.
+And there's this example.
+And if we go for, for, for the letter, we do not have in in CMU.
+And there is an example like a nut, nut, bird, nut.
+Or –
+(PERSON4) That's right, <unintelligible/>
+I will see it then –
+(PERSON2) Or maybe –
+And it's in which word in our dictionary?
+It is in –
+Where it is?
+I am blind.
+Where did you find this?
+This rotated A.
+(PERSON4) I think –
+It is IPM, it is m.
+I think the better example is this third E in Watson.
+(PERSON2) I do not see it there.
+(PERSON4) It's, it's –
+(PERSON2) It's the E.
+(PERSON4) Yes, it is a Watson, son and som here.
+Well, I guess that's quite near.
+M and en, what son.
+Maybe, I'm well somehow, if you pronounce it and pronounce it incorrectly.
+Well, Sorry, sure I need to go, because I have another meeting.
+And I. I need to prepare myself.
+So  please, please.
+Um, let us have a call tomorrow, have, have –
+Are you free, free tomorrow?
+I'm.
+For example, let's say, Where is my calendar?
+(PERSON4) I think probably it will be difficult to have a call tomorrow.
+I will let you know an email or Slack, because tomorrow I am off for Friday prayer on Friday for 10 to 12.
+And then we have a test run with [PERSON8] that we were discussing.
+(PERSON2) Okay, yeah, sure.
+(PERSON4) I think it will be difficult tomorrow.
+(PERSON2) Let's just –
+Please just a write me what do you need from me, if you need from me to, to remap my dictionary to CMU, well, I can definitely do that.
+So is it what you need?
+(PERSON4)  Yes, if, if that can be done, it would be very great. 
+Because I can do that, but I'm <unintelligible/> too many adaptation models.
+And so if you have time and you are not too busy.
+So, if you have time and you are not too busy, it would be great if you can do it.
+(PERSON2) Well, okay, I can do that.
+(PERSON4) If you could just convert this list into the CMU phonemes.
+So that, that would be IPA rather than (IP).
+There will be the phonemes of alphabet.
+(PERSON2) Sorry, once again, please?
+(PERSON4) I'm saying that if you could just change these IPS to the alphabet phonemes, that would be great.
+(PERSON2) To the <unintelligible/>, you mean?
+(PERSON4) Yeah.
+(PERSON2) Yeah, sure. 
+Sure thing, okay.
+I will, will be in touch with you, probably tomorrow.
+Bye.
+(PERSON4) Thank you, bye.
+[PERSON11], can I just end  the meeting?

@@ -1,0 +1,949 @@
+(PERSON17) Hi, can you hear me?
+<unintelligible/> anyone yet?
+(PERSON14) Hi, yes, we can hear you. 
+(PERSON17) Yea, that's good.
+Ehm, so I'm curious if [PERSON8] is here.
+We don't have [PERSON8]
+Okay, that's too bad.
+Ehm, but we have [PERSON2] ehm that's good and we have [PERSON11], [PERSON6], eh [PERSON9] and eh also [PERSON19].
+Yeah.
+So I would like to hear primarily from the people that I haven't really talked to eh for a while eh so that's [PERSON19] and [PERSON6] eh and then the eh the rest of you. 
+Eh so [PERSON19], if you could start.
+(PERSON19) So, basically I'm a bit a bit stuck with those experiments, because I had multiple problems with how to run it at all, with (explainable) mistakes, but finally eh I managed to run.
+(PERSON17) Mhm.
+(PERSON19) And currently I am astarting running those experiments that eh [PERSON11] told me a while ago.
+(PERSON17) So, what are eh <unintelligible/>?
+(PERSON19) To run the same setup [PERSON11] ran for that [ORGANIZATION7] card on other cards.
+(PERSON17) Mhm, okay.
+And it's multi-source or is it only the baselines? 
+(PERSON19) It is only the baselines.
+(PERSON11) Yeah, it is it is to complete the GPU test and and to know that one versi- one new version of [PROJECT2] really really works and it trains on floating point -
+(PERSON17) Mhm.
+(PERSON11) F P sixteen. 
+(PERSON17) Mhm.
+(PERSON11) So after we done this then we will know which version of [PROJECT2] we will f- further use. 
+(PERSON17) Yea, okay, eh so you are doing it in F P sixteen, in the half precision, right?
+(PERSON19) Yes yes.
+(PERSON17) Okay. 
+Eh <unintelligible/> <parallel_talk> run on [ORGANIZATION7] GPUs for comparison. </parallel_talk>
+Okay, eh so eh that's good that you're finally starting eh I'm a little worried about the multi-source status for the [PROJECT4], so is there any chance that we will have -
+So so what -
+Eh [PERSON19], have you configured it to to the [PROJECT4] in any way?
+And this is also a question on [PERSON11].
+Like ou in in the [PROJECT4] what is missing there, what is really outstanding, what are the problems that we have not like -
+(PERSON11) I'm waiting for the input from the from [ORGANIZATION3].
+(PERSON17) Mhm, okay.
+(PERSON11) And he promised it by Thursday.
+(PERSON17) Mhm.
+(PERSON11) And then then I only need to finish the executive summary and -
+(PERSON17) Mhm.
+(PERSON11) and maybe maybe one comment from you on [PERSON3]'s paper and then -
+(PERSON17) And overall, does it look reasonable, or are we - do we have a problem with not enough problem in multi-source? 
+(PERSON11) I hope it's reasonable.
+(PERSON17) Yeah, <laugh/>.
+(PERSON11) I I explained that we don't have much progress with multi-source, because we first need the data.
+(PERSON17) Mhm.
+(PERSON11) The interpretation corpus.
+(PERSON17) Yes, okay, that's good.
+So, you are moving into the re- to the spoken multi eh source eh, like explicitly.
+(PERSON11) Yes. 
+(PERSON17) Eh, we could have done the multi-source research also in the text domain ant that would that was also like of interest eh.
+Eh and actually eh the eh mul- <unintelligible/> 
+Yes, so that's eh -
+One of the reviewers in in the review also asked whether we are combining eh the eh d- document level eh aspect with the multi-lingual aspect.
+Eh and I answered that yes, there is like nothing against that and the all the corpora that we're collecting are document level if we - if can have them like that.
+And they are as multi-lingual as as they are.
+Eh so, eh still it would be useful to eh to replicate eh - to redo the multi-source experiments on some larger text eh text-only data. 
+So, that's something that [PERSON19] really should work on after this baseline.
+So, do we have a corpus eh like that?
+So, who who all has played with multi-source text-based data?
+It was [PERSON1], as far as I remember.
+You, [PERSON11], played with the window eh approach, but you never got to multi-source, yet, right?
+(PERSON11) Mhm.
+(PERSON17) And the it was the the experiment by [PERSON10], which are covered there, but they are like small eh data only and <unintelligible/> only. 
+(PERSON11) We can use the text from [ORGANIZATION8].
+(PERSON17) Mhm. 
+So, that's the transcript.
+(PERSON11) Yes.
+And translations.
+(PERSON17) Eh, yeah.
+So, I really think that some experiments multi-source text in [ORGANIZATION8] should be done immediately after, or actually concurrently with eh what [PERSON19] is doing at the moment, right?
+(PERSON11) But I've - I suppose that text multi-source is not a challenge, because the text are all already very eh very disambiguate so that that only one source will be better than than two sources.
+So that's my assumption.
+(PERSON17) So so sorry, what are you you're saying that there is no gain to be expected eh from multi-source, right?
+(PERSON11) Yes.
+On texts. 
+(PERSON17) <parallel_talk> Does not really expect any gains from multi-source. </parallel_talk>
+Okay, we'll see.
+We should really test this.
+I agree that with the long-written sentences it is possible that you are right and that the spoken language is more ambiguous and therefore the eh the multi-source is more likely to help.
+But we don't have numbers for that.
+<parallel_talk> This should be tested empirically. </parallel_talk>
+Eh so so, [PERSON19], eh eh I I'm think we ned to have a separate call with you and eh [PERSON11] eh and when could that happen?
+Eh so that we like double check the the exact plans and and look under your fingers so to say eh what you are working on at the at this moment and what else eh you could start for experiment with the multi.source.
+So, when you two would be available for a separate call?
+Which eh whatever -
+Tomorrow eh, or at - would tomorrow afternoon work for you?
+[PERSON19] and [PERSON11]?
+(PERSON11) Yes.
+(PERSON19) At at what time tomorrow?
+(PERSON17) Eh, just say something, so whatever, two two PM or three PM?
+(PERSON11) Yes it works for me.
+(PERSON19) Aah, three thirty?
+(PERSON17) Yeah yeah it's still fine for me.
+(PERSON19) Okay okay.
+(PERSON17) Yeah.
+And for [PERSON11], it's okay, right?
+(PERSON11) Yes.
+(PERSON17) Eh yeah so, great eh I'll send the link eh later but eh I'll definitely plan it to the [ORGANIZATION4] calendar eh for you.
+That's great.
+Okay, thanks and in the meantime eh we got [PERSON8].
+Eh so, eh it's eh the eh now it's the good point to mention the two biggest things eh and eh the one of the biggest thing is that [PERSON9] is leaving eh, which is eh listed at the eh end of eh the at the end of the eh of the notes for today's call.
+Eh so, [PERSON9] is eh already hopefully with eh ehm everybody who is getting some of the [PERSON9]'s original tasks eh.
+So eh, [PERSON9] himself will finish the language model checking of ASR outputs.
+Eh that is text-only check if th words kind of make sense, so that we would have a monitor eh live monitoring of whether the ASR is producing something sensible or whether something is terribly wrong, such as wring language chosen for eh the wrong channel ehm eh.
+And once this is finished by [PERSON9] it should be integrated somehow.
+Eh the integration it will probably already be more on [PERSON5] and [PERSON8].
+And with [PERSON5] and [PERSON8], [PERSON9] will synchronize about the tools that eh eh that [PERSON9] has developed eh and that [PERSON5] should incorporate and eh eh [PERSON8] should regularly use, right?
+So, have you already agreed on some date for this?
+I've seen [PERSON5] here and he disappeared at the moment. <laugh/>
+So, [PERSON8].
+(PERSON8) Not exactly, but I'll probably be in touch with [PERSON9] o- sometimes early next week, so -
+(PERSON17) Yeah.
+(PERSON8) That would be somewhere on the Tuesday or Wednesday.
+(PERSON17) Yes, so the sooner the better, because eh like he will be leaving and eh eh yeah -
+Things will only get harder.
+So actually I was confused the the [PERSON4] here on the call is not [PERSON9], right?
+It's the other one.
+(PERSON8) Eh, no no no, it it's the other one, no -
+(PERSON17) The other one, yeah okay, yeah.
+So, I was confused because [PERSON9] said that he could be late eh for the call and that's probably happening.
+Eh so, please eh be in touch eh [PERSON9] eh then eh f-
+The other [PERSON4], who is on the call eh, can you hear us, [PERSON4]?
+So, I'm not sure if the ca-
+(PERSON4) Yea yea.
+(PERSON17) Okay, that's good, yeah.
+So, eh I've have started, but I think I never finished an email to you, because you have reminded [PERSON8] that your eh profanity filtering is not yet integrated.
+And eh I think this is also an important eh message for [PERSON5], who has disappeared again from the call.
+Eh eh so the eh the important message is that yes, eh it's very good that you are actively pushing so that your results are integrated and everybody should do so.
+And at the same time eh, we need to have the setup, so that you can actually integrate and test it yourself.
+So, I call it like self or do it yourself integration.
+So eh eh so, [PERSON8], eh when working with [PERSON5] and when when eh like documenting what the setups are ehm eh make sure it is eh tested eh well enough by colleagues, such as [PERSON4] eh or eh then eh even [PERSON9] eh for eh the language model eh checks and everybody else.
+So, whenever someone develops a new useful component eh the full pipeline should be accessible to to him eh reasonably easily, so he can test it himself.
+So this do it yourself integration is is important, because otherwise it it like it will all remain on you, [PERSON8], and you don't want to be overloaded.
+So, you you want to provide these people with inputs and outputs as the first eh eh testing approach, which it has been already done.
+[PERSON4], right?
+The profanity filtering, has it been tested on logs?
+I think it was.
+(PERSON8) Yeah, it was tested on logs, I think.
+(PERSON17) Yeah.
+So, now now it's the time to test it on the live pipelines.
+And again, I think it's better if eh [PERSON8] explains to eh to [PERSON4] how to do it, so that [PERSON4] runs it for himself some of the workers eh and live ehm eh playing some of the problematic files eh eh s- eh like using [PROJECT8] or whatever.
+Simply play them.
+Follow the sound output on your machine and and see how how that works.
+Eh, because only when doing the real setup eh, the true errors wer- will appear.
+Like it is important to first debug it eh using the log files and then it's important to debug it in the pipeline.
+And if this debugging can be done by the author of that component, here in this case [PERSON4], it would be eh eh most efficient for for all eh us. 
+So so, [PERSON8], please confirm that you agree with this idea of like do-it-yourself integration.
+(PERSON8) Yeah, eh I do.
+Also, well I have a call with [PERSON4] later today so -
+(PERSON17) Yeah.
+(PERSON8) we will discuss the exact logistics of that.
+(PERSON17) Yeah yeah. 
+(PERSON8) But [PERSON4] <unintelligible/> couldn’t install the local copy on laptop because of the restrictions, but I think we have a getaround to that.
+He can simply download uh the files on the e- [ORGANIZATION2] machines.
+(PERSON17) Mhm.
+(PERSON8) And then, using [PROJECT3] or something else, he can download the files eh to his local machine. 
+(PERSON17) Or he can also use [PROJECT10].
+So, he also there has a chance to use [PROJECT10].
+(PERSON8) Yeah yeah, that that's also <unintelligible/>.
+But since his bandwidth is very limited, so eh -
+(PERSON17) He prefers to download things.
+(PERSON8) Yeah. 
+(PERSON17) Okay.
+Yeah. 
+Eh yeah, do whatever works for you.
+I know it's it's complicated. 
+<laugh/>
+Okay.
+Eh so, speaking of the profanity filtering eh and especially the spasm detection and and removal, eh we have seen during the last eh sessions that the new ASR eh the <unintelligible/> ASR E to E ASR also suffers from this spasm issues.
+So, the profanity filtering should really be eh employed twice eh on each path.
+First eh after the ASR and second after the MT.
+(PERSON8) Eh, okay.
+Yeah, but <unintelligible/> spasm coming in, lets say one language stream only, or -
+(PERSON17) Already in the ASR language, already the English contains contains suddenly something like uh O O O and there were full stops after every O.
+So, it was actually for a second -
+[PERSON11] saw that, I think.
+For a second eh the eh the incoming eh sentences were like flooded with a lots of eh O O O O O and then they disappeared again.
+(PERSON8) Ou yes yes.
+Eh so, eh I don't think we need two full profanity spasm removal, because if we remove the the one from the ASR itself -
+(PERSON17) Mhm.
+(PERSON8) nothing is getting past to that MT worker, so -
+(PERSON17) Yeah, but but the MT worker can create its own spasm eh for a good ASR.
+(PERSON8) Oh, yeah. 
+Yeah, that that's also -
+(PERSON17) Yeah.
+I think two two are eh needed.
+Okay so, that was ehm eh - that was the self eh the the eh or to do it yourself integration and ehm eh s- yeah, you are -
+So, [PERSON8], you have the call with [PERSON9] later today.
+Eh so that that would be the dashboard and the eh monitor.
+And hopefully [PERSON5] will be there as well. 
+So are you also in touch with [PERSON5]?
+(PERSON8) <unintelligible/> after this call.
+(PERSON17) Yeah please.
+Yeah, please join eh - yeah he he disappeared.
+So so, please make him join to that. 
+Then another thing that [PERSON9] is [PERSON9] is passing over to others is the [PROJECT5] Czech ASR.
+And [PERSON14], eh will will get this from him, so that we have eh - so so that [PERSON14] has Kal- [PROJECT5] baseline for his own experiments, right? 
+Is that correct?
+(PERSON14) Eh yes yes.
+(PERSON17) Okay.
+Eh eh and sh- and the domain adaptation, so the daily eh - so the regular eh preparations for every session that will unfortunately land on [PERSON8] only. 
+So, [PERSON8], this is another thing that you need to discuss with [PERSON9].
+Maybe that is the main subject of your call today, right?
+(PERSON8) Oh, I haven't planned a call with [PERSON9].
+I had a planned call with [PERSON4], but -
+(PERSON17) Okay.
+(PERSON8) <unintelligible/> profanity filtering. 
+(PERSON17) Okay okay, so I'm I'm confusing the the [PERSON4]s even now.
+Okay. 
+<laugh/>
+But eh anyway, this domain adaptation, that will land on you.
+So, when you have a t- call with [PERSON9], then [PERSON9] has already started eh preparing for the upcoming Monday seminar.
+That's going to be given by a Italian guy eh eh, famous one, the author of [PROJECT6] actually.
+Eh so, if you're curious about that, it's it's o- interesting to to see it.
+He will be talking about verb f- frames.
+Eh and eh eh we should again get ready for that with some domain adaptation.
+So, [PERSON9] has probably started, but he should walk you through that eh thing, so so that you can do it yourself next time.
+And it should be as automated as eh possible.
+Yeah.
+And eh the last eh bit is the multi-accent English. 
+Eh so the the English which is robust to the various speakers.
+So, on Monday we will hear the Italian eh English.
+And yesterday we had a chance to hear the Japanese English and the ASR was really struggling with that, eh so eh that's - 
+Yeah, we really need that.
+But this this is mainly on eh on [PERSON14]. 
+Eh yeah.
+Eh so, -
+<other_noise/>
+That was -
+(PERSON8) can I alter <unintelligible/> English one?
+(PERSON17) Yes. 
+(PERSON8) Because I like the idea.
+And I mean I'd really like to see how it plays out.
+(PERSON17) Yeah yeah yeah, sure. 
+So, eh just eh make sure to eh be in touch with eh [PERSON14].
+So, [PERSON14], please include [PERSON8] in in this part as well.
+So, whenever you have a like wha- wha- whatever eh tasks that eh that [PERSON8] can help with, then work on that jointly.
+So, for that I think that [PERSON14] eh [PERSON14] is now mentioning in his report here eh the recording segmentation.
+Is that the thing that you are eh eh the the - 
+Is it really -
+So, what do you mean by recording segmentation?
+That's the short eh question, [PERSON14].
+(PERSON14) Eh, I I mean the the cutting the recordings to eh to words.
+(PERSON17) Yes.
+(PERSON14) And then eh getting it together to to create a new new recordings with different sentences.
+(PERSON17) Yeah yeah, so eh so, for the multi eh accent English.
+So, eh we are now with [PERSON14] putting that together to just one eh one technical solution.
+The current idea that that [PERSON14] is is working on is that eh he will create new sentences by <unintelligible/> words that were spoken in other sentences and he will do this across eh different speakers.
+So, it will be really multi-speaker eh sentences and eh therefore the the robustness to the different accents of these speakers could be also improved. 
+Ah, so that's eh, that's one particle experiment.
+And later on, we eh, we may eh do something more about eh the um the multi-accent thing.
+So, this eh - these new sentences will eh - it will actually try to solve two problems with one one experiment.
+One problem is the implicit language model.
+Eh so the ASR system has to see eh the largest possible eh set of sentences.
+And eh we are going to create new sentences eh by from text-only language model by adding the the sound part to that.
+So that's eh - the language model will be better eh by that for the ASR and the robustness to different speakers would be also better.
+Yeah.
+And in in a talk yesterday, I heard another idea.
+It was like during the training.
+Eh the- they were dropping out eh time bands and frequency bands from the sound.
+So, they were training on disrupted inputs and that also greatly improved the robusteness of of the system.
+So -
+(PERSON14) If I'm - I'm I'm not s- sure ehm h- how they apply it, but um I I think that the pipeline, the training by applying a ehm eh, which is used for training of the <unintelligible/> uses this same eh technique.
+(PERSON17) Okay <unintelligible/>
+(PERSON14) So it's already -
+(PERSON17) It's already there.
+Okay.
+(PERSON14) Yeah.
+(PERSON17) Yeah, so that's -
+This is very i- important to know which all bells and whistles are are available in which toolkit, so yeah, maybe it's there.
+Em okay.
+So that is eh - that was the eh like news and and work that is em being put on you because [PERSON9] will be leaving.
+And another eh like a long term, or as well as a short-term pile of work has arrived eh because eh of the two eh sessions that we had.
+Eh so, I would really like to ask everybody to record the experience eh from eh the [PROJECT1] and S G one sessions and also -
+Well, [PERSON5] is not here eh - 
+Eh also the - there is one more eh lesson that we h- have like harshly learned yesterday eh when [PERSON8] was still in hospital waiting for the Covid test or something like that eh and eh the pipeline had to be started by [PERSON9] and [PERSON5] and unfortunately eh they failed.
+So so, we eh still are totally relying on one person who is able to start the pipeline and that is a bad situation.
+Eh so, eh [PERSON8] this is this is mainly eh on you and also on [PERSON16] and and [PERSON5] eh to like make sure that the whole setup is understandable and regularly tested by others in the team and the do-it-yourself integration would help with that, actually.
+So, the the system needs users and the more diverse users, the more different users, the better, because it will be robust to the different conditions of of the users.
+Eh and eh th- yesterday eh [PERSON5] eh knew eh in principle what to do.
+Eh he managed to get the ASR running and presented eh, but the rainbow worker was eh stuck for a while, then it was restarted eh by [PERSON15] eh in Edinburgh.
+And then it - we were not able, or [PERSON5] was not able to eh to properly use it.
+So, the languages were swapped there and some of the languages didn't contain any reasonable output, just some language codes instead of the output. 
+Eh so, it's too fragile in that respect eh and [PERSON8] and [PERSON16] please be in touch with [PERSON5] and propose some solution, so that we are much more robust even to like individual persons eh not being available, right? 
+(PERSON16) Yeah yeah yeah.
+So, a- actually I had a call yesterday eh I mean while eh I saw [PERSON5]'s email regarding the -
+(PERSON17) Yeah.
+(PERSON16) errors that he got <unintelligible/> pipeline.
+An i kind of had a a talk with - a call with him right at the moment when I was reached.
+Eh and actually I saw that he was trying to run a worker which which was not running eh in in the mediator.
+(PERSON17) Mhm.
+(PERSON16) So that was kind of creating eh e- errors.
+(PERSON17) Yeah so, eh obviously didn't know enough about the architecture -
+(PERSON16) Yeah, exactly.
+Yeah.
+(PERSON17) He eh he didn't eh know where to look and what to check eh so -
+Yeah.
+S- so, this is something that it should be like more self-explanatory and eh, well, better documented, so that eh people would be able to eh to get it running.
+So, [PERSON16], you were during that time you were in some different lecture, or eh -
+Because a- at some point I suddenly saw that [PERSON5] stopped trying maybe, or maybe he was trying but wit- without any eh any success.
+I don't know. 
+(PERSON16) No, a- actually around - I would say around like two pm we were having a call and I was explaining him through the pipeline through that script like what does each block - what e e exactly it does and how to debug.
+So, I explained it <unintelligible/> now you are yo- yo- you are getting this error, so how to debug, what section is exactly issue at.
+(PERSON17) Mhm.
+(PERSON16) So, first try with the ASR.
+Eh, then try with the <unintelligible/> itself. 
+Try individual ASR and MT worker a- and things like that.
+He he was able to understand -
+(PERSON17) Mhm.
+(PERSON16) debug them, but yeah -
+Because <unintelligible/> it would not be surprise if eh [PERSON5] failed, because he was trying for the first time.
+(PERSON17) Okay.
+(PERSON16) And yeah, <unintelligible/> the pipeline is pretty complicated for someone who has seen it for the first time to -
+(PERSON17) Yeah, but I was surprised eh that eh like the pipeline - because it was the same pipeline that the pipeline -
+(PERSON16) Yeah.
+(PERSON17) couldn't be simply reused.
+(PERSON16) <unintelligible/>
+(PERSON17) But why did the fingerprints then change?
+(PERSON16) No, the fingerprint was still the same, but the worker was not running.
+(PERSON17) But when the workers started running it it didn't work.
+That that's something which I don't understand.
+(PERSON8) Ah, maybe it's because eh of [PERSON16] -
+Have you changed the common addresses file to include [PERSON6]'s <unintelligible/> worker?
+(PERSON16) No, we have a separate directory for that.
+(PERSON17) Yeah so, eh <unintelligible/>
+(PERSON16) <unintelligible
+Th- th- th- this is kind of again eh you know eh <unintelligible/> a bad thing that if you want to implement [PERSON6]'s worker we we need to have a separate separate script -
+This is kind of bad.
+(PERSON17) This is very bad, yes. <laugh/>
+Exactly, this is this is very bad.
+Eh so, it eh - so please you three, make a call, a pre- like set up a call with [PERSON5].
+It's a pity that he he is not here at the moment.
+And discuss how this should be done.
+Eh because [PERSON5] is now -
+After his experience, he is working on on like how to make how to make the configuration cleaner.
+Eh so, please discuss this with him very carefully.
+So, next week I would like to hear from you three how far you got in the in the like specifications of the requirements so to say. 
+So eh <unintelligible/>
+So, eh I'll put it here.
+<parallel_talk> [PERSON17] asks eh [PERSON5], [PERSON16] and [PERSON8] to have a call and eh provide eh the first specification of eh requirements for eh pipeline set ups, so that it is much less error-prone and eh more modular. 
+Eh easy.
+Eh E G easy to integrate also the profanity filtering, [PERSON6]'s rainbow worker and so on. </parallel_talk>
+(PERSON16) Eh [PERSON6] eh eh <unintelligible/> I'd also like to request you, so you have multiple scripts that it start the that it starts your (NMT) workers eh, which is like <unintelligible/> 
+So, this is kind of confusing for em eh eh -
+(PERSON17) Okay.
+(PERSON16) I personally know each of these scripts, but the the new people did not know.
+So maybe if you could remove these eh scripts which have the similar performance or only leave that which which is usable and which is kind of okay for the okay for our live sessions.
+(PERSON6) Mhm.
+Eh can we maybe -
+I can maybe make it so that there is one script -
+(PERSON17) Mhm.
+(PERSON6) because -
+(PERSON17) With some different parameters.
+(PERSON6) Yeah, with different parameters because basically before this structure was like for the eh - actually workers for the English to Czech model.
+(PERSON17) Mhm. 
+(PERSON6) Eh which also uses tensor to tensor, so it uses the same structure, but eh -
+Yeah so, maybe I could add some parameters, for example, to limit the number of languages.
+(PERSON16) Exactly.
+(PERSON6) And also to - yeah further <unintelligible/>
+Some switch for the for the which model to use, but it impossible to pass these parameters to eh to eh (Q sub) when you when you run it on cluster.
+(PERSON8) Uh, sorry?
+(PERSON16) Suppose like, if you have one worker, which emits all the languages.
+I mean, it's up to us, we can control how many languages we want to see in the subtitling eh subtitling platform.
+It's completely up to us.
+But if you think that when starting the worker, if you limit the parameters, if you limit the number of languages there itself and if you think that it improves the eh maybe, I don't know, maybe speed.
+So, then I think we should go for that.
+(PERSON17) Yeah so, that's a good question on [PERSON6].
+[PERSON6] eh -
+(PERSON6) Mhm?
+(PERSON17) Is is it better to run the multi-lingual model with fewer languages enabled?
+I don't think it it is any saving.
+(PERSON6) Well, we we did it actually, when we were testing it eh.
+I think we di- did it with eh with [PERSON11], if I'm not not mistaken, when we were testing, or with [PERSON16], when we were te- testing it on -
+I do not remember whe- where it was <unintelligible/>
+(PERSON16) <unintelligible/>
+(PERSON6) It was the - it was the <unintelligible/> 
+It wasn't -
+It wasn't a hackathon, yeah.
+(PERSON16) Yeah yeah, exactly. 
+And eh [PERSON4] -
+(PERSON6) So -
+(PERSON16) kind of perfomance stable constructed with the eh [PERSON15]'s rainbow worker and [PERSON6]'s rainbow worker and eh comparatively eh, [PERSON15]'s rainbow worker were were a better were a better side.
+(PERSON6) Mhm. 
+So also -
+(PERSON17) And in terms of speed, [PERSON15]'s rainbow worker was better in speed, but was it better in <unintelligible/> scores?
+(PERSON16) Not the speed, I mean overall.
+It's <unintelligible/> scores was were better for [PERSON15]'s worker.
+(PERSON17) Okay.
+(PERSON6) Mhm.
+(PERSON17) So, then the- there is actually no point in having [PERSON6]'s rainbow worker in the pipeline at the moment, right?
+(PERSON16) But but -
+(PERSON6) Yeah, I think - yeah. 
+(PERSON16) If - well, for a fallback solution it's important like uh remember during the <unintelligible/> 
+We we did -
+(PERSON17) Exactly.
+(PERSON6) Mhm. 
+(PERSON17) Yeah.
+(PERSON16) We need to have it eh like -
+(PERSON6) Yeah, but still basically -
+Yeah yeah yeah, the- there are still ba- basically like two thinks tha- that are bad with the model.
+One thing is that it it wasn't train- trained with the fine tunings that [PERSON15] used, such as u- using partial sentences and other stuff.
+(PERSON17) Mhm.
+(PERSON6) And the and the other problem is that it was basically trained using tensor to tensor, which makes it very, very slow.
+So that's why we we use the subset of the languages, because then like then it could work real time, but but otherwise that there was quite a big delay, like two seconds to translate something.
+(PERSON16) Eeh eh ah may- maybe this is a stupid idea, but what I think is that if we could have like a multiple work- multiple, I mean, eh multiple replicas of your same worker and each emitting a different each having a different subset of languages.
+(PERSON17) Yes, that could be a s- fallback solution.
+(PERSON6) Mhm.
+(PERSON17) But the main question is, how come that it's slower eh with with more languages like I don't see that, because it should be paralyzing when your -
+(PERSON6) Yeah so yeah so, there are maybe like forty languages.
+So there are forty, like the big size is forty.
+(PERSON17) Yes.
+(PERSON6) And and for big size forty it is a- actually a lot slower than for big size eight, for example.
+(PERSON17) Oh.
+Okay, so that is - that is strange.
+This is something that I would not have expected, because it should be running in parallel, right?
+(PERSON6) Yeah i- i- it is somehow somehow [PROJECT2] is better optimised so - 
+(PERSON17) Mhm.
+(PERSON6) So so maybe like for a for a be- better solution, I would probably -
+(PERSON17) Yeah so I think that as a fallback solution - 
+(PERSON6) Use [PROJECT2], yeah. 
+(PERSON17) Yeah yeah.
+So, I suggest that we do not use [PERSON6] tensor to tensor worker at all for the live sessions.
+It is good, maybe, for creating the the synthetic data or whatever.
+Eh but eh we sh- 
+As the fallback solution we should have the [PROJECT2] models running as a worker on our side.
+So, we should be able to launch rainbow worker from [PERSON15] on our uh cluster.
+So -
+(PERSON8) Yeah, for that uh I think I located the directory on -
+(PERSON17) Mhm.
+(PERSON8) Well, we we have the code for that.
+I think [PERSON16] had copied from [PERSON15] -
+(PERSON17) Yeah.
+(PERSON8) I got the directory for it and I I'll start looking into it.
+(PERSON17) So s- sorry, I missed that.
+So are you going to do that, right, [PERSON8], correct?
+(PERSON8) Yes, yeah, I'm going to look into it.
+Uh [PERSON16] mentioned that he when he tried, he had failed because of some errors that he does that recall right now.
+(PERSON17) yeah.
+(PERSON8) So I'll see what errors are those, and - 
+(PERSON17) Get in touch get in touch with [PERSON19] and others.
+So, actually all of you, I suggest that all of you are at the devel at [ORGANIZATION2] mailing list.
+And let's use this mailing list for these technical issues, like getting [PROJECT2] running.
+I know that it will eh it will flood the list also for others who are working other things, but this is so like low level eh issues, that it's worth having this discussion in the devel at [ORGANIZATION2] mailing list.
+So -
+(PERSON6) And also -
+(PERSON17) Yeah?
+(PERSON6) Yeah.
+(PERSON17) Are you all in the list?
+(PERSON6) Yeah o- 
+(PERSON8) Eh I'm not sure if I am.
+I don't think I am.
+(PERSON6) I think that I'm not either, but but also, I am I am using the newest version of [PROJECT2] actually to train the shortening models.
+So, I have version one point nine compiled as well.
+And -
+(PERSON17) So the devel is -
+Or an- another option is to use -
+So, the devel is really - I see it's old people there.
+Eh we have people like [PERSON5] there, but we don't have eh eh -
+So, we could also use the [PROJECT9] [ORGANIZATION2] list for that.
+(PERSON11) And what's your issue with [PROJECT2]?
+Can you repeat it?
+(PERSON16) So a- actually, when I was working with with [PROJECT2] I had several like path conflicts.
+There were like chain of paths, whi- which needed to be which needed to be fixed, and I was kind of unable to backtrack ea-each of them.
+Eh yeah so, I I I never tried to then.
+(PERSON6) Um do you mean path configs like like wro- wrong paths for the [PROJECT2] itself, or for them or in the model config.
+(PERSON11) If you talk about running [PERSON15]'s model, then [PERSON15] sent us some scripts with absolute paths on their systems and we just need to replace them with our paths correctly and then hopefully it will work.
+(PERSON6) Yeah, I can also try this if you send me the location of the models.
+(PERSON8) Yeah, sure.
+I'll again find it and send it to you.
+Oh [PERSON16] can do that if he <unintelligible/>
+(PERSON16) Yeah I I I'll forward you the email later.
+(PERSON8) Okay.
+(PERSON17) So I'm thinking, who else <unintelligible/> who else should be -
+Yeah. 
+Eh -
+(PERSON16) I think you already have the email eh, [PERSON6].
+(PERSON6) Really?
+(PERSON16) Yeah -
+(PERSON6) With the -
+(PERSON16) The the subject is you adding rainbow models.
+(PERSON6) <parallel_talk> Rainbow - </parallel_talk>
+(PERSON16) But ah ah ah eh let me se- send you again w- with the path, actually.
+(PERSON6) Yes yes yes, because I don't have the path, I think.
+(PERSON17) Yeah so -
+(PERSON8) [PERSON16], please <unintelligible/> on that email as well. 
+(PERSON16) Yeah <unintelligible/> 
+(PERSON17) Yeah so so, u- use whatever eh communication platform works for you.
+Like direct emailing is fine as well.
+Remember to that [PERSON19] is also a source of information, because [PERSON19] will now be fighting with that and he will be running into the same issues and and he has successfully fighted with [PROJECT2] in the summer, so he also has some pretty fresh experience.
+So, it's [PERSON19].
+The <unintelligible/> will auto- autocomplete the eh eh the eh the email for you.
+And also eh <unintelligible/> 
+So, if you do not know who could help you with what email [PROJECT9] dash [ORGANIZATION2].
+And I've I'm just asking [PERSON7] to add [PERSON19] there and I'll I'll make sure that that you are there.
+Eh like all of you, who who can possibly answer such questions are there.
+So, let's let's use eh elit- [PROJECT9] dash [ORGANIZATION2] also for the technical issues.
+If you run into random questions, ask around, never wait.
+That's that's it.
+Never wait.
+Uh okay.
+So, I would like to hear from [PERSON6] a quick report.
+(PERSON6) Mhm.
+Yeah so, right now, I am working on the shortening and extending models.
+And so I already have the first models, but now I am trying to vary the amount of data and the the length in the dataset.
+And to see like what is the difference in performance and and length.
+And then when I'm happy with this, then I will get to the second phase, where I will basically translate uh synthe- uh and creating synthetic data from the rest of the [PROJECT7] dataset.
+An- and then I will build like the final shortening model.
+(PERSON17) Yeah. 
+(PERSON6) Eh and also -
+Yeah so, here I a- I actually run into one issue that basically I'm running out of storage eh quota on Mala Strana.
+(PERSON17) Aha.
+Yeah so, just ask for more.
+So have an estimate.
+Ask for more.
+That's it.
+So - 
+(PERSON6) <unintelligible/>
+(PERSON17) <unintelligible/>
+You just need to uh come up with a reasonable estimate how much more you need.
+(PERSON6) Mhm.
+(PERSON17) So there they do have space, they only give it away only like after they have seen that the people have thought about it.
+Because -
+(PERSON6) Okay.
+(PERSON17) The practice is that no one ever cleans up after themselves.
+(PERSON6) Mhm.
+(PERSON17) So the only way to avoid an exponential growth is to uh make the growth modest and moderated.
+(PERSON6) Yeah okay.
+Uh and also yeah a- a- also this is the problem with the [organization97]'s one hundred language models, because they they take like fifty gigabytes themselves.
+(PERSON17) Yeah.
+Yeah, just <unintelligible/>
+(PERSON6) Yeah, okay.
+(PERSON17) <unintelligible/> a copy, uh write an estimate how much you need to
+(PERSON6) Okay.
+(PERSON17) it at [ORGANIZATION2] and will <unintelligible/>
+(PERSON6) And do you maybe now eh like how how much space there is available on Troja, because maybe I could save something there.
+(PERSON17) Eh s- w- as- simply say what you need -
+(PERSON6) Okay okay, I will just -
+(PERSON17) They will they will -
+(PERSON6) Okay.
+(PERSON17) They will know what is better.
+(PERSON6) Okay.
+(PERSON17) And actually since the better GPUs are on Troja, having the data in Troja makes more sense.
+(PERSON6) Okay okay okay.
+(PERSON17) Okay, that's good. 
+(PERSON11) Or you can use command D F and it will tell you the the space on all the discs.
+(PERSON17) Yeah.
+Or D F minus H eh for human re-
+(PERSON6) Okay, just I I don't see the quota there.
+(PERSON19) Ah, there is a command to check the quota.
+(PERSON11) Write it into the document.
+(PERSON6) Okay okay, thanks.
+(PERSON17) So in the eh - 
+<parallel_talk> I'll check what is called - 
+Yeah so, (alias).
+<unintelligible/>
+So, is it this one? </parallel_talk>
+Yeah.
+So, I use -
+(PERSON6) Mhm.
+(PERSON17) Oh, that's a different quota. <laugh/>
+Okay.
+Yes, I agree.
+Yes, that's the that's the command.
+(PERSON6) <unintelligible/>
+(PERSON17) So I actually have an alias for this, so I -
+(PERSON6) Ah okay, I see it now.
+(PERSON17) When I type quota I I get this - I get the output of this.
+(PERSON6) Mhm.
+Okay, so on Troja I have 50 gigabytes.
+Yeah, that's -
+(PERSON17) That's too little.
+Obviously you can you can ask for eh much more.
+(PERSON6) Okay.
+(PERSON17) <unintelligible/>
+That's good.
+Ehm so, uh is there anyone who should report some progress and we have forgotten about hi- 
+(PERSON6) Yeah, I I actually have like one last thing.
+(PERSON17) Mhm.
+(PERSON6) And basically [PERSON12] would like to have a call.
+(PERSON17) Oh yeah yeah, okay.
+Yes.
+(PERSON6) And and he would like you to be - 
+(PERSON17) Be on that call.
+(PERSON6) participating as well.
+(PERSON17) Yeah, eh so eh th- wha- what are his constraints and what are your constraints?
+Tomorrow afternoon before the call that I have with [PERSON19] and [PERSON11], like tomorrow at two.
+Would that work?
+(PERSON6) I think that would work for me, so I can write to him.
+(PERSON17) So try yeah try that, because I'll have called at half past three with [PERSON11] and [PERSON19] eh.
+(PERSON6) Okay.
+(PERSON16) Also, [PERSON17] the-
+(PERSON17) Yeah.
+(PERSON16) there is a guy here in in Saarbrücken.
+Um he he's on he's almost completed done with his masters'.
+(PERSON17) Mhm.
+(PERSON16) He's an Indian guy and <unintelligible/> that is his name and he mentioned that he's actually interested to join yo- your group with you.
+(PERSON17) Mhm.
+(PERSON16) Maybe maybe as a PhD or as a full-time job.
+(PERSON17) Mhm.
+(PERSON16) Uh and he said -
+(PERSON17) To apply for - To apply for PhD, one deadline is is very soon.
+Uh it's the end of the year. 
+(PERSON16) Okay.
+(PERSON17) December thirty one.
+So, he should check eh - it's something like [ORGANIZATION2] slash PhD.
+(PERSON16) Okay.
+(PERSON17) And he should email eh that he's interested eh to send an email to PhD at [ORGANIZATION2] something like that.
+(PERSON16) Okay okay. 
+I'll let him know.
+And he also mentioned that eh - because his masters' thesis is based on neural machine translation and -
+(PERSON17) Mhm.
+(PERSON16) He expressed his interest to join your group and and he also mentioned that he had a discussion with you, I don't know, about something during <unintelligible/>
+(PERSON17) Yeah, <unintelligible/> 
+I don't remember so, well -
+(PERSON16) Yeah.
+(PERSON17) So, I don't know his name. 
+So yeah so eh for PhD application, he should email that email, eh PhD at [ORGANIZATION2].
+And eh I'm beyond my capacity, but others may have the capacity. 
+And for the general connection with [PROJECT9], yes that's not dependent on eh on the deadline at all and uh -
+(PERSON16) Yeah.
+(PERSON17) Yeah, that would work.
+Uh so I'm trying -
+<unintelligible/>
+Okay.
+So I'm - for tomorrow at two, I'm trying to send the [ORGANIZATION4] invite.
+Uh so, uh that's probably eh it and I want uh -
+Still we are way beyond our planned time.
+That's because we haven't had our uh call last week unfortunately.
+Uh so, I'm now highlighting uh the experience uh from the [PROJECT1] and (S G one) again.
+I've already reminded everybody to record what you what you saw and also read what other has what other have experienced. 
+But let's also discuss the uh the lessons that we learned and uhm the immediate uh lessons uh and the to do list uh are this.
+Uh yes, we absolutely need the evaluation of all systems, all files ah in the test set.
+Uh like uh uh uh in [PROJECT9] test set automate.
+So how far is that?
+Uh that's a question for [PERSON8]. 
+Uh -
+(PERSON8) Uh, sorry for that <unintelligible/>
+(PERSON17) Yeah, because of the Covid uh -
+(PERSON8) Yeah.
+They isolated me and I couldn't do anything.
+Like I told them this is normal for me, but they were pretty insistent on having me <unintelligible/> and letting me go home.
+(PERSON17) Oh okay, so you really like caught it in the hos- hospital, right?
+(PERSON8) I was, yeah.
+But I was raised like very late in the night around nine, nine thirty Indian time, so -
+(PERSON17) Okay. 
+Yeah.
+(PERSON8) Yeah.
+So, I have started uh finishing that today.
+Hopefully, uh by the end of the day, I'll be done with it.
+So, uh I have a call at two thirty Prague time with uh [PERSON4] to discuss some of the specifics of that is around <unintelligible/> capability of downloading files.
+Do I need to do it manually?
+So, there are some calls to discuss -
+There's something to discuss [PERSON4].
+And apart from that, the code is almost finished uh with that discussion.
+I think I'll be able to wrap it up today itself.
+(PERSON17) Yeah, and we have done <unintelligible/> on the call.
+So, [PERSON2] will be the person who will pick this up from you.
+And <unintelligible/>
+Yeah? 
+(PERSON2) Yes. 
+(PERSON17) So are you uh also planning, [PERSON2], to be on that call uh with [PERSON4] -
+(PERSON2) Uh -
+(PERSON17) or <unintelligible/> with [PERSON8] after that.
+(PERSON2) Uh, which one, is it?
+I'm sorry, I I don't remember - 
+(PERSON8) I think I will have a call with [PERSON2] later, because uh that specific all is related to automating the eh ASR evaluation.
+Yeah, uh it's basically to generate ASR automatically.
+And if I evaluate the ASR uh given uh any index file.
+So, what essentially my script will be doing is taking an input of - 
+Taking the index file as an input and uh it will generate the ASR uh from whatever model there is mentioned in the script.
+And uh I I'm trying to make it as like as we- uh as flexible as possible so that we don't need to hardcode the ASR in the script.
+We can just choose that this is <unintelligible/> I want to use.
+Same goes for uh the MT models.
+But yeah, uh essentially, it's that.
+So, after that I'll have a call with [PERSON2] to discuss all the uh things that I put in the script and then I think he can take it up from there.
+(PERSON17) Yeah, okay.
+So, the idea is that once you evaluate uh exactly as flexible as you just describe it.
+Once you evaluate it, the outputs need to be stored somewhere and the scores have to be stored somewhere and [PERSON2]s know [PERSON2] knows where these things should be stored.
+So next time when you ask for the same thing -
+Uh like it it could give you the the cached output already.
+I'm saying it could because I think it is better to like have it uh run again.
+Uh but uh - and create one more entry and if the entry is identical, then we we're good, we know that nothing has has de- eh like worsened.
+Uh, but uh it -
+Then, without running anything, you should just be able to look at the the stored outputs and the stored scores, and it would immediately see where we are standing.
+So, this recording of the results is something that [PERSON2] will uh will manage.
+(PERSON2) Okay so, [PERSON8], let me know when you finish it and we can arrange a meeting and then I will look at it, and I will write it into the [PROJECT4]. 
+Yes?
+(PERSON8) I think I will have - I'll have call with you uh next week on Monday or Tuesday.
+So -
+(PERSON2) Okay okay, that sounds good, okay.
+(PERSON17) Yeah, great.
+Okay, so that that was the the first immediate lesson.
+And to do that that arose from the last week sessions and the other one is uh the management thing.
+Uh so uh, when there is some session happening, we really need to make sure that we have the important people around the globe eh eh like available.
+So, I have halfway asked if [PERSON15] would be there, he did not respond and in the end he was not uh available.
+And a a very similar thing happened uh also yesterday uh during the uh the call at three eh PM Prague time the two two UTC eh call.
+Again we we were like chasing [PERSON15] uh through a <unintelligible/> on on slack.
+So, it was it was crazy.
+Eh so eh for this eh we we need to know which components we are using and who are the people behind these components.
+And for important sessions we really should secure uh that we have the people.
+So, this is like uh a message for me but also for for [PERSON8] uh as a fallback solution if I if I forget to uh to make sure that we have these people available, or that would know that they won't be available.
+It is also okay.
+So, if we knew that [PERSON15] is unreachable because he is traveling, or whatever that that can, of course, happen, but we need to know what to do.
+We need to know what is our fallback solution if if that party is not not present.
+And then eh we have the long term eh focus.
+And I would like eh - 
+So, the things that I spotted eh that really need attention are these.
+And I would like to put your names next to those for yo- to know that like you are the people who are long-term including this goal and this uh uh this challenge in in your plans.
+So, this non-native accent that's very eh critical.
+And here eh the person is uh [PERSON14] and possibly [PERSON8] uh to a little extent, right?
+(PERSON8) Ah yes.
+(PERSON17) Hh anyone else anyone else can work on on the non-native accent thing proba-
+Could be - mi- well, yeah I don't know.
+Ok, then another thing that I spotted is - this is in the Monday test document.
+It is highlighted in four times highlighted.
+It is called <unintelligible/>
+So, when some session is happening, we need the names eh and terminology for that session.
+And we eh need to collect it like prepare it manually create it somewhat.
+And this manual uh creation should be supported with automatic tools as as much as possible.
+So that is a there is a certain like skill uh behind that that needs to be practiced.
+So, I'm quite skilled in shuffling text files.
+And whenever I see you uh uh any of any of you doing that, then I like always have tips in my head that wha- what could be done faster.
+Maybe it is not faster for you end, but at least you should consider it.
+So there this skill is something that eh that we need people to have.
+And uh we need someone to be like responsible for for that.
+And I I'm afraid that the only person uh for this could be [PERSON8].
+Uh if you find anyone else who would be ready to help with the immediate domain adaptation, the data crunching, please say so.
+And then uh we need uh -
+So, once we have uh secured uh the dictionary of terms and whatever the word pronunciations uh, we need uh techniques to put these dictionaries to use in the systems.
+So uhm my impression uh from uh the domain adaptation that [PERSON9] has been carefully doing for all the sessions uh was that it was not really visible in the hy- hybrid ASR.
+So, uh one such session is again going to happen this Monday.
+[PERSON9] is uh already starting uh the data collection eh, but I would like to see the eh the the benefit of of that domain adaptation in in in the [PROJECT5] set up.
+So, uh maybe uh [PERSON9] eh and [PERSON8], because he's learning how to do domain adaptation and [PERSON14], because he is doing how to work with [PROJECT5].
+If you three could eh meet and double check eh what is [PROJECT5] doing with the -
+It's not [PROJECT5], actually, the domain adaptation is for the [PERSON18] toolkit, right.
+(PERSON8) Uh yes, I can -
+(PERSON11) Yes, it is so.
+(PERSON17) Yeah.
+So, if you could like somehow uh uh - 
+[PROJECT5] will be similar eh, but we don't have that pipeline for [PROJECT5] yet.
+Uh but if you if you could like dig into the toolkit and and debug eh whether it is actually getting the (words) into that.
+So, I know that [PERSON9] has already tried that once.
+Uh can you confirm that you are a 100 percent sure that uh the dictionary is well included, and the substitute words are for the language model are are really used and it's asking the correct ngrams with the substitute words instead of the the new words?
+Can you confirm that this is really happening?
+(PERSON9) <unintelligible/>
+(PERSON8) Uh for domain adaptation?
+(PERSON17) Yeah, the domain adaptation.
+I think so be- I think so, because we had uh -
+So, we were testing it with a non-domain-adapted uh model -
+(PERSON17) Mhm.
+(PERSON8) And the domain-adapted ones and the domain-adapted ones were uh capturing the domain-adapted words uhm much better than non-domain-adapted ones.
+(PERSON17) Yeah, so if you have this ex- good experience then then maybe I'm I'm wrong, but my impression was that it is not really ehm not really visible in the output.
+So please convince me, ideally with outputs and also numbers that it's it's doing uh uh the job.
+(PERSON8) Uh okay, but for that, we will probably need uh the transcript.
+Like we'll need one of the Monday meetings transcribed.
+(PERSON17) So the, for example, in in [PROJECT9] test set there is this Monday talk of mine, the ye- eh the the everything can go wrong.
+That contains a fair bit of of uh terminology.
+(PERSON8) Yeah, <unintelligible/>
+Uh okay so uh -
+But our models -
+I'm not sure if well we have the domain-adapted model for that or not.
+But of course, all we can test the latest one on that as well -
+(PERSON17) Exactly.
+(PERSON8) Yeah, so.
+(PERSON17) Yeah, exactly.
+Yeah.
+So, this is like kind of backward-looking, making sure that the old approach works, the the new data well, but then there is also uh one thing uh and that is uhm -
+It's - At the moment it is absolutely impossible to do any domain adaptation for the fully neural uh ASR.
+Uh so uh what I'm considering is to have an independent keyword spotting uh uh from sound and some merging procedure.
+So, we could have two ASRs running at the same time.
+End to end ASR, which is better in general.
+And then uh domain-adapted [PROJECT5] setup, which is uh m- used only to spot the keywords.
+And when we see a keyword in the domain-adapted uh version then we would then we would uh s- like use that sentence from [PROJECT5], which is in general worse, but contains the right terms.
+So that's that's my like suggestion what we could do.
+And and another suggestion is that we really should have our own fully neural ASR and do various experiments on finetuning and all that.
+So uhm we have discussed this with [PERSON14] p- p- [PERSON14].
+And uh uh [PERSON14] is there any update from the potential uh uh colleague or friend of yours?
+(PERSON14) Not yet.
+(PERSON17) Yeah, so uh if there would be anyone else, who'd be curious about this please uh let me know uh or get in touch.
+So, it's this is something which is which would really be accepted well in generally as a as a paper, because people don't do that yet.
+And that's the most uh uh strin- stringent the the most urgent problem these days.
+So, uh we really could make a uh an impact there.
+(PERSON6) Yeah, I was maybe just thinking about like what kinds of data we currently use for this, because uh because, for example, uh like if you check like [ORGANIZATION4]'s models on [ORGANIZATION5] that they are like already pretty good at these things -
+(PERSON17) Yeah.
+(PERSON6) And and I think that if we just like - 
+We could probably just steal the data from them, be- because because you have like a such a large uh set of of videos that that basically with with di- different domains and and di- different speaker lan- speaker native languages on [ORGANIZATION5].
+And and like I had this idea that we could just like use some tool to the download basically these some kinds of filtered videos from [ORGANIZATION5] and make training tests eh eh a a training set out of them.
+(PERSON17) Yeah, I agree.
+Uh except we don't have the the human capacity to do that.
+So, uh <parallel_talk> [PERSON6]'s proposal eh to scrape eh [ORGANIZATION5] and even automatic - </parallel_talk>
+(PERSON6) Yeah an- and it's actually something similar to what basically<unintelligible/> corpus was, right -
+(PERSON17) Yeah.
+(PERSON6) if I'm -
+(PERSON17) Yeah, exactly.
+(PERSON6) <unintelligible/>
+So maybe we could reuse actually what's what <unintelligible/> did -
+(PERSON17) Yes.
+(PERSON6) there.
+(PERSON17) Yes, that's true.
+So, uh we need we need colleagues for this.
+So, if you uh if you ar- a- are in touch with someone such as Pe- [PERSON14] is in touch with someone, uh then hm -
+Yeah, so this is uh -
+It would be -
+Yeah -
+It would be great.
+Uh, so -
+(PERSON6) Yeah, just an idea, but -
+(PERSON17) So little chance here a little uh chance [PERSON14]'s uh friend uh will help with this, yeah.
+[PERSON8] will evaluate.
+And then.
+Uh yeah, profanity and then the positive speak.
+So um, I have some examples.
+Uh um eh eh em I've recorded them either in the Monday seminar uh document or maybe here in the [PROJECT1] S G one uh that the ASR is sometimes uh -
+Yeah.
+So, one session was that a at [PROJECT1].
+Uh there was the debate uh whether languages eh are whether African languages will be supported by some of the European project.
+And the answer from the project uh coordinator was that, well we were discussing this a lot. and then, unfortunately, it's it’s African and we don't have capacity for that.
+But the word discussing was recognized as disgusting.
+And the translation was that, like we were disgusted by the idea of including African languages in in our project.
+So even the word disgusting uh, which is not a bad word on his own uh is very risky, so uh we should uh -
+Our our profani- filtering should really be eh eh aggressive about about eh any eh slightly negative words, right? 
+(PERSON14) Maybe uh maybe I have a idea here uhm, because I I am afraid that we we cannot just aggressively remove these words, because there are uh many words that actually might harm someone, and and especially these days, but maybe we c- we could employ um these neural networks that, uh I forget how this this task is called, but it's like uhm based on the movie review of -
+(PERSON17) Yeah, sentiment analysis.
+(PERSON14) some network.
+Yeah yeah, sentiment analysis.
+Well, maybe we can use some sentiment analysis to to remove uhm sentences or or some uhm group of words with uh a negative sentiment or or something like that or or adapt it to to some uhm not actually negative ah uh negative sentiment, but rather some um aggressive sentiment.
+If we can retrain this that way in such way.
+(PERSON8) Uh I have some experience with that -
+(PERSON17) Mhm.
+(PERSON8) but it doesn't play well.
+Because ultimately oh, I mean, that's oh kind of of very specific to a use case.
+So not exactly similar, but when I was working with the financial dataset uh that we had created oh in my previous work, so uh we were looking for things uh from, let us say, an investor's point of view uh.
+It was <unintelligible/> to sentiment analysis.
+Uh that view is very subjective.
+So even if you train a neural network model to uh spot some some of the things that uh might be disrespectful or uh demeaning to someone or maybe that that shouldn't be there, the - i- including the subjectivity is pretty hard uh.
+I- it's a complete task of its own.
+So, uh it takes a lot of work.
+Uh i- it will probably take a lot of work and -
+(PERSON14) Maybe maybe there are al- already some uh some datasets, because um if I remember correctly uhm ther- the social media like Facebook or or uhm or um [ORGANIZATION1] etcetera they they actually uh use such things to filter the the posts, because they they are obliged to to filter uh some some racist and some um bad statuses.
+So maybe they they have created some uh some uh <unintelligible/>
+(PERSON6) Oh yes yes yes,
+Yes, this is very true.
+Uh there was actually a <unintelligible/> competition for this, where people had to make models to detect tweets or like sentences which were harmful in some ways.
+And basically, if you just download some models from this competition, then you will have a classifier that can classify basically, this sentence is like hateful or like ther- there are like five categories like fake news, hateful and other.
+I don't know what like what.
+So definitely you can use this fo- for the task.
+(PERSON17) Yeah, that's that's good suggestion.
+(PERSON6) I can send send you the link.
+(PERSON17) Please paste it -
+(PERSON8) <unintelligible/>
+(PERSON17) paste it in the document diretly.
+(PERSON8) <unintelligible/>
+(PERSON17) But remember -
+(PERSON8) <unintelligible/> the task was one of that.
+<unintelligible/>
+(PERSON17) Yes but remember uh that our setting is slightly different from these competitions and also also the uh yeah.
+The the the difference is that we do not expect the speakers to use this abusive language, or whatever you call that.
+So, in our case, what we are after is more like uh sentiment inconsistency rather than bad sentiment.
+Uh because we expect these people to to to say only the nice thing.
+It's like official speeches.
+Uh and uh the the bad words arise only as errors of ASR and errors of translation, and that's a different setting.
+And I think that with in this different setting, the the problem with the subjectivity that [PERSON8] mentioned, and I agree that is very important, but it may be less uh less severe.
+So, I think there - it could work, but it could w-
+We should probably train it differently uh to to get the most of that.
+(PERSON6) But also, if we detect uh detect something using this this model, then then we can know that <cough/> that there was a problem in -
+(PERSON8) Actually -
+(PERSON6) in translation.
+(PERSON8) Actually, I think it would make the task much easier, because since we are not expecting anything bad, so anything bad that is there can just be removed.
+I I'm not sure how how well it will perform, but uh yeah, i- if if it seems hateful in general, we can just remove it, because we are not expecting the speaker to say it.
+So, we know that if it's hateful, it's just bad.
+So, we are not showing it.
+(PERSON8) Yeah.
+(PERSON17) So in in other words, the the ASR should make a different hypothesis that's <laugh/> that would be the only ildi- ideal behavior.
+Like that that in in your ear, there would be this positive filter.
+You never you would never ever understand the the bad word at all.
+(PERSON8) Uh yeah, something like that.
+Uh I mean, we can just say in in the profanity uh filter part -
+We can just look out for hateful comments or or the ha- or hateful uh sentence, and we can simply remove it uh.
+(PERSON17) Yeah.
+(PERSON8) I- it will be like a sentence was said, but it's not transcribed by ASR.
+I- it is actually transcribed.
+We will have it in our logs, but it won't be displayed on the subtitling platforms.
+(PERSON6) Yeah.
+It will be like hidden.
+(PERSON17) Yeah.
+So, I see that as a great option for someone who would like to supervise a student so it could be whatever [PERSON11] or [PERSON14] or or -
+[PERSON6], I don't know if you have any any stu-
+No, you don't have any.
+You're not.
+You don't have any bachelor students yet, because you are still studying <unintelligible/> right?
+(PERSON6) I have some at [ORGANIZATION6], who might be interested, but -
+(PERSON17) Yes yes, that would be easier.
+We could we could also then employ them e- easier because they are -
+They will be czech citizens.
+(PERSON14) Well, maybe uh maybe I can ask my student, because we haven't agreed on the bachelor's thesis.
+(PERSON17) Well well well I think he should he should stay with the non-native English accidents.
+(PERSON14) Okay okay.
+(PERSON17) Fi- find another one. <laugh/>
+(PERSON14) Okay.
+(PERSON17) Yeah, uh uh okay.
+So so we see and again like a good space for uhm for research.
+Uh and the uh here the last item that I had on my list was shortening MT, and that's uh in [PERSON6] so uh -
+[PERSON6], but also 
+Who was that who was that?
+The two more people, [PERSON13] uh and then one more person was uh was uh somehow related to to this task of shortening MT.
+I'll I'll I'll think about that - working on that.
+(PERSON8) [PERSON17], I just wanted to ask one more thing.
+Uh so, oh for that task, can I uh ask the <unintelligible/> students who are already in <unintelligible/> for their first or second year.
+If they are interested in doing that then, maybe since they will already be in Prague -
+(PERSON17) Mhm. 
+(PERSON8) <unintelligible/>
+(PERSON17) Yes.
+(PERSON8) <unintelligible/> it will be equivalent as the other student.
+(PERSON17) Yeah yeah.
+(PERSON8) I'll ask if -
+(PERSON17) Yeah.
+(PERSON8) one of them is interested.
+(PERSON17) For the for the positive speek, for the profanity filtering.
+(PERSON8) Yes.
+(PERSON17) Yes, please do, definitely.
+That would be useful.
+Okay well so, thanks a lot for your time.
+Uh if you pl- 
+I would still like to ask you, please read the experience of others, record your experience from the most recent sessions and also, if you are short of ideas, read the uh the problems in the Monday tests document.
+And uh if you spot any other ideas that like could be uh fruitful.
+Put them here.
+Let's lis- let's discuss them next eh eh next week as well.
+Uh I'm happy to see that actually we have covered by someone to some extent the these topics that I found, but there is probably more and uhm uhm -
+Yeah, we just need more people to do that.
+Uh so, with that I would probably end.
+Is there still anything that we should add discuss today?
+(PERSON8) Um I don't have anything else.
+Okay so, other than like saying that my visa is approved, and I'll probably be in Prague in January.
+(PERSON17) Yes, so that will be great, if you if you finally make it.
+You you will be the first one who who really makes it to Prague, because people from - o- others are struggling.
+So please do arrive. <laugh/>
+That would be that would be very very useful.
+Uh so, we will have one more this call next week eh and then uh it will be already the Christmas Day and then uhm the the New Year's Eve, so two weeks of of a break from these Thursday calls.
+And then on the 7th of January we'll meet again.
+So next week and then in January.
+(?PERSON10?) Okay.
+(PERSON17) Yeah, okay.
+So, thanks uh very much uh to all of you for the attendance and for your patinence ehpatience.
+It was to- too long today and talk to you individually and also next week.
+(?PERSON10?) Thank you.
+(PERSON17) Thank you, bye bye.
+(PERSON16) Thank you.
+(PERSON14) Thank you, bye.
+(PERSON19) Thank you, bye

@@ -1,0 +1,489 @@
+<other_noise/>
+(PERSON2) Hi, [PERSON1], can you hear me? 
+Hi, [PERSON1], can you hear me? 
+(PERSON1) Yes, hi, I am -
+(PERSON2) How are you doing? 
+Today you came to a [ORGANIZATION1]?
+(PERSON1) Ah I'm eh eh eh at the office today, in the office.
+(PERSON2) Okay, yeah.
+(PERSON1) I just decided to enjoy walking here.
+(PERSON2) Yeah.
+(PERSON1) Is the [PERSON3] joining? -us?
+(PERSON2) Yeah. () I was just going to message in the group that I'm only - I chose them the meeting - meeting today or not.
+(PERSON1) By the way, did you () do [ANNOTATOR1]?
+(PERSON2) Mhm?
+(PERSON1) The annotator?
+(PERSON2) No?
+(PERSON1) Eh the [PERSON3] was supposed to do (here) on Friday.
+Aha, actually () talk about it - 
+Well, okay, le's wait for him.
+(PERSON2) Should I call him?
+I think, is he joining?
+(PERSON1) Probably yes, thank you.
+(PERSON2) You probably join - ah-
+<other_noise/> 
+He is not answering the call, also.
+I hope everything is fine.
+(PERSON1) Mhm?
+(PERSON2) He's not answering to the call. -eh-
+I just hope he will join soon.
+Ah, he joined. 
+Hi ().
+(PERSON1) Hi.
+(PERSON3) Can you hear me?
+Hi.
+(PERSON2) Yeah.
+(PERSON3) Oh, okay.
+Oh, I missed you call.
+(PERSON2) Yes, I I ()  you usually are there on time.
+So I noticed () (  when didn't () came). because everything is fine joing or not.
+(PERSON3) Oh no, everything is fine.
+Looks like we have to, like, replan everything now.
+(PERSON2) Yeah.
+(PERSON3) So, the thing is that we are not going for (fisher) sessions, right?
+(PERSON2) What is the last mail? ah
+I think [PERSON1] can translate that for us, what the person has returned?
+(PERSON1) uh-huh that czech text you mean, you mean.
+(PERSON3) Mhm, yes.
+(PERSON1) Oh, nothing serious.
+I will translate it, that is actually not.
+um um  um 
+ah "thank you for the email.
+We had a  tech- a tech- technical communication meeting.
+And, eh, the results are the following, that eh their eh papers for for special sessions should fill the same criteria as all other papers and the same timelines.
+Eh So if you want eeh,
+If you plan to make a special insurance session, you should, eh
+Ah, just follow these rules.
+And if it would be a satalit event,
+You should do what you want, just (to) coordinate it with something like (umes) and (two more high),
+I do not know what's that.
+ ah important date is that ah, okay 
+The articles are not in the Proceedings of Intra Speech.
+(PERSON2) So I think the same uh was written by ().
+(PERSON3) so I actually knew about this satellite event.
+So this is usually for some full fledged  workshop.
+Uh not really for shared tasks, which are very focused.
+But uh like this gives us much more flexibility and freedom to choose our event, or also like accept papers.
+Ah, but the thing is that we have to do much, like, almost double work, with this.
+(PERSON2) So that means it is going to be eh like, eh,  we are going to uh handle the track alone, right, is it so?
+or did i understood - 
+(PERSON3) Yes,yes,  everything.
+So it is like a mini conference.
+It is like a mini conference that you want to do.
+(PERSON2) Okay, mhm
+(PERSON3) It is entirely independent of interspeech to program committee.
+He knows speakers.
+Everything we have to choose, okay?
+And uh then, like uh inters speech, will only be there,
+They will just promote our uh workshop in their webpage and nothing else.
+(PERSON2) Now, what do to (?)refine the proposal.
+(PERSON3) Yes, 
+(PERSON1) a satellite.
+(PERSON2) The proposal is going to be up there?
+(PERSON3) Yeah, there, yeah, yeah.
+There are many things now we have to figure it out.
+(PERSON1) (), may I ask you, do you want to do that?
+(PERSON3) Yeah, um, we do not have any option right now,
+(PERSON1) but there. eh eh another option is this next conference,
+I forgot calling or not, calling, something different 
+(PERSON3) (sick) dial
+(PERSON1) (sick) dial and uh () we can make a shared task.
+ Yes?
+(PERSON3) Yes.
+(PERSON1) And why not to do a shared task at (sick dial)
+(PERSON3) I would propose both, [PERSON1], we should do both, like we don't know that.
+Uh if we, uh,  if we apply this, we will get eventually accepted.
+(PERSON1) Mhm,
+(PERSON2)  then what after if we don't get (sick dial) like, do we have some other option as well? after sick dial?
+(PERSON3) Oh we have to go on saying(?), we have to go for uh. (??)
+Ah, I should be spoken language technology workshop.
+But I'm strongly feeling from uh, like whatever on this said that our uh work is not exactly in the domain of speech, it is (unhealthy).
+So uh so, because there is no thing like no concept of speech here.
+We are directly working on text.
+So I'm resonating what on this state, um.
+But the thing is that the proposal for a statistical workshop this year is over, which was in September, which was too early for us.
+And the next proposal would come for 2022 would, which would be too late for us.
+So uh, any of what I would propose this like.
+Um, eventually we have to try and see uh like uh.
+It is better that if we get either of the two um sectile or interspeech, because both of them are well recognized in the community and our like.
+We can motivate participants to submit.
+Ah, the only the only caveat that I'm finding now is going with interspeeches like they won't allow us a space in the proceedings, which may deter some of the participants, like, Um, like, I am not sure that how much, how much they will be excited to publish a paper in (), or archive is a big no.
+So in in archives, people can publish any time, right?
+So that is not a a benefit to their profiles.
+So how to motivate uh participants to join our shared task.
+Uh if there is no endorsement imposing from inters speech mhm.
+So this was the reason that I especially uh vouched for the special session.
+But this time, the problem is, what I can understand is the last time that that before.
+The like uh time periods between proposals, submission and your uh
+Final paper submission was five months, so it would have enough time for our schedule, but this time
+It is only three months so uh.
+Yeah, that is one () here.
+(PERSON1) Uh May I just make clear one more thing.
+(PERSON3) Yeah, yeah.
+(PERSON1) If we made a kind of workshop.
+So we now make a proposal for the workshop,
+We either get it or not.
+If we get it, we are right to our participants.
+So we make an advertisement.
+"Please take part in the shared task."
+Ah, ah ah  or workshop.
+So they are suppo- suppose during these three months to, ah, write a program.
+So to make.
+Ah, this.
+Ah, minuteing somehow.
+And write a paper also beforehand,
+During these three months, the year was a separate paper on the topic.
+Ah, at this (), together with the shared task.
+Yes, or how is it () does it work?
+(PERSON3) And so if we are going for special like ah if you are if you are supposedly accepted for a workshop then we have much more independent than special sessions, so it is entirely up to us then when to float the deadline.
+Ah, how should we do the review process
+Everything.
+So we are free to choose everything for this.
+But for the special session, we have to strictly follow whatever () 
+(PERSON1) ()special sessio- session anymore.
+It's  ah clear.
+I'm asking about the workshop. Eh
+(PERSON3) Okay, so what's-
+(PERSON2) Ah,
+(PERSON3) Yeah
+(PERSON2) one more thing Ah, which is coming to my mind, is if we have to prepare, like, in three months, like all the, if you are just emailing all the participants to take part into it.
+And is our data, yeah prepared for it?
+ because all the participants are going to ah
+Oh, eh experiment with our data, right? The ()-	
+(PERSON3)Yes, so I think in three months our data (). 
+like the proposal submission, the last state of submission committing the proposal is ().
+And before that, we have to get an isd endorsement that the speech community is endorsing our proposals, then only we can submit uh the the workshop proposal, and then they will let us know by March fifteenth.
+So by March fifteenth, we know that whether we are, we are accepted in interspeech workshops.
+And then we have to write- write our call for proposals and stuff.
+But before submitting the proposal, ah, we have to get everything ready, like the website uh our program committee, key notes, the program, everything.
+And then only uh uh, we have to make a full pledged um proposal for like my workshop program and then permit, and that would request time.
+(PERSON2) hm
+(PERSON3) ()
+(PERSON2) so, when, when is the date
+Ah, for submitting uh the full papers of participants?
+If we conduct a separate workshop, 
+(PERSON1) <unintelligible/>
+(PERSON3) <unintelligible/>
+(PERSON1) <unintelligible/>
+(PERSON3) <unintelligible/>
+(PERSON1)I will be back in two minutes.
+Yes? I'm sorry,()
+(PERSON3) so um it should be very much double work.
+(PERSON2) Yeah, so uuh
+(PERSON3) like many things, I, yeah, yeah , yeah
+(PERSON2) so um right now is the deadline same? for satelite? is it ()?
+(PERSON3) no no no no no no for 
+(PERSON2) When is-
+(PERSON3) um for the satelite event it is february 28
+But before that, we have to submit the proposal any time.
+Okay, like as soon as possible and get endorsement.
+And once the endorsement is there so there is (two stage) processes.)
+One is endorsement from [ORGANIZATION3].
+And then [ORGANIZATION3] endorses, we have to uh uh submit, yeah.
+(PERSON2) Okay
+(PERSON3) Submit and then they will pay.
+So it's a long procces () but, but it's okay. () we have to now look for proceedings
+Ah, take care of all those stuff on our own.
+(PERSON2) mhm
+(PERSON3) ()I know since I am like I.I I did this for the past year.
+It is too too much heavy.
+(PERSON2) And ah so anyway, we have prepared the uh uh this document.
+We can send- 
+(PERSON3) mhm
+(PERSON2) -it to sigdail no? for the shared task.
+(PERSON3) yeah yeah yeah yeah yeah ()
+(PERSON1) and they, if they
+(PERSON3) () january 15	
+(PERSON1) if they accept us both to sigdail and ah ah 
+This interspeach w-
+(PERSON3) interspeech, we do both
+(PERSON1) What?
+(PERSON2) ha ha
+(PERSON3) We do both
+(PERSON2) Yeah
+(PERSON1) really?
+(PERSON2) laugh
+(PERSON3) yeah
+see, eventually it will be online.
+So there is no travel just uh like we have to manage this submission
+I don't think, so.
+I, I think that () better on this will er never better say.
+But if you are to ask me,
+I will do both then, because both have a very good visibility.
+(PERSON1) Yes, but uh can we find so many participants?
+(PERSON3) I think so
+(PERSON1) yeah, okay, okay,
+(PERSON3) I think so,
+Because uh since it would be entirely on to us, we don't need place submission.
+We can even do with five, six submissions.
+(PERSON1) Mhm , okay
+(PERSON3) like, I've seen workshops in esl ? having two or three submissions only.
+So still, they are doing the proceedings and stuff.
+So that's not a problem.
+(PERSON1) So () You are ()to go to both.
+And to begin with.
+Ah, workshop now.
+(PERSON3) Yes, yeah, but it, it,  but it means double work.
+That's what
+(PERSON1) yes I understand, but you're very good.
+(PERSON3) laugh
+(PERSON1) laugh
+(PERSON3) laugh
+(PERSON1) My response laugh
+(PERSON3) laugh
+(PERSON1) laugh
+(PERSON3) uh, yeah
+(PERSON1) ()
+(PERSON2) ()  okay, okay
+He just replied to the email.
+(PERSON3) I talked to him, and there was some things I am, () () and so he just agreed.
+(PERSON2) Yeah.
+He just said, Agreed.
+So I thought, That is a new information. () new message
+(PERSON1) yes
+(PERSON3) laugh
+Yeah, okay, uh.
+So I think I need to settle down a bit.
+Last three, four days, it was too too much hectic for me.
+Uh I like to reorient everything.
+Okay, uh so um uh like uh.
+The thing is that our proposal is almost a () to complete.
+But we have to take our institutional membership.
+For, like uh for like for all of us, to submit to the [ORGANIZATION2] workshop application portal.
+So for this, I need I shoul- like um I should contact (),
+(PERSON1) I missed the point, sorry
+(PERSON3) so we uh we have to to take membership to submit the proposal.
+(PERSON1) What is membership?
+(PERSON3) membership to [ORGANIZATION4].
+(PERSON1) I don't know, really, ()
+don't ask me about these administrative plans.
+I have no idea.
+(PERSON3) Oh, okay.
+(PERSON1) So I can make the data.
+I can read the texts, uh but I can never um.
+So uh I uh understand this organizational points.
+(PERSON3) Okay, no, I'm just asking, hold on, yeah,  Well, we have to pay some fees somewhere for our work- uh workshop.
+To whom should I ask like if if we have to ask on the right.?
+(PERSON1) Yes, Aha, Andre and Hero for what ().?
+(PERSON3) Uh, Okay, okay, I got it.
+So we have to pay two, fourteen rows for institutional ()
+(PERSON1) uh
+(PERSON3) membership.
+(PERSON1) yes, I think it's not a problem at all.
+But, Ah, ask uh ask uh [PERSON4].
+(PERSON3) Okay, okay.
+ so uh do we want to discuss about the proposal content for the workshop now or-?
+(PERSON1) N- no, I don't know what.
+(PERSON3) Okay, so let me prepare this as part of the content that is required.
+I have to study some ah other satellite events that I got accepted to an interspeech last year. so we have to again reorient this thing.
+(PERSON1) mhm
+(PERSON3) And the the additional thing we have l- we have to do () management, uh and um, () management and specialy we have to () the program committee now. and make a website for our propo- for our uh shared task.
+(PERSON1) yes.
+(PERSON3) And what else?
+Interspeech??
+(PERSON1) (so) really big work
+(PERSON3) noise
+(PERSON1) all ?of it.
+(PERSON3) And and uh another thing [PERSON1], so uh can you tell us a bit more about ()?
+And I will, I'm like not aware of this (german)?.
+(PERSON1) Hm, noise I would pr- um.
+I would rather advise you to Google it.
+I do not know um much more.
+(PERSON3) Oh, okay, 
+(PERSON1) And I'm not really interested in all these points.
+I've never searched so that ?.
+So may I probably published there something once or twice.
+But oh, I didn't make a resea- a research about uh what so-
+(PERSON3) () Ufal? Okay?
+(PERSON1) uh pro- uh I don't know, probably not just (), it probably has some points, I don't know which points, really, don't ask me about it, I don't follow it
+(PERSON3) mhm
+(PERSON1) either Google it or aks [PERSON4].
+(PERSON3) yeah i got it
+(PERSON1) TR?
+(PERSON3) yeah yeah yeah
+(PERSON1) () things that I never understand
+(PERSON3) mhm
+okay so [PERSON4] i- i- is the technical (), so it makes sense
+(PERSON1) yeah probably, yeah, I'm very very antiorganisational type
+(PERSON2) Which journal?
+(PERSON3) noise [PROJECT2]-
+(PERSON2) Oh
+(PERSON3) -Linguistics
+(PERSON2) Yeah, yeah, okay, mhm
+(PERSON3) Are you aware of this?
+(PERSON2) Yeah, yeah, actually uh very good paper ()machine translational publishion(ate?), so I've () -
+(PERSON3) Oh, is it?
+(PERSON2) Yeah, yeah
+(PERSON3) So do you think that uh like uh the participants would be interested uh for our publication?in the- in this- in this journal?
+(PERSON2) depends on depends on the participants actually. <laugh/>
+(PERSON3) Oh, because I have never heard of it.
+(PERSON2) I know I have uh in in like in my uh researcheration?.
+I have read lots of papers, lots of publishioning?? ()
+(PERSON3) oh
+(PERSON2) so I think machine translation
+(PERSON3) maybe mostly focused on machine translation
+(PERSON2) Yeah yeah, so that's why I think I have experienced it
+(PERSON3) But it is very old.
+It was published in 1964.
+(PERSON2) Yeah. Yes, actually the like uh um like all the statistical machine translation?, all the papers
+The core papers were actually in this.
+So, red.??
+But those papers this
+(PERSON3) okay.
+(PERSON2) so they can be interested.
+You know, it depends upon person to person.
+So if he's aware of this, then I think he can be interested in.
+If he's not aware, then probably, I dunno
+(PERSON3) mhm
+(PERSON2) it really depends
+(PERSON3) and is it indexed?
+Or, let me think - 
+(PERSON2) I think it is indexed. () like it is indexed in uh like uh all Google's call? and all that.
+But uh let's give it 
+(PERSON3) Okay.
+(PERSON2) some ().
+I think. () editorial board members are really uh interesting to see
+(PERSON3) on the you there ???. (so that's good)-
+(PERSON2) on the you there??? <laugh/> ()
+keyboard sounds
+(PERSON3) hm, anyways
+So I think uh.
+This would be easy for us, like if we have to do (pvml).
+Uh 
+(PERSON2) yeah, even if you see to the uh website of it,
+They have mentioned
+(PERSON3) mhm
+(PERSON2) that machine translation corpus linguistics and morphologies in Texas, semantics? is what is ()-
+(PERSON3) yeah, but I'm trying to look at the uh where it is indexed.
+Because, you know, like uh to a new person, 
+(PERSON2) yeah
+(PERSON3) um, they would probably (see) go for where it is indexed.
+(PERSON2) Yeah
+(PERSON3) so (same?) bblt? it? is not indexed.
+keaboard, distant noise
+(PERSON2) It is not mentioned on the website, I wonder why.
+keyboard
+(PERSON3) So one good thing for uh going for sigdial would be, ah, if we go for sigdial,
+Ah, the proceedings would be indexed with (ethylanthology).
+(PERSON2) Um, that's a g- hmm that's a good positive point.
+(PERSON1) I would say that sigdial is better than interspeech workshop.
+Less work-
+(PERSON3) Yeah, less work
+(PERSON1) Less work and intent- uh more intensive output.
+(PERSON3) Yes, I agree.
+Okay, so it is indexing Google (Color).
+(PERSON2) Yeah, (Google's car I have seen.)
+So despite of that I don't have ().
+noise
+(PERSON3) So it is uh the Muslim machine translation.
+It is already uh written in there.
+(PERSON2) Yeah, yeah
+(PERSON3) in that description.
+Okay, 
+(PERSON2) yeah, 
+And uh uh core (energetic), like uh
+(PERSON3) mhm.
+(PERSON2) () linguistics morphologies in t()
+(PERSON3) But I don't see any kind of like proceedings in this journal 
+(PERSON2) uh Proceedings. uh, yeah
+(PERSON3) proceedings of any-
+(PERSON2) Yes, yes,
+(PERSON3) workshop ()
+(PERSON2) yes, yes.
+any kind of conference or() of Yes, Yes,
+(PERSON3) Okay, but I think if we are to do it on, (January 15th?) of that uh
+(PERSON2) Yeah
+(PERSON3) okay, so uh
+(PERSON2) did he mention some email? Uh, did they skip? something?
+Did he mention that we are going to publish it. ()-
+(PERSON3) Yeah, he says, that uh either, either we can go for archive, or we can go for (pvml).
+So, archive is, is no, because, yeah, it.
+It won't motivate anyone to submit.
+(PERSON2) Hm. So I think (pvl) is very famous to the entire machine translation community at least.
+(PERSON3) community, right.
+(PERSON2) So, yeah, so uh not aware of () summarization and all people.
+So 
+(PERSON3) yeah, that's the point ()-
+(PERSON2) So maybe we can try -
+(PERSON3) Uh, I, uh, I kn- I know something called Uh [PROJECT1] from (elsevier).
+(PERSON2) Mhm
+(PERSON3) Uh, so if you have any something where they host, they like they can host, um, the proceedings of some conferences or workshops, but I'm not sure that uh if they will charge for that, and if they charge, how much is the charge
+(PERSON2) Uh, () also has some uh specific uh those, uh uh for the, like uh a what they have, the journals, specific journals.
+like this, ()?
+(PERSON3) Hm -
+(PERSON2) like applied science and something there are after a certain there is specific something.
+So are you talking about something specific or - ?
+(PERSON3) No.
+I'm talking about (thisestering) (as severe) () conference proceedings from from El Severe.
+Let me post the link.
+keyboard
+(PERSON2) And where is it indexed?
+(PERSON3) () it seems a bit () it will get indexed in (Cosmopile) (Google color), all the major () conferences.
+(PERSON2) Mhm. Okey maybe you can ask Ondřej, I think, about this.
+(PERSON3) Yeah, let me um let me connect to -
+(PERSON2) that () index, I guess, so?
+(PERSON3) yes, (), it will definitely be because it is (), but I think it will also be indexed in others like () or something
+(PERSON2) mhm.
+noise
+breath
+noise
+Like, if I would have been so, I would have ? actually preferred (bbl) over ssr. <laugh/> () -
+(PERSON3) pvl over ssr?
+(PERSON2) <laugh/> yeah
+because actually I've read like () papers, so I have a very good image of pvl <laugh/>
+(PERSON3) oh pvl, okay, yeah, yeah, yeah
+(PERSON2) yeah
+(PERSON3) I can understand.
+(PERSON2) The quality of paper is very good, and yet, () have read.
+(PERSON3) Yeah, for machine translation?
+(PERSON2) Yes.
+(PERSON3) breath oh, okay
+keyoard
+noise
+(PERSON2) () pvl is also open indexed.
+(PERSON3) Open-
+(PERSON2) Yeah, open access, and uh, it is uh indexed by () directly? of open access journals.
+(PERSON3) Mhm, Okay, uh you checked it?
+(PERSON2) Yes, I checked it from the website of-
+(PERSON3) Mhm.
+keyboard
+Okay.
+(PERSON2) hat can be one uh positive point about () that it is open access.
+(PERSON3) Yes.
+Okay, so
+(PERSON2) But-
+(PERSON3) Another thing, another thing that we can do, but i have to ask, like we can uh uh we can also do it as part of the ().
+I think so, I have to ask my other coeditors, if that is possible.
+(PERSON2) Hm.
+(PERSON3) So () has a very big visibility among the () community.
+Okay, so I think maybe we can (differ) this discussion with [PERSON4].
+He would propose something better, um.
+Anything else we had to discuss today?
+I think it was mostly the proposal, right?
+So that we are not doing, uh, so we have to revise this and leaves down the thing that we need to do for uh the satellite event.
+Okay.
+Then uh then meet tomorrow then?
+Uh maybe by tomorrow, I can come up with something that what are the additional works, we need to do.
+(PERSON2) Yes.
+And, yeah, (), thank you very much for willing to do that, uh, I'm sorry that I can't help you on this stage, so I really, I have ()-
+(PERSON3) No, no, <laugh/> it's absolutely okay [PERSON1], uh like -
+(PERSON2) () I will be really glad to help in some potential things, I will, really, uh, I will be glad to read the proposal and to uh  write some chapters to the proposal, uh, uh, so ()-
+(PERSON3) Yes, sure, [PERSON1], sure, sure
+(PERSON2) (), yeah.
+(PERSON3) Your, uh, your input is absolutely () at uh at every point.
+Uh.
+The only thing is, like, everything is okay, the only thing is we have to do double work, uh, that's (), uh, <laugh/>.
+Otherwise everything is fine.
+(PERSON2) Yes, yes, unfortunately it's double work.
+Okay, thank you.
+(PERSON3) Oh, okay, okay.
+Uh, so we meet tomorrow.
+(PERSON2) () yeah.
+(PERSON3) You too, you too.
+(PERSON2) <laugh/>
+Thank you.
+(PERSON3) Okay, okay, bye then.
+(PERSON2) Bye, bye.
+(PERSON1) Goodbye.
+(PERSON3) Bye.
+breat

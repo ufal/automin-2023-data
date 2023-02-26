@@ -1,0 +1,570 @@
+(PERSON1) <other_noise/>
+(PERSON8) <other_noise/>
+Hi [PERSON1], (could) you hear me?
+(PERSON1) Yeah, hi [PERSON8], I can hear you.
+(PERSON8) Okay, good, because I just arrived to Iran,
+and-
+(PERSON1) Oh, you-
+(PERSON8) <laugh/>
+(PERSON1) (are) back to Iran.
+(PERSON8) Yes exactly,
+now I'm hacking from there,
+so just I wanted to be sure everything is working,
+because now I'm using my phone (and not) the computer, are you-?
+(PERSON1) I'm good, you?
+(PERSON8) I'm fine, and (everything) is fine.
+(PERSON1) Mhm, so-
+(PERSON8) <unintelligible/>
+(PERSON1) Eh, where <unintelligible/>-
+(PERSON8) <unintelligible/>
+(PERSON1) to Iran,
+I mean you-
+(PERSON8) Hm?
+(PERSON1) were in Prag.
+You were in Prag so you went back to Iran.
+(PERSON8) Yes, yesterday morning I arrived.
+(PERSON1) <unintelligible/>
+(PERSON8) Hm?
+(PERSON1) Eh, like, was there any specific reason?
+<unintelligible/>
+(PERSON8) Oh no, no, it's for New Year,
+just coming back a little bit sooner.
+(PERSON1) Okay, okay.
+Hi.
+(PERSON7) Hello, good to see you.
+(PERSON8) Yes, (hi) [PERSON7],
+(PERSON7) Yes-
+(PERSON8) Yes I just- yes I just arrived to Iran and I was talking to [PERSON1] about that.
+(PERSON7) Mm, about what?
+About-
+(PERSON8) No, no, I just arrived- no I just arrived-
+(PERSON7) <unintelligible/>
+(PERSON8) I- I-
+(PERSON7) yeah, yeah.
+(PERSON8) <unintelligible/> so I wanted to check if my voice is okay.
+(PERSON7) Yes, its good.
+Eh, I'm in the corridor here,
+so I'm supposed to wear the mask but yeah,
+(but, no one see),
+but eh, another colleague will come probably eh, in a second, yes,
+so I'll switch to loud speakers.
+Is it still okay?
+(PERSON8) Yeah.
+(PERSON1) Yes, it is.
+(PERSON7) Okay <other_noise/> so eh, <other_noise/>
+since you are here eh, now,
+I'm very curious about the progress or problems that [PERSON1] is possibly having.
+(PERSON1) Okay-
+(PERSON7) <unintelligible/>
+(PERSON1) eh, yeah, the (librolum) that I'm (in right now),
+eh, in automating the [PROJECT1] data set is eh,
+so eh, we normally use the (Petri environment, virtual environment),
+eh, in, in ou- eh, eh, in our (pipelines).
+But eh, <unintelligible/> (users) are different,
+eh-
+(PERSON7) <unintelligible/>
+(PERSON1) <unintelligible/> (right away)
+(PERSON7) <laugh/> oh.
+(PERSON1) Yeah.
+(PERSON7) Eh, okay, so I haven't thought of that as a problem,
+but yes,
+eh, so eh, that requires a special environment, which will combine these two, right?
+And are they compatible or incompatible?
+(PERSON1) I think it is compatible,
+there, is eh, couple of things which eh, couple of packages which are missing,
+so eh, today eh, about around (one hour and one hour) to us,
+I, I&#x27;ll eh, have a call with [PERSON9],
+(PERSON7) Mhm.
+(PERSON1) and then eh, we'll figure out which packages to install in the (Petri) environment.
+(PERSON7) Yeah, eh, so there's eh, another thing,
+eh, maybe it's not a good idea to combine these two runs to one setup.
+I think it is actually better if you run it separately and save the outputs.
+So you first use the environment for (cruise) control and the processing,
+(PERSON1) Mhm.
+(PERSON7) and you collect all the output files,
+and then you run the evaluation.
+And the reason for this split is that you can (paralyze) more.
+So there will be problems on various fronts, I'm sure,
+and we need the numbers very soon.
+So, if for example, some of the test files will fail for some reason,
+eh, then eh, you can still keep the eh, the translation running for the remaining ones,
+and re- re-evaluate, with (a sel T F), the missing ones, and, and so on.
+So eh, it's, the point is not to create eh, a serial, sequential processing that includes both,
+but the point is to get the results, and it's actually better to do it, like eh, as, as a way for in in s- in slices.
+First get all outputs, then we get all evaluations.
+(PERSON1) Yeah, so uh, I mean uh, right now, I was doing the same,
+so I have separated the eh-
+(PERSON7) Mhm.
+(PERSON1) the, the script that I wrote, that I (had written earlier),
+eh, that had oh, both of it combined,
+but right now have separated it,
+so I was <unintelligible/>,
+but then I remembered about the (service call),
+so I didn't test it-
+(PERSON7) Yeah. (A) now,
+(PERSON7) Yeah, so-
+(PERSON1) I can test it.
+(PERSON7) Yeah, so please get the number.
+So, so far, you don't have any numbers for (the rebr) right?
+(PERSON1) We have for a couple of that eh, but not every-
+Oh yeah, we have for a couple of that, but not everything.
+(PERSON7) Yeah, so I would eh, really like eh, you to eh, prepare eh, the table in the (delebl).
+So obviously the numbers will be still missing,
+but the table is important,
+because I need to review the structure of the table,
+what eh, eh, what are all the components that you are going to eh, to report,
+for what all language pairs are you going to report,
+I need to check that the table is, is like understandable,
+and then the numbers will arrive.
+(PERSON1) Ah, so about the numbers of which number you would like us to report,
+so there are like a bunch of them,
+(P C N N ceedwer),
+so which-
+(PERSON7) So the- let's, let's use the same eh, set-up that we used for the evaluation in this eh, (serge) eh, no, it's not-
+(PERSON1) Okay.
+(PERSON7) serge, I think- yes the-
+(PERSON1) <unintelligible/> yeah.
+(PERSON7) <unintelligible/> preparing for the eh, (SU1) and meta forum session.
+So let's use exactly that those-
+(PERSON1) Okay.
+(PERSON7) So for most of the files eh, is the setup,
+which includes the segmentation as an evaluation criterion,
+but for the eh, the names files it is eh, just the, the bag of wor- or the set of words.
+(PERSON1) Okay, okay.
+(PERSON7) Well, it is important that, that this is mentioned next to the table.
+(PERSON1) Yeah ah, I mean, I can add it as a (footnote)-
+(PERSON7) (but the-)
+(PERSON1) in the-
+(PERSON7) Yeah, so the table is, is (in the delebl) is technically similar to the table that we were preparing previously eh, for the [PROJECT1] search.
+It would be now just much larger, like more language pairs and more eh, more systems, probably.
+(PERSON1) Okay- (C) Or maybe-
+(PERSON1) so I-
+(PERSON7) <unintelligible/> but more language pairs.
+(PERSON1) Eh, then I think we'll have- eh, okay,
+so we'll probably have to create two or three tables,
+(PERSON7) Yes.
+(PERSON1) like that,
+(PERSON7) totally agree, yes.
+(PERSON1) Okay.
+(PERSON7) And-
+(PERSON1) <unintelligible/>
+(PERSON7) ideally, ideally eh, collect the numbers in separate files,
+and then have a script which compiles these numbers into one table,
+so that the preparation of the table is, is quick and you can quickly regenerate the table,
+so that you do not like, copy-paste the numbers.
+Coping individual numbers is always error-prone.
+(PERSON1) Yeah eh, so I mean the script that I have right now is eh, generating the eh, generating the results in our (tabs) of credit value,
+so it's a (psf) file that <unintelligible/>
+so we can open it with Excel or something else.
+(PERSON7) So can you paste the path name to this file to the search document?
+Eh, so-
+(PERSON1) Which one?
+(PERSON7) Here eh, so eh, [PERSON1] eh, the eh, the (D T S V) file with the results.
+Eh-
+(PERSON1) Okay.
+I mean, right now it wo- have anything,
+because I have just removed it,
+but we have s- results for some of (it),
+but part-
+(PERSON7) <unintelligible/>
+(PERSON1) <unintelligible/> yeah.
+(PERSON7) So please, put some of those <typing/> (TSE) file eh, with results so far,
+and then please put it here into the search eh, document.
+(PERSON1) Yeah, <unintelligible/>
+(PERSON7) Yo, okay eh, yeah, thanks,
+eh, so mah, we really need this,
+it's already Thursday,
+and next week will be, some people will be still working on Monday, Tuesday, possibly Wednesday,
+but then eh, no one will be available in the Czech Republic on eh, Thursday and, and Friday.
+And then eh, people- way it, it depends what, what people do,
+but this is like Christmas break from the 24th to eh, the first is the Christmas break,
+so people are usually on vacation.
+(PERSON1) Okay.
+(PERSON7)  Eh, and-
+(PERSON1) It's alright, I mean eh, oh-
+(PERSON7) Yeah.
+(PERSON1) so, what I am going to do right now is eh, I will basically copy paste the entire thing,
+(PERSON7) Mhm.
+(PERSON1) Eh, I mean the, the script that (I) have in two different folders,
+and then will eh, run it with different eh, the little different eh, (inside workers),
+so that eh, I mean, yeah, so that I have eh, <unintelligible/> let's say ten,
+(well instead of a) output a file by a <unintelligible/> (side worker),
+so <unintelligible/> that we have,
+so I'll just eh, make sure that these things like, for a single file (is there) from all the available workers are getting generated parallelly.
+(PERSON7) Mhm, yeah.
+(PERSON1) Oh, eh, that, that would save our time.
+(PERSON7) Yeah, yeah, this is very important to (parallelize) the eh, everything actually,
+(parallelize) both the processing of the systems as well as the evaluation of the (cell DF),
+because (he) would need to run this many times,
+there will be errors, you need to eh, re-run this quickly.
+(PERSON1) Okay.
+(PERSON7) Okay, so thanks.
+So you are very busy with this, I, I, I don't want to put any, any other things eh, for you,
+so eh, let me start with the reminders.
+We need to finish the eh, description of [PROJECT1] desk set,
+eh, who do we have here?
+Oh well, not really eh, yeah, (it's done) and it's not here unfortunately.
+Eh, so this is, this would be like for [PERSON2],
+then the evaluation eh, this is for [PERSON1],
+but we have discussed this.
+Listen, give me the table (in DSD) let's (put) put the (fine line) here eh, and push eh, the template of the table, like the plan structure into (the delebl) now, so that- the numbers will come later, but I want to see some numbers and the full structure of the table very soon.
+(PERSON1) Yeah, sure.
+(PERSON7) Okay, thank you.
+Eh, we have [PERSON5] eh, that's good,
+so for eh, [PERSON5] eh, I would like to check eh, what is the progress eh, in the evaluation of the systems, and whether you eh, whether you are in touch with eh, with [PERSON1] also for the evolution, which is like eh, more important.
+Can you hear us [PERSON5]?
+(PERSON5) Yeah, yeah, yeah, I'm here.
+(PERSON7) Yeah.
+(PERSON5) So, this is about to- about your last letter or- not yet,
+but I will start with it, probably after two today,
+(PERSON7) Mhm.
+so th-
+(PERSON5) So n-
+(PERSON7) Yeah, the, the last letter is eh, that (calsru) has some modules,
+and eh, we need them evaluated,
+if we eh, (as) like, as we can,
+and there was a letter to both you- I emailed both to- you [PERSON5] and, and [PERSON1].
+(PERSON5) Mhm.
+(PERSON7) So, yeah.
+Just (work) on that so that's eh, so we haven't done anything new in the meantime.
+(PERSON5) Not yet.
+So this is the most eh, important right now, yeah?
+Like this evaluati- okay.
+(PERSON7) (weeks on that) that we have the most (morals) in the integration,
+and eh, the multi-source experiments they are also important, but the (delebl) is kind of okay, [PERSON4], right?
+So eh, [PERSON4], how bad-
+(PERSON4) <other_noise/>
+(PERSON7) about eh, [PERSON5]'s eh, work not being part of eh, no- not extending the current (delebl) eh-
+(PERSON4) So- sorry, what do you ask?
+(PERSON7) So the status of the (delebl) on eh, on multisource machine translation.
+You said It's kind of okay,
+I still <laugh/> haven't eh, looked at that.
+Eh, do you think that it is good to go without (button) providing anything into this very (delebl),
+or-
+(PERSON4) Yes.
+(PERSON7) Yes, yeah.
+So that means that (bottom) multi-source experiments are important,
+but they are not so strictly urgent eh, that eh, they would have to go into (delebl),
+we can survive without that.
+(PERSON5) So they are not going like-
+(PERSON7) They, they are-
+(PERSON5) Not, not this year, not this year.
+(PERSON7) Not, not by (then yet),
+because I-
+(PERSON5) Okay.
+(PERSON7) Yeah, i- if you have them, if you manage to get the, the baselines-
+(PERSON5) Okay.
+(PERSON7) (person of day) five way and forty-three way systems,
+if you have them, that would be great,
+eh, but eh, like if eh, the, the training is something that you probably can't manage in that short time.
+(PERSON5) Okay.
+(PERSON7) So eh, eh, so please eh, so for em,
+eh, what is the (delebl) number?
+It's five eh, no, it's four point something,
+or three-
+(PERSON4) <unintelligible/> four point two.
+(PERSON7) Four point two,
+<typing/> <unintelligible/> four point two,
+eh, eh, evaluations of existing eh, models eh, would be eh, great,
+eh, we do not really expect eh, any results of eh, newly trained systems.
+So [PERSON5], this merges the eh, eh, the eh, yeah, simply focus on the evaluation.
+Focus on the evaluation of existing syst-
+(PERSON5) Okay.
+(PERSON7) And this eh, yeah this- um, the evaluation is like common to both of the tasks,
+both the domain adaptation and the multi-source.
+So they eh, do, do you see it that way,
+or is the evalu- do you see the evaluation differently?
+I see the evolution has common to both these set-ups.
+So t-
+(PERSON5) I only see that the, the models you, you say that the models are not (maran based) those it might be probably something else how to exactly run it, but more or less.
+(PERSON7) <typing/> Yeah, okay,
+so, so simply do, do the evaluations with [PERSON1] and put them to the eh, to the table.
+Eh, yeah.
+Okay, thank you,
+eh, with [PERSON5], I think that, and, and also with [PERSON1], let's eh, let's agree on some time tomorrow.
+So that eh, like we would double check-
+eh, what about tomorrow at ten?
+Would that that be good for both [PERSON1] and [PERSON5]?
+So that we see the status of the evaluations.
+(PERSON1) Yeah, it's good with me.
+(PERSON5) I, I could eh, after twelve,
+is it possible?
+(PERSON7) After twelve,
+eh, in that case let's eh,
+twelve is good for eh, or oh well, yeah,
+yeah, let's do twelve, twelve is fine.
+So eh, eh, t- is twelve good both for eh, eh, [PERSON1] and [PERSON5] as well? Twelve-
+(PERSON1) Eh, yeah eh, twelve is fine <unintelligible/>
+(PERSON7) Yeah, eh, okay.
+<typing/> (on day) [PERSON1], [PERSON5] evaluation outcomes eh, yeah.
+So I'll, I'll try to <unintelligible/> you later, okay.
+Eh, great,
+eh, so, well it's too many documents,
+ehm <typing/> where is the correct one,
+this is the correct one, yeah.
+So then I wanted to say eh, a word about the upcoming sessions,
+eh, the (Malach) eh, conference.
+Eh, I'm not sure about (mandy) seminars.
+I don't know if there is a (mandy) seminar happening on the 4th of eh, January, or- yes, I think one was announced, so yes there would be one eh, (mandy) seminary eh, and eh, an important event will be this (Malach) eh, conference,
+eh, so here we should try
+to do some eh, domain adaptation, eh, but we can- I'll, I'll try to get the data and see what we can do eh, let's not focus on the (delebl),
+this is just for you to know that this is, this is coming,
+and similarly on the same day eh, there could be ehm, eh, (subside link) exercise for us again for the group eh, play.
+Eh, yeah I'm not s- I haven't (received to any) any response yet about that.
+Eh, and then in March, we will have eh, the student eh, companies fair.
+Eh, that would be again an online event,
+so eh, I'll, I'll tell you more later.
+And eh, the tmo, two most important events for the next year will be the (your sicogres) part one eh, in mid-April,
+And the Meta-forum that will probably be (again) December.
+Eh, so <typing/> and there would be eh-
+(PERSON1) Oh, <unintelligible/>
+(PERSON7) Eh, which one?
+(You rusai) congress (yeah),
+this part one is online, right, yes.
+(PERSON1) Yeah, so I, I think eh, I mean, I will start working with the Windows laptop too,
+and eh, see if it will get the (Webex) thing,
+because eh, the audio from the browser is not good.
+(PERSON7) Okay.
+(PERSON1) I'd rather have it from the app then the-
+(PERSON7) Yeah, the, the platform is not yet.
+The eh, platform-
+(PERSON1) Oh, okay.
+(PERSON7) not yet known.
+Eh, [PERSON12] eh, will find out,
+so, okay,
+so thanks eh,
+and then we have a few more minutes eh,
+[PERSON4] has reported and eh, the better release of, of the speech in a (British) corpus,
+that's perfect, eh, and also the (D 4 2) eh, is ready for review,
+so I'll, I'll do first review <unintelligible/> review myself, and eh, the evaluati- yeah, yeah, yeah.
+This is all too confusing, yeah.
+I <laugh/> I reviewed the- I reviewed it myself, but eh, [PERSON4] has already shipped it to eh, the reviewer from (Pervoiz), right?
+[PERSON4], is that correct?
+(PERSON4) Not yet.
+(PERSON7) (Well, yeah).
+Okay, so eh, wait till eh, this evening,
+and if you don't hear from me eh, ship it.
+(PERSON4) Okay.
+(PERSON7) Thank you.
+Eh, so who have we now in the eh, in the call?
+Eh, w- yeah, I think eh, [PERSON11] could s- could report.
+(PERSON11) Eh, <cough/> well I'm, I'm trying to learn eh, (cow bi),
+maybe that's important for the upcoming eh, upcoming eh, events like the (Malach) conference.
+So um, I don't know eh, who else is familiar with existing eh, models f- in in (caldi).
+Maybe, maybe someone can eh, give me a head start with eh, the existing models, and maybe some um, fine tuning (for) these models.
+(PERSON7) So I know that [PERSON10] has successfully (docorize caldi) model by [PERSON3],
+so he can at least easily run it.
+(PERSON11) Eh, but eh-
+(PERSON7) That, that's not like-
+(PERSON11) If, if I re-
+(PERSON7) <unintelligible/>
+(PERSON11) But, by- eh, I think that (dokr) isn't working on (class).
+(PERSON7) Yes, the, the, that's correct eh, but eh, that means that eh, like eh, from just the infrastructure point of view or from the software engineering point of view [PERSON10] knows, how to get starting and what are the inputs and what are the other relevant files,
+(PERSON11) Okay.
+(PERSON7) So not the (dokr) set-up,
+but eh, the, the command eh, itself,
+it's eh, I, I saw it this morning in, in [PERSON10]'s screen,
+so-
+(PERSON11) Okay.
+(PERSON7) (he answered) in some way,
+which eh, gives the performance that, that [PERSON3] had,
+but I don't know the- eh, eh, like how that model was created,
+and [PERSON10] also doesn't really know.
+So, so were you in touch with [PERSON6] on this?
+(PERSON11) Eh, sort of, but eh, I haven't enough time to eh, meet-
+(PERSON7) Yeah, I'm, I'm surprised,
+that I don't see [PERSON6] here today,
+eh, because he still should be available eh, eh,
+and please (speak with him) again and get in touch with him.
+There is some video recorded, eh-
+(PERSON11) From (your launch)-
+(PERSON7) From (your launch).
+(PERSON11) I, I have the video.
+But I haven’t seen it.
+(PERSON7) Okay, so that's, that's important,
+so please have a look at the video and then get in touch with [PERSON6],
+eh, yeah.
+<typing/> so to eh, watch the video by [PERSON3],
+eh, then to contact eh, [PERSON6] eh,
+[PERSON6] is normally not available on Fridays,
+so- eh, <typing/> then to contact [PERSON6],
+eh, possibly [PERSON10] eh, could help eh, with eh, launching of (caldi) understanding what are eh, model components.
+Okay, yop.
+Eh, and eh, in addition to this, we also need to discuss the collaboration with <unintelligible/>.
+Yeah.
+So, yeah.
+<typing/> eh, with [PERSON7] discuss collaboration <unintelligible/>.
+Eh, yeah.
+Eh, so eh, that’s probably better,
+eh, then [PERSON4], I presented you,
+but do you have anything more to add?
+Did I miss anything?
+(PERSON4) Hm, (you) made about my progress this week.
+(PERSON7) Yeah, yeah, yeah.
+(PERSON4) I don’t think so.
+(PERSON7) Yeah, okay, good.
+And then we have [PERSON8],
+eh, so [PERSON8], what eh,
+we have discussed the eh, the (SLTE) and [PROJECT1] test set integration,
+so-
+(PERSON8) Mhm.
+(PERSON7) whom have you successfully eh,
+or has, has [PERSON9] actually eh, successfully eh, been in touch?
+So, for example is, is [PERSON5] now eh, using-
+(PERSON8) Mhm.
+(PERSON7) some (TV) to get the (put) files.
+(PERSON5) Yes.
+(PERSON7) Okay, yeah.
+So the- you are working on the index files as eh, eh, for the a multi- eh, for the multi-lingual set-ups,
+and-
+(PERSON8) Eh, yes, exactly.
+I think because I, I just saw his email, I think eh, (Pudan) could answer the e-mail,
+but just for your information, [PERSON9] is waiting for you,
+if you want to contact him directly.
+We can have a meeting, and also I can be there, because now I'm available from now, and we can talk about any issue about (SLTV) test, (SLTV) and eh, [PROJECT1] test.
+This is the first thing,
+and-
+(PERSON7) <unintelligible/> is there anything,
+is there, is there some issue,
+is anybody blocked eh, or-
+(PERSON8) I think [PERSON1] is in contact with [PERSON9].
+I think all the, I think, yesterday and also today, in one (over day), will- they will have another meeting,
+(PERSON7) Hm,
+(PERSON8) But [PERSON5], I think eh, just in eh, (true) e-mail,
+and they don’t ha- they didn’t have any direct contact.
+But anyway, I think eh, this don’t (hesitate), because both of us are available from now, and just [PERSON7] for your information, tomorrow I will eh, meet [PERSON9] for two or three days in person,
+(PERSON7) In person, yeah.
+(PERSON8) and we will talk about all the small details we have spoken in the (SLTV) and everything.
+And I hope eh, on Sunday evening or Monday morning, eh, it should be exactly the eh, everything should work exactly in the way-
+(PERSON7) <unintelligible/>
+(PERSON8) <unintelligible/>
+Yes.
+(PERSON7) As we still have on this eh, whiteboard.
+(PERSON8) <laugh/> yes, exactly.
+I have the photo of it.
+Thank you.
+(PERSON7) Eh-
+(PERSON8) So yes, that’s the whole thing.
+(PERSON7) There is, there is no step needed from me.
+What I have to do is to eh, see the tables,
+that [PERSON1] will prepare
+eh, the- (B) Mhm.
+(PERSON7) the templates of the tables in (delebl),
+eh, and review the (delebl) that, that [PERSON4] was eh, working on,
+eh, but the evaluation itself is something that you all will handle eh, between yourselves.
+(PERSON8) Yes, just-
+(PERSON7) Thank you.
+(PERSON8) everybody- yes that, eh-
+(PERSON7) Do you mean, do you mean <unintelligible/> [PERSON1], [PERSON9] and, and [PERSON5].
+(PERSON8) [PERSON5], exactly, yeah.
+(PERSON1) Eh, when [PERSON9] can’t <unintelligible/> the evaluation,
+because eh, it needs eh, access to <unintelligible/>,
+and-
+(PERSON7) so that-
+(PERSON8) access to the <unintelligible/>
+(PERSON7) Yeah, so that’s exactly one more reason to have it divided.
+I think that you [PERSON1] should run these systems and put the output somewhere,
+and eh, then [PERSON9], he has access to the cluster, then he can continue from that point and run the evaluations.
+So it’s, it-
+(PERSON1) Oh, yes.
+(PERSON7) there’s no need, there’s absolutely no need that eh, eh, it would- so (cash) as many things as you can.
+This is slow and heavy, this,
+so we need to eh, have the outputs cashed.
+And by the way we also, this is the repository that eh, that [PERSON2] has prepared for the output,
+so em, ha- has [PERSON2] eh, been in touch with you?
+Eh, because-
+(PERSON1) Yes ah, so I, I ah, I spoke to him yesterday,
+and I explained to him the working of the script that I sent him,
+(PERSON7) Mhm.
+(PERSON1) So eh, (but) today also, we have a call around one PM.
+(PERSON7) At one PM, with [PERSON2], right?
+(PERSON1) Yeah, but (then one to three) we’ll have a call,
+so [PERSON2] is free only then,
+(PERSON7) And do you-
+(PERSON1) Eh-
+(PERSON7) do you have eh, the exact time for that,
+or not yet?
+(PERSON1) Eh, I don’t exact time for it right now,
+but <unintelligible/> at one,
+and eh, ask him when is he available.
+(PERSON7) Yeah, okay.
+So I’ll pro- I would like to join, because I think it could be eh,
+eh, it could-
+(PERSON1) So, I mean, (in that) eh,
+(PERSON7) So today eh, I have call at two,
+so at one it would be good for me.
+(PERSON1) Oh, I’ll, I’ll speak to him.
+I’ll just, you know, e-mail him (in last go).
+(PERSON7) Yeah.
+(PERSON1) (if he’s) free at one.
+Oh, so I mean ah, with [PERSON2], what I'm, I mean, what I’m planning to do right now,
+is I’ll just let the task of generating (as are).
+So eh, the script is there,
+all it need to do is (past) the eh, fingerprint of the (SR) and it will keep generating the results.
+(PERSON7) Yeah, yeah, so I've, I’ve sent a-
+(PERSON1) So eh-
+(PERSON7) calendar,
+I’ve send the calendar in white for one today to you and [PERSON2].
+(PERSON1) Okay.
+(PERSON7) That sounds all good.
+So eh, that’s probably everything, right?
+Is there anything else we need to discuss?
+(PERSON1) Um, not specifically.
+(PERSON7) Not, not at the moment.
+I need to review the (delebls) and, like say if anything is missing,
+but otherwise we’re probably all set.
+Yeah.
+So yeah, so eh, yeah, it’s okay.
+We can even finish sooner <laugh/>,
+so thanks eh, a lot eh, to all of you for the participation,
+and eh, there will be no eh, call next week of course,
+and there will be also eh, no call on (agree) last day of eh, the year,
+on the New Year's Eve.
+Eh, so we will eh, meet again on the 7th of January in this call.
+So enjoy the-
+(PERSON1) Oh, we have a Monday seminar on the next Monday, right?
+Eh, I’m not sure-
+(PERSON7) 21st?
+I doubt it.
+(PERSON1) No, no, eh-
+(PERSON7) On the 4th-
+(PERSON1) Oh, yeah 21st.
+We don’t have it?
+(PERSON7) Eh, Linguistic Mondays, let’s double-check.
+Eh, no eh-
+(PERSON8) I guess (now yes).
+(PERSON7) What I see eh, on Linguistic Mondays,
+I can (page) the link to the Zoom call,
+eh, where is the (change),
+there is no (change in this).
+Always the buttons-
+So here’s the Linguistic Mondays and it says that on the 4th eh, of January.
+<other_noise/> <unintelligible/> modelling with <unintelligible/> language modules,
+and they <unintelligible/>.
+So I’ll eh, I'll try again emailing eh- 
+(PERSON1) Oh, by the way (on the)-
+(PERSON7) Yeah.
+(PERSON1) Yeah, uh, eh, <unintelligible/> have a chance to go through the CVs,
+eh, that means <unintelligible/>-
+(PERSON7) Yes, yes, I eh, I eh, thought eh, I plan to do it on Tuesday, right?
+And it’s Thursday already.
+Eh, I know, I just realized eh, yesterday night, that I didn’t get to it,
+so, yeah, I, I definitely need to do it today.
+So, thanks eh-
+(PERSON1) Okay.
+(PERSON7) for the reminder,
+yeah, that’s, that’s important.
+So (delebl), CVs eh, and sh- and the, the meetings that are planned.
+Okay, yeah,
+so thanks to you all and if you’re celebrating Christmas, which half of us are doing <laugh/>, then eh, enjoy Christmas,
+otherwise enjoy holidays if you take them,
+and if eh, you are not taking holidays with als- which is also okay,
+eh, then eh, yes, volunteer and, and help me with the (delebls) <laugh/> that, that <laugh/>.
+Or, or work on eh, the long term, the long term goals,
+that’s the various domain adaptations and eh, things like that.
+Okay-
+(PERSON1) Eh, okay.
+(PERSON7) So thank you very much-
+(PERSON1) Thank you.
+(PERSON7) Yeah.
+(EVERYONE) Bye

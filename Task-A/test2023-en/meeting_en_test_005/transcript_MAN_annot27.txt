@@ -1,0 +1,975 @@
+(PERSON2) Hello?
+Hi
+Can you hear me? 
+Yeah, yeah.
+() Hello, hi. 
+(PERSON2) Sorry for coming late.
+I was in the discussion with [PERSON9].
+[PERSON9] is also going to join us in a second.
+And that was on the models that we need.
+So like, what exactly do we want to fur- further improve for the uh the um um for the purposes of of our project.
+So this is our last call before the Christmas.
+And, eh, I would like to hear about the status of the (delbls). 
+I know that I'm myself late with some parts.
+But since this is the last check, then, yeah, what we we need to know about all the problems.
+And then I would like to, which is still not in the agenda-
+I would like to briefly discuss our experience from running the sessions, the [PROJECT5] session that we had and the [PROJECT4]. 
+So that was a harsh week about two or three weeks ago.
+So what is-
+What is your experience?
+And I would like to discuss the the foreseen sessions, and how do we go about them so that like we are-
+we have stabilized expectations from- from everybody.
+So these are my um-
+Main points.
+And I would like to hear if yeah- nobody complains.
+Yeah, so what what else is in in the agenda?
+The payment?
+I hope it's, it's good.
+I hope that you have received, uh, the money.
+Um, is that correct?
+I assume- 
+(PERSON1) Yes!
+(PERSON2) Yeah
+Then-
+Yeah, so that is, I will move this one, so upcoming sessions and we'll start with the (delbls)
+So, [PERSON9] is probably still stuck in that other call.
+So maybe [PERSON12]? [PERSON12] are you here?
+Do we have-
+(PERSON12) Yes!
+(PERSON2) Yes.
+Tell us what is the status of the report of multilingual machine translations
+ 
+(PERSON12) It's almost complete.
+It's ready for review.
+And I'm waiting for more imput from [PERSON14]. 
+(PERSON2) OK, that's, um, that's good.
+Ah, then.
+Ah, the ah, hm, status of the report on integration.
+(PERSON15) Eh, okay, it's done for the per voice site, we are waiting for [PERSON17] to, um
+(PERSON2) Yeah
+(PERSON15) to back.
+Ah, if, if his- if his work is correctly covered, and- 
+(PERSON2) Especially to provide the numbers.
+So we have agreed that [PROJECT2] test set is like the the critical component in the evaluation and our, um, knowledge about the older systems that we have, [PROJECT2] test set is, as such as the dataset is described or going to be described in (the/D) one point five.
+I think it's-
+It's fairly described already, and that it is going to be used eh, and eh, scores on [PROJECT2] test set will be reported in D six point three.
+So that is still not there, right? 
+Do we have there some table, which would say we have these systems deployed in the mediator and their scores for these language pairs are this and that.
+Do we have that or not yet?
+(PERSON15) Okay, I'm going to check it. 
+(PERSON2) Yeah. So please make sure that we, we have this because we have been explicitely asked at the review, on what grounds are you going to choose the actual systems for the sessions.
+And my answer to that was, we are collecting [PROJECT2] test set, and we will run all our systems on [PROJECT2] test set, and based on the numbers, we will choose
+Ah, so
+Ah, for
+Ah, for this.
+Ah, I've been asking [PERSON17] many times already, and he is struggling with that.
+Ah, but ah, ah, [PERSON15], if you also, ah, get in touch with [PERSON17], and and make sure that he manage-
+Ah, he manages to evaluate all the systems that are available in the mediator, that will help.
+ 
+(PERSON15) Ah, okay, I confirm you that it-
+There is no table, um, in the <unintelligible/> at the moment. 
+Ah, we are also waiting for [PERSON8], [PERSON8] contribution in conclusion. 
+[PERSON8]?
+(PERSON8) Yes
+(PERSON15) Did you complete your part? 
+(PERSON8)  Not yet, but we will do it today.
+(PERSON15) Okay, thank you, thank you.
+(PERSON2) Yeah.
+So-
+(PERSON15) After that, we should have finished.
+(PERSON2) Yeah, so I will-
+Ah, ah, I'm the reviewer of this anyway.
+Ah, so I'll also, ah, like, help [PERSON17] and and push [PERSON17] to, ah have the numbers there, within this week, so that I can review it early next week, still before, ah the Christmas Eve, ah, and, ah, I'll actually do, ah, the review of your parts, [PERSON15] and [PERSON8], already during this week so that it is not too late for you to to integrate any additive that are needed. 
+(PERSON15) Okay, thank you.
+(PERSON2)  So I'll start reviewing sooner. 
+Okay, that's good.
+And we now have [PERSON9] on the call, so [PERSON9], what is the status of D 1.5, eh?
+(PERSON9): Okay, so, it is now complete, already for review. 
+So, yeah, [PERSON5] has received, ehm, an almost complete version with sections for ASR, MT, NSLT, but not including the automatic minuting section, but that is now ready, ehm, so I will share an updated version with him, and he can-
+(PERSON2) Yeah
+(PERSON9) yeah, review that final section.
+(PERSON2) Eh, thanks.
+Just to double check, how well is [PROJECT2] test set represented there?
+(PERSON9) Ah, yeah, good question.
+We had, eh, an email discussion about including [PROJECT2] test set a while back, and, ehm, it's it's not actually included in this one.
+So we did quite a good job, I think, in deliverable one point four-
+(PERSON2) Mhm
+(PERSON9) of describing it.
+But there are possibly-
+(PERSON2) Updates 
+(PERSON9) update we may want to include.
+Yeah, so yeah, that is- 
+that is not covered currently.
+(PERSON2) I know that it is- this all faults on our part, actually, so 
+[ORGANIZATION2], but please, yeah, make sure that we put it there. 
+[PERSON3] is the person who should put it there, and [PERSON7] also knows a little bit, but [PERSON3] is- is the main one. 
+(PERSON9) Okay 
+(PERSON2) And he said he was busy, he rejoined [PROJECT2]  from the beginning of-
+For just 10 hours a week, so not much
+From the beginning of December. 
+And he said that he was busy recently, and for example today, he should be able to work on that, um, on [PROJECT2] things again. 
+So please get in touch with him again, and extract that- that from him.
+(PERSON9) Okay, yeah, great
+(PERSON2) Thanks.
+So that's (delbls), I think they are in, like, reasonably good shape, and I'll make sure to submit them before the end of the year, on the New Year's Eve at the latest and, ah, for the milestones.
+ 
+Ah, yeah, so I would just like to hear from [ORGANIZATION3]
+I know that, ah, English, ah, entering system is is out there.
+Hopefully we will have it evaluated on [PROJECT2] test set by [PERSON17] as well.
+This is part of the, like, the table that I wanted to to see there.
+I know that yesterday the German and to-end ASR was deployed, because we
+We have asked for that for for other purposes.
+And  [PERSON12] is reporting some minor bugs with that ASR system, or some minor problems.
+Some characters are not- not produced correctly, like accented characters, which are not native to German.
+But the previous system did have that.
+And there are other minor things so that can be relatively easily fixed, I believe, and it's normal, so it's- it's OK.
+So I would like to check what- 
+what is the status for the other languages, how how the training is is going?
+So [PERSON18], your <unintelligible/>
+(PERSON18) Well, [PERSON11] is the one to ask, but he don't seem here on the call. 
+(PERSON2) Yeah
+(PERSON18) Um, my last status is they were still training 
+(PERSON2) Mhm, 
+(PERSON18) |Um, they are definitely still happening, and what we have new is on the MT side, eh
+We have, uh-
+Let me confirm-
+We have English and German to German, English, French, Italian, Spanish.
+(PERSON2) So you had-
+(PERSON18) And according to Li, by the end of the year, we should have uh five to five.
+And there is plans for more, but
+Ah, I have not heard from him whether that five to five is ready yet.
+(PERSON2) OK, so that means that so, so- so the two to something was English and German into-
+(PERSON18) English, German, French, Italian, Spanish. 
+(PERSON2) English, German, French, Italian, Spanish.
+Ok, eh, so this one is surely ready.
+ 
+And is it deployed, or not yet? It's only on your disk, right? 
+(PERSON18) So we had it deployed, at one point,
+Um, let me see if it is still running.
+(PERSON2) So this-
+This is an important piece of information that we should have had actually. 
+(PERSON18) It is integrated with- the with the mediator.
+I'm not sure whether he is running at this very moment, but, I, can I can make sure that it is.
+(PERSON2) So that single model actually amounts to ah, not ten, a little bit less than ten workers, right?
+But obviously you dont run these ten workers at the same time because of, ah, 
+hardware constraints, or-
+(PERSON18) I think, for one test, we did run most, if not all of them.
+But yes, and in general, we, we like to avoid not running all of them.
+(PERSON2) So now this is-
+(PERSON18) If you want to run some tests on evaluation, we can, we can do it, <unintelligible/> no problem. 
+(PERSON2) Yeah, so definitely I would like this evaluation to happen.
+Ah, and ah, ah.
+So we should have had this information.
+I should have included you in in the call we had with [PERSON9], ah, the previous hour, where I was talking to another colleague of mine, [PERSON16], that he should evaluate the various models and he should also- 
+We agreed that we're going to do English to five models, for- eh, we'd do this 9 times, to cover the 43 target languages. 
+The 5 target languages are not too-
+The, the choice of them is not too critical, we know that it- 
+Like, if they are related, there is a slightly better performance, but- but not much
+So this is what [PERSON16] will be working on 
+Eh, and before starting to train this models, he will evaluate, eh, what is there, available in the consorcium, so he should also evaluate your, your models. 
+And now the question is, these are- 
+Are they [PROJECT3]-based or not? 
+(PERSON18): No, they are <unintelligible/>. 
+(PERSON2) Yeah. 
+So then the easiest way to evaluate them is actually indeed through the mediator, uh, so I will ask [PERSON17] or [PERSON16] to get in touch with you, so that you synchronize and and run the models as- eh, make them available as workers.
+And, eh, [PERSON16] or or [PERSON17] would would get the outputs and evaluate those models, right? 
+And this five to five model is not uh that has not been finished, possi- probably, uh, and if it has been finished, then it is still not integrated, righ?
+(PERSON18) Again, cannot, cannot confirm. 
+(PERSON2) Yeah, yeah, okay. 
+<typing/> Ask  [PERSON17] or [PERSON16] to evaluate this. 
+And now the question is on [PERSON15], if there is any possible optimization so that, eh, I expect the answer is no, but I have to ask.
+<laugh/>
+So that [ORGANIZATION3] does not have to deploy ten workers, if all of them are based on, on the same multilingual model.
+So the model is English, German into English, German, French, Italian, Spanish.
+And we want to cover all the pairs, but we do not want to um, ah, to have multiple workers for this.
+What could we do?
+<laugh/>
+(PERSON15) Ah, probably the, hmm, comp- comp- computation power is not spent to run the mediator, but actually to run the eh, the technology
+ <laugh/>
+(PERSON2) the models
+(PERSON15) Yeah, the models.
+ At the moment, no, there is no possibility to let a worker provide more than one finger printing, put fingerprints- put fingerprints there 
+But it's-
+actually it's planned.
+It is not done yet, but hmm, it's planned in order also to, um, support the multiligual services of <unintelligible/>
+ So <unintelligible/> a plan
+(PERSON2) Yeah, so, eh, and when is this plan like to- to materialize? <laugh/>
+(PERSON15) <laugh/>
+Ah, it's-
+It's a really good question.
+Um, I, I,  can't,  I can't answer yet.
+Sorry.  I don't know.
+(PERSON2) Mhm, yeah.
+So like what-
+Eh, there'll be again an [PROJECT2] call in January.
+Ah, so ah, would the plans be more concrete by then?
+Or how- how do we want to proceed?
+So-
+(PERSON15) Okay, ah, no no no, okay, ehm, we can try to put the the plan on on the calendar, and maybe, ah, share some, some deadline together.
+(PERSON2) Yeah, so let's-
+ Because I think it would be useful saving for especially the partner's resources, because then-
+PERSON6 I agree!
+(PERSON2): Yeah. It would be only like a run time collision that we would have to avoid.
+So, ah, like, ah, if we would ask for a German to Italian worker, then the, ehm, 
+English to Spanish worker would disappear as well.
+So then we would like know,  what- what to release and what to- what to ask for, so that we, we can, step by step, do all the translations we want. 
+PERSON6 Mhm.
+(PERSON2) Yeah, okay. So that's an interesting, ehm, message that that you are planning this at some point-
+(PERSON12): But we- we can already do it.
+We do it with (Rinbark) multitarget models, the rainbow.
+(PERSON2) So what do we-
+Ehm, so, no, but here is two different sources.
+So what-
+What what we can do immediately- 
+Right, that's correct.
+So what do we can do immediately is that [ORGANIZATION3] will deploy that two to five system as a pair of workers, where one of those goes goes from English into five, and the other goes from German into five.
+ Right?
+(PERSON18) Well, German into four. 
+(PERSON2) Eh, German into four, yes yes yes. 
+(PERSON18) It doesn't do German to German. 
+(PERSON2) Yeah, sure sure sure, yeah sure. 
+(PERSON18) Yes and by the-
+ I checked the- the models are running right now.
+ 
+So the the two to-
+ two to five is running.
+(PERSON2) Okay. 
+So, that, that
+So in which way are they running then, in the multitarget, or individual? 
+(PERSON18) Uh, no, they are- 
+They are running as individual workers.
+(PERSON2) Okay
+So there is six workers, uh no, eight workers uh, wait, two copies of each, actually.
+(PERSON2) okay, 
+(PERSON18) <unintelligible/> not necessary. 
+(PERSON2) Okay, so, sixteen, sixteen workers. 
+(PERSON18) Yes.
+(PERSON2) Okay, that's great, so I'll- I'll
+(PERSON18) I mean, yeah, the the when they are idling, the main resource they are using is memory, which which there is enough of to run these, but probably trying to run all that actually put load, and all 16 would not work.
+But the only way to find out that (is try them).
+(PERSON2) Ok, yeah, that's good. So I'll talk to [PERSON17] and eh, we should evaluate them, eh, very soon.
+Ah, yeah.
+That's- that's good.
+Ah, okay.
+So that will, uh- 
+So please- 
+So to summarize, we got into the discussion, eh, by talking about milestone number twelve, which is called Improved ASR systems, and,  ehm, please keep me posted.
+Eh, ehm, [PERSON18], ask [PERSON11], because we don't have [PERSON11] here, what is the status of, of the languages there, of the training of the E to E. 
+And I would really like to hear from you before the end of the year, eh, that I can tick this off, eh, I have done this ticking off previously, but I'd really like to have the the languages there.
+I don't know if it's-
+Eh, if it's conceivable.
+Ah, ah.
+I think when we talked about, ah, this milestone two months ago, [PERSON13] was-
+Was quite hopeful that all the languages will be finished in some form before the end of the year.
+I'm not sure if these hopes still hold.
+But yeah, eh, keep me posted.
+(PERSON18) Yes, I I just wrote to Tyson, eh, I will see if I can get him to respond within the time <unintelligible/>.
+ 
+(PERSON2) Yeah, we got that improvement in a machine translation system
+That's good
+Systems
+That's good 
+And we will evaluate them.
+Hopefully we can sneak these numbers also into the eh, integration (delbl), so the 6.3
+So, [PERSON15] please put that on, like, the checklist for the (delbl), eh, too
+Make sure that the table by [PERSON17], which is still missing, also contains the translation for English into four, and German into four. 
+(PERSON15) Okay 
+(PERSON18) Um by the, way, um we tried before to evaluate the, the <unintelligible/> workers which did not, work, because, um the text client that they were using to test it by default just pushes all the sentences right away. 
+ 
+And the workers are not designed to do better processing.
+So they, what what they do internally is when they receive sentences faster than they can process them, they <unintelligible/> and the sentences just get longer and longer.
+And then the system does not manage to translate it at all.
+(PERSON2) OK 
+(PERSON18) So I- I- I pushed a fix to the text client, which allows you to run it in real time mode, which means it actually uses the time stamps from ASR to push the text updates, which means it will take as long as the as the original talk did to transmit, but it will not stole the worker.
+ 
+(PERSON2) Um-hum, yeah
+(PERSON18) Yes, it is a side effect of running the worker as a as a worker, and not as just a package of the software 
+(PERSON2) Mhm
+(PERSON18) But just ah, when when we are running that evaluation, make sure to use the the (rigs).
+(PERSON2) Okay, yeah, well, I'll  I'll check if [PERSON17] knows where where the fix is eh, is located 
+<laugh/>
+(PERSON18) In the official repilitories
+(PERSON2) Yeah, yeah, yeah
+(PERSON15)  Yes, don't worry.
+I'm going to remind it.
+(PERSON2) Yeah, <unintelligible/> updated text client
+Yeah, okay.
+So that is the ASR system and the improve models from [ORGANIZATION3]
+The next milestone that I need to tick off is the improve spoke language translation prototype.
+And there we agreed that this table that has to appear in these 6.3 is our main bases for ticking this off.
+Ah, so as soon as the table is there, I will tick that off
+ <laugh/>
+Yeah, OK
+And eh, eh
+So if you have still any, eh, any comments, if you have any suggestions how to make the end of the year more enjoyable <laugh/> and less stressful, eh, then let me know.
+Um, um, yeah, otherwise we- we just proceeded somehow.
+Um
+Yeah, eh and then,  I wanted to, eh, just mention the upcoming sessions that that we
+have, and [PERSON1] has entered one 
+So [PERSON1], please briefly report on this 
+(PERSON1) Okay, so, eh,  there is the trade fair of the students companies which we have attended not this year, but the previous year, some of you were there.
+Ah, this time
+Ah, they are organizing it, but only online
+So they have not specified the platform so we're still unsure if it will be over Zoom or what they will use.
+And eh, basically there will be the same competition.
+So last time we joined with the competition 90 seconds in a lift.
+And ehm, when I, um, then spoke with the organisite- organisators of the competitions, 
+their main, um, comment was that as the students were there, and they had to take the- the headset so we could record them so that it was slow. 
+Now, since it will be-
+Eh, since the whole thing will be online, so this main issue should disappear.
+So I think-
+I haven't contacted the the person responsible for the night of- 
+for the competition 90 seconds in a lift, yet.
+But I think that since this problem should be already solved by the participants having their headset already
+Eh, then
+Eh, that we could again record it-
+Eh, record them and then prepare another, eh, test or set of speeches of non-native ah speakers who use English
+Um-
+The-
+ As I put there, the trade fair will be in March
+And-
+Yes, I do not know if you want to know anything more.
+Ehm, we will have to do- 
+Also, all the student companies are required to prepare their boot in their school
+So, um we might also do something, something at our university because last time, we tried to promote there [PROJECT2]. 
+Not entirely sure what was the impact.
+But yeah, uh.
+(PERSON2) Yeah
+(PERSON1) That's it. 
+(PERSON2) Yeah, thanks.
+So I see this fair as an important possible source of like ehm, non-native English speech that we can use to extend the test set.
+So I think we really should focus on the Clearest voice competition, and we can do the booth if we have to.
+But I would like to limit that, because the dissemination into high school students is less of of an impact, ehm, for us.
+It is more important, ehm, to make, to- to use it as a test session.
+So we should focus, [PERSON1], on the [PROJECT2] Clearest voice, and the organizers happy so that we can do the data gathering there
+And do whatever they want us to do in exchange for that, and ehm, we need to check their plenary program, and eh, what type of subtitling would be useful for that plenary program
+so that would make it a test session for us.
+and for our own presents at this fair, I don't think it's too important. 
+So if we are asked, ehm, if we are really expected to to be there and and present, then okay, ah, but ah, if if not, then, ah, I think, it is- 
+its definitely good for us just to be behind the curtain and and eh, like, behind the scene, and- and do our <unintelligible/> job there 
+(PERSON1) Yeah, I haven't tried to do the registration yet for that, but I think that last time, it was like slightly compulsatory to have the booth. 
+(PERSON2) Yes, yes, yes. So- so discuss with them what- what is needed so that they are happy, and they are- 
+eh, allow us to do the the Clearest voice, which is the most important ah thing.
+The eh.. ah the test session is less ah of an urge.
+And the the booth is is just, ah, well, not a waste of time, but ah, something that really could avoid, if possible. 
+OK, thanks.
+So then, ah, another session.
+The sessions are not, ah, ordered in in time.
+The next important session that we have to get ready for the [ORGANIZATION5] part 1, that is, eh, going to happen in mid-April, not in May, as originally planned. 
+So it's sooner
+And this is-
+This is the main eh, the- the first half of the main event that we have for, for the whole project. 
+So for that we really have to have the best models available, and, eh, due to full bussines. 
+It will be online, eh, eh
+So we don't know the technical means yet
+And we will synchronize-
+Maybe [PERSON5] can, eh, can say something about the preparations for this 
+For example, when the agency for interpreters will be known
+Is that know already? Or what is the progress there? 
+Yeah, so, [PERSON5] microphone normally does not work, eh...
+Oh!
+Okay!
+So this-
+ I would be kind of surprised that there would not be any interpreters for this session, but it's, eh, it's possible, eh
+So, please, figure out, what is actually the... the input languages
+The output languages are clear, it will be, eh, yeah, as
+So [PERSON5] says it's just to have the management bits of eh, of [ORGANIZATION5] completed, and the management bits are the transition.
+So there was one presidency of the Czech Republic.
+Some new presidency is coming in.
+But I still assume that this is high level political, like debate or w- welcome speeches and thank you speeches, and, eh, I can imagine that these would be run in the six, eh, official languages of [ORGANIZATION5] plus possibly Czech 
+So [PERSON5], please figure out, 
+Ah, so the task is-
+<typing/> [PERSON5] needs to figure out eh eh the platform, the set of eh,  languages used
+Right, yeah
+Okay, so we will learn more about this, but definitely, eh, plan mid April, the dates are actually known, ehm 
+So [PERSON1], please put the days there if you know them
+Please plan that as a critical week.
+And then the eh, the other critical event will be 
+[PROJECT5] 2021, which will probably happen towards the end of the year.
+I have not checked the, the schedule yet.
+It will be similar to this one, except that we will really try to go public and make the, eh, system, eh, used by others. 
+This will obviously be only, eh, non-native English to all our, um, target languages
+and this would be like equally important as, um, EuroSci
+That means like, eh,  we need to re- 
+Um, record feedback, eh,
+Yeah, eh, write a good report.
+Ideally measure impact somehow.
+<typing/>
+Yeah
+So this is, ah, this is the two big things, eh, that we will have next year, and obviously we will have many more, eh, smaller-
+Oops, sorry eh- 
+Many more smaller events 
+And one of these-
+Two of these smaller events, one or two of these smaller events, can happen already on January, the 25th of January
+ I was asked by my colleagues who ran the Center for Visual History of- of Malach.
+Eh, eh, so the survivors of Holocaust.
+Ah, and they will have a half day conference on January the 25th.
+So this would be a test session for us again, slightly ah different domain.
+There is some data available, we could-
+We could try to do domain adaptation
+Just that...yeah
+They have seen our test sessions on one of the Monday seminars, and they ask if if we could do it for them.
+So we will see how how the systems will work there.
+Maybe we will have better domain-adapted systems, maybe just the the baseline.
+And another thing that falls on the evening of the day is the computer-written theater play, which colleagues are putting together the the premier of that.
+And I have heard that the premier is going-
+It's going to be in Czech but the premier is going to be interpreted with a human interpreter.
+So I'm thinking that possibly we could like connect to this interpreter and follow the English or connect to the Czech source.
+This is still very open, but it could be an interesting life exercise and dissemination activity as such.
+So for you, except us...<unintelligible/> for you, this is just just one more event, such as the Monday seminars or the various sessions that we had in the in the meantime when we suddenly frantically needed some workers running.
+So the the- eh, the only thing that I want to discuss with regard to this is like the the management of these events.
+So if, if the events are the small ones, the test sessions, it's totally our fault.
+If we do not ask [PERSON9] in advance to- to make sure that- that his workers will be running and available, and and so on.
+And also, there is no real damage if- if we do not have the-
+ Eh, do not have the workers available at at hand.
+So please be patient with us and like, don't feel stressed if we suddenly ask you: Oh, we forgot about your worker, and can you possibly get it running because we are not in that stress ah, ah, either.
+It's like we are trying it
+If we hit you in the right time point, then good, we will get the that test done.
+If we fail, well, then an opportunity missed for test
+So that is not not too serious, we will try to be a bit more explicit about the plans.
+So like most Mondays are these Monday seminars.
+But now the semester is also finishing, so this will be fewer of of these Mondays.
+So I'll try to make that a little bit more known in advance, but I'm- I'm failing with with that.
+So that is the small test sessions.
+And then there is like a bigger test sessions
+And the bigger test session was the [PROJECT5] and [PROJECT4] um set up.
+And ah, there, eh, we really need to make sure that we have the partners right, ready and attend to to the point.
+So please put that into your calendars.
+These two sessions at least, the [PROJECT5], somewhere in December, probably.
+And [ORGANIZATION5] congress, part one, so that you know about it, and you are not expect-
+You are not surprised when I get in touch with you.
+Ah, and the partners have to be like-
+We have to know what is- what is the availability.
+Any type of problems can can happen
+We know that, another bomb excavation and other things, we just need to, like, be ready for that and have worker rounds.
+So that is the main message that I learned from the, eh, the [PROJECT5] 2020 event that there were points where it was actually my people who were like late to my, eh, to my taste
+Eh, eh
+I would have preferred them to join earlier to the sessions than they did and things like that.
+So we really need to practice also these these preparations
+With the online world, it seems that you, like, simply jump into the session, and the work is done.
+But that is not the case.
+It always takes 30 minutes to get it running and and properly connected.
+So we need to, like, be there earlier.
+And if someone, if some session that we are doing, is starting at nine, but the organizers meet at like quarter to nine
+Then we have to come at a quarter past eight already, so that we have the 30 minutes extra to to make sure that everything is running and chase for the people.
+So this is a remark for everybody that for the management to work, please also anticipate what the management might- might suddenly ask you to do, and that would- that would help a little.
+Another message that is very important is for these- these important sessions, the recording of that.
+So I've- I've collected-
+I don't know if you have responded, I had not seen anyone providing any- any updates to the, eh,  where is that?
+I, I, I had somewhere a document.
+Maybe I forgot to tell it to all of you.
+I had a document, like, about the experience from [PROJECT4]and [PROJECT5] 2020. 
+And the- the first point in this experience is that we were very bad at recording these sessions.
+So it's important for the purposes of further evaluation or analysis of what went wrong to have good, eh, good recordings of of these sessions.
+And one aspect is to get the consents, to actually be allowed to do the recording.
+And even if we will try to get the consents in retrospect or whatever.
+Then there is the technical aspect of the- of the recording.
+And we have seen that this is so diverse and and and complex that very often we get-
+Yeah, [PERSON5] is sending that- that link.
+I have send it by email, I remember, yeah 
+So thanks, [PERSON5]
+ So we really need to nominate someone who will be responsible for making recordings of these important sessions, and that actually means to test in practice the very platform that is going to be used for that online event
+And the very recording device that was going to do the recording.
+Some of the recordings that, we did eh, they were eh without sound.
+[PERSON15] also did something without the sound, maybe on purpose, but maybe accidentally, I'm- I'm not sure  
+It very easily happens that just by switching to another, like, remote teleconferencing program, the recording will not work for this different recording-
+Eh, for for this conference program.
+So there is no, no full compatibility, eh, eh, at the sound, eh level, eh, in- in different operating systems.
+So this has to be tested for every eh combination.
+And then when the recording is actually happening, eh
+Yeah, the the discs can run out of space, and the files can get accidentally lost
+And so on, so someone has to take care of that.
+So that is my main message, eh, for these events, we will have to have people responsible for recording.
+So I'll ask for volunteers, eh, then, and just please, eh, yeah, provide your hand for for that.
+Okay, eh
+So I think that is everything, eh, from me.
+Is anybody of you curious about the Malach test session, the holocaust survivors conference?
+Or is anybody curious about the theater play written by GPT2 and and eh through
+ <laugh/>
+ And through like auth- theater authors
+ We are in touch with eh
+We have been working on it for for several months or a year or more with people from the theater, from one of the theatres in Prague, and the result is going to be like manually revised
+So it-
+It could be fun.
+Eh, so, is anybody curious about this or, eh, or not?
+Please let me know that will make the importance of these- 
+of these sessions higher and will do better then.
+Yeah, so that's the extra sessions, and then, um, [PERSON4] inserted two, eh, two items.
+So please, [PERSON4]
+(PERSON4) Yeah, actually I mean, the first one leads on from what you were saying a few minutes ago, that, you know, basically just we were talking about this on Monday because on Monday I think-
+Was it Monday?
+You were-
+There was-
+You were looking for the rainbow workers 
+(PERSON2) Yeah
+(PERSON4) And and they weren't up and and...yeah, any- anyway
+And I think, I think, on Monday, [PERSON9] managed to (fill it)
+<unintelligible/>
+I think it was last Wednesday when [PERSON9] was not available, and I tried to launch <unintelligible/>, and it did not quite work and so on.
+But- but  really, and I- I think we, we had discussed this before.40:31 
+I mean, the-
+ To make this, <unintelligible/> is going to be a bit more robust and- and scalable, then some kind of <unintelligible/> would be really useful.
+And then I had a brief discussion with [PERSON7] about it
+(PERSON2) Mhm
+(PERSON4) And it turns out he is working on this.
+(PERSON2) Yeah
+(PERSON4) I do not know what stage or status that is
+And I said: Oh yeah, we have some- 
+Have you- 
+Have you-
+He said, have you (dockerized) models, and I said Yeah, cause that's-
+Because two other projects where we have to deliver MT models
+We (dockerized) them 
+ So we have two different sets of (dockerization) code, they're quite different.
+Um, so I said, Okay, we have some public models.
+Here is one.
+And then he was like, What could you give me a rainbow-
+Could you do this with the rainbow model?
+I said, Okay, that's- that's feasible.
+Um, I just wanted-
+We should do something more at a project level, because I mean, I can just take a rainbow model.
+And there are some small modifications, but I can put it into one of these (docker) systems.
+But in order to have something that really works for [PROJECT2], we would probably have to put a bit more thought into it to get the interface is right, and so on.
+So just whats-
+ I mean, I could probably get this running fairly quickly.
+I mean, there is the complication around the <unintelligible/>
+Ehm, is that the best way to proceed just to-
+(PERSON2) Yeah
+(PERSON4) Toss something over to [PERSON5]
+And then he works on it?
+Or is it is bettter to have- 
+(PERSON2) Eh, no- 
+(PERSON4) A little bit more thought into the project-
+(PERSON2) Yeah, exactly. We need the thought, we need the discussion on this. So I- I suggest that for this topic, we plan a mid-January eh, call with [PERSON5] and you and [PERSON9].
+So, yeah, so, and we'll discuss what- what is the status. 
+So [PERSON5] is still in very early stage. 
+(PERSON4) Yeah
+Ah, especially in in learning all the complications that are like part of eh, [PROJECT2] pipelines
+(PERSON4) Right
+(PERSON2) And so, for example, he was, ah, kind of surprised by the multi-source and multi-target systems that we are <unintelligible/>
+And the architecture, eh, has to be flexible to allow these, but not too flexible.
+So that we are not, ah, reimplementing Bash again.
+<laugh/>
+Ah, so- 
+(PERSON4): <laugh/>
+Yeah
+ Right
+(PERSON2) Yeah
+Eh, so lets plan mid January call- 
+Technical call for this
+(PERSON4): Okay, Okay
+(PERSON2) Right 
+(PERSON4) Yeah,  I mean, it's, it's not just about taking the heat off us, so we don't have (to run)
+ servers.
+It's about trying to make the whole-
+Because I- I see, I've seen what happens it the live testing, and it's- 
+(PERSON2) Ehm
+(PERSON4) It is often a bit of scrambling around to get things working and-
+(PERSON2) Yeah
+(PERSON4) Um, we could probably do something that's more robust and scalable 
+(PERSON2) Yeah
+(PERSON4) Um, ehm
+(PERSON2) So, who all should be involved there? Ehm, [PERSON5], [PERSON2], [PERSON4], then [PERSON18] probably, right? 
+(PERSON18) I was gonna ask, does this involve [PERSON10]?
+(PERSON2) Ehm, <laugh/>
+() <unintelligible/>
+(PERSON2) Yes
+(PERSON4) I think, I think <unintelligible/> have to, I'm afraid. (Anyway, I'd- it'd) involve anybody who supplies models 
+(PERSON2) Yeah
+(PERSON18) Right
+(PERSON2)  <laugh/>
+(PERSON18) I <unintelligible/>
+<laugh/>
+(PERSON2) And then obviously [PERSON15], right? 
+(PERSON4) Yeah
+(PERSON15) Okay
+(PERSON2) And that should be, ehm, that probably should be it.
+So possibly we, we would-
+We could also benefit from [PERSON5] because there is also the the online text flow, the paragraph view that also, we need to be (dockerized?), eh
+Because it would be safer for, like, that-
+There was the problem with-
+In two concurrence sessions, we had two concurrent events, and, eh, we needed to provide two views for these different events.
+So if the online text flow is also (dockerized), then- 
+Ehm, similarly, the subtitle view by, eh, by [ORGANIZATION4], eh, yeah
+(PERSON4) I think-
+I mean, its not just about (dockerization)
+I mean, what- 
+Where are we running things at the moment?
+Are they-
+Are they running in just whatever they can run, or?
+(PERSON2) Yes, yes, it's a- it's a mess, so, ehm-
+(PERSON4) Ehm, yeah, I mean, but if we are to run them in the cloud
+Is that in any way feasible?
+Because that- that would mean we'd have to s- 
+Eh, that'd have-
+We have spend money in cloud computing to do that.
+(PERSON2) Yeah, uh so-
+(PERSON4) That may not be feasible
+(PERSON18) Especially since the, eh, the new transformer models that we are running do tend to need (reviews) mhm so that would increase the price-
+(PERSON2) Yeah, does increase the cost 
+(PERSON4) <unintelligible/> I mean, transformers, well
+I mean, [PERSON2], you're in [PROJECT1] everything can run on CPU
+(PERSON2) Yeah, <laugh/>
+(PERSON4) It (would) a bit of effort, um
+(PERSON18) To enter an ASR models, I think, will not run in <unintelligible/> time on CPU, um, I think, <unintelligible/> on GPU (slots)
+(PERSON4) Shall we ask <unintelligible/> that? 
+<laugh/>
+(PERSON2) Yeah, what <unintelligible/>
+<unintelligible/>
+<unintelligible/>
+<laugh/>
+(PERSON2) That'd require-
+<laugh/>
+(PERSON2) That'd- <unintelligible/>
+That would require, eh, number inputs to [PROJECT3]
+(PERSON4) Yeah, it- it would require sr- eh, significant effort, I would, eh, imagine.
+(PERSON2) Yeah
+(PERSON4) Um, but I mean, from what I understand, roughly speaking, for MT
+You know, if you are doing single sentence translation, you can, with a bit of optimization, you can run as fast on CPU
+(PERSON2) Yeah
+(PERSON4) as you can run a GPU
+You can get comparable speeds
+Um, I suppose the rainbow works by batching
+So I think if you're-  if you are able to do that kind of parallelism, the GPU will win.
+(PERSON2) That's my guess as well, but, um 
+We- we are not an optimization project, unlike [PROJECT1]
+(PERSON4) Yeah
+(PERSON2) So, I think that we will-
+Eh, we should take the easiest route here
+(PERSON4) Yeah, yeah...yeah yeah
+(PERSON2) And the easiest route would be, ehm, to have eh servers hardware on our premises within the consortium that can, eh, run docker, um
+Eh, dockerized packages and use our own GPU
+So the, the dockerization would be, for the ease of our management
+(PERSON4) Ehm, yeah
+(PERSON2) Primarily and less so for the deployment at, at some, eh like, paid hardware.
+And ah, I think that-
+(PERSON4) Yeah
+(PERSON2) We, we should really test it primarily on our hardware that we have already 
+Eh, and maybe if we feel, then, like, in in March, for example, before the ah the April, eh, session, or, ah, in the summer, um, before the Metaforum
+Ah, we could test the (dockerized) systems on paid hardware as a fallback solution for hardware issues
+(PERSON4) Yeah, yeah
+(PERSON2) But lets not-
+ I- I don't see it as a priority for, eh, for the project
+(PERSON4) Yeah
+(PERSON2) <unintelligible/> the management, the (dockerization), that is - that is important, but not the deployment on- on the-
+on the paid, eh, paid by (our hardware)
+(PERSON4) Yeah, I think deployment and GPU is-
+Sorry, (a client) GPU
+Can be economical if we just-
+If it's done
+If <unintelligible/> putting a lot of data through.
+You know, if you have to leave an (idle) on GPU, that's-  that's just going to (chop) money for, for no benefit
+But if its matter, you can spin it up for an hour and then drop it down again
+(PERSON2) Yeah
+(PERSON4) That's sort of-
+(PERSON2) Yes, yes exactly
+So, like on this-
+(PERSON4) <unintelligible/>
+(PERSON2) But spot...spot...it's not spot
+Instances that something else, but, eh <laugh/>
+Instances used on spot for, eh, for s-  individual sessions 
+That's- 
+that's the level
+(PERSON4) Yeah, and our model is based on where- 
+Where either <unintelligible/> translating a meeting, or we're not translating, and nothing
+(PERSON2) Yes
+(PERSON4) You know, it's not just like somebody comes along one day, must translate something, and then-
+(PERSON2) Yeah, exactly
+(PERSON4) So we don't have to leave things running 
+(PERSON2) Yeah
+(PERSON4) Yeah
+Er, I mean, the-
+(PERSON2) So, the, the complexity actually lies in in a different thing for [PERSON7], and that's something that he is aware from-
+Eh, of-
+From the very beginning
+There is some pipeline which involves some source languages, some target languages, some set up of what has been done by both models.
+And for this pipeline, three things, eh
+Three thing are needed 
+You need to evaluate it, eh, regularly, eh, so that these components are, are good in quality.
+So that is this like run for the [PROJECT2] test set evaluation 
+You need to run it on local set up on the existing instances of mediator, existing workers, eh, some of these parts are run immediately, so that's like the, eh, on premises deployment 
+Within the consorcium 
+And what we would like to have is to wrap this into a docker file, so that we can ship it to, eh, and create a new, fresh instance on any hardware easily for this, like, spot session coverage. 
+And with these three goals, eh, eh, if- 
+If [(PERSON7] is successful, then we-
+I think we'll have everything covered 
+So regularly, we'll be testing the given pipeline and running it on our systems 
+And as a fallback solution, we will pay a-
+Eh, a fallback for the hardware, like failures, or whatever 
+Eh, or for the concurrent sessions, we will deploy the dockers on some paid servers, and that's, that's probably it 49:39 
+(PERSON4)  Hm, hm , or or for scaling, yeah
+I mean, its-
+(PERSON2) For scaling, yeah 
+(PERSON4) And you know, it- it can happen here that we can't-
+You know, we had the problem last week
+There wasn't
+mostly GPUs are taken, you had to hunt round for free GPUs
+(PERSON2) Yeah
+Then, it's easier to- to buy them 
+(PERSON4) Yeah, and we have, we have another cluster we can use, but I think we can't run it there because the workers are not networked 
+(PERSON2) Yeah
+(PERSON4) <unintelligible/> world, so
+I think, yeah, yeah, so 
+So yes, the, uh being able to run in the cloud <unintelligible/> scalability which is-
+(PERSON2)  Uhm
+(PERSON4) <unintelligible/>
+(PERSON2) So, we- we'll- 
+ So I'll ask [(PERSON7] to do a Doodle poll about this 
+(PERSON4) Um, um
+(PERSON2) And, eh, and we will discuss, eh, yeah 
+Primarily the technical, eh, technic way 
+So, if anybody would like to be listed here, then please enter yourself, eh, OK?50:34 
+And [PERSON4] have one more point.
+(PERSON4) Oh yeah.
+Another thing we were talking about on Monday, and we were-
+This is more of a research angle, but we were just talking about simultaneous SLT and how it could be made better.
+And the problem about evaluation of simultaneous SLT
+And I'm just curious to see if something we should be addressing at the project
+In the sense that, I mean, suppose you're-
+You've got German audio coming in, and you are producing English, and you are producing in some (incremental) way.
+Now, that is a problem, obviously, because the German has different word order, but you may be up to, and OK.
+So we say, English is fix word order, but it is not completely fixed.
+There is sometimes, there is (reorderings) of English, which are okay, but they are perfectly fine.
+And there are reorderings of English, which are not that good, but they're- 
+They're quite understandable
+Um, if-
+ If we are always testing with, basically, I mean, a lot of the tests we have are essentially text to text translation.
+So, the translator sees the whole sentence and then translates and produces the the translation.
+So our system may be doing something which is quite reasonable, a reasonable way of- of doing lower latency translation
+(PERSON2) Mhm
+(PERSON4) But it would get completely penalized in terms of (fluid), because it's-
+It's doing some reordering of the English, of the- the output language.
+Um, so, which is fine, and it's prod-
+It's doing-
+Doing good low latency translation 
+But then it would get heavily penalized.52:01 
+Um, so, we, so
+I would-
+I saw that in- in a paper but <unintelligible/> the MNLP
+They did some work on simultaneous SLT, and they said: Oh, we just got some, some interpreters to write 200 sent- 
+200 translations of our test set, um, which were done in a more monotonic fashion or something like that.
+I can't remember how they actually-
+What instructions they gave.  
+But of course, we don't have this test set.
+Ehm
+We
+I mean, we briefly <unintelligible/>
+And we try and produce something sort of automatically or semi-automatically for this.
+But we're not really sure.
+I just want to throw that out there.
+I don't know if we-
+ If- if anybody else has thought about this problem.
+(PERSON2) So my hope here is for the s-
+Europe- 
+[ORGANIZATION1] speech interpretation corpus, Esic, that [PERSON12] is compiling, where we have the interpreters output. 
+These are, by, eh, by their nature, some shortened a bit, and they are also as monotonic as the interpreters could do live.
+(PERSON4) Yeah
+(PERSON2) It's different from like writing this, but that should be a very large dataset, like compared to a test set that was prepared for the-
+<unintelligible/> people.
+(PERSON4) Yeah,
+(PERSON2) So, eh, yeah
+I think that at this point, there is nothing we can really do, except wait for Dominik to to have this ready
+And he is making good progress with that.
+(PERSON4) <laugh/>
+(PERSON2) So the- that
+There is ten hours manually revised.
+Ah, ah, between ah, English, ah, and Czech and German.
+(PERSON4) Yeah
+(PERSON2) So there is- 
+Yeah, that there is going to be, eh, data available quite soon.
+And then, the research question, like, what do we do with our models to be better at this
+(PERSON4) Yeah
+(PERSON2) I leave this up to the, like, research partners in the consortium
+And the only thing that comes to my mind is again
+We were asked to collaborate more
+(PERSON4) Okay
+(PERSON2) So, so perhaps we should try to plan a paper with a particle experiment, either the-
+the weight K versus whatever the um (by-dual) people did as well.
+So they-
+These minimum translation units, eh, we can compare the minimum translation that (by-dual) approximated with the minimal translation units that we observe from the interpreters in [PERSON12]'s corpus.
+So there there are a number of things that we can, eh, we can try.
+(PERSON4) Yeah, yeah.
+I mean, that, actually, that was-
+That was the question that occurred on Monday.
+Is [PERSON12] corpus going to be suitable for this, um
+(PERSON2) Yes, I think, um-
+(PERSON4) And it sounds like it's-
+Because essentially, that-
+So the [ORGANIZATION1] had (tramped), no, they have audio of the original speaker and the interpreter
+(PERSON2) Yes, they have both audios-
+(PERSON4) Is that right?
+(PERSON2) They have both audios
+And-
+(PERSON4) and do <unintelligible/> transcripts, or not
+(PERSON2) They have also the transcripts for the main speaker, ah
+(PERSON4) Uhm
+(PERSON2) But not the transcript for the interpreters
+(PERSON4) Okay
+(PERSON2) but they do have text translation of the, of the English transcript 
+(PERSON4) Right, but that's not-
+Oh, yeah, yeah
+But that's not a transcript of the interpreter 
+(PERSON2) Yeah, but we have ASR outputs for the interpreters
+And for the ten hours, people are revising this.
+(PERSON4) Yeah, so, I mean,  that seems, yeah, that seems a better way to go, because, arguably, what our simultaneous, automatic simultaneous translation system should be doing, is trying to mimic-
+(PERSON2) Yeah
+(PERSON4) What the interpreter is doing 
+Rather than trying to mimic what the text translator is doing 
+(PERSON18) It would be an interesting, um, interesting thing to do with
+We have the text translation of the verbatim transcript, and real transcript of the interpreter
+You could use that to actually train some kind of data augmentation system to augment normal text translation corpora to sound like, like the interpreter.
+(PERSON2)Yeah
+(PERSON4) Now, that's a good idea, yeah
+(PERSON2) that is another experiment that we we should do, eh, yeah
+And another, like, option for collaboration.
+So- 
+(PERSON4) Yeah
+(PERSON2) And, and separately, I've asked, eh, eh, [PERSON13] about the ASR collaboration. 
+So I see a number of things that we really should try together.
+I just do not know how-
+How to make sure that this happens.
+(PERSON4) <laugh/>
+(PERSON2) <laugh/>
+(PERSON2) Yeah
+I like the idea about the, um
+(PERSON4) Yeah
+(PERSON2) Um, so perhaps, like, [PERSON12], do you-
+Do you think that-
+What, what should we do, so that [PERSON12], you get in sufficient touch with [PERSON18] and that you are like sq-
+Together, you squash the data and do the experiment with this
+This data augmentation, the shortening based on the interpreters outputs.56:49 
+And and [PERSON18], what can we do so that we make this shortening happen?
+And similarly, [PERSON4], what should we do so that we really do the experiment with the different, um, improvements of the-
+ Of MT for the purposes of online translation. 
+(PERSON4) Okay, so we could do a good comparison based on this data set
+because most of the- 
+You know, I've been reading a few of these papers on simultaneous SLT
+And they always just use figures like WMT test sets, and so on
+And they just really-
+(PERSON2) Yeah, yeah
+(PERSON4) It is not that-
+ It does not make that much sense.
+It's probably being rather harsh on the methods.
+Um, so, yeah, I think we can easily run-
+You know, we have these, these translations, we can easily run some kind of comparison on them.
+(PERSON2) Yeah, um, but the problem that I see is only the management of that
+(PERSON4) Yeah 
+ 
+(PERSON2) And I think the solution could be that we agree on a weekly call on this topic. 
+So one weekly call between [PERSON18] and and [PERSON12] on the abridging thing.
+And another support call, like a sub team, for, eh, the online translation with, with [PERSON4]
+(PERSON18) Or we could also like merged this as a single call
+(PERSON4) Should we-
+It seems like, yeah, you are just slicing <unintelligible/>
+ Yeah, I thought I understood that [PERSON18] was not talking about abridging, or he may have been, but it was more about, like, ehm, sort of, data, yeah, data augmentation 
+Where you create this sort of monotonized 
+(PERSON2) Uhm, okay
+(PERSON18) Okay, yes, but-
+(PERSON2) Yeah,
+(PERSON18) Yeah, but that will also be abridged to a certain extent, I suppose, because-
+(PERSON4)  Yeah, okay, yeah, 
+(PERSON18)  <unintelligible/> (tend to produce order)
+(PERSON2) Okay, so, lets-  lets make it, uh, lets make it a New Years resolution, um
+(PERSON4) <laugh/>
+(PERSON2) <laugh/>
+(PERSON9) <laugh/>
+(PERSON2) We'll, we'll find a slot, and from the first week of January, we'll be meeting, at least like [(PERSON18], [PERSON4], me and [PERSON12] and possibly others
+So that we create, like, a subteam within the project
+it's-
+We are now all slowly getting used to remote working, so it w-
+It should be feasible for us to do this 
+And we'll figure out which experiments to run for which conferences 
+And if we- if we really manage, if we, um, make, if we succeed in our New Years resolution 
+Then we will be most happy because that's exactly what they are, thy are asking for
+Join papers, (from) researchers paper
+(PERSON4) Uhm, hopefully, we can move some things forward, as well as, making <unintelligible/> happy
+(PERSON2) yeah, yeah, yeah
+(PERSON4) <laugh/>
+That's my motivation, really. 
+(PERSON2) Yeah
+(PERSON4) Uhm
+(PERSON2) Okay
+So, ah, I'll make a separate Doodle poll, which will be, um, for finding a regular slot in the
+week, ah, and ah that means that mostly, you would be available on that slot
+We already have such a Doodle poll
+So it would be a Doodle poll for ah a whole week of January, ah with many hours, ah, but please indicate not for that particular day, but rather your general availability, ah, at that slot and then we'll plan these regular calls, eh
+(PERSON4) Okay, I think I understand that, yeah 
+ 
+(PERSON2) Yeah
+(PERSON4) <laugh/>
+Okay, right 
+(PERSON2) Yeah, yeah
+Okay, so that's, so, um
+ <typing/> [PERSON2] will set up a doodle poll
+We will start regular weekly calls, um, um, for this, hopefully, we will get to do experiments, and, ah, write papers, yeah  
+So, it will be, ah, like a subteam, yeah
+Cross-partner team will include at least, um, [PERSON4], [PERSON18], [PERSON12], [PERSON2]. 
+Right
+[PERSON12], is there something you- you wanted to say?
+ 
+(PERSON12) Yes. I am going to compile first betaversion of the corpus and pass it to [PERSON16]
+So I can pass it to [PERSON4] and [PERSON18] too
+(PERSON2) <typing/> 
+Yeah 
+(PERSON12) And I'm going to do it today
+(PERSON2) Okay, great, yeah
+(PERSON12) And then you can give me feedback, what to do otherwise, whether to expand the size of the corpus, and so on.
+(PERSON4) Okay
+(PERSON2) <typing/> 
+Okay, great.
+So, ah, that's it, um
+(PERSON18) So I got-
+Um, I got answers from [PERSON11] and [PERSON6]
+So just for the evaluation thing, we have a complete five to five pipeline, including ASR
+So we have as ASR for German, English, French, Spanish and Italian 
+And all the-
+all MT directions within that.
+They are-
+They're ready, uh, they are maybe not running right now, but they can be started if you want them.
+(PERSON2) Okay
+(PERSON18) And in addition, we have, um, a strong MT model 1:02:24 
+So, (transformer) to MT models from English to Portuguese, Dutch, Croatian, Slovenian, Polish and Turkish
+(PERSON2) Mhm.
+Okay
+Yeah
+(PERSON18) (so that's what's) available right now
+(PERSON2) This is-
+This is important.
+I'll get in touch.
+I'm, I'm sorry.
+I'll have to relieve myself in in a second now. 
+But I'll get in touch with [PERSON16]
+Or [PERSON9], maybe [PERSON9], could you, eh, 
+could you summarize this for [PERSON16]?
+To, like, update him?
+Eh, because we had the call before, er, um, this- this one.
+And there is a lot of updates that that now, um, [PERSON16] should consider  
+Eh, like, to use the-
+Yeah
+Should I do it, or could you do that?
+That's the question, how busy you are.
+<laugh/>
+(PERSON9) I think it may be better if you do that.
+If you have time
+(PERSON2) Okay I'll do
+ Okay
+(PERSON9) Thanks
+(PERSON2) Yeah
+So, I think that sounds very promising
+I'm happily, definitely, eh happily thinking of the ASR, eh, milestone, then
+(PERSON18) (I think that's fair)
+(PERSON2) Yeah, perfect
+So, thank you very much
+And with this positive mood, eh, let me wish you all the best for the Christmas, and also everything best for the, eh, for the whole upcoming year 
+And we'll be in touch for all the outstanding (delibls), but that-
+We'll manage
+(OTHER PERSONS) Okay, okay 
+Thanks
+Thanks a lot 
+<unintelligible/> holiday 
+<unintelligible/> break, everyone
+Yeah
+Bye- bye
+Bye-bye
+Bye
+Bye
