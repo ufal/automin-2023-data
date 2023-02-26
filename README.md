@@ -1,11 +1,16 @@
 # automin-2023-data
 AutoMin 2023 Training and Test Data
 
-This repository will contain:
-- Task A train only in the form of the link to ELITR Minuting Corpus plus a link to EuroparlMin (as soon as it is on Lindat)
-- Task A test2023 source side
-- Task B & C train and later also test source side
-- Task D test2023 source side
-  - this means transcripts, manual and automatic summaries from AutoMin 2021
-  
-  Be very careful not to commit anything before the test period starts, or is over.
+This repo contains:
+- Task A test data source side:
+  - test2023-cs and test2023-en directories
+  - Inside are meeting\_<lang>\_test2023\_<number> directories with one transcript each
+- Task D test data source side:
+  - test2023-cs and test2023-en directories
+  - Inside are meeting\_<lang>\_test\_<number> and meeting\_<lang>\_test2\_<number> directories
+    - transcript_MAN<number?>_annot<number>.txt - transcript file
+    - minutes\_GENER\_annot<number>.txt - human reference minutes
+    - minutes\_<lang>\_test_<number>\_TEAM\_<team\_number>.txt or minutes\_<lang>\_test2_<number>\_TEAM\_<team\_number>.txt - submissions to evaluate
+
+For training data see [ELITR Minuting Corpus](https://ufal.mff.cuni.cz/elitr-minuting-corpus).
+There you will also find a detailed description of the data format.
