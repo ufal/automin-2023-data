@@ -1,0 +1,49 @@
+-Have a text client for the presentation, it would be very useful.
+-There is text client for example English text.
+-The KT translation platform is very heavily specific use case that we're using it in, because it's meant to be run with the continuous input stream.
+-The batch is needed by [PERSON14] only for preparation of the data, in order to train machine translation machine translation of this data to the big picture.
+-Focus on the online mode and not on the batch processing mode, because that would be a big problem for the online segmentation mediator to be able to get the transcriptions.
+-Try to make sure that the online operational mode is slightly different from what we get offline.
+-For offline ASR, there are two main types of segmentation: Online segmentation and Offline segmentation. segmentation is trained on the moduls and not on the segmentation.
+-For the offline ASR we won't have a worker, we will have our ASR, whatever infront mode that they have, or will be our ASR.
+-We want to test the mission translation of the [PROJECT worker] in offline mode of operation, because we want to know if the visual is still there.
+-To get the ASR output that we would like to get from the audio recordings that we process in offline mode, totally outside of mediator.This is something that will be getting as messages when it goes through mediator.
+-This is definitely possible, but it's not guaranteed.
+-The offline ASR system does not use the same type of segmentation, that is why we are talking about the offline and offline ASR systems in this article.
+-There is a big risk that if we train on segments from ASR will get something very different from on from the online mode, because there is a different segmentation pipeline.
+-The mediator is trained on the ASR output, on actual ASR output at all.The mediator is manually improved from lectures, but the transcription was manually created in the first
+-Note that there is a mismatch between the training mode and the operation mode of the machine translation quality of the translation system.
+-The sample is online and offline ten sentences, or small sample just to compare, like, say, if we had a sample of online and Offline ten sentences.
+-It is hard to get 200000 sentences on online ASR, in order to find tuning of the system, is that problem, we can't really get the partial sentences of it.
+-This is the batch mode of the production client, and that's the debugged thing that needs to be debugged and kills all workers very quickly.
+-Write down the batch operation for CTM TXT, or better both to get final hypothesis of the [PROJECT worker or text client for PERSON14 document.
+-The segmentation workers are there, aren't they, but it didn't work with my o batchmode.The text text client, the second to the machine worker.
+-The text client for the MT worker will probably be redone at some point next week or the week after that,
+-The output of the CTM is the word level output of all workers, including the [PROJECT text one expect already online mode, right?,
+-In batch mode, the ASR workers are not reliable debug it or batch mode.
+-Try to ship the CTM output from the segmentation worker isolation client, right?This is problematic, of course, because there is no such client available.
+-The segmentation workers in [ORGANIZATION5], they work with the CTM client, but the client is not prepared for him, the workers are not prepared.
+-The CTM client for the CTM, but at the condition log testing of the machine translation machine translation.
+-Let us know if your MT worker is struggling with testing on by shipping audio or maybe your CTM worker is more reliable and maybe we will find solution.
+-The problem is that the audio client sends all of its stuff to the worker, and then the worker still believes it's part of a session, and the mediator does not accept.
+-The ASR worker has start producing some text in chat window.
+-This is probably the most common bug that [PERSON6] has described in his summary, but it is probably more common than the other bugs that he has described.
+-Ask yourself whether there are any tags other than words in the chat output (PERSON output) or in the MT input (the output of the segmentation workers).
+-The direct CTM output is the direct C TM output of the mediator worker, which is receiving the segmented output or the CTM already received from the segmentation worker.
+-SLT [ORGANIZATION5] is connected mediator doing some preprocessing for MT sequences for example like PPE, invoke some kind of MT sequences worker it is.
+-The system is we actually have reverse engineering, we actually look back into it.Make sure that we figured out everything again.This is all logic, all the trees that were mentioned.
+-The mediator is not reachable, because it has been over written by something else.
+-For the final set up, we need to decide online which of these streams in concatenation with ASR and the MT is best set up for presentation platform.
+-Laughing>So if we have four different po MT that translate this many target languages that we see here in the document, we decide switch source of English because r how do we do this?
+-There is a Dutch participant and Spanish participant, but the Dutch participant is speaking English in his native language and the Spanish participant is talking English in their native language.
+-The mediator should be selected by the client at the moment. who will want to see ASR outputs and find component.
+-Have an operator monitoring the output of the re-speakers cabins and the output from the floor, the presentation platform should jump the other provided translation right?
+-If the client is running on servers, then we can kill the client (servers) to keep the clients up and running (and the audio stream).
+-The presentation platform is the most important part of the PERSON15 strategy.
+-Fight with the re-speaker one.
+-This is my prefer set up, as well.
+-The same man doing the choice in the presentation platform, which is blind that choice because he missread the IDs of the workers and logs from the MT systems.
+-Present the Spanish outputs and the German outputs, of course, to check the Dutch outputs and German ones, and check the Spanish and German outputs together, to make decisions.
+-The final user is the same logic as an user may see English final subtitle or French one that's it.
+-The super user is selecting which language he wants to see for all followers of Spanish, Spanish source should be right for all users of the presentation platform.
+-This solutiont solution is based on 2 different platforms: Polish output using the best ASR and Spanish output using best ASR, persons would like to indicate each other which of ASR is the best at the moment.

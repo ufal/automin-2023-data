@@ -1,0 +1,129 @@
+But, ehm, the Czech republic government, they already lifted the-
+
+
+
+Kind of lifted the rules.So, ehm, from this Monday we can actually go out even if it's not like the necessity.So here in [LOCATION1], we have to wait until the 4th of May, some commercial activity can already be open.Because I'm in Trento and my family is in Bolzano.<laugh>
+
+
+
+But, but - <laugh>
+
+
+
+(PERSON11) So you're looking forward.(PERSON11) Well, the rules changed here and since this Monday we can't go out even if it is not like the most necessary groceries or stuff like this, and -.(PERSON11) Yes, but if you are in the city then you have to somehow get to the forest, so -.So, Am I the last one?(PERSON11) Probably yes, because [ORGANIZATION3],[PERSON3] and [PERSON14] said that they have the call so they can't join ours.(PERSON8) Yeah, okay.One in May and one in June, and -.I know that nobody knows so litheraly if will be able to travel somewhere, and it looks like that it will be just online meeting.But, anyway just vote in a Doodle so I can get [PERSON7] some dates.I've link there in the in that Google sheet we have for tricking our like deliverables or stuff -.(PERSON8) Which is a good opportunity to choose them now.So I think that the the two point one, the initial ASR systems [ORGANIZATION1] is not providing in ASR system.(PERSON1) Okay, I'm gonna last review the summarization.(PERSON1) That's a problem we contribute everything.<laugh>
+
+
+
+(PERSON8) And for this D7 2 do I understand correctly, [PERSON11], please correct me.I think that we should ask for an extension for this deliver because Congress has not taken place.(PERSON8) So actually, I hope that this one will not be needed.(PERSON11) Yes, we will have to chec- check it with [PERSON7].(PERSON1) So, who is gonna review three point one, cause I'm hoping that (everyone) only the universe is contributing three point one.(PERSON1) So maybe maybe [ORGANIZATION5] would be just a placed.(PERSON4) Okay, you can sign -
+
+
+
+(PERSON13) Let me down the check, okay?(PERSON4) Ah, Okay.(PERSON13) Eh, I will let you know.But I'm also doing the dissemination on the web and stuff like that.(PERSON8) Hmm, I don't think there will be too too much of a problem.So I think that that that (little) should be like cross reviewed between [ORGANIZATION3] and us.(PERSON8) So, [PERSON11], write yourself as the reviewer and -
+
+
+
+(PERSON11) So I will put here [PERSON11] plus [PERSON3].<laugh>
+
+
+
+(PERSON11) No no, there is no, there wasn't any, anything like that before.(PERSON8) Oh, this is the -.(PERSON11) And it will be a lot of lot of words about nothing but yes.(PERSON11) So who wants who wants to read a fairy tale.<laugh>
+
+
+
+(PERSON8) So the the best position would be I think [ORGANIZATION1], because they have coordinated a number of projects.(PERSON1) I'm much rather read about ASR systems.<laugh>
+
+
+
+(PERSON8) Yeah, exactly.<laugh>
+
+
+
+(PERSON1) Yeah, not that keen on reading it to be honest.(PERSON8) Yes, [PERSON11], please cut down the number of words.<laugh>
+
+
+
+(PERSON11) Like I think will run out of idea what to write there.<laugh>
+
+
+
+(PERSON1) Okay.(PERSON1) I, I do not know, I think we managed to avoid such a thing before.<other_noise>
+
+
+
+(PERSON8) Yeah well.Yesterday I search in sigma like what is the description of this of this deliverable, and it says just czech management guide.(PERSON1) And how it could be managing without project management guide so far if we don't -.(PERSON8) Yeah, it's just a party, they do do what they're expected to do even without the managing them.(PERSON8) Yeah, exactly, that's that's what [PERSON9] can has always said I also believe in selforganization.<laugh>
+
+
+
+Hm so QT21 doesn't seem to have this.(PERSON11) And and <unintelligible>
+
+
+
+(PERSON1) I don't remember such a thing, no.(PERSON11) Okay, anyway, I'll write something and someone then will review it.(PERSON8) So another thing is like who would like to coordinate future projects.Those people should also have some a little incentive to to read it.<laugh>
+
+
+
+So that they would finally know what like what these EU projects are about.<laugh>
+
+
+
+(PERSON11) Okay, we can decided slowlier.(PERSON1) Can you give us a date?Mid June seems kind of late.(PERSON1) Yeah, that sounds fine.(PERSON8) So that should be the end of the review, kind of, right?(PERSON8) First draft, yes, but complete draft.Yeah, So then you basically have a week (reviewer) two week to fix it.(PERSON1) And a week for no further every week spare -
+
+
+
+(PERSON8) Yeah, yeah.(PERSON8) Yeah, okay, that looks good.So the previous milestones of talk to [PERSON5] in the e-mail that you seen that of the milestones claiming that we have all the complete set up for [ORGANIZATION4] Congress, which technically we have.And [PERSON5] said that there is no need to like think that of specifically, because, well, it won't happen yet.But unfortunately, the the colleague of mine who is supposed to be responsible for this is extremely slow.So please pick up on that, and hopefully will not be like too confused from the layout of the of that test set and also that you would not disagree too much with the ambition that I have there.So, it is and kind of assorted collection of documents in terms of languages, and like modality the speech, or or the text.(PERSON1) So this is the WMT 20 [PROJECT1] test you are talking about, or?Unfortunately, [PERSON12] is not (feeding) them with the prepared automatically paralyzed files.Uh, so that they would review them, because he is very slow, and he is also not soliciting new links from them.But if we were really wanting this for the [ORGANIZATION4] Congress we will be in in a bit of trouble.(PERSON1) So wa- was the August the August just the (low) deliverable of the year 2 test set, is that right?And if it's the machine translation test set then it's the standard (poll) think, ideally documents.<other_noise>
+
+
+
+Uh, you you for those who like a clever (fine graph) so that you list all the files, and check that you have all the languages that you want.And that should be stored there as a fixed file list, so then in order to evaluate with the test set you would say I'm for the evaluation I use this particular version of my model, whatever, and I use this commit ID of [PROJECT1] test set with this file list.So that we we would really have like there could be a file list cord called year 2 SLT test set.(PERSON8) So this is this defines just the data and not the evaluation metric and that's a separatelly.(PERSON1) That, that and some some as a true, um, but sacrebleu has a way to just yet be a text.(PERSON8) So that would be a nice extension of sacrebleu, so that we could like add like FLAC to sacrebleu [PROJECT1] test set and then the the file list name uh, and it would do automatical downloaded and it would put the commit ID the current commit ID into the fingerprint.(PERSON1) Yeah, and I, I have observed that Max apps test sets really quickly to sacrebleu.(PERSON15) <unintelligible> I mean, it's a little.(PERSON8) And so so the I think it would be better to kind of avoid forks, because then the versioning is is confused.But I'm totally agree that the public use of these test sets, the should be limited to few of those.So the the file list, and uh, that there should be only 3 at most 3 file lists that are interesting for the general public.<other_noise>
+
+
+
+(PERSON1) Yeah.(PERSON8) So I think that for the for the general public there should be just at most 3 file lists.They could grow in time, the fingerprint would then it clearly indicate which which version was used.Emm, I mean, I mean, the sacrebleu, I mean, I was insane added sacrebleu.I just mean this kind of approach is very useful cause it makes it very easy.So for the evaluation it's for the tool, we're still working on the SLTF, which is a private repository and you can see it, but it will be public wants finally finalize it.And it's this is geared towards the evaluation of spoken language translation, and it has kind of a mode, where it doesn't need a translation.The SLTF, ideally would be the sacrebleu for spoken English translation.Spoken language translation is a bit more but nearer to me.(PERSON13) <unintelligible> people I try to reconnecting if you needs.(PERSON15) <unintelligible> spoken translation evaluation effect to reward the same unless you need <unintelligible> symetrics.And in our case, we actually all we said that the primary evaluation will be the translation quality, and the ASR and translation quality regardless the delaying.But I can imagine then in the next year, we would maybe even try running the model, so that this is a this is hard to run the models.(PERSON15) Yeah, I have strong preference not to submit my model to eh -
+
+
+
+(PERSON8) Ehmm.And yahoo it's not a problem and <unintelligible>, I would prefer just send the sour- eh the lock file we have to do, because with the something in translation task and probably the SLT and I was not able do that.(PERSON15) I mean, so used that's for lock former time stamps <unintelligible>.(PERSON8) Yes, this is exactly what we did for these for desirability to tasks it.It is quite clear, this (cries) what the lock file shouldn't lying.Eh, so so the so the the one people misinterpret it then someone's results can be like shifted in bad ways.So these measures will be always on the reliable, the only way to to do the comparison really fairly is to run the models or a serve the model.So that people with really live, receive the the sound, and they would like in in in (actual) networks sockets provide the the outputs.The the extra thing that I wanted to mention is that the forced alignment, which finds the words in the in the sound is not reliable for us either.Then everybody's like each party is affected in a different way, and that's bad for the for the evaluation.So I think it is, it is quite easy to proceed with a with these limitations and what the set up.So so the so [ORGANIZATION1] people please review the [PROJECT1] test set, as I set it up and please contribute to it in any possible way.You remember that some at the several months ago of of I suggested that you can ask your students and and [PERSON10] said that well we cannot expect volunteers eeh possibly paid volunteers or non-paid volunteers that that makes some different, but not to it to to just do slavery task on the data.(PERSON8) And and this, if I was correct [PERSON11] I do not know whether you have double checked my numbers.But it turns, it seems that finding and curating is half the price when we pay what we pay to our annotators normally compared to like the professional translation.Then indeed, we will ask the people to find these text monolingually and translated maybe back to Czech.(PERSON1) In in terms of finding the translation I mean we and [PERSON9] maybe can (comment).(PERSON1) And that if that is what we are looking for pro tests about is nonspeech segments, that some text insistent.Uh, the current people, those that we have have just like signed up work agreements, the short term contracts with uh, our four languages, which are not well represented there, so far.But we also want to do it for the well represented languages, because we should we should cover them as well.So so [PERSON12] sh- [PERSON12] has, for example, link to one great site of of speeches and he should run by textor and they and he-.(PERSON1) We can also work on this and for a lot of Irish state.<laugh>
+
+
+
+(PERSON8) Yeah.(PERSON1) The Irish supreme auditor, apparently translates lot everything into Irish.(PERSON1) We assume that Irish was not huge priority for the project, um.<laugh>
+
+
+
+(PERSON8) Well, Irish is equally equal priority with as other languages.(PERSON1) Eh yeah, currently.(PERSON8) Yeah, well, the project was started when the EU still existed.(PERSON11) Okay, there is one more point and we promised half hour call so.(PERSON8) Yes, so exactly -
+
+
+
+(PERSON1) Right.(PERSON8) Yes, with this is that the finishes, the set of feel free to step in, and whatever you can do for [PERSON12] that will help us then the next person when [PERSON12] is still not like woken up is [PERSON6] who is now finishing the overview of the audible SLT test set.And he will be moving to to to these like supervision and managing the the annotators for the [PROJECT1] test set if if [PERSON12] doesn't start really.And, but feel free to step in and provide feedback on the layout, upload data sets everything.Then and if we test with these test sets then it will be very easy to do the deliverable for August.So here I would I was I was hoping that [PERSON13] would would reconnect by this time.So would it be possible that that [ORGANIZATION5] would would like manage and make sure that this demo is delivered?So they've they've reminded us off BBC guidelines and standards for subtitling, which we are aware off, but they are not reflected in our systems in in any way.And then the better captioning or as spoken text translation ehm on screen will make better translation and readability, recomposing sentence on the fly my (ethic liability).So so in a sense this is not the first time I hear that the users are always afraid of what [ORGANIZATION7] is working on for for the past years.<another-language>
+
+
+
+Yeah, okay, so so maybe maybe [ORGANIZATION7] has already experience with defending their approach to the users.(PERSON1) This is the segmentation as opposed to the, you mean, the segmentation and -
+
+
+
+(PERSON15) ASR have focused on resending.Um, I mean we only tested this simulator ASR which talking this morning about trying to get more testing the ASR.Yeah, if you're doing retranslation you're never going to be up to completely make it stable without actually messing up the end performs.(PERSON8) Yeah, it is a it is a trade off.I think that in the long term I would like this to be evaluated on humans towards the end of the project we we we would really have like user study that would be great to to see which, and I think there will be people of different groups.Some will prefer this some will prefer that uh -
+
+
+
+(PERSON1) Should be do this at the end or should be do this a bit sooner?<laugh>
+
+
+
+Well, I mean it it's a question that's it's a question of making the time.I mean, yeah, <unintelligible> it's whether we see it as a priority or not.(PERSON8) So ehmm -
+
+
+
+(PERSON1) I mean immediately end and say ou, we should retranslations a terrible idea.We should do less of it or we get the end and say retranslations is briliant.So little bit respect on this, I'm not an ASR person so probably [PERSON9] could <unintelligible> more about this.But it's entirely possible that retranslation go go back a lot with the transition to end-to-end ASR.The MT is all also gonna inject instability, isn't it.The MT only translate will be get from ASR.(PERSON1) Yeah, so that injects instability.(PERSON15) If there are no updated ASR hypothesis then they MT hypothesis <unintelligible>.(PERSON1) Okay, so if the ASR wait to the end of the sentence before sending his hypothesis.(PERSON15) <unintelligible> partial sentences.(PERSON15) We will have our new generation of eh models previously based <unintelligible> transformers finally in direct translator.And so far the experience from actual lectures is that there is a big improvement.(PERSON15) And this is how much improvements is for flickering and every translation support generally, the quality is <unintelligible>.[PERSON15], you were saying that with the in the end-to-end SLT which includes transform models now in the new generation.(PERSON8) Okay, no internal SLT.(PERSON8) Okay, end-to-end ASR.(PERSON15) <unintelligible>  because that's not my field.(PERSON8) Sorry, <unintelligible> connection.We do get a partial sentences, but I don't think the hypothesis updated as much.(PERSON1) But even even extending could still could still lead flickering the MT it's like you listen to German.If you listen to German, you don't know what the verb it so you make prediction and (reproduction) wrong.German to English say, you don't know the verb is <unintelligible> in the sentence predictor wrongly, or you could just wait, but maybe that's bad to.So this is, I think the the problem with the integration of the ASR and MT will remain even once the uh, the new generation of the ASR models is is there.And there will be the question for the users whether they preferred to wait for the German verb, or guess and put there some English verb.So there there would be a trade off like what and what confidence should I insert the verb and then maybe recovery.I'm sure that there is also ways in English in which you can still -.Cause they just have strategies for doing this, the massive strategies where they serve formulate the the speech and serve wheter the <unintelligible> is open, but I don't know the computation like.Like the system, even guess is what people are gonna to say, and translates sooner.It's like, the ASR so bad that that the prediction is like totally off, and so far it doesn't work at all, but but we are trying this guessing.And that's a question whether we will be able to do it well enough and half a good enough confidence eh explicitely in the models to make the decision, whether we should follow this guess or not.<laugh>
+
+
+
+(PERSON8) Yeah, yeah, yeah.Would could you, could [ORGANIZATION5] supervise the the organization of the of the demo?(PERSON8) Say it again, it's a -.(PERSON13) I mean it's important it's not a <unintelligible>.(PERSON8) Maybe, maybe, so actually it won't be better if you could even create the Doodle Poll with time slots already for [PERSON5].(PERSON13) I think it's better if we (post) the final this proposal informaly as a Doodle and then ask [PERSON5].(PERSON13) So we will, we will learn set up the Doodle, send it to <unintelligible> in both partners.I've sent a couple of a like a recorded demo most to [PERSON5] and propose, and something specific.(PERSON4) I saw the demo you send project officer and she mostly seen the Monday seminary, em.(PERSON8) Yeah, Okay.(PERSON4) I, think that probably we if you would like to present to the same thing we should then everything right now put the same set up without the (audition??).Might just, my only worry is about how to presents the results to the project officier.Because actually during the demo you project both the [ORGANIZATION2] representation and the sub- [ORGANIZATION5] subtitles.So what we can do is like screen sharing and screen a broadcasting.And and a question is, what should be the material that we are that we are subtitling.(PERSON8) I think it could be some low like French watching session.<laugh> 
+
+
+
+(PERSON1) I'm not worrying about this, they have the same process on subtitling.And not really doing subtitling at the moment, we are doing transcription and translation, which is not subtitling by some kind of summarization.And in that case, that's the paragraph you, which we can include in the demo as well.(PERSON1) Yeah, we didn't, to be honest, someone [PERSON4] understood.(PERSON1) Some like a TED talk suppose might be -.(PERSON8) No, no, It's not necessary to save.So it could be authentic stock, or something like that, so that it's not delivered in English, the prime language.So maybe if the primer language would be German, because [ORGANIZATION7] has good models for this.And from German into English and from English into all the languages, TEDx talk.(PERSON1) Is the audio gonna be easier and gonna be clearer than news broadcast is gonna be easier for ASR.(PERSON8) I think that the segmentation would be a little bit easier.So what so far in our experiments what kills the performance for the final user of the machine translation is the sentence segmentation.(PERSON1) Is it just cause sent me I mean because fundamentally sentiments segmentation is really hard, because people just you're trying compose compose something that is not really there cause I'm not speaking in sentences.But still, there there are many cases where I would simply (nowhere) to put the full stop.So maybe maybe [PERSON15] he could propose some German talks that are uh, on this and we we should test the whole set up via English into all the languages.(PERSON8) Yeah, Okay so.But as you see, my kids are really getting hungry, and i still need to peel the potatoes, and -.<laugh>
+
+
+
+Thanks for joining, and will be in very close touch for for the demo in the coming days.

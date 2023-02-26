@@ -1,0 +1,52 @@
+[PERSON3], the participants of meeting have two [PERSON7]s.
+(PERSON18) would like primarily to ask [PERSON16] and [PERSON3] to debag, what was the problem yesterday.
+And that is, (PERSON13) need to be logged into one, machines.
+[PERSON18] will download the recording from yesterday.
+Participants meeting had a call with [PERSON12] last night.
+[PERSON12] has created a folder for the domain adaptation.
+[PROJECT4] is useful in the long term, but it is better if people who already have that experience do it now.
+[ORGANIZATION10], does not give direct access.
+[PROJECT13] is the full archive.
+[PROJECT13] Archive, which are the interviews with the survivors of World War II (PERSON13) of the Holocaust.
+[ORGANIZATION10]'s archive was the case.
+He should also scan the web pages of the people.
+[PERSON3] is joining the call.
+(PERSON18) think for some of them, participants meeting are calculating exactly the way the participants of meeting should do if [PERSON13) see the code?
+If the participants of meeting have for example the,, participants of the meeting consider the meeting should be 200.
+[PROJECT2] environment (PERSON13) explained in two cases German to English and English to German what is probably going t What is probably happening according to the description in the paper and what should be happening.
+(PERSON13) want to go Anywa Just [PERSON18] r things and, (PASTER1) will check the code, and participants of meeting will answer everything in detail in one email to [PASTER9].
+And (PERSON15], because h, [PERSON2] is actually still is still at [PROJECT12] demo paper.
+[PROJECT12] multilingual life subtitling.
+And participants the meeting pass all their training data through [PROJECT8] and other systems in an automated way that distorts the data, in the same way as these platforms, of it and also that the participants, the meeting will use a frequency filter cut down on the hate frequencies on the like high frequencies.
+[PERSON16], (PERSON13) should work on evaluations first and for...
+[PROJECT12], [ORGANIZATION8] demo.
+(PERSON18) is continuing with data preparation of [ORGANIZATION5] corpus.
+[PERSON5] has started to write summary o oh (PERSON18) do not have any update.
+If (PERSON18) have some long term processing [ORGANIZATION5] that is like where computation time is needed, then start it.
+Could (PERSON13) get in touch with [PERSON8] and process all the files that [PERSON8] has for English training data participants, of meeting need participants, the meeting need Czec
+Whereas the participants of the meeting need English, in like on the 25th like in 10 days.
+[PERSON7]: What is (PERSON13) r status with, with the pipeline preparation, or pipeline configuration tool?
+Sometimes participants of meeting use one component, sometimes participants of the meeting us another component, And (PERSON13) is writing a tool, that will allow an operator to define part, of the pipeline and how they are connected.
+[PERSON7], should o if (PERSON18) could put this on to do list or on the enhancement, options that would also be very useful.
+[PROJECT13] participants meeting are going to provide life subtitles and transcription.
+[PERSON15] already has such simple tool that (PERSON18) could adapt what is mor What is missing is, description, ah, like how to use the tool.
+[PERSON15], if (PERSON13] could share with [,PERSON7] (PASTER1) r simple feedback clicking page.
+or it may be lik Given the quality is pretty bad, participants meeting don't want to like, ask the people, to tell us it's bad,,,'s Bad it is bad, it'S bad like, it participants meeting need some more useful information.
+Just, (PERSON18) called [PERSON18]'s dentist and asked him, okay, (C) can come one hour later.
+Vicky and [PERSON16] have already provided [PROJECT13], one [PROV2] interview in the confidential part.
+HD Wallpaper and background images in the [PERSON16] club tagged: PERSON16 PERSON8 PERSON15 PERSON6 PERSON7 PERSON2 PERSON18 PERSON9 PERSON12 PERSON4 PERSON14 PERSON5 PERSON17 PERSON1 PERSON19 PERSON18 PERSON19 PERSON20 PERSON21 PERSON22 PERSON23 PERSON24 PERSON25 PERSON26 PERSON27 PERSON28 PERSON29 PERSON30 PERSON31 PERSON32 PERSON34 PERSON35 PERSON37 PERSON40 PERSON41 PERSON45 PERSON48 PERSON47 PERSON53 PERSON54 PERSON57 PERSON56 PERSON55 PERSON58 PERSON60 PERSON66 PERSON67 PERSON70 PERSON77 PERSON78 PERSON79 PERSON84 PERSON87 PERSON88 PERSON97 PERSON99 PERSON02 PERSON01 PERSON03 PERSON04 PERSON05 PERSON06 PERSON07 PERSON08 PERSON09 PERSON13 PERSON3 PERSON0 PERSON13 PERSON3 PERSON16 PERSON8 PERSON15 PERSON6 PERSON7 PERSON2 PERSON18 PERSON9 PERSON12 PERSON4
+[PROJECT1] systems, [PERSON13] can present the summary summary of which which, (PERSON13) can present their scores on the various domains.
+(PERSON18), please make sure that the participants of meeting evaluate everything on everything and we, can choose the best set up.
+[PERSON18] haven't sent them transcripts yet, because, (PERSON18) shall have to rerun the transcript late.
+[PROJECT3] is a repository for [PERSON17]es in their editor and to the manual or a revision more conveniently.
+[PERSON18] is saying that it has to be committed to the [PROJECT12] test set evaluations because bleu scores will be definitely lower.
+[PERSON8] (PERSON13) did not say anything.
+And there is that the participants of meeting can create more robust [PROJECT14] that is that is not for refitting any speaker the participants the meeting can read because of participants of the meeting, can for example, alter distribution of speakers or,, and the second important gain that may be from this method is that, the end to end [PERSON8] models are creating implicit language models within.
+(PERSON13) need to somehow figure out how to how to, create it quickly.
+For example, the [PROJECT11] speech for example has a, less than three hundred thousands texts.
+[PROJECT9], framework is a black box and it is quite complicated.
+It was (PERSON13) guess how much [PERSON13] want to be played from the [PROJECT5].
+[PERSON19] is not sure if [PROJECT5] will be active now, when she is on maternity leave.
+That' [PROJECT5] is still in the hands of the team, but she is giving a talk, this afternoon, somewhere a remote one, but after that she would be hopefully available for to say what is the status with the [ProJECT11].
+[PERSON18] would like to talk about [PROJECT7].
+(PERSON13) think even in the participants the meeting decided first to calculate C without any alignment.

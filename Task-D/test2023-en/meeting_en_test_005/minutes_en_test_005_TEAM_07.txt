@@ -1,0 +1,192 @@
+Summary:
+
+* The microphone was muted. 
+* Now the voice level of the amplification should be reasonable. The microphone here was muted, so the voice volume should be higher now, as per PERSON12's request. 
+  - Disc: The voice volume is now higher. The microphone has been muted again. 
+* PERSON12, PERSON7, PERSON4, PERSON10, and PERSON11 are watching a presentation from PERSON9's notebook. 
+  - Fact: They have two inputs, one of them is a microphone, the other is a screen with an empty screen. 
+* The presentation is supposed to be from the notebook of PERSON11. 
+* PERSON12, PERSON6 and PERSON11 are on a call. 
+  - Disc: They are having problems with the presentation platform. 
+* PERSON12 wants to try different language so that they can also see the quality of the subtitles. They need to test the German worker and the English one. 
+* PERSON11, PERSON7, PERSON12, PERSON6 and PERSON1 are going to do German translation and German to English translation tests. 
+  - Disc: They are not sure if there is an empty system for German-to-English translation, but they think there could be one. 
+* PERSON12 will get the batteries for the second mike and test it with the German ASR to make sure it works. The workshop is short of German interpreters. 
+* The German signal will be available for 20 minutes, then 20 minutes for a break, and 20 minutes again. 
+* PERSON11 and PERSON7 want to test if their English is also running empty. 
+  - Disc: PERSON11 is speaking German to German and then to English again. It turns out that the English is now talking about bacteria and the German is talking about ehm. 
+* PERSON11 and PERSON7 are trying to figure out what time it is. They want to try something from the president's polits to get some prodution from his polits, but the computer is empty. The time is not too bad. 
+* PERSON11, PERSON12 and PERSON3 are trying to translate German words. There are a lot of repetitions in the translation. 
+* They need to talk to ORGANIZATION3 to fix the problem and make sure they don't get overlapped to two sentences. 
+* PERSON7 will write the conclusion from the discussion and put it in the Google doc at the end of today's blog. PERSON12 will put the critical observations from the test in the doc. PERSON11 and PERSON12 are solving another issue with presentation right now. 
+* PERSON12 doesn't know how to share the screen with Pexip. He will share his screen with PERSON9, but the full motion icon has been hidden away. He might try to share it in another way, but he's not sure if he'll be able to do it. 
+* PERSON12 explains to Pexip screensharing that the update of the screen is different from what is happening on the webcam. 
+  - Fact: It's adding repeated sentences and updating the translations into both German and Czech. The HD button will let you see it in live without the delay. 
+* PERSON12, PERSON3 and PERSON9 are on the call. They are trying to talk to each other, but it's only PERSON12 who can hear them, so they hope that maybe PERSON9 can hear it too. It's not working. 
+* PERSON11 needs to enable both muted and loud speakers to hear PERSON9 and PERSON12 can now hear him as well, because he was using one more lap of muted mode and can't hear PERSON12. PERSON12 advises to avoid loud speakers. 
+* PERSON12 and PERSON12 have another headset for PERSON11. 
+  - Fact: They will connect it to one more laptop so that it can be used for the headset for PERSON11. 
+  - Disc: The headset is for PERSON12. 
+* At the end of the session today, PERSON12 wants everyone to share their observations from the test. The first issue that they spotted was that they need life monitoring of everything. 
+  - Disc: Multiplexing is probably necessary. 
+  - Fact: Right now on the cable, a connection is sending three English, three audios instead of two. 
+* PERSON3 wants to know if PERSON12 has tested the multipol input stream request. 
+  -- Disc: Before the trade fair, before the extension of the client, PERSON11 used the functionality and it worked. 
+  - Disc: It could work also asking for multiple e.g. translations. 
+* PERSON12 and PERSON7 are unhappy with the multiplexing of requests. They think it's a waste of time to have a couple of minute languages. 
+* They want to have minimum cashing and never send the same request multiple times to the same person. 
+* PERSON3 talked about this behavior with PERSON5 and PERSON4 yesterday. In the year all used case the one who use the air lange mediator. ORGANIZATION6 manage these behavioral directly in the displace server. They translate multiple times and feature out segments in their own application. 
+* PERSON3 is trying to solve a problem with the machine translation of ORGANIZATION1. The off set value is probably the key to the solution. 
+  - Disc: It works on the beginning and not on the offset. 
+    -- Disc: The solution will probably be found at the end. 
+* PERSON12 and PERSON3 are confused about the issue of repetitive input to machine translation. 
+  - Fact: ORGANIZATION4 said that the empty worker cannot distinguish between January repetition and real repetition. 
+* The empty worker should ignore any context and send the same input twice. 
+* PERSON12 and PERSON7 have a problem with the same string being sent to the empty worker. The solution is to double check the output of the ASR worker and avoid sending the same update to the next empty worker if it's not different from the previous update. 
+* PERSON11 can't get audio into into his laptop because the workers are not running. PERSON12 is wearing the two mikes. PERSON3 ran a test with the English ASR and it failed, so he has to finish the test now. 
+* PERSON3 ran a test with the English ASR and it's all available now. 
+  - Disc: PERSON12 is talking to the microphone. 
+  - Fact: The notebook is not recording anything yet. 
+  - Disc: The sound in the sound card is stopped by itself, so it's possible that someone is stealing the sound. 
+* PERSON12 and PERSON3 are having a discussion about the Pexip presentation platform. 
+* They want to test it today, but they need to use the German ASR to do it, which is not available on the webpage, so they have to use a different method. 
+* The German ASR is not working. 
+  -- Fact: One of the German workers is being used by PERSON3 and PERSON12. 
+  - Fact: They are following two channels: English channel and one intended for German speakers. The presentation platform web is available on Google Docs. 
+  - Disc: PERSON3 will paste it to the Google documents to check the status of the components. 
+* PERSON3 can't write anything in Google Doc except to where he doesn't want to write. He wants to share his screen with PERSON12 so that he can see his demo and share with presentation. 
+  - Disc: He doesn't have the button for presenting, so he will share the platform instead. 
+* On the left you have four buttons for configuring the languages. 
+  - Disc: If it works in two weeks from now, it would be perfect. 
+  - Disc: The looking field is not the most important one. 
+  - Disc: It is the only one that needs to be used. 
+    -- Disc: It is not necessary to use the looking field. 
+* PERSON3 and PERSON12 are going to test the M3U8 URL and configure the presentation platform to connect to the streaming and display the provide thing. The demo is a demo of course, but when they have the URL, they can connect to this streaming. 
+* PERSON3 and PERSON12 are working on a presentation platform. 
+* They need the source code of the web page that runs the video client to test it. They also need to link the webpage with the screencast and send it through Linux machine or through VLC in Linux. 
+* PERSON3 and PERSON12 are discussing how to send data from the examale to a working ASR worker. The worker has the workers running, but it's not clear if it's working on PERSON11's screen. If it is, then the data can be sent to it. 
+* PERSON12 and PERSON11 would like to have a notebook initiating the session. 
+* They want to send the audio and presentation platform showing the subtitles corresponding to that. 
+  - Disc: The English version is more reliable. There is a worker who manages the publication. 
+  - Fact: He sends to start the client so that the target well signature is an EU pub. 
+* PERSON3's input fingerprint is wrong, it's German, not Czech. 
+  - Fact: Pexip allows him to check it. 
+    -- Fact: He can see the correct input fingerprint on PERSON11's screen. 
+    -- Fact: He can also see the wrong input fingerprint for PEXPIKE. 
+* PERSON12 needs to connect both the locks and the presentation platform to be able to see in subtitles what he is saying. 
+  -- Fact: He has connected both of them. 
+* He should see something in the locks but it's not in the Elite yet, so he needs to try the English one. 
+* PERSON12 can't see what he's saying in the presentation platform, so he tries to perform his test on the screenshare of PERSON11, but it doesn't work. He stops the German target and the screen only produces the English output. It's not working. 
+* PERSON3 and PERSON12 are having problems with the presentation platform on their computers. They are trying to solve the problem by using different browsers. It doesn't seem to be related to the browser they are using. 
+  - Fact: It's also not working on their Windows laptops. 
+* PERSON3 can't see anything on the screen of PERSON12's Linux laptop, because he doesn't have Google Chrome. 
+  - Fact: The screen sharing is possible on the webcam of PERSON9's Windows laptop, but there are no subtitles. 
+  - Disc: The problem is with Windows Firewall. 
+* PERSON12 is looking for a Linux machine with Google Chrome. 
+  - Disc: He will talk to the team about it later. PERSON3 is going to test it now. He's going to talk about it with of course the team. 
+* PERSON3, PERSON12 and PERSON7 are working on a project. 
+  - Fact: They have a lot of problems with browsers and Windows, characters in coding, strange characters coming out from the ASR or if it's the Java integration whose not correctly managing the <unintelligible>. 
+* PERSON12, PERSON7 and PERSON3 are going to test the new ASR next week. 
+  - Disc: PERSON12 is happy with the efficiency of the ASR and the speed at which the subtitles appeared on the screen. 
+  - Fact: PERSON3 started working on the complete pipe yesterday. 
+* PERSON3 will be on vacation next week, so he suggests to perform a massive test on Monday next week. The next Monday is 4 days from now. 
+  - Disc: During the day, PERSON12 is available from 11 to 3 o'clock, so it's fine for PERSON3. 
+* PERSON6 informs PERSON12 that PERSON4 is not available on Friday, because she's not available this Monday. PERSON12 confirms that she is available on Monday, as she heard from PERSON12. PERSON12 and PERSON6 will meet on Monday. 
+* PERSON12 and PERSON3 are going to have the same test call on Friday. They are starting at 9 am on Friday and expect everyone who is available to join at 10 am. 
+  - Disc: PERSON4 will not be there. 
+* PERSON7 will join Pexip next Friday to relieve the workers. 
+  - Disc: The session will mostly be to check the work load. 
+    -- Disc: The set-up that runs the ASR and connects all the machine translation into all the target languages will be needed for the session. 
+* PERSON12 wants to get in touch with PERSON5 and make sure that they help him with the segmentation input. He is worried that there will be no time for improving this because it will be like creating new models and improving the underlink set up. 
+* PERSON3 is still available for some time and is available to meet with PERSON6 and PERSON12 at their request. 
+  - Disc: PERSON6 is going to say goodbye to PERSON12. 
+* PERSON12 and PERSON3 are trying to mimic the format of a live stream. It's confusing to them as the stream doesn't start at some time and if they click play on the bunny stream, it's not over. It is like streaming for PERSON12, but not for everybody. 
+* PERSON3 explains how the playlist M3U8 works with real-time streaming. The ehm setting, a configuration languages displayed under the PROJECT1 logo, is the reason why you are able to skip in time in the playlist. The browser downloads the ehm file and plays the chunks that are currently available. 
+* PERSON3 explains to PERSON12 how to manage a website in real-time. 
+  - Disc: It's possible by clicking somewhere hidden and then seeing the main page. 
+* To do that, you have to be registered to the system as an administrator and the browser has to be open. 
+* PERSON3 informs PERSON12 that the configuration page where you can set the stream provided for each language is not available to each user. In the meantime, PERSON4 made himself available on Slack and will join the call if he has any questions. 
+* PERSON12 wants to clean up the Google document and make the transcript or summary of the messages clear. 
+  -- Disc: He wants everybody who is still on the call to go through the current state of the document and add whatever they have not recorded in the document. 
+  -- Fact: They have seen many things, but not all of them. 
+* PERSON3 and PERSON12 are working on several issues related to the ehm integration worker. 
+  - Fact: One of them is character in coding, subtitles not appearing, and font size and number of words displayed. 
+    -- Fact: They haven't tested the multiple sources for the same language yet. 
+* PERSON3 and PERSON12 want to see the administration interface, but they can't access it because they need to register to the system. 
+  -- Disc: Pexip allows them to see it on their desktop, but it's not possible to share it. 
+  - Fact: PEXIP provides them with a snapshot of the interface. 
+* PERSON12 wants to add himself as an administrator on Slack, but it requires a password. 
+  -- Disc: He will share his screen with PERSON3 to verify if he's doing it right, so that they can verify if it's working properly. 
+* PERSON3 and PERSON12 are trying to log in to ORGANIZATION6, but it doesn't work. 
+  - Disc: They try again and it works this time. 
+  - Fact: It's working for them. 
+  - Disc: It worked for the previous attempt too. It works for this one too. 
+* PERSON12 wants to change the default available languages on the front page, but he doesn't want to change Bugs Bunny for now. 
+  - Fact: The default languages are displayed in the <unintelligible> section of the page. 
+  - Disc: The target languages are in the target languages. 
+* PERSON12 wants someone to dictate to him Czech, Polish, Hungarian or Polish language from the Google Doc. 
+  -- Disc: It's in the Doc if it's clow down, so it will be also Czech. 
+* It will be in the Google doc if the text is in English. 
+* PERSON12 and PERSON3 need to create a map of all the fingerprints used by the different workers. They need to know what the worker should be registered as, and then what should be displayed. 
+  - Disc: PERSON11 has experience with Slack maps and suggests a picture layout. 
+* PERSON12, PERSON3 and PERSON11 need fingerprints before the 27th of June meeting. 
+  - Disc: PERSON12 will create a Google drawing document and share it with the rest of the group. 
+  - Fact: PERSON3 has created a bridge worker to connect the workers. 
+* PERSON12 wants someone to create separate objects and not edit the existing ones, so that no one else can see the screensharing. 
+  -- Disc: PERSON3 will put all the fingerprints of the languages that the presentation platform responds to you next to the object that PERSON12 has just created. 
+* PERSON12 will paste the full list of languages that they need to cover and send it to PERSON3, PERSON3 and PERSON9. 
+  - Disc: The German, Italian and English languages are different. English has EUN, so it's not like GB, so that's a problem. 
+* PERSON12 can't use the CSCZ pub because it doesn't accept more fingerprints. PERSON9 was faster and he can use it now. 
+  - Fact: PERSON3 explains that the presentation platform has been updated and more languages are available now. 
+* PERSON12 explains to PERSON3 and PERSON3 what is necessary in order to have the languages as fingerprints the client can connect to and give them the text. 
+* The backend also needs to know about them. 
+  -- Disc: It's not necessary for the client, but for the backend it's necessary. 
+* PERSON12 and PERSON3 agree that the publication is the client and the user browser is the mediator in the case of the German fingerprinting system. 
+  - Fact: The German fingerprint is digesting Italian text and producing Italian pub text. The mediator finds a path for the digesting of Italian text. 
+* PERSON12 is changing the set of languages and adding Spanish to the front page. There is no way that any Spanish can appear here until someone runs a pipeline which will end with Spanish pub. 
+* For this pipeline to be accessable, there has to be a worker registered with it mediator. 
+* PERSON3 needs to add a presentation worker to the mediator in order to have the publication for the ehm Spanish language. 
+  - Disc: The presentation worker would be run by ORGANIZATION6. 
+  - Disc: It is necessary to configure all the require the worker and let them run it. 
+* For English and Dutch, the presentation worker should be in the EU. 
+* PERSON12, PERSON3 and PERSON9 want to do the French EU pub. They don't know the names of the participants. The only way to ask them is to use the same language as the participants, which is not possible for them as they don't speak it. 
+* PERSON12 can't hear Pexip because he's running Linux. 
+  - Fact: PEXIP doesn't work on Windows 10 and Windows 7. 
+  - Fact: P EXIP can work on Google Chrome, but not on Chromium. 
+  - Fact: PExip will check if it's related to Windows firewall. 
+* PERSON3 and PERSON12 are having problems with Windows 7. 
+  - Fact: The slides are reduced way too much and the full screen is not sufficiant default screen. 
+  - Disc: PERSON12 will share his screen with his camera instead of sharing the screen with the slides. 
+  - Fact: PERSON3 will stop sharing his screen. 
+* There is a lot of blank blue space. 
+  - Fact: There is only one line of subtitles. 
+  - Disc: It could be reduced to as little as 11 or 12 lines. 
+  - Disc: It's even worse when there is no more than one line per person. 
+  - Disc: It is a problem for PERSON9. 
+* PERSON12 wants the stream video to take configurable space of the screen for the workshop in two weeks. 
+  - Disc: It's more important to have it optimized for the desktop rather than for the mobile phone. 
+    -- Disc: It works on Firefox, but it's not very good. 
+* PERSON12 and PERSON9 want to change the design of the website to make it more usable. They want the video to be bigger on the desktop and for the text to be displayed in different sizes depending on the language of the user. The website will be available in June. 
+* PERSON3 wants to develop a full screen mode for the presentation platform, but they haven't found a solution yet. PERSON12 wants to know the code for the bare bones of the platform, so that he can share it with the rest of the team. 
+* PERSON3 is not allowed to share the whole worker logic of the presentation platform, but he can prepare a snippet of it and share it with someone else. 
+  - Disc: He is asking for the clie- the console client presentation platform. The only thing it will do will be showing the text in terminal window. 
+* PERSON3 suggests that the publication worker could send back the published subtitle instead of the original one. 
+  - Disc: The most important thing for now is the map of the fingerprints. The presentation platform will be deployed on asure.com when it's stable. 
+  - Disc: PERSON12 will start sharing his screen again. 
+* PERSON12, PERSON3 and PERSON2 will be absent for Monday's call. 
+  - Fact: The goal for Monday was to test more languages in the presentation platform. On Friday they have to check the multiple language fingerprint path selection, the multiple publishing system and custom different video streams. 
+* PERSON12 and Tyso need a break before the main. 
+  - Disc: PERSON12 saw PERSON4 for a while, but he's not sure if he was here at all. 
+  - Fact: He might have been at the same place as PERSON12 and PERSON12. 
+* PERSON12 is not relieved yet, but she's no longer nervous. 
+  - Fact: She wants to meet up with PERSON3 but it didn't work today, so she's going to meet with PERSON4 instead. 
+    -- Disc: She's not sure if she's relieved yet. 
+* PERSON12 will close the call now and start packing things here. 
+* He will talk to PERSON3 on Monday and try to clean up the Google document on the prepare to the calls if he misunderstood something or if some of the notes don't make sense so that they know what is happening. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

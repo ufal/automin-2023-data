@@ -1,0 +1,41 @@
+Datum schůzky:
+Účastníci: [PERSON4], [PERSON12], [PERSON11], [PERSON14], [PERSON2], [PERSON13], [PERSON10]
+Účel schůzky: probrání deliverablu a lost in back translation
+Shrnutí schůzky:
+
+- Deliverable
+-- Zatím nic nového nepřibylo.
+-- Předběžně jsou vytvořené čtyři kapitoly a čtyři sekce, a to source complexity, source variation, alban translation a multiple sources in alban translation.
+-- Ještě by tam měl přispět [ORGANIZATION4] s QE pro [OTHER2].
+-- Ještě by se mohlo přidat lost in back translation.
+
+- Lost in back translation.
+-- Pokud se překládá z angličtiny do češtiny, tak je problém rozeznat tykání a vykání.
+-- Měly by připravit zpětné modely pro backtranslaci tak, aby v gramatických rysech, kde to víme jasně, tak paralelní data byla vylepšená a byla vylepšená angličtina, která to odhaluje.
+-- Mohlo by to být zajímavé pro WMT, kdy test suit  by se musel odevzdat do 30. května.
+-- Rozhodnout, kdo má kapacitu na to, aby vymyslel, jaké zdrojové věty by tam mohly být, aby to byl test suite zaměřený na lost in back translation.
+-- Test suits by se dělal jednak na rody a na tykání nebo vykání.
+-- Vstup by byla pouze angličtina a druhá věta by byla víceznačná, kdy se neví, zda se má tykat nebo vykat, nebo jaký se má použít rod, ale první anglická věta by byla jednoznačná.
+-- Mohli by se zaúkolovat i anotátoři ke konstrukci vět.
+-- Během toho týdne se rozhodnout, zda se během příštích čtrnácti dnů dá zvládnout udělat velký test suit s pomocí anotátorů.
+
+- Deliverable
+-- Nyní je napsaných 9 stránek, ale do pondělí by jich mělo být 20.
+-- U exploiting multiple sources navázat tématicky na lowering source complexity.
+-- Promyslet, co se bude popisovat v Initial interface for alban translation ve 27. měsíci.
+-- [OTHER2] měl startovat 8.5., ale je tam odklad o týden.
+-- Čeká se ještě na QE od [ORGANIZATION4].
+-- Jakmile se bude vědět finální počet anotátorů a zda bude quality estimation součástí experimentu, tak by se měl vygenerovat finální backend QE.
+-- Pokud by součástí experimentu nebyl, tak by bylo možné zmenšit data set na polovinu, aby se ušetřili data pro jiný experiment.
+-- Deadline zůstává stejný do WMT.
+-- Měl by se odevzdat začátkem června.
+
+- Parafráze.
+-- Zatím není nic nového.
+-- Termín odevzdání je do 15.7.
+
+- Administrativa
+-- Rozmyslet se, kdo pojede do Lucemburska odprezentovat deliverable 23.7.
+
+Zapsala: [ANNOTATOR1]
+

@@ -1,0 +1,141 @@
+Summary:
+
+* PERSON10 wants to be in the meeting. 
+  - Disc: There are some decision points from his end. 
+  - Fact: He is writing a lot of emails today. There is a chain of emails between him and PERSON9 and also between himself and PERSON4 as well. 
+* PERSON10 will drop a message over the phone to PERSON4 that they are already online and he is here already. The message will be delivered today today. 
+* The recipient will be on the phone with PERSON9 and will be able to hear it. 
+* PERSON10 is happy to see both of them and asks if other people are joining them. 
+  - Fact: It turns out that they are, in fact, PERSON10, PERSON9, PERSON4, and PERSON13. It is on their regular calls that they talk to each other. 
+* PERSON10 reviewed the webpage. 
+  -- Fact: He doesn't know if PERSON9 has highlighted the portions of the document with the colourful papers. 
+  - Fact: He didn't have the free minute since then to do it, so he didn't do it. 
+* PERSON10 is worried about the availability of PERSON7. He was about to move to Canada, so he might not be able to help them as much as they would have hoped for. It will not make their lives easier, but they have to work with it. 
+* PERSON10 wants to know how far the annotator got on the list of named entities that he sent to PERSON4. The annotator stopped responding after Christmas and he didn't finish the list. 
+  - Disc: The document is an online document so it's not a problem with it being an online. 
+* PERSON10 needs to get in touch with PERSON7 and double check that he would be able to do the processing at the token level. For many of the words, the annotators should have indicated, that it depends on the context, and for these context dependent. 
+* PERSON4 will open the agenda and send a link so that he and PERSON10 can write down the information they want to transfer to PERSON7, but it will get lost somewhere in the middle and they won't be able to transfer it all at once. 
+* PERSON10, PERSON4 and PERSON9 are discussing the agenda for the virtual coffee meeting. 
+  - Fact: The agenda is in the master document so they can check the Coffee Meetings. The last meeting is from the middle of December, so five people are there. 
+* PERSON10 wants to get in touch with PERSON7. If he doesn't respond, they have to recreate it themselves. There is a de-identification procedure. PERSON4 will be back in 30 seconds. PERSON10 will write the procedure here. 
+* PERSON10 explains how the process of annotating a document is carried out. 
+  - Disc: It is documented to the finest detail, but it's not complete yet. 
+  - Fact: The documents contain information like a word that was suspected to be an NE, but was marked as an E at the type level. 
+* PERSON9 wants to know if the process is easy to follow. 
+* He needs to see an example to understand it. 
+  -- Disc: It is not that easy. 
+  -- Disc: It's not that clear to him. 
+* He wants to read the process. 
+  -- Disc: It isn't that clear for him. 
+* PERSON10 wants to rename the document that he made a copy of. 
+  - Disc: He would like the name to be more descriptive for someone 
+    -- Disc: so it's not just an automatic copy of the document. 
+* It should be proper nouns and personal copy of PERSON4 or whatever. 
+* PERSON10 and PERSON4 are working on a project. 
+* They need to remove all named entities from documents and replace them with place holders. 
+  - Fact: They are going to work at the word type level and the word token level. 
+  - Disc: They will then work on the context level. 
+* PERSON10 is worried about the availability of the person who was supposed to do the bulk processing of the documents and the insertion of the annotations into the Xml. The programmer's skill is needed to do that. If that person is not available, someone else will have to do it. 
+* PERSON10 and PERSON4 are critical of the quality of the collection of candidates that was done by PERSON7. 
+  - Fact: There are a lot of typos in the list and most of the output is not a named entity. 
+  - Disc: It could have been better if name tag was used. 
+* PERSON10 and PERSON4 have a problem with the edition of new documents and multi-word NEs. 
+* They need to make sure there are no NE leaks into the final data. They also need to check if the program included all the words beginning from cPROJECT4tal. 
+* The last stage is the actual removal of the original text from the documents, leaving just the Xml mark-up to indicate. 
+* The replacement of a document does not need to be a replacement, but like the actual actual removal from the document. 
+  - Disc: The problem will also be this closed lists. 
+* PERSON10 and PERSON4 discuss the issue of preserving the identity of NEs and co-referencing of chains. 
+* They decide to ignore the identity or tracing of the identities of the individual speakers for the summarization. They also decide to preserve the identity and project names. 
+* PERSON10 and PERSON4 agree to ignore the tracing of chains for speakers and for persons. The data set will not suffer much if the tracing is ignored for the purposes of summarizing the data set. If someone refers to Jane at the top of the meeting and someone else refers to her at the end of the meetings, it will be the same being. 
+* PERSON10, PERSON4, and PERSON9 need to put an outline on a time frame. They need to get in touch with PERSON7 and extract from him the information if he can do this for them. If not, they need to do it themselves. 
+* PERSON10 is not worried about de-identifying the corpus himself. He will have a session with PERSON4 with the data. 
+  - Disc: Once he has the imput, then it will be easier for him. 
+  - Disc: The imput is also important to have the de-identifiedification guidelines. 
+* PERSON10 wants to arrange a meeting with PERSON14. 
+  - Fact: She is working on de-identification since the beginning of January. 
+* She needs to read the regulations and decide what data should be anonymised. She also needs to decide if the names of languages should be left out. 
+* PERSON10, PERSON4 and PERSON9 have to align the transcript with the minutes. The identification has to be done on both documents in the same way. 
+  - Fact: A document is either the transcript or any version of the minutes for that particular meeting and it can be any text. 
+* PERSON9 wants to know if this should be done especially on the PROJECT1 data. 
+  - Fact: ORGANIZATION6 doesn't go through this at all, according to PERSON10. 
+  - Disc: in the project. 
+* PERSON10 is waiting for PERSON4 to finish reading the regulations. The key word is the personal data. 
+* All person's data must be removed. 
+  - Disc: The guidelines will be the result. 
+  - Fact: The procedure that they are already running is in line with that. 
+    -- Fact: The annotation of the data is the last stage. 
+* PERSON10 and PERSON14 need to discuss the consent forms. They need to create two consent forms: one about working with the data and one about publishing the data. 
+* They have to redo the first page of the content form and create a second one for publishing. 
+* PERSON10 and PERSON14 will focus on the second form which is the consent to publish the data. The first form will be on the content to process the data and deidentify it with the forcing goal of publication. They will come back to the first form only once the corpus is finished and released. 
+* PERSON10 and PERSON4 are discussing the task of collecting samples for a project. 
+* They agree that the task should be simplified by giving everyone access to the full data set and preparing a consent form for every participant. 
+  -- Disc: Neither PERSON14 nor PERSON4 will do that. 
+* PERSON10 explains to PERSON4 and PERSON9 how to create a simple directory with documents which people could browse and send a link to them. 
+  - Disc: The easiest way to skip the administration is to prepare the data set fully de-identified and give a link. People could find themselves if they want to check themselves. 
+* PERSON10 wants to know who was a participant of what meeting. 
+  - Disc: To make it manually it is a big task. The best effort would be to have an annotator who could review the data and correct the missing information. 
+  - Disc: The names of participants from meeting minutes are created by annotators. 
+* PERSON10 forgot to record the meeting. He will collect the minutes from the meeting minutes, the list of participants and the consent form based on the content, content, consent form. 
+  - Fact: The recording is already taking place and will be recorded. 
+  - Disc: It is recording. 
+* PERSON10 informs Jane and Mary that they can browse any meetings they might have been a part of even if they didn't have to go through the manual refinement of the participants. The information will be based on the consent form sent to Jane or Mary and based on their records. 
+* PERSON10 and PERSON9 will create a master sheet and extract the name of participants from each of the minutes and give that to all of them. 
+  - Fact: It's a mail merge operation. 
+  - Disc: It is a little bit of work extra, but it's doable. 
+* PERSON10 and PERSON9 are going to send the meeting IDs and consent forms to the participants. They are also going to ask people for bug reports. 
+* If there are any outstanding pieces of information that need to be deleted, they will do a second pass of the data. 
+* PERSON9 suggests that instead of the master sheet, we keep one master sheet and create individualized sheets with the remarks column with colour and based on that, we will refine the individualized sheet. 
+  -- Disc: It will keep well from the masters, but it will be separate from them. 
+* PERSON10 wants to have a sample document for prospective participants of the task at the end of January or the beginning of February. The full dataset should be ready by the 16th of March. 
+  - Fact: Trial data is 16 March but training data is first April. 
+* PERSON10 and PERSON9 are going to write the data de-identification from the participants by the end of February. 
+* They want to have the data ready for them to browse by the first week of March or the first month of April. 
+* PERSON10 and PERSON4 will finish the de-identification task in two days. It will depend on whether they have PERSON7 or not. 
+  - Fact: It takes thousand and a half hours to complete the task, according to PERSON4. 
+* PERSON10 needs the Xml. 
+  -- Fact: coding, the actual remover of the original text from the document, and the comment to point six and seven. 
+* This should happen by the end of February at the latest, but the exact timing depends on who is doing it. 
+* PERSON10 likes the web page created by PERSON9 during Christmas holidays. PERSON4 doesn't like the fact that the webpage is changing very quickly during the holidays and he's not sure if he would like it to change too much during the holiday. 
+* PERSON4 and PERSON10 are wondering why they included all the Russians in the Scientific Committee. 
+  - Disc: The committee is not finalised yet, but it is a mock. If the Russians are participating, they could also be a potential reviewer. 
+  - Disc: They will send the template to the committee. 
+* PERSON4 is unsure if they should invite all of the PhD students to the Scientific Committee, because more than half of them are master's students. 
+  -- Fact: Some of them have Google, some do not, and some do have it, but don't have it online. 
+* PERSON10 suggests to put the list for the application in the Scientific Committee and discuss it separately. 
+  - Fact: The text of the text is in the C, F, P document. 
+  - Fact: It's in the document with the same document for editing the text of an email sent to prospective members. 
+* PERSON10 asks PERSON9 to put all the candidates from the web page to the ORGANIZATION9 sheet and fill in the status of the candidates. 
+  -- Disc: The more personal the information on the sheet, the better it is for the work of the organization. 
+* PERSON10 is now on the ORGANIZATION9 sheet. 
+  - Disc: He wants to divide the people and invite them personally, if possible. 
+* The invitation email will be personalised in some way. 
+  -- Disc: He will make several copies of the document with the invitation email and contact some people personally. 
+* PERSON10 and PERSON9 have to submit the proposal within the January 7th or 8th. They need to have the information in ten days. 
+  - Disc: The scientific committee is not, will be fixed, so they need to use the people from a list. 
+  - Fact: They have to put their names in the organization sheet. 
+* PERSON10 wants to finish the call now and keep working on the request to participate and on the list of people to contact. They should send them the emails today and aim for the deadline that you suggested in two days from now. The deadline is 2 days from today. 
+* PERSON10 transferred data questions to PERSON9 but not the modelling questions. PERSON4 wants to take part in the call as soon as she answers the questions, but she hasn't answered yet. 
+  - Disc: They will do it later when she replies. 
+* PERSON10 will be added to the PROJECT2 repo for this. 
+  -- Fact: He can make changes to the HTML page if he wants to. 
+  - Disc: PERSON9 will add him to the repo for PROJECT2 as well as for PROJECT1's repo. 
+* PERSON10, PERSON9 and Ian are going to ask experienced people from the AMI corpus from 2006 to be the key note speakers for the summarization. 
+  - Disc: They will give them the best background knowledge from the past. 
+* Ian will also be on the committee. 
+* PERSON10 and PERSON9 will start writing the emails to two prospective people by January 10th and January 15th. 
+  - Fact: They will send the proposal to ORGANIZATION7 and ORGANIZATION2. 
+    -- Disc: in the end. 
+* PERSON10 hopes to get some response from both, PERSON14 and PERSON7. 
+  -- Disc: If she also comes and probably they will speak. 
+  - Disc: If not, they will do it some other way, like teleconferencing. 
+* PERSON4 wants PERSON10 to send three prepared letters to his candidates. 
+  -- Disc: He wants them to feel better to be on the PROJECT1 Committee. 
+  - Disc: It would be better if it was from PERSON10 as he knows them better. 
+  - Disc: He will send the letters to three Russians. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

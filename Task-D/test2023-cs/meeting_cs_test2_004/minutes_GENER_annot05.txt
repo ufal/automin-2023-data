@@ -1,0 +1,64 @@
+Zápis ze schůzky
+
+Datum schůzky: 22. 9. 2020
+
+Téma: Schůzka projektu [PROJECT3]
+Vedoucí schůzky: [PERSON17]
+Účastníci: [PERSON17], [PERSON11], [PERSON15], [PERSON3]
+
+
+
+- Do kapitoly byly doplněny nové věci: zatím nepřečteno.
+-- Zabralo to zhruba 6 hodin.
+-- Tato kapitola je prakticky hotová.
+-- Nutná konzultace přidaných komentářů: může proběhnout i offline: zareagováno  na téměř všechny komentáře.
+-- Zbytek by si měl tuto kapitolu také přečíst a případně ji okomentovat.
+-- Návrh zmergovat dvě sekce: spíše odmítavé stanovisko: nutno prodiskutovat a případně se dohodnout a kapitolu předělat.
+-- Námitka: kapitola je příliš survey: možno vylepšit.
+-- Zatím chybí obrázky: nutno přidat.
+-- Vysloven názor, že není jasný účel kapitoly: nesplněny dohodnuté podmínky: není již čas tyto věci řešit.
+-- Strana 118: dependency syntax: hodně surveyovité 3 články: návrh mergnout a přepsat.
+-- Úmysl shrnout obecnou znalost: návrh shrnout ji na konci.
+- Nutno přečíst dvě kapitoly a postoupit knihu recenzentům.
+- Napsány poznámky z meetingu, který se konal ve čtvrtek.
+- Momentálně řešeny zápočty: jsou posílány pět dnů před uzavřením klasifikace.
+- Recenzován článek na [ORGANIZATION3].
+- Kniha se musí neprodleně dokončit, aby nebyla zastaralá.
+-- Oficiálně prodlouženo o půl roku, aby bylo možné knihu vytisknout.
+- Třeba přečíst a případně okomentovat dvě kapitoly od ostatních: nutno, aby měl každý přehled, o čem kniha je.
+- Zodpovězeny komentáře v prvních dvou sekcích: nutno kompletně dokončit a přidat obrázky.
+-- Termín konec září.
+- Summary.
+-- Požádáno o názor ostatních.
+-- Návrh použít jako afterword: nejedná se o summary.
+-- Nutno vypracovat nové summary: může být i kratší: podrobněji napsat, co v knize je a není: návrh napsat i věci, které se skutečně zjistily.
+-- Summary je chapter s hvězdičkou.
+-- Nejdříve má být afterword a potom summary: musí být úplně na konci.
+-- Návrh smazat (seem to): vyskytuje se tam dvakrát: jednou na posledním a jednou na předposledním řádku.
+- Nutno stihnout dokončit kapitoly do příštího týdne: na konci září by mělo být vše hotové: nutno postoupit knihu recenzentům.
+- Další meeting příští úterý v 11 hodin.
+- Třeba probrat typografické věci.
+-- Citování slov z příkladu: lze dát (mpf) i uvozovky.
+-- Třeba sjednotit varianty uvozovek: používat buď pouze jednoduché, nebo pouze dvojité.
+-- Zkratky I.e. a E.g.: není jasné, kam umisťovat čárky: buď čárky nedávat vůbec, anebo je dát z obou stran: je zde rozdíl mezi britskou a americkou angličtinou.
+- Nutno se dohodnout, zda psát knihu britsky nebo americky: všechny věci musí být napsané v jednom stylu.
+-- Grammarly je nastaveno americky.
+-- Třeba projít jednotlivé kapitoly a rozhodnout se, kterou angličtinu zvolit.
+- Návrh zařadit všechny zkratky do rejstříku.
+- K figurám by se měly psát zkrácené názvy.
+- Většina komentářů v kapitole byla implementována.
+- Summary je na 5 řádek: afterword je na 15 řádek.
+- V templatu je uvedeno, že kniha musí mít summary: není jasné, jak má být dlouhé.
+-- Abstrakt musí mít alespoň 64 znaků.
+-- Návrh rozšířit summary tak, aby tam bylo něco z conclusionů: každý si to tam napíše ze své kapitoly.
+- Do příště dopsat kapitolu a rozšířit úvody a závěry.
+-- Přečíst si kapitoly ostatních.
+- Jakmile budou vyřešeny všechny komentáře a bude vše dopsané: poslat recenzentům: konec září.
+- Řešen rozvrh: byl již vydaný, ale nakonec se stáhnul: není jasné, kdy kdo učí.
+
+
+
+
+
+
+Zápis předložila: [ANNOTATOR5

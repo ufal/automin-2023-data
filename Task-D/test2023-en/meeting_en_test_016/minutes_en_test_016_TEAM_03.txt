@@ -1,0 +1,32 @@
+Attendees: [PERSON12], [PERSON10], [PERSON9], [PERSON6], [PERSON11], [PERSON9], [PERSON5], [PERSON3], [PERSON10]
+
+Summary:
+the news from [PERSON3] are that , we had session like live workshop dry run at the [LOCATION2] on Wednesday and all the presentations went kind of well for the people who could understand [OTHER3] , because that was run in [OTHER3] , and people who had to rely on our subtitling were totally lost . And [PERSON3] do realize that it is not usable for those who do not speak [OTHER3] . 
+
+[PERSON11] asked  , [PERSON10] are in [LOCATION2] , right ? [PERSON10] is studying at [ORGANIZATION3] . 
+
+[PERSON6] is studying also computer science . And what about [PERSON10] , what do [PERSON10] study ? And [PERSON9] also looked into the pronounce and fluxes . And then [PERSON9] would use the corresponding form . In the email , [PERSON9] was asking about . 
+
+[PERSON3] asked  Is there any chance that he would have something for this Monday ? get in touch with [PERSON5] , and make sure that [PERSON9] can feed those files to him , and he can use them . 
+
+[PERSON9] will get in touch with [PERSON5] . But if [PERSON6] are searching for the domain the [LOCATION2] , . actually , [PERSON10] worked on three different things this week . Use like a random value that [PERSON10] think is correct . 
+
+[PERSON3] , [PERSON5] , [PERSON3] have already measured word rate a few times . 
+
+[PERSON3] asked  that we do the first people who are online , ? thank [PERSON3] , that is the first thing , visualisation . And [PERSON10] is going to deploy this data , and this trained model today hopefully . But [PERSON10] had to do it just in , because of the TPU support , most likely [PERSON10] will have to export it as . 
+
+[PERSON3] do not think it is possible to export . 
+
+[PERSON10] think that they can , it can be safely used if we serving , which is just . 
+
+[PERSON10] think that it still be deployed . If [PERSON10] could just send [PERSON10] , just some data set or a link , or just if it is new stats what it is . And [PERSON10] mentioned the third thing . This week [PERSON10] worked on data collection , is basically four five languages , five languagesalmost all the languages have finished , but some remaining . 
+
+[PERSON10] asked  Which language is it again ? [PERSON10] would just make a model where [PERSON10] would throw away the lower source languages , and [PERSON10] would just use the main ones . PERSON8] is collecting monolingual data , and that means that we need to translate this to create synthetic parallel data . And if [PERSON10] have now these models , if [PERSON10] believe these models . 
+
+[ORGANIZATION2] , [PERSON10] already mentioned the . send the path to all the source files that [PERSON10] have to [PERSON11] and [PERSON11] will apply the models , and we will get the first follow synthetic , very much in domain corpus , across these six main languages , and then redo this also with all the other 30 something languages . now [PERSON7] , [PERSON3] do not know if [PERSON10] have anything . Just let [PERSON10] know , [PERSON6] is just going back next week , [PERSON6] work part time , that is the reason [PERSON6] just had limited time for this project , and most of [PERSON6]'s  tasks are translations from [OTHER3] to [OTHER2] to feed anything . helped [PERSON12] integrating buffer in the [LOCATION3] segmenter . And another question , for what [PERSON5] are training on , because if [PERSON5] are training on correct text , and that is the case , then there is a domain mismatch of looked again , and a few sentences that [PERSON2] was like saying in his [LOCATION3] presentation . that is a good question for [PERSON6] , what data set has the correct transcripts which are as this fluent as the natural speech . 
+
+[PERSON3] do not know what is more important . 
+
+[PERSON6] asked  [PERSON6] is sorry , there was some buffering , do [PERSON5] mean data for [LOCATION3] conversations talk ? [PERSON5] asked  Is that right , for [PROJECT2] only ? the our data ambassador is [PERSON2] , who is on vacation this week . And [PERSON3] is not sure if he is coming this week . But he would be the person to organize this , and he knows the most . just hold on , and we are kind of what [PERSON10] want . 
+
+[PERSON3] would not believe how much work it is to convert it to record . Other data and know about them , work for [PERSON2] .

@@ -1,0 +1,6 @@
+Attendees: PERSON6, PERSON11, PERSON9, PERSON5, PERSON3, PERSON10, PERSON12, PERSON10, PERSON9
+
+ * [PERSON3]: He was expecting that the technology will be already useful for the users and I've confirmed that the technology is now only working technically.
+ * [PERSON10]: I worked on the other paraphrasing model.
+ * [PERSON10]: I also received new data from [ORGANIZATION2], and I'm going to get it training today, and hopefully I will have some results, until the end of the weekend.
+ * That's the paraphrasing, but for [PROJECT2] purposes, simply the send all the various recordings that we have already transcribed, and we don't have translation for that, so we need to polish the data set, but just for.

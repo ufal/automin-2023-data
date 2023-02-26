@@ -1,0 +1,105 @@
+Summary:
+
+* Today is the deadline for adding new content to the book, so PERSON9 and PERSON17 have to stop adding content. 
+  - Disc: They have everything they need already. 
+    -- Fact: PERSON8 has got rid of the to-do sections, but he still has some to-does. 
+* PERSON8 and PERSON9 have to write an introduction. 
+  - Disc: They don't know the definition of what it means to add new content to the website. 
+  - Disc: The information is already there more or less so, so it's not necessary to add any new content. 
+* PERSON8, PERSON17, PERSON19 and PERSON9 are going to extract the last paper from their paper about multilinguality from the paper they have already written. They will use the paper that cited the last one, which is about Conclusions. 
+* PERSON8 will comment on text that is not finished. 
+  - Disc: The text is not final but the content is there. 
+* The next phase should have been commenting on the other sections. In the next week they should comment on all the text and have it and comment everything. 
+* PERSON8 doesn't know how to add pictures to the file. 
+  - Disc: He is unable to create images. 
+  - Fact: He used Inkscape to extract the image from the paper and saved it into the file and put it here. 
+  - Disc: The file is a png. 
+* PERSON8, PERSON9, PERSON17 and PERSON23 need to cite the licence of the paper they are going to use in their book. They need to specify the licence. 
+  - Fact: They find the licence in the archive. 
+  - Disc: If it's from ACL antology it's creative comments. 
+    -- Fact: If not, it's not. 
+* PERSON9 wants to have all the pictures copied from the original paper in his book. 
+  - Fact: He also wants to include one of two or two pictures from the other papers. 
+  - Disc: There are many subsections with no content in the book that are not explained in the original papers. 
+* PERSON8 doesn't think there are more papers about grammatical error correction or event fractuality. PERSON21 thinks there are two papers about name entities and one about event fraterunity. PERSON9 and PERSON8 agree that there are probably two more papers. 
+* PERSON8 will write a one-sentence letter to PERSON9 at the content at least once a year. 
+  - Fact: It will be about one paragraph or something, depending on the subject matter. 
+  - Disc: PERSON9 and PERSON8 are laughing about it. 
+* PERSON8 and PERSON19 agree that it's easier to put other things like syntax or semantics than to explain how to do some tasks in a more concrete way. They discuss how to explain things like name entities or gender of nouns in a way that makes it easier. 
+* PERSON9 has it easier in the attentions than PERSON8 because she only needs to group like some connections. She groups only the (presency) trees, constituency trees, coreferences and so on. She has it much easier than PERSON8. 
+* PERSON8 and PERSON9 are looking for a picture in contextual embeddings. 
+* They need to divide the picture into two pictures to make it easier to find it. 
+  -- Disc: They find it on Page 15 or 5, but they can't see the hidden one. 
+* PERSON9, PERSON8 and PERSON17 need to regenerate the text. They need to use a smaller font. 
+  - Disc: PERSON19 will transfer the text to the text file and regenerate it. 
+    -- Fact: The text file is in a different font than the original one. 
+* PERSON9 has two pictures on his computer. 
+* He needs to create a better version of one of them in Google Docs. 
+* It needs to be better than the one he has now. 
+  -- Disc: It's not very clear what to do with the other one. 
+* PERSON9 needs to rewrite the first part of his chapture. 
+  -- Disc: The pictures will be changed and the text will be written by PERSON21 and he has rewritten some parts so that it more fits the book. 
+  - Fact: The text is 5.2, syntactic function, dependency trees. 
+* PERSON21, PERSON9 and PERSON8 are working on a project. 
+* They need to revise and move chaptures 3.1, 3.2 and 3.3. They also need to change the introduction of chapture 5 to the plan. 
+* PERSON21 found the FastText image much more similar to the original Glove image than the Glove that he trained. The colour scheme is the same, but the bands are different. It might be because the scale is automatically adjusted to show the whole range. It's possible that they tried to make the image more visible. 
+* FastText shows the structure of the embeddings, but the others don't. 
+  - Disc: It's possible for Czechs, but not for English people. It might be possible to cut of the top and bottom by 5%, but it doesn't work in English. 
+* PERSON21 has written something about debiassing and wrote a conclusion. 
+  - Fact: The only things left are 4.1, 4.2 and 4.3, which he is confident he can do today. Tonight the chocolates will be in the box. 
+* PERSON8 wants to change his or her figure. He thinks his figure is ugly. He will either move it to his chapture or delete it. It's probably almost the same thing as his figure. 
+  - Disc: It will be beautiful at the other one. 
+* PERSON21 will delete a bitmap image of a figure that he doesn't like. 
+  - Fact: He will also do something with the figure of PERSON9 to make it better. 
+  - Disc: PERSON21 and PERSON17 agree that the arrow in the figure is ugly and it should be deleted. 
+* PERSON17 made the very first image in tix and the code is terrible, but he doesn't want to get scared when he opens the source. PERSON21 has seen worse and doesn't get scared either. 
+* PERSON9 and PERSON21 are going to improve the figures in the document after it's been sent to the reviewers. 
+  - Fact: The text and <unintelligible> is there. 
+  - Disc: The font will change and the picture will be the same only the nicer and then it will be OK. 
+* PERSON21 doesn't have any other questions about his figures. 
+  - Fact: He will have figures in the missing sections like PCA and ICA. 
+* He should avoid an other <unintelligible> font, that's fine, but avoid other fonts in general. 
+* PERSON21 will generate a tix file for figure 4.6. He will have to rewrite the cropping thing because that's done on the bit map. 
+  - Disc: After everything else is done, he will transform this into proper text and fix the arrows before fixing the text. 
+* PERSON21 needs to install Inkscape to create a PDF file with the same font as a book. After the text is written and finished, he needs to make the green lines in the PROJECT3 schůzky document. 
+  - Disc: The deadline is today at midnight. 
+* PERSON21 will add PCA and ICA and reorder the chocolate. 
+  -- Disc: He will move 4.1, 4.2, and then write something about probing. 
+* He should be able to make it to the meeting with PERSON9 in about an hour. 
+* PERSON9, PERSON17, PERSON8 and PERSON27 are looking for a book reviewer. 
+  - Fact: They are going to ask someone to review Sentiment, which is 160 pages long and written in English. They have the preface, but it's not abstract. 
+* PERSON9 and PERSON17 think the introduction to deeplearning books should have a more detailed description of the content of the book. After the introduction there should be a background to explain what the book is all about and how to read it. 
+  - Disc: It's missing in this book. 
+* PERSON9 and PERSON8 need to move the conclusion from one of their books to the other one. They need to have 3 conclusions and one summary. 
+  - Disc: The summary is a longer abstract than the conclusion. 
+    -- Disc: The introduction and the conclusion of the book are also different. 
+* PERSON21 brought some books to have a look at how they are structured. 
+  - Fact: There are no rules in the books series about the summary and the summary in Czech. The only rule is that summary in English must be in every Czech book, but there is no such rule. 
+* PERSON10 has one page abstract with conclu-, concluding tokens and then summary. 
+  - Disc: The related work is inside the abstract, which is more like (future) or (unintelligible) than an introduction. 
+  - Disc: It's not clear what it means. 
+* PERSON9, PERSON17 and PERSON21 will write the summary of a book in German, French and Czech. They will have a transformer transform the summary into Hindo. 
+  - Disc: The book is almost the same size as that of PERSON10's book. 
+* PERSON9 thinks the longest book in the series is the (light) lexikons (PERSON11, 236). Other books like PERSON10, 158, 158 and 162 are not so long. 
+* PERSON9, PERSON22, PERSON4, PONENTHAN and PERSON19 have written a book that is shorter than their. They have to write it in a format that is readable, readable and easy to read. 
+  - Disc: There are a lot of errors. 
+  - Fact: Some of them are not in the Zotero format. 
+* The next meeting is on the 13th of July at 2 p.m. in the office. 
+  - Disc: There will be a lunch, a PROJECT2 meeting, a PROJECT3 meeting and a project organizing meeting. The meeting is planned for 12:30, but it will be after the PROJECT3 meeting. 
+* PERSON9 will be sending slack messages to PERSON8. 
+  -- Disc: If he hasn't written everything, he will need to read all the book and they will see if he has written anything at all. 
+  - Disc: He will send many messages to PERSON8 and will try to convince him. 
+* PERSON8, PERSON17 and PERSON21 are planning to watch ACL lectures during the next week. PERSON8 is not registered for ACL. 
+  - Disc: The presentations will be prerecorded and the QA sessions will be live. There will be tutorials on Sunday. 
+* PERSON21 would like to watch the interpretability and analysis tutorial with PERSON3. 
+  -- Fact: PERSON17 and PERSON8 are going to watch it some day at 3 p.m. their time. 
+  - Disc: They don't know how to share the links. 
+* PERSON8 doesn't know how many paralel sessions there are. If there is one registered one and one on what sessions, it's possible that one of them could be registered as well. 
+* However, they need to pay for it and if they don't have any paper there, they won't have it. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

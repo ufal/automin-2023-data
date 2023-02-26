@@ -1,0 +1,29 @@
+-Learn about the different types of blindfolds and how they are different from one another.
+-Use ah to compare the deliverable to the multi source status for the deliverable.
+-[PERSON] will probably be somewhere in touch with some of the other members of the team, of course, but that's not exactly what we'll be doing.
+-Use two paths, one after the ASR, the end end end of the ASR E2E ASR, also suffers from spasm detection and removal issues, but the profanity filtering should be employed twice on each path.
+-The problem with the ASR language is that they're already in the English language, which is a very good thing.The problem with this is that there's a lot of grammar problems.
+-If we remove the spasm from the ASR itself, then nothing is getting past that MT worker, and that is the problem with the ASR, because the MT worker creates its own spasm for good ASR.
+-Learn about the different types of blindfolds and how they work.
+-Plan the call with [PERSON10], as MT filtering for profanity-free calling.This is my plan, of course, to plan the call.
+-Now we are going to create new sentences by concatenating words that were spoken in other sentences, ah, different accents of these speakers could be improved.
+-Try to make it more like for example, English model, Czech model, maybe with different parameters for example limit number of languages, maybe for example to to to use for the English model.
+-Try to limit the number of languages there itself, for example if we have one worker which emits all languages, if we limit the parameters of the language there itself.
+-The question is whether it is better to run the multi lingual moral with fewer languages enabled or to run it with more languages enabled (PERSON16 is a good question).
+-The problem with the model is that it was basically trained using tensor tensor, which makes it very slow, because then it could work real time, but it was quite a big delay.
+-Try multiple word, multiple replicas of your same workers, emitting different languages, different subsets of languages, and back size should be like forty big size.
+-The problem with [PERSON16] tensor worker is that we do not have enough data for creating the syntethic data for our live sessions.
+-Learn about the different types of blindfolds and how they are different from other blindfolds.
+-Work paths for model configs, like, work paths for the model config.
+-Use different platforms for direct emailing, [PERSON will now be running into same issues and he has successfully fight with [Person in summer summer summer.
+-Work on the shortening models and the extending models, and then build the like final shortening model from the rest of the dataset, and see, like what is the difference in performance and length in the end dataset.
+-Try to dig into the toolkit and debugg whether it is really getting the worst into that.The language model is asking the correct anagrams, with substitute words instead of new words.
+-The domain adaptation?,
+-For example, we need to test the latest one on that Monday talk of mine, ah, we do board - Oh, okay, we have the domain rapid model for that.
+-This is like kind of backward looking making sure that old approach works in the new data well.
+-Figure out what kinds of data we currently use for this.This is probably the most important part of the problem that we're trying to solve, because,h,
+-B because we have like a large set of videos that basically have different domains and different speaker and speaker native languages on [ORGANIZATION3].
+-Maybe we could employ these neural networks that we forget how this task is called -,
+-The subjectivity of a neural network model is pretty hard.
+-Download some models from a cable competition, where people had to make models to detect hateful tweets or like sentences which were harmful in some ways, like fake news.
+-Please send the link. But remember -. multi task of that.'s a lot of work for a single document, maybe. multiple task.

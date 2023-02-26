@@ -1,0 +1,40 @@
+-[PERSON reactions] So we are waiting for the response of the presentation platform which requires password, So what should we use to join the presentation platform which requires password.
+-The authentication fees have been reintroduced so that only people participating in event are allowed.<n>The username and password authentication fees have been reintroduced so that only people participating in event are allowed.
+-[PERSON4 parallel_talk> 2019] So I know when I prepared this password I did not know if it could be in sign or not.
+-The problem with publishers is blocking from [ORGANIZATION] problem from the moment of the moment of the moment of the moment of the problem from publishers.
+-There are some things that are very difficult to do in the mediator platform like launching target languages, the same input type is launched many times in different languages.
+-Realize that there is no standard infrastructure for handling request and output of transcription in the client level (it has to be done in client level, it has to be done in client level).
+-Solution problems in protocol after the launch of ten workers at the same time like under each other or under each other or under each other or under each other.
+-This client runs ten different EB requests to mediator, whether mediator receives a multi channel request or multi path request.<n>This client runs ten different requests to mediator, whether mediator receives a multi channel request or multi path request.
+-[PERSON9] will share the screen with other machine or other machine (PERSON9 will not share the screen) I'm still not seeing the screen.
+-The problem with this is that the target languages are not being converted while to one of the target languages, the machine translation output from EB client is being converted to another target language.
+-The mediator should somehow find an economic solution also in ASR route but actually not being a specially 90 here here and here, because the path is not being specially 90 here.
+-Read the lecture in English, for example, if you open the lecture in English, you will see four lines going from English text to English text lines.
+-In order to solve this problem, we have analyzed the following problem: [PROJECT reason list workers reason list workers reason structures.
+-No output stream was received from the client, it received output stream from the client.At least one input stream was not available.<n>At least one input stream was not available.
+-This is the best way to increase the EB for the workers in the plants.<n>This is the best way to increase the EB for the workers in the plants.
+-On the terminal we see the number of ASR workers available at the moment, we see the number of workers available on the terminal and the number of workers available on the terminal.
+-The problem is that there are no available ASRs (Automated Teller Machines) available for the seven users (ASRs) at this point.The problem is that there are no available ASRs.
+-The machine translation workers seem working well right now but the problem is that they are not feeding the segmentation output from worker mediator to the segmentation output from worker mediator.
+-Segmenter to process whole text file at once (or not at all) is a good solution for some situations, for example, when we send whole text file to whole text file at once.
+-The problem is that the current situation does not allow the client to send audios mediator to different machine translation systems like another EB client do with audios mediator.
+-Run the audio to six workers at once, which were available to all of them.The output of the six workers is the same as the output of the six workers.
+-The summary is that if we are lucky and workers work, we can get the machine running.<n>The summary is that if we are lucky and workers work, we can get it running.
+-The script is available in German workers, it is not available in English workers, it is not available in German workers, it is not available in German workers.
+-You have to manage your availability for the event. So you have to manage your availability for the event. So you have to manage your availability for the event.
+-Okay so we'll have to ourselves manage somehow, so we'll hear something from [GANs workers on these good call, and hopefully we'll hear something from [PERSON on these good call.
+-[PERSON9] said publishers are working on new authentication platform or mediator platform or maybe one English EU could be working on new authentication platform or maybe one English EU could be working.
+-To make the platform running locally within sol network, we need to make the platform running locally within sol network, we need to make the platform running locally within sol network.
+-The presentation platform needs to be able to run within network, this is very important for the success of the project.<n>The presentation platform needs to be able to run within network.
+-So we have failed streaming slides from my desktop and my notebook behind firewall for unknown output error which probably failed for unknown firewall setup.<n>So we have failed streaming slides both from my desktop and my notebook behind firewall for unknown output error which probably failed for unknown firewall setup.
+-Now I'm trying to figure out what can possibly interfere with the configuration of the event's being run on the local network, I'm still trying to figure out what can interfere with the configuration of the event's being run on the network.
+-The configuration file is in the same place as the one that was used in the previous version.<n>The configuration file is in the same place as the one that was used in the previous version.
+-The number of LANs is 192.168, which is the number of the LANs in the server.This is the number of the LANs in the server.
+-The Internet is not available in all languages, so you need to use subtitles, which are available in different languages, the Internet is not available in all languages.
+-On Friday we have tested the presentation platform, the source stream and the debug solution for English translation and German translation, we have selected the source stream from the German translation and English translation.
+-In the test platform we have ten streams and we strongly suggest to select one stream problem which the problem is really difficult to understand because its really hard to understand which stream problem which the problem is.
+-This is possible if I'm not mistaken, I think it is possible to use different English versions of English for different target languages in the machine translation machine.
+-The presentation platform is totally out control for presentation platform presentation platform to be able to display different languages presented in the presentation platform presentation platform presentation platform presentation platform.
+-On Friday we are going to put up the final setup of [PERSON9] and [PERSON9] for [PERSON9] output.
+-If we are lucky with [ORGANIZATION subtitles being streamed from presentation notebook into local network, we need to debug these things during tomorrow and day after tomorrow.
+-Istongly suggest to perform as much as possible test today tomorrow in [LOCATION holiday is also in [LOCATION holiday is also test today tomorrow.

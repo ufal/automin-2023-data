@@ -1,0 +1,109 @@
+Summary:
+
+* PERSON2 je na prokurátorovi.
+  - Fact: Na dalekém severu potřebuješ vízum, aby ses sem dostal, takže jde nakupovat v Proseku. Ona také chodí do Lidlu, který je daleko, ale mají něco koupit. Má tady Pennyho nejbližšího a on je hrozný.
+* PERSON4 se zabývá realizacemi, ale zatím nic nepřišlo.
+  - Disc: Tenhle týden mu něco přidá a nebude to vidět jako ostatní.
+  - Fact: PERSON12 nedostala žádné panenky před, před PERSON2.
+* PERSON12 je zdrojový člověk složitosti s BERT experimenty.
+  - Fact: Rozdělil text na kapitoly, sekce šipky, složitost zdroje, variace zdroje, alban překlad a více zdrojů v Alban překladu.
+* PERSON2, PERSON14 a PERSON12 souhlasí, že text by měl být rozdělen do kapitol.
+* PERSON12 přidá odkaz na <neznatelný>. do QE před OTHER2.
+  - Disc: PERSON13 řekla, že se bude účastnit schůzek. Zdrojová variace je od toho chlápka, který to parafrazoval.
+* PERSON12 a PERSON11 pracují na článku. Vyzkoumávají více zdrojů v Alban překladu. Nemají moc dat vidět, takže se musí spoléhat na ztracené v zadním překladu.
+  - Disc: Myšlenka článku je tím zmrzačena.
+* PERSON12 má štěkavou hadu.
+  - Fact: PERSON14 mu doporučuje, aby to složil, protože je to hlasitý šukání.
+    -- Disc: Není si jistý, jestli je to jeho nebo někoho jiného rattlesnek.
+* PERSON14, PERSON12 a PERSON2 chtějí dostat nějaké anotatory.
+  - Disc: Chtějí ji přidat jako hračku.
+    -- Disc: Je to analýza problému, který backtranslatory mohou vytvořit.
+  - Disc: To se nestává jen často, ale je to vážné.
+* PERSON12 a PERSON14 se po svatbě hodně hádali.
+  - Fact: V případě zpětného překladu existují dva veto.
+  - Disc: Jeden veto je tlačítko a druhý je odstup. Překlad z angličtiny do češtiny je důležitý, protože může být velmi vážný.
+* PERSON2 má problém s genealogickým sklonem při překladu tohoto zpětného překladu. Někdy si vybral ženskou rodinu a někdy mužskou rodinu.
+  - Fact: V České republice tu rodinu nechová čistě jako muže.
+  - Disc: Vybíral by se podle údajů, náhodně.
+* PERSON14 navrhuje, aby byl model připraven pro zpětné překlady do angličtiny, aby se v gramatickém prvku, kde to jasně víme, paralelní údaje zlepšily a bylo to zlepšeno angličtina.
+  - Disc: PERSON12 souhlasí s myšlenkou.
+* PERSON14 potřebuje testovací oblek pro letošní WMT. Potřebuje zdroje v jakémkoliv WMT jazyce a pokyny, špatný jazyk, do kterého by měl jít, a musí na něj do 30. května udělat testovací oblek. Zdrojové stránky musí být odeslány.
+* PERSON2 se s ním právě zabývá.
+  - Fact: Předtím dostal cloudy souborů a teď mu PERSON13 poslal data.
+  - Disc: Nechtějí se na to dívat, protože v tom soutěžíš, a já chci mít vodu, kolik můžu.
+* PERSON14 a PERSON2 jsou znepokojeni tím, že Von dostane 130 dokumentů. Tyto dokumenty jsou překlady novinových článků. Pokud je Von dostane, budou mu zaslány ve zcela odsouzené formě.
+  - Fact: Pokud ne, pak je pošlu ve správné formě.
+* PERSON12 se chce vrátit k Todlectu, ale Tom mu připomíná testovací soupravu, která je podobná té v druhé.
+  - Fact: Tom si vzpomněl na ten text, ale není to ten samý.
+  - Disc: Je to téma ztracené v překladu.
+* PERSON14 a PERSON2 se zabývali ztracenou v zadním překladu kola.
+  - Disc: Snaží se teď ten problém vyřešit.
+    -- Fact: Musí zjistit, jestli je to samostatný nebo jiný kolo.
+  - Disc: Není jasné, která je.
+* PERSON14 pořádá testovací soubor s překlady.
+  - Fact: Hledá překladatele, aby ho připravil.
+  - Disc: Neví, jak to má být.
+* Překladatel by měl být schopen vygenerovat formulář z údajů. Testovací soubor by měl být založen na některých výstupech z (soudní) trubky.
+* PERSON14 a PENSON6 chtějí vytvořit testový soubor, který bude jako dvě věty.
+  - Fact: Vstup do zkoušky je v angličtině.
+  - Disc: Druhá věta je nejednoznačná. Zmradí test a nechají ho přeložit. Chtějí využít sílu komentátorů, aby vytvořili věty.
+* PERSON14 dostal další dokument.
+* Potřebuje anotátoru síly, aby to anotoval. Anotátor to posílá anotátorům a oni budou schopni to udělat postupně.
+* Potřebují poznámkovou sílu a rozhraní, aby mohli kliknout.
+* PERSON14 chce během příštích 14 dní připravit testovací soubor a tento týden ho zavést.
+  - Disc: Dostupné je 9 stran. Bude doručen bolo zítra ráno 20.
+  - Disc: Provádění bude buď T-, T-, nebo pokud to bude možné.
+* PERSON4 a PERSON12 diskutují o tom, jak využít více zdrojů jako téma v jejich projektu. Souhlasí, že snížení složitosti zdrojů je stejným způsobem snížení složitosti zdrojů.
+  - Disc: Pokud sníží složitost zdroje, vezmou na základě toho parafrazu.
+* PERSON12 musí popisovat počáteční rozhraní pro překlad albanu v D1.4.
+  - Fact: Dodání je naplánováno na 27. června.
+  - Disc: Integrace podlahy Yum bude pravděpodobně provedena nějakým způsobem. Tým je za to zodpovědný. Návrh na integraci bude v doručovací knize.
+* PERSON12 a PERSON14 budou provádět experiment s QE. Bojují se, že pokud teď QE neuhodnotí, nikdy se k němu nevrátí.
+* Dostanou zařízení k spuštění nějakého on-line, on-line, komponenty a uloží ho tam.
+* PERSON12 a PERSON14 budou vytvářet pěkný, konečný backend QE. On navrhuje snížit soubor údajů na polovinu, aby mohli uložit polovinu údajů před dalším experimentem. To zní pro ně rozumně, takže souhlasí s tím.
+* PERSON12 má spoustu věcí, které chce udělat v příštím roce boj. Tým, který je již připraven je OTHER2.
+  - Fact: Služba před Estonsky nemá skóre, slovní skóre.
+  - Fact: Termín pro další je 8.
+* PERSON12 a PERSON11 chtějí rozdělit údaje malému počtu lidí. Chtějí vyhodnotit tým, aby to udělal nejlépe, aby nemuseli čekat až do konce, aby viděli, s kým experiment skončí.
+* PERSON4, PERSON12, PERSON14, PERSON11 a PERSON4 se snaží přijít na to, co s tím ještě je.
+* Rozhodli se použít parafrazy místo jiných slov, protože jsou jediná věc, která může být použita k vysvětlení.
+* PERSON10 dostal smlouvu s vodou 1. července na LOCATION1. Ještě neví, jestli je fyzicky v Praze. Není si jistý, kdy přesně bude v Praze, ale někdy je to 15. července nebo 15. července.
+* PERSON14 a PERSON10 chtějí vědět, co bude PERSON10 dělat dál.
+  - Disc: Chtějí, aby udělal co nejvíc, když je tady, aby jim to bylo jednodušší.
+* Očekávají, že to dokončí do konce června.
+* PERSON14 a PERSON4 už nemají co řešit na pracovišti, protože není žádná správa.
+  - Disc: "Tam už není nic, co by se dalo vyřešit. V tomto případě.
+* PERSON14 pojede do Lucemburska, aby předložila administrativě předloženou dokumentaci.
+  -- Disc: Bude mluvit o tom, co udělali, ale jako o celkovém řízení projektu, to není na nich.
+  - Disc: Budou mluvit tam nebo tam, jeden z nich bude mluvit s ním.
+* PERSON14, PERSON13, PERSON12 a PENSOM mají v červnu v Lucemburku konferenci.
+  - Fact: Pošle alespoň jednu osobu fyzicky, aby sestavovala snímky a předložila je.
+  - Disc: PERSON10 bude v Lucemburku.
+* PERSON14 nerozumí pravidlům ohledně negativního testu při příjezdu. Nechce ten test vzít, protože je nepříjemný.
+  - Disc: a bojí se, že mu vezmou trochu krve.
+    -- Disc: Není spokojen s tím, že musí projít negativním testem.
+* PERSON4 potřebuje snímky a dodávku na měsíc a půl.
+  -- Fact: Snímky by mohly chybět nebo by tam nebyly.
+  - Disc: Jestli se ztratili, nebo tam budou cestovat, nebo ne, je to nejisté.
+* Jestli jsou ty snímky ještě naživu, tak pravděpodobně nepřijdou naživu, takže nemusí jít jinou cizí cestou.
+* PERSON10 musí připravit 15 domácích úkolů pro dálkové učení.
+  - Disc: Je to hodně práce.
+* Za další dva týdny by to mělo být méně náročné.
+  -- Disc: Bude to jednodušší, protože lidé budou muset udělat hodinky místo dělat hodinky.
+* PERSON12, PERSON10, PERSON14 a PERSON12 budou zítra vydávat veřejnou zprávu.
+  - Disc: Zítra o tom budou mít pivo. Dodání bude hodně peněz, ale nepotřebují toho moc, ale je to dobrý nápad.
+* PERSON14, PERSON6, PERSON4, PERSON10 a PERSON13 chtějí, aby Vani poslaly dodávku do konce června nebo začátku června.
+  - Disc: Musí to být interní přezkum, takže Vani má spoustu času na to.
+* PERSON12 odesílá e-mail o OTHER2, který je pravděpodobně v zadní části.
+  - Disc: Chce kousek dortu.
+  - Fact: Bude to asi kolem 10. června. Další schůzka bude ve středu v 10:30, takže počítají s tím, že bude 10. června.
+* Zítra bude nějaké odmítnutí, pokud tam pivo nebude, nebo budeme něco poslat.
+  -- Disc: V Jarolímeku mají krytý zahradu, ale v Podolském sokole takového není.
+  - Disc: Zítra sněží, takže dnes nebudou lovit.
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

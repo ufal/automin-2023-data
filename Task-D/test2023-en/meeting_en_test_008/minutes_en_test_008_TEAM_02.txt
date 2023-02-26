@@ -1,0 +1,33 @@
+doodle unintelligible> applies to regular weekly time.
+for each transcript in europarl you can find the minutes.
+doodle unintelligible> applies to regular weekly time..
+if you see the gender this is the link to the from 9.
+from 9.
+october.
+i will copy paste it to the today's gender.
+so that you can also open it.
+i didn't find it i don't know why..
+the interface can be seen in a web application.
+the blue one.
+it does have web application front-end which.
+(PERSON5): the blue one.
+it does have query and summary based system..
+a paper from 2020 september has a fact-based evaluation system.
+it has a web interface for annotating transcripts and summaries.
+ehm: i think you just come up with what you consider to be the best..
+i think the annotators will be able to evaluate it in a better way if you just have web base interface for manually evaluation.
+i'm still not sure how the manual evaluation work mutely.
+do you want it for training data.
+or you want it for both?.
+"i'm absolutely okay with the interface.
+but it is at the annotator's task" "we have very cris example that what is a good summary and what is a bad summary" "the drafting is very much boring.
+the drafting from our link is very much boring".
+i think for the first shared task i would like absolutely keep everything as simple as possible.
+i did implement all of the existing to matrix.
+but not something new.
+i don't have any progress with the new thing..
+i implemented the all the beginning of the paper, but i didn't do something new.
+i did.
+it took me really long to fix that.
+i might link the papers which i did.
+i'm doing it with our data and not the ami and the icsa corpora..

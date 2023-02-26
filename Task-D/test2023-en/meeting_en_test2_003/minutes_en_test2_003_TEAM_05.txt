@@ -1,0 +1,50 @@
+-[PERSON2] is moving to Prague, Czech Republic, so I'm not sure if he will be joining the team or not, so I'm not sure.
+-(PERSON has forwarded to me also the response that you gave to her previously, so it's like laugh> how much time do yo have?
+-I can't (this whole month), but it may be limited to weekends, something like that, because, weekdays we'll (be, (fully) (taken).
+-This could be difficult, but laugh> because wer failing to get our people here, so i ask you what the status of your coming over to Prague is.
+-If the vaccination drive starts, then only like I would like to consider, moving to New Delhi for the visa and stuffs, s yea<n>If the vaccination drive starts, then only like I would like to consider, moving to New Delhi for the visa and stuffs, s yea
+-Yeah, yeah, yeah, so u can go to New Delhi, right?,<n>You're afraid t to go to New Delhi, right?
+-The way in which we are paying you, th the substitute way, has probably legal limits, which will run out in the middle of the year.
+-Please, like, do not think that the matter has been resolved by you, even if it's for a short time, it's very important that you come to do the paperwork, which cannot be done remotely.
+-Yeah, I'm in the corridor PERSON, so that's the mask PERSON, so I understand.
+-So, I was hoping that (PERSON2], th student of mine woul would be able to join, but he didn't respond to my email.
+-So what I can do is, I can try reaching out to, one like, CS student who is also remote and busy, that would be also difficult, and I can try to reach out to another faculty, where they also have like student works and, mayb maybe they would have someone available fo for this exercise.
+-There is another phase, so this is the t type level phase, so, that some of these words are not named entities in any of the contexts, some are, named entities in all the contexts, and some of them, have to be decided by th by instances.
+-Mm Wh what format are we going t mmh, prepar prepare for, the annotators, and (parenthesis) after them, something like that.
+-So we have to decide, what type of bolding and italicisation would work best for us, and for them, we have to decide, what type of bolding and italicisation would work best.
+-Check the link - I'm not sharing the link again, I'm not sharing the link again, I'm not sharing the link again.
+-other_noise>- M-hm, other_noise>- M-hm, other_noise>- M-hm.
+-They should open the HTML in Word, in Microsoft Word, an open of in LibreOffice, or in Word, an open of in Microsoft Word, an open of in LibreOffice.
+-If you can do it yourself, try it in LibreOffice, Microsoft Word, or OpenOffice, and do the bolding, the italicisation, and save it.
+-If you could find someone else, that would be great, but in case no one is available, I will do that slower, but, I can.
+-parallel_talk> So, I've copied from the, u this is strange, like I made a copy, and then the hm.
+-Please, can you put this remark of mine, about the timeline, somewhere, outside of the copy pasting, so that we do not lose the comment.
+-Put it into the main text of the (minutes) of that, of the (minutes) of that, of the (minutes) of that, of the (minutes).
+-The XML markup should be absolutely clear, about the stages of the processing, and the annotation itself can be like undecided, uh, so it reads well.
+-To present the full document to annotators, parallel_talk> suggested presentation to annotators, ah, HTML loaded or imported to MS Word.
+-laugh> I think that uf, individual sentences does no are sufficient, because sometimes they are very short, and we don't want to, er, filter all of that as i if it is not so complicated.
+-If you would convert them from the current format, which is plain text, into this HTML with the like, highlighted places and the like, then download these files.
+-Upload files to Google Docs, from ethical point of view, from ethical point of view, from ethical point of view.
+-If you are a user of Google Docs, then you would have to like divide it up and like make it accessible to specific people, and only people used for this uploading of documents.
+-Keep track of the submissions, w when they are submitting, and keep track of the folder, w when they are submitting, and it gets submitted to a specific folder, like submitted to a specific folder.
+-parallel_talk> I'll do one more thing I'll do to the yellow, the light yellow highlight here, so we'll have to come up with some, so that they would actuall yeah this is probably the right thing.
+-parallel_talk> And let's say that for some reason, at the type level, we have decided that [PERSON8] is a person, whereas this was decided as not a person.
+-Mark all decisions about non-pe non-named entities (such as companies, partnerships, etc.),<n>Mark all decisions about non-pe non-named entities (such as companies, partnerships, etc.).
+-If there is a name which is not red, if there is a non-name, which i think is bright yellow, and if there is a name which is not red, which i think is bright yellow.
+-This (is) green sentence is also going to be green, one name is green, and another name is green, so it will be extremely colorful, and really, a lot of (work).
+-Let's make it simpler, so that we can focus on what's important, and not on what's important, and not on what's important.
+-Ask yourself this: Should the bold face of the name be red or green, should it be red or green, should it be red or green, should it be red or green?
+-They would only be touching the green things, and they would italicise the name, and they would not touch the green things, and they would not touch the green things.
+-Prepare for another test document with the two other, prospective sources o of programmers but I would like you, continue with this markup with this test document with this debate.
+-Double check the stages, and then test the HTML, Word, HTML, and then extraction (parallel_talk> (We'll do this test on one document).
+-[PERSON, I agree with you that we have to go for the Scientific Committee, so that we now need the web page to be completed, so that we can put that into that email and ask the people, right?
+-Make the website ready within one or two hours, and let you know that it's ready, you can go ahead, or whatever suggestion you might have.
+-If you'd like to make changes to the link, you can do so by sending the link to rol I will send you the link, and the way to rol I will send you the link.
+-The way to roll it out to the web, if you made any changes on GitHub, will they automatically appear o in the web, will you have to push a button.
+-Determine whether you can directly (commit) or directly (reflect the way) (commit) or reflect the way (reflect the way) of thecommit.
+-Call me, I'll call you, I'll call you, I'll call you, I'll call you, I'll call you, I'll call you.
+-Another thing [PERSON, like we are running short time to get Scientific (PROJECT), like we are running short time to get Scientific (PROJECT).
+-Let's review the table, (getting it) (updated) for me, (getting it) for me, (getting it) (updated).
+-[PERSON5] is not on this call, so we are not in, that big hurry, that big hurry, that big hurry, that big hurry.
+-Ask for a reference letter.<n>,Ask for a reference letter.<n>Ask for a reference letter.<n>Ask for a reference letter, if you have time.
+-Please help me locate the link to the article, which is located in your inbox.<n>Please help me locate the link to the article, which is located in your inbox.

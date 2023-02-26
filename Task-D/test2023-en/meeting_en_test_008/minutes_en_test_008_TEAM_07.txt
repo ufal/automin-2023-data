@@ -1,0 +1,48 @@
+Summary:
+
+* PERSON5 and PERSON7 have discussed with PERSON8 your negotation. 
+  - Disc: They are talking about how to implement the negotation and the guidelines for the evaluation. The guidelines are not fully ready yet, but she will share them with them as soon as they're ready. 
+* PERSON5 wanted to talk to PERSON2 today, but he's not up at the moment. 
+  - Fact: PERSON7 uploaded the europarl sources and made the alignment script with PERSON5. He has to collect the minutes. He's also in touch with PERSON3 and might skip the meeting later this week. 
+* PERSON5 will share the link to the transcript from 9. from 9 October with PERSON7 so that she can also open it. The transcript is available on Europarl's website. 
+  - Disc: The transcript's gender is the same as today's gender. 
+* PERSON5 is looking for European environmental aconomic accounts (debate) in the data, europarl data. 
+* He wants to find some meeting from 2011 for example. 
+  - Disc: The name could be from if you go to the data and the title could be European Environmental Aconomic Accounts. 
+* PERSON7 and another person have a lot of questions. 
+* They need to know what depends on the writer. 
+  -- Disc: They have a good summary and a bad summary. 
+  - Disc: They agree on the bad summary based on this question. 
+    -- Disc: The person who doesn't understand the question doesn't want to answer it. 
+* PERSON8 wants to build an interface for their shared task. 
+  -- Disc: He doesn't think manually building guidelines and heading forward to annotators is a good idea. 
+* He wants to give them the link of the interface so they can just evaluate it. 
+* PERSON7 is okay with the interface, but needs to know the rating scale before the interface. The draft of each question should be finalized before the drafting of the manual evaluation question. 
+  - Disc: The drafting from the link is very boring. 
+* The draft should be clear soon. 
+* PERSON8 will send the draft of the equation to the other people. 
+* They will have to multiply the coherence and read ability measures into three more measures. The human judgement is going to be based on the cautions one to five, so humans are going to read on cautions 1 to 5. 
+* PERSON5 thinks evoluations are very hard work and will take a lot of time and effort. 
+  - Disc: He thinks they need an alternative solution for annotators. PERSON7 and PERSON8 agree with him. 
+* For the first shared task, PERSON7 would like to keep it as simple as possible. 
+  - Disc: Once they have experience on that, they will go ahead with some innovations or novelties based on that. PERSON7 will keep this in mind for the first task. 
+* PERSON7 wants to know if there is any progress on the automatic part of the project. 
+  - Fact: PERSON8 doesn't have any progress with the new thing, but he did implement all of the existing to matrix. 
+* PERSON8 implemented the all the beginning of the paper, but he didn't do something new in the quotes. He was facing difficulties in those quotes only, so he did it. The paper was about some eval and the one was the another paper. 
+* PERSON8 insured a small portion of his data with the <unintelligible>. He's trying to do it with the data and the summarisation he's implementing. He's insuring it with his data and summarising it with it's data. 
+* PERSON5 wants to align minutes and transcripts automatically. 
+  -- Disc: If they are automatically extractable it may have sense to extract all the meetings that are available and make the data set even more. 
+  - Disc: PERSON5 doesn't know if it makes sense but probably technically it will not. 
+* PERSON7 and PERSON5 are confused about how to buy alignment for one meeting. 
+* They need to find the ASR and the minute for each meeting within a folder for one person. 
+  - Fact: PERSON5 explains it to PERSON7. 
+  - Disc: PERSON7 is confused. 
+* PERSON7 and PERSON8 want to discuss the paper of <unintelligible>. They want to send the automatic evaluation and discuss it offline. 
+  - Fact: PERSON8 has the implementation of the paper on the cluster and wants to share it with PERSON7 and PERSON7. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

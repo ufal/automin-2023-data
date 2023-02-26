@@ -1,0 +1,83 @@
+Summary:
+
+* There is a small agenda for the call today. PERSON3 will try to do the poll for the next week and if there is no overlap between ORGANIZATION6, ORGANIZATION7 and ORGANIZATION2, he will transfer whatever is needed to ORGANIZATION2. 
+* PERSON3 and PERSON2 haven't received any response from ORGANIZATION4 in two weeks. PERSON2 was tasked to prepare the exact questions they are asking and he hopes that's on track, but he doesn't know if ORGANIZATION4 has responded to him yet. 
+* PERSON3 wants to split the budget that was previously allocated for ORGANIZATION4 among other parties. ORGANIZATION4 doesn't want to get any money from this project. They will modify the budget without ORGANIZATION4's involvement. ORGANIZATION4 will be assumed to have its own funding for person months. 
+* PERSON1 doesn't have experience with shipping voice translation to individual cell phones. ORGANIZATION4 has provided subtitles for the conference and workshops at ORGANIZATION4 events. 
+  - Disc: The baseline idea is some web page that gets updated and speech to text translation is the preferred method. 
+* PERSON1 and PERSON3 will board the project. ORGANIZATION4 should make sure that participants have some devices at hand that can display the subtitles in some form. The integration should translate from the single speech signal that comes in to a into the many target languages and ship those subtitles to the different users at the workshop. 
+* The application to provide the subtitle is for remote meetings. For the live congresses, there is the plenary session of the congress and individual meetings. In the Plenary session, the speaker's speech and some questions are given. The interpreter will transcribe their voices and send the subtitles to somewhere. 
+* PERSON3 asks the integration work package for the presentation application development for live meetings. 
+* ORGANIZATION6 should be present at the conference at the ORGANIZATION9 congress. ORGANIZATION4 should contribute to the integration task some person-month on agreeing on the interface. 
+* PERSON3 wants ORGANIZATION4 to make sure there are enough events related to the main organizing congress, dry runs workshops, workshop style events and review meetings for the project. 
+* ORGANIZATION4 should have one dry-run workshop, one main congress and two follow-up workshops in the first year. 
+* PERSON2 wants to know more about the difference between the plenary and the workshops. The workshop-type thing is more in line with the speech research partners' focus on non-native speech. It reduces the burden of the source languages, so PERSON3 promotes it now. 
+* PERSON2 doesn't know what forum the other events will be in. 
+  - Fact: It's mainly workshop-style sessions with plenary sessions. 
+  - Disc: The congress will have one dry run, one main event and then two follow-up experiments. It will probably have one main and one follow up experiment. 
+* PERSON1 would like to create one task for ORGANIZATION4 events. The dry run should be planned for the all the three years starting at month 7 and running until the end. The description of the task should say that they plan to have the dry run and then the main and the two follow ups. 
+* The integration work package delivers the software and the tool to the events. The work package 7 promotes the project and its results at these events. ORGANIZATION6 is not providing anything any remote platform into these events, so the integration for the events does not need ORGANIZATION6. 
+* PERSON3 understands that the ORGANIZATION2 would like OTHER2. 
+  -- Disc: He doesn't know how much time and money will be needed for it. 
+  - Disc: ORGANIZATION4 will comment on the availability of the resources for the extension. 
+  - Disc: ORGANIZATION6 might be able to help with that. 
+* ORGANIZATION2 is active in the ASR field and provides ASR for not only for OTHER2 language but also for thirty languages. 
+  - Disc: The language spoken by people with the mother tongue is the one where they perform better than others. 
+* PERSON1 has been competing for the OTHER2 parliament. 
+  - Fact: It is considered the most accurate speech recognition system. It has an accuracy of up to ninety-eight per cent of accuracy. 
+  - Disc: It's considered to be the best in the world. 
+* PERSON1 needs to make sure that his person months are already included in the ASR work package and in the description. 
+  -- Disc: ORGANIZATION5's role is a little slower than ORGANIZATION4's, but it's still one of the official languages, so it's totally acceptable to have that in the proposal. 
+  - Disc: ORGANIZATION5 has the best ASR system for OTHER2. 
+* PERSON2 will probably get the official reply that it would be unfair to prioritize any non primary language over the other. He will mention it only when when appropriate and when no one could be offended by the fact that they are interested in another language. The next item is the table on the re-speaker data. 
+* PERSON3 is doing a detailed accounting on how many hours per speaker do they need to be able to adapt to to the speaker. 
+  - Fact: For each speaker that they want to reliably recognise, they will ask them to sit a certain number of hours and read aloud some written text. 
+* Speaker adaptation is a lot of work. 
+  - Fact: The number of hours depends on the ASR system. It usually takes one hour per speaker. 
+  - Disc: The more data collected, the more effect the adaptation has. 
+  - Fact: The main conference is four days long and the dry run is five days long. 
+* PERSON3 estimates that there are about 70 hours of speech that need to be covered. 
+* The total number of hours per speaker should be also the total hours that the speaker needs to be recorded. There should be some training phase included in the recording. 
+  - Disc: If the speaker is asked to speak for one hour, it would be good to put here about two hours. 
+    -- Disc: If it's more than three hours, then it's better to put more than four hours. 
+* PERSON3 and PERSON1 need to have a baseline acoustic model for the adaptation of the OTHER1 and OTHER4 to start with the adaptation. They need to collect real re-speaking sessions in order to model not only the voice, but also the speech during a real life session. 
+  - Disc: They will try to create their own. 
+* PERSON3 is preparing a data work package for organizing people speaking different languages. 
+  - Fact: He wants each partner to fill in the add ups for each language and the number of hours per speaker. 
+* ORGANIZATION1 wants to hire some re-speakers from the other languages. 
+* PERSON3 wants to get the actual interpreters who will be interpreting at the sa-ORGANIZATION9 congress. They also want to get some re-speakers for each of these languages. 
+  - Disc: The other direct costs are for the equipment and for the conference interpreting. 
+* PERSON1 will make a rough estimation as soon as possible about the equipment on ORGANIZATION2's side. in the end, it would be also some equipment for ORGANIZATION2's equipment. It would be a lot of equipment. 
+* PERSON3 and PERSON1 will probably purchase two or more devices for the re-speakers for the site and some equipment for recording one person. 
+  - Fact: The total numbers, the subtitles per partner will be automatically copied to the first sheet. 
+  - Disc: The total budget will be estimated. 
+* PERSON3, PERSON1 and others are going to discuss the integration of the text with the publishing platform in task 6.4 of the integration work package. 
+  - Disc: It was not clear to PERSON1 what is the integration with publishing platform, so he wants to elaborate on an idea to improve the integration. 
+* PERSON3 is talking about tasks 6.1 and 6.2. 
+  - Disc: The integration of ASR, automatic minuting, and the integration with publishing platform are the main tasks. 
+* Everyone should be available for the first months. The design and testing purposes should be at all the ORGANIZATION4 events. 
+* PERSON3 thinks the deliverables will probably promise reports only and not systems. 
+  - Fact: In the integration work package 2, they had a similar division that they had to prototype to the actual systems. 
+  - Disc: in the spoken language translation, and maybe they could mimic this layout in this project. 
+* PERSON4 prepared a few small reports about how to install the product and what it stands for. 
+  - Disc: The report turned out to be a prototype of the product. 
+  - Fact: The product is called Promo and it's available in a number of different languages. 
+  - Disc: It's a report. 
+* PERSON3 wants someone to suggest something for his or her work package. The work package is 3, work package 3, so the organisation is then taken over by the individual prototypes and the releases. 
+* The delivery dates should be in line with the timing of the work packages. 
+* PERSON3 wants to focus on multi-target and then multi-source and then flexible mult-source. 
+  -- Disc: There will be deliverables related to those deliverables. 
+  - Disc: The integration work package is work package number 6. 
+  - Disc: There is also a compact block of tasks running through all the project duration. 
+* The tasks are to be graded. 
+* PERSON3 doesn't have Microsoft Word. 
+  - Disc: He prefers ORGANIZATION7 doc. 
+    -- Disc: He will merge the text into the Overleaf. 
+  - Disc: They will talk again on Thursday and exchange e-mails to get the text created quickly. They are going to talk in Polish. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

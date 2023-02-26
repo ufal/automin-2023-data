@@ -1,0 +1,171 @@
+Summary:
+
+* PERSON20 doufá, že budou zaplaceni jako nemocní, ale ministerstvo to zakázalo, takže s tím nic neudělají.
+  - Disc: PERSON10 si myslí, že to bude zábavné, zatímco PERSON2 si myslí, že ne.
+* PERSON10, PERSON3, PERSON2 a PERSON2 si myslí, že všichni přijdou, až bude přesná definice akce a vypadá to, že bude řádně organizována.
+* Jednání se bude konat brzy, podle osoby 3.
+* PERSON3 dostal e-mail od Bayerského premiéra. Ministr zdravotnictví doporučuje domácí kancelář, ale veřejná služba v zásadě domácí kancelář neumožňuje.
+* PERSON3 musí chodit každý den do práce.
+  - Disc: O této záležitosti je odpovědný subjekt PERSON25.
+* PERSON3 se přestěhuje za 14 dní. V této době by měl sedět na S-Bahn tři čtvrtiny hodiny. Jestliže je v karanténě, pak bude mít to na půl dne.
+  - Disc: Jestli ne, tak to bude celý den.
+* PERSON3 a PERSON2 se hádají o tom, jak se lidé mají dostat do práce. Oba souhlasí, že řízení je nejlepší způsob, jak se tam dostat, protože není žádné parkoviště kdekoliv, kde je parkoviště, takže lidé nemohou jít veřejnou dopravou, takže musí jít autem.
+* PERSON3 má kolegyně, která si myslí, že to má. Ona pila na párty z stejné sklenice s chlápkem, který byl diagnostikován den po. Odmítli ji testovat, protože ji pila z té sklenice v době, kdy mu ještě nebyl diagnostikován. Rodiče chlápka odmítli být testovány, protože oni ho neviděli dva měsíce a on žije někde u Severního moře.
+* PERSON10, PERSON2 a PERSON3 se setknou. Nejbližší místo není geograficky definováno, takže nevědí, kam jít první.
+* PERSON20 a PERSON10 vyřešily problém Makefile. PERSON10 nahradil divnou proměnnou v šabloně normálním XeLaTeX alt a jménem dokumentu a už funguje.
+  - Disc: PERSON2 a PERSON20 jsou s tím spokojeni.
+* PERSON3 a PERSON10 si myslí, že Makefile je podezřelý, ale řídí to tak, jak to dělá, takže to pro ně není velká věc, ale je podezřelý pro osobu, která na tom teď pracuje, která je divná.
+* PERSON3 změnil klíče v místnosti a některé z nich pro něj nefungovaly.
+  - Disc: PERSON20 tam dá nějaké neurčené odkazy a on to sám vyřeší.
+  - Fact: On na to spoléhá.
+* PERSON20 má technický problém s používáním slovníků v Makefilu.
+  - Fact: Glossary generují průvodce bez seznamu abbreviací.
+  - Fact: Automake je dvakrát uveden v slovníku, ale to pro něj vůbec nefunguje.
+* Musí zrušit automake.
+* PERSON20 chce nahradit celý výzvu slovníků tím, čím byl vycvičen z jeho absolventské školy. Bude psát do Makefile a dát slovníky na konec dokumentu. Pokud to funguje, změní parametry.
+* PERSON3 chce zrušit hodiny, které tam vložila.
+  - Disc: Ona neví proč. Ona kopíruje spoustu věcí z disertace, což je často zdrojem chyb. PERSON2 se stará o slovníky, a PERSON20 bude dělat slovníky.
+* PERSON2 chce z šablony odstranit zbytečné kapitoly, ale PERSON10 je chce držet tak, aby byly užitečné jako model, jak něco udělat. PERSON20 souhlasí s tím, že je tam nechá.
+* PERSON20 a PERSON10 se snaží přijít na to, co se děje v zadní části místnosti. Jediná věc, kterou tam nepoužívali, jsou stoly, ale pravděpodobně vás tam budou mít.
+  - Fact: Obsah tabulky je následující: závěry, některé tabulky a tabulky.
+* PERSON2 a PERSON10 mají z jejich rozhovoru o Orbicu, který napsali před rokem, vymazány asi pět stran starých rozhovorů.
+  - Disc: Teď se o tom smějou. Orbicu je bolest."
+* PERSON2, PERSON10 a PERSON10 souhlasí s tím, že odejdou z toho bordelu a soustředí se na to, co bude na jejich seznamu úkolů dál. Opustí Bordel, pokud je to jen ten bordel, který potřebují vyčistit teď.
+* PERSON20 se ve čtvrtek dozvěděl nového slova a chce to vysvětlit osobám PERSON2 a PERSON3.
+  - Disc: Mluví o rozdílu mezi formou a lexemem. Bude mít malý argument o jiných věcech.
+* PERSON20 chce dát formulář do uvozovek a slovník do kurzoru.
+* PERSON20 by nedal do kurzu odkazy. PERSON2 by napsal koncept kurzorem a nedal ho do odkazy.
+  - Fact: PERSON10 napsal vzorce a <nerozumitelné>, když se na ně vztahoval, ale napsal je sám.
+* PERSON2, PERSON10 a PERSON20 se neshodují na používání nápisových značek a slov s nápisy do nápisů. Souhlasí spíše na vytváření příkladů do nápisů. -. 
+  - Fact: :,,
+* PERSON20, PERSON3 a PERSON10 hovoří o tom, jak použít názvy k ukazování něčeho.
+  - Disc: Souhlasí s tím, že je hloupé dělat všechno, aby získali požadovaný efekt, takže musí dělat věci jinak, pokud to chtějí.
+* PERSON3 a PERSON20 chtějí začít s makro konceptem.
+  - Disc: Chtějí dát makro příklad, ale PERSON2 neví, jak to udělat. Já nevím, co je makro".
+* PERSON2 vytvoří makro příklad makro konceptu.
+  -- Disc: Můžou v každém okamžiku změnit makrokoncept, takže se o něj nemusí moc starat.
+  - Disc: PERSON2 a PERSON2 se s tím baví.
+* PERSON20, PERSON2, PERSON3 a PERSON10 diskutují o pojmu makro.
+  - Fact: PERSON20 definuje příklad a koncept, zatímco PERSON2 napíše makro do textu.
+  - Disc: PERSON20 nebude vytahovat makro, protože vzdálený hangout je neočekávaný.
+* PERSON2 a PERSON3 nemohou jít do školy, protože byli na schůzce s mužem, který vonil a kašel a potřebují být doma.
+  - Disc: PERSON20 není si jistý, jaká je syntaxe v novém příkazu, ale je lepší než předchozí.
+* PERSON20 přemýšlí, zda by se hlasovací formulář měl zakládat na nějakém stylovém doporučení pro šablonu.
+  - Disc: PERSON10 odhaduje, že tři čísla jsou stále dobré.
+  - Disc: PERSON2 neví, jestli na volebním formuláři je něco jako stylová doporučení.
+* PERSON2, PERSON3 a PERSON10 jsou znepokojeni tím, kdo napsal špatnou zprávu v češtině, a neví, jestli je tady nebo jestli je to pravda. Vypadá to, že to pravděpodobně není pravda, ale je to pořád špatná zpráva.
+* PERSON20 by napsala titulní případ v pododdílech, i když nejsou číslovány. Je to česky, takže by bylo smutné, kdyby tu nebyl titulní případ. PERSON2 by napsala výkonné rozhodnutí stejným způsobem. Bylo by to stejné jako šablona.
+* PERSON10 musí napsat, co ten technik udělal.
+  -- Disc: Začne to psát, až začne psát.
+  - Disc: Neví, jestli někdo má nějaké techniky, kteří by mu pomohli. Ten technik udělal svou práci, takže už žádné další pomoc nepotřebuje.
+* PERSON10, PERSON2 a PERSON3 byli na schůzce a diskutovali o grafomanii.
+* PERSON10 a PERSON3 považují za směšné, že PERSON2 musí vědět, co psát, aby mohl kreslit.
+  - Disc: PERSON10 to taky považuje za směšné.
+* PERSON10 hledá kontextové začlenění vedle a naléhá je na skrytých státech. Zajímalo by ho, jestli budou mít vždy krátké a dlouhé jméno. v rozhovoru s PERSON10 a PERSON2.
+* Ani ELMo, ani Bert se obvykle takhle nepoužívají, ale umí a jsou v tom dobří.
+  - Disc: Word2vec se tak nepoužívá a je pro něj špatný, protože je tam jen jedna díra, jak říká PERSON10 a PERSON3.
+* PERSON2 a PERSON20 hledají příběh pro začlenění. Jazyk modelu pro začlenění je příběh.
+  - Disc: Už je někde tam.
+  - Disc: a je velmi stručný. Zdá se, že je v jazyku Word2vec, který není používán jako jazykový model.
+* PERSON2, PERSON10 a PERSON3 diskutují o prvním jazykovém modelu RNN. Jedná se o jazykový model s <unintelligible> značkou. Je to zásadní, poprvé to funguje a je to zásadní článek.
+* PERSON20 vysvětluje, jak neuronální jazykové modely se staly generátory tlustých rysů v prostředí.
+  -- Fact: Jazykové modely předvídají slova nebo hodnotí kvalitu věty a jsou použity k vytvoření funkcí zde.
+  - Disc: Funkce jsou založeny na jazykových modelech.
+* PERSON20 píše článek o zpracování přirozeného jazyka téměř od začátku. Předchozí jednoduché experimenty s těmito vloženími byly provedeny v roce 2008.
+  - Disc: Toddle je další.
+  - Disc: Je možné, že starší verze softwaru nejsou ještě k dispozici.
+* PERSON20 píše procesování přírodního jazyka téměř z ničeho. První osoba, která ho vyhodnotila, byl pravděpodobně Mike, který vyhodnotil stejné začlenění, které nefungovalo až do roku 2013. Článek je v Archivu, což je verze Archivu zaznamenáno tam v roce 2011.
+* PERSON10 bylo nalezeno 45 stran v archivu. Tabulka 7 je Tabulka 7. Tabulka 8 je Tabulka 8.
+  - Disc: Rakousko, Belgie a Německo jsou nejblíž Francii.
+  - Disc: Slovo embedding zavedené PERSON16 je s česky snadné, protože zavedl kontextové vektory.
+* PERSON20 se snaží najít moderní výklad pro začlenění do historického přehledu.
+  -- Disc: Je mu těžké najít to, co tam bylo před dlouhou dobou.
+  - Disc: Hledá podobné slova ve svém záznamu.
+  - Disc: Bude to psát jinak, když ho najde.
+* PERSON20 studuje stránku o označování rolí. PERSON2 bude věřit, že je tam a že bude v PDF.
+  - Fact: PERSON3 musí vypnout vibrace na telefonu, protože když píšou WhatsApp z divadla, telefon vibruje a spadne.
+* PERSON20, PERSON3 a PERSON10 budou zítra pracovat bez studentů.
+  - Disc: PERSON2 se plížil kolem a ujistil se, že trénink je videozáznam a každý je doma sám. Má kruhovou historku s vkládáním už se dívat na kontext.
+* PERSON2 vysvětluje PENPON3 a PERSON20, jak kontextové začlenění jsou klamné.
+  - Disc: PERSON10 je zklamán způsobem, jakým je vložení provedeno. PonPon17 navrhuje odstřihnout slovo a vymazat ho, aby bylo pravdivější.
+* PERSON2 a PERSON10 diskutují o makro konceptu. Není to koncept, je to makro myšlenka. Je to koncept, který je pro každou osobu jiný, ale není stejný jako předtím. Je to koncept, ale ne skutečný.
+* PERSON10 má starý kódovač. Vytáhne z něj skryté tyče a míchá je s vloženími pro rukavice a pro skryté vložení. A on to má. To není vždy.
+* PERSON2 a PERSON20 se chystá na workshop o Word2vec a strojovém překladu.
+  - Disc: Diskutují o rozdílech mezi těmito dvěma technikami a o tom, jak mohou být použity k zlepšení kvality přeloženého obsahu, diskutují také o potřebě segmentace pod slovy.
+* PERSON2, PERSON3 a PERSON20 diskutují o historii hlubokého učení.
+  - Fact: Diskutují o tom, jak je rozdělení slov v Word2vec odlišné od jiných slov. Existují některé články, které nefungovaly a neměly smysl, dokud nebyly použity podsloupce.
+* PERSON3 si myslí, že je lepší mít vložení z Word2vec předškolené než je upravit. PERSON2 a PERSON10 si myslí, že úprava vložení je ztráta času, protože to nefunguje dobře.
+* PERSON2 a PERSON20 stále ještě nedostává voda začátek zabudování.
+  - Disc: Stejně nevědí, co chtějí, takže nechtějí změnit nastavení. Problém je v tom, že začlenění nefunguje správně.
+* PERSON20 chce, aby Voni snížil počet vstupenek na 100 a nezrušil akci.
+  - Fact: Voni prodal 105 lístků, pět lidí bylo propuštěno.
+  - Disc: Někteří z nich nepřijdou s jistotou, takže PERSON10 to chce hned dostat, takže o tom musí mluvit.
+* PERSON20 musí rychle získat vstupenky na koncert, protože poslední pět lidí už nesmí do místnosti.
+  -- Disc: Jsou jen vkládací, ale nejsou kontextuální.
+  - Disc: Řešením není mít tak mnoho titulků, což je to, co si dosud přáli.
+* PERSON2 vysvětluje PERSON20, jak text z kapitoly 6.3 přišel o lidi, kteří hledají něco v skrytých sochach. Text je z definice, která je v souboru PERSON3. Není žádný člověk jménem PERSON27.
+* PERSON20, PERSON10 a PERSON2 se směje na nerozumitelnou popisu vzorku pod ním. PERSON2 se směje i na to, protože je to popis vzorku pod ním. Není to moc užitečné.
+* PERSON2 se právě pokusila o transferní učení.
+  - Disc: Podíval se na to, co tam bylo, a pak se na to znovu podíval.
+  - Fact: Bude to něco, co bude podle PERSON10 "nerozumitelné".
+  - Disc: PERSON10 a PERSON2 se smějí.
+* PERSON2 píše v 6.4.1 o jazykovém modelování.
+  - Disc: Architektura jazykového modelu je prakticky stejná jako architektura kódovače strojového překladu, ale místo strojového překladu je cvičena jako jazykový model.
+  - Fact: Strojní překlad umřel a transformator utekl, takže totéž se stalo s ELMo.
+* PERSON2 a PERSON20 musí cvičit dálkové učení.
+  - Disc: Vzdálené učení je pojem zakotvený v programu výuky.
+    -- Disc: Dnešní voda v 18 hodin přeruší všechny oslavní shromáždění.
+  - Fact: PERSON10 se včera přihlásila k účasti v talaru.
+* PERSON10 se chystá vzít talar domů přes Skype.
+  - Disc: ELMo už bere triky, jako je normalizace kolejí a zbytkové opravy z transformátoru, takže to musí nějak vzít v úvahu. talar se jmenuje ELMo, protože je krátký pro něco.
+* PERSON2, PERSON10 a PERSON20 hovoří o jazykových modelech v reálném světě.
+  - Fact: Projednávají ELMo, BERT a další akronimy. Z archivu vyplývá, že ELMo má lepší vícejazyčné vlastnosti než BERT.
+* PERSON3 chce udělat papírovou kopii toho, co píše na výzvu, aby mohli uniknout některým věcem, které píše během výzvy.
+  - Fact: Udělají si to ve středu a zavolají si na papír.
+  - Disc: Termín pro videa je sobota.
+* PERSON2, PERSON3 a PERSON10 přemýšlejí o tom, jak se zabývat vícejazyčnými otázkami. Podívají se na kontextové začlenění do kapitoly o vícejazyčných zastoupeních, ale budou je projednávat pouze vícejazyčně.
+* PERSON10 vysvětluje, že pokud něco bylo vykládáno, bylo to vektor.
+  - Fact: Student PERSON3 interpretuje dvojjazyčné začlenění.
+  - Disc: PERSON20 prohlíží vložený text a není spokojen s výsledkem.
+* PERSON2, PERSON20 a PERSON10 hodně mluvili o kapitole o GPT.
+  - Fact: Znovu si to přečíst a prodiskutovat zbytek společně.
+  - Fact: O tom budou diskutovat s PERSON2 a PERSON20, jakož i s PERSON10.
+* PERSON20 píše kapitolu.
+  - Disc: Bude to rozšíření předchozí kapitoly.
+  - Fact: První kapitola je úvod.
+  - Disc: Druhá kapitola bude trochu dál a zpátky.
+  - Fact: Třetí kapitola bude mít transformátory popsány nějakým způsobem.
+* PERSON20 by chtěl snížit úvod k jeho disertaci na polovinu.
+  - Disc: V úvodu bude mít RNN a transformátor, konvoluční sítě, sebepozornosti, popsané transformátory, a pak je to přesně, jak síť funguje.
+* PERSON20 chce BERT nechat na začátku. PERSON2 a PERSON3 chtějí o BERTovi psát tak, jak je, a pak ho někde napsat. PERSON10 chce o BERTovi popisovat na jednom místě, místo toho, aby popisoval pozornost z něj 20 stran později.
+* PERSON10 bude studenty naštvat.
+  - Fact: PERSON3 nechala v místnosti telefonní nabíječ a bude to dárek pro PERSON3.
+  - Disc: Je to pravděpodobně přesčas a Vono to ztrácí čas.
+* PERSON20 hledá šuplík, kde nechal tu dívku.
+  - Fact: Díval se všude.
+  - Disc: Neví, kde je šuplík.
+  - Fact: Myslí si, že ji nechal v šuplíku, ale ve skutečnosti byla v jiném šuplíku.
+  - Disc: Díval se do toho šuplíku.
+* PERSON20 a PERSON2 se sejdou v Mnichově, ale možná není jasné, kde. PERSON3 není ani jistý.
+  - Fact: PERSON20 je v Mnichově.
+  - Disc: PERSON2 a PERSON3 nejsou si jisti, jestli je to možné.
+* PERSON20, PERSON3 a PERSON2 budou mít knihu 1. května. PERSON20 bude vyplňovat výklady a očekává, že transformační architektura je již vysvětlena někde v úvodu nebo někde jinde v předchozí kapitole, takže prostě jde někam jinam.
+* PERSON2 a PERSON20 diskutují o debizaci. Souhlasí, že je to dobrý příklad toho, kde je pořád nějaký rozumný, užitečný materiál. Pokud toho nebude dost, založí to pod začlenění jako pododdíl tady.
+* PERSON20 a PERSON2 diskutují o tom, zda je debizace o výkladu představ nebo o jejich výkladu obecněji. PERSON2 si myslí, že je to o výkladu představ, zatímco PERSON20 není jistý. Není to jasné.
+* Debizace reprezentací může pomoci s překladem, ale není jasné, zda je to možné nebo jestli by to vůbec pomohlo. Je to možné, ale není si jisté, zda je debizace je dobrý nápad. Není jasné, zda by jim debizace pomohla.
+* PERSON3, PERSON20 a PERSON2 procházejí knihou.
+  - Disc: Najdou některé zajímavé věci, ale ne tak zajímavé jako předchozí kapitoly. Mluví o rozdílech mezi nimi a ostatními, a najít některé podobnosti mezi nimi stejně jako rozdíly.
+* Zhao 2019 zjistila genderovou sklonost v ELM.
+* Kapitola o genderových předsudcích musí přijít po kontextuálním začlenění.
+  - Fact: PERSON2 a PERSON3 budou pomáhat PERSON20 zajistit to.
+  - Disc: Pošlu odkaz na obchod s sdílení fotografií, kde má Zhao šachový obchod.
+* PERSON20 chce sdílet svůj obrazovek s PERSON2 a PERSON3.
+  -- Fact: Nevidí si navzájem terminály, ale vidí si navzájem knihy.
+  - Disc: Text na obrazovce je větší než předtím, ale stále to nestojí za to, aby se ukázalo.
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

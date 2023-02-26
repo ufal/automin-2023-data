@@ -1,0 +1,28 @@
+Datum schůzky: 18. 11. 2020
+Účastníci: [PERSON13], [PERSON32], [PERSON20], [PERSON8], [PERSON31], [PERSON43], [PERSON41], [PERSON14], [PERSON26], [PERSON3], [PERSON1], [PERSON40], [PERSON42], [PERSON30]
+Účel schůzky: Informační schůzka [PROJECT1].
+Shrnutí schůzky:
+
+Informace z vedení.
+- Do konce roku se musí ukončit rozpočet.
+-- Je potřeba dát modelářům finalní podklady.
+- U plavební komory námítky nebyly akceptovány a bude se to dávat právnímu oddělení.
+- Je vypsáno výběrové řízení na novou sekci rozvoje města a může se tam přihlásit kdokoliv.
+- Bylo by dobré se ještě jednou zúčastnit komise pro urbanismus a památkovou péči, případně za sebe poslat náhradu.
+- 3.12 ve 14. hodin proběhne představení [PROJECT2] , kterého by se měli všichni zúčastnit.
+- Architekt začíná pracovat na analýzách nemocnice Bulovka, pokud by někoho kontaktoval, dát vědět.
+- Bude se s [ORGANIZATION6] spolupracovat na vytipování ploch parkovišť pro městskou výstavbu.
+
+Informace od zaměstnanců.
+- Zajistit studii Šáreckého údolí v papírové podobě.
+-- Zatím se spíš ke studii nevyjadřovat a počkat, až příjde oficiální cestou.
+- U studie Zličín je potřeba, aby se domalovaly funkční plochy a veřejná vybavenost.
+- Domluvit pouze odborné jednání s architekty ve Farském poli.
+- Napsat na workshop na Strahov.
+- Uspořádat konzultaci ke studii na Bělohorskou.
+- Bude se podávat námitka na bytový dům Milánská.
+- Tisk na Balabenku je zatím v přípravě, nešel do rady a musí se vyřešit spolupráce se [ORGANIZATION4].
+
+
+Zapsala: Zuzana Štyksová
+

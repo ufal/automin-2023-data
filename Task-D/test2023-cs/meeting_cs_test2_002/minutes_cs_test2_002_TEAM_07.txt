@@ -1,0 +1,142 @@
+Summary:
+
+* PERSON2 vyplnil recenzenty a druhá stránka by měla být až ISBN.
+  -- Disc: Ještě knihu nenapsal, ale doufá, že jim dá ISBN.
+  - Disc: PERSON1 a PERSON2 si myslí, že je to vítr.
+* PERSON2 neví, zda může poděkovat komukoliv jinému než ORGANIZATION5 za grant, který získal od ORGANIZATION5.
+  - Disc: PERSON1 si myslí, že může, ale není si jistý, zda je to dobrý nápad poděkovat někomu jinému za celou grantu nebo jen jedné osobě.
+* PERSON2, PERSON1 a PERSON2 si myslí, že ORGANIZATION4 pravděpodobně přežije. Jestliže ano, nemusí nutně vyžadovat, aby byl organizátor poděkován. V tomto případě nemusí být organizátor chválen.
+* PERSON1 a jeho kolegy píší knihu.
+  - Fact: Nemají žádné spojení.
+  - Disc: Na místě, kde je kniha zveřejněna, není žádná voda.
+  - Fact: Na první stránce je člověk z PROJECT2, ale pravděpodobně byl propuštěn, píše o rodině.
+* PERSON2 3 roky pracovala na projektu ORGANIZATION2, ORGANIZATION6, ORGANIZATION10 v Praze. Projekt byl financován ORGANIZATION10 a publikován vydavatelem, který se jmenuje ORGANIZATION10.
+* PERSON2 a PERSON1 mají některé knihy, které nejsou oranžové. Pravděpodobně budou mít další obálku s stejnými knihami.
+  - Disc: Nemají čas na oranžové obálky, takže je už nechtějí mít.
+* PERSON2, PERSON1 a PERSON13 budou psát přiznání v přiznání pro projekt, na kterém pracují.
+* Musí napsat úvod, úvod, díky všem spolupracovníkům a díky rodině.
+* PERSON2, PERSON3 a PERSON1 nemají motto.
+  - Disc: PERSON4 má motto, které není moc dobré.
+  - Fact: Buď ho nemáš, nebo si ho musíš vymyslet, protože to není nutné.
+* PERSON2 si přečetl závěs a líbil se mu.
+  - Fact: Na úvodní větu nebyl žádný komentář, takže to nečeká.
+  - Disc: Následující slovo bylo docela dobré, ale nebylo to očekávané, bylo to předtím, takže to nebylo očekávané.
+* PERSON2 přenesl komentář z pochodného slova do vodopádu, protože v původním pochodném byl o něm diskutován. Bylo to od osmi- od moudrosti,
+  - Disc: 18- od PERSON6 komentuje to, takže se to asi tam přesunulo.
+* PERSON3 a PERSON1 nevědí, jestli je v souhrnu dobré mít čísla kapitol.
+  - Fact: Nemůžou to tam dát, protože musí psát do velkých kapitol, které tam byly první. PERSON2 napsal do kapitol první, protože se musel vzít.
+* PERSON1 šel spát v 7:30 ráno jednoho dne a přislíbil se pracovat na Git v 8 ráno následujícího dne.
+  - Disc: Je to špatné pro schůzky, ale dobré pro Git, podle PERSON1. PERSON2 bude psát některé závěry pro čtyři.
+* PERSON2 a PERSON1 se hádají o rozdílu mezi abstrakty a souhrny různých knih.
+* Rozhodli se změnit souhrny a odstranit kapitoly z knih, aby je bylo snadnější číst.
+  - Disc: Kniha bude mít průvodce na webu.
+* PERSON2, PERSON3 a PERSON1 budou dekódovat 3 a 4 a pak je dát dohromady.
+  - Disc: Do dokumentu napíše souhrn, který je tam napsaný, vypadá to lépe než seznam čísel, takže ho tam založí.
+* PERSON2 a PERSON1 se smějí na zprávu BERT, kterou jim napsal někdo jiný.
+  - Disc: Je snadné říct, že jsi znovu "nerozumitelná", protože je pro ně snadné ti tak říkat.
+* PERSON2 píše krátké cesty v popisech do písmen místo toho, aby je napsala do jednoduchých písmen. Krátký průvodce je již průvodcem.
+  - Disc: Seznam tabulek je krátký a je málo tabulek.
+    -- Disc: 5:15 odstavec má některé strašné vrtání a obrátky v něm.
+* PERSON2 a PERSON3 jsou spokojeni s výsledky.
+  - Disc: Výsledky jsou dobré, podle PERSON2 a PERSON3, ale nejsou dokonalé.
+    -- Disc: Jsou spokojeni s tím, jak to bylo provedeno.
+  - Disc: Výsledek je dobrý.
+* PERSON2 se pokusil vytisknout jednu stránku v praxi a ukázalo se, že je modrá, takže není správně nastavena. Zelená jsou vodka, zelená citace jsou zelená a černá jsou černá.
+  - Disc: Zelené jsou vodka.
+* PERSON3 a PERSON1 se snaží přijít na to, co se stane s mapou, na kterou se dívají. Nejsou si jisti, jestli ji chtějí vytisknout nebo ne. Barva mapy se změnila kvůli cíli v Makefilu. Není to barva mapy.
+* PERSON2, PERSON1 a PERSON4 nechá vodku v pokoji osoby, která napsala všechno, co je možné s tím předmětem.
+  - Fact: Ten, kdo má instrukce, je někde v černém s strašným rukopisem a bez lumpů.
+* PERSON2 a PERSON1 se smějí na něco, co tam napsali lidé, kteří tam jsou napsáni. Nemusí to napsat. Nemusí to dělat.
+  - Disc: Není nutné nic napsat.
+  - Disc: Je to jen vtip.
+* PERSON2 zapíše ORGANIZATION18, aby se zeptala, jestli je v pořádku, že editor předává knihy tři roky po jeho smrti.
+* Zemřel 31. prosince 2017, takže by měl dostat se z této šablony.
+  - Disc: Možná to bude muset schválit jako nějaké setkání.
+* PERSON2 neví, co jsou ty voskové věci, ale on si myslí, že to jsou pravděpodobně první dvě věci. PERSON1 posílá hluku na PERSON2. Není jasné, co to je. Hluku není moc jasné.
+* PERSON2, PERSON3 a PERSON1 diskutují o bibliografii a indexu knihy, kterou čte. Diskutují o autorovi knihy, který oslavuje 6. července jako parfém. Autorem je spisovatel jménem PERSON25.
+* PERSON2, PERSON1 a PERSON3 se snaží vyřešit problém, kdy překlad na druhé straně již není průvodcem.
+  - Fact: Našli řešení v logu 124.
+* Na straně 125 se pokuste dokončit poznámku začátkem.
+* PERSON2 a PERSON3 si myslí, že je to v pořádku, protože to tak nastavil. PERSON1 byl několikrát překvapen, protože zkratky jako BERT, ELMo a GPT jsou divné a neznamená přesně to, co mají na mysli.
+* PERSON2, PERSON3 a PERSON1 hlasují o GPT proti MBR. GPT je generovaný předpokládaný transformator, podle Wikipedie, zatímco MBR je Generalized Pre-Transformers, jak je napsáno na Wikipedii.
+* PERSON1 si myslí, že GPT a GPTT jsou různé abbreviace pro GPT. Přál by si, aby nebyly jmenovány to hloupý.
+* Mělo by to být GPT T 2.
+  - Disc: PERSON2 a PERSON1 souhlasí.
+  - Disc: Je to vtip.
+* PERSON10 neví, jestli GPT znamená GPT konkrétně nebo GPT 2.
+  - Disc: GPT zlepšuje jazykové porozumění pomocí generativního předškolení. Wikipedia není spolehlivý zdroj.
+  - Fact: Vypadá to, že GPT 1 ještě oficiálně není nazýván GPT.
+* PERSON2 a PERSON3 by používaly GPT jako generující předkrvený transformátor.
+  -- Disc: Pomáhají zlepšit porozumění jazykům prostřednictvím generativního výcviku.
+  - Disc: PERSON1 by použila s-transformátory místo GPT, protože je to trochu lepší.
+* PERSON2 a PERSON1 hledají BERT. Najdou KoloBERT místo BERT, protože Roberta je také v akronimech. Doufám, že nemají RoBERT a další věci roztroušené tam.
+* PERSON2, PERSON3 a PERSON1 se snaží vyřešit hádanku. Naznačení je napsáno pouze v příponách e mBERT. Nemusí být napsáno, ale je to jen zkratky. Naznačení se jmenuje BERT.
+* PERSON2, PERSON1 a PERSON3 hovoří o akronimiích a zkratkách v ORGANIZATION3.
+  - Fact: Mluví o BRNN, ELMo, Glove, GPT, MBERT, BERT a dalších zkratkách.
+* PERSON2 navrhuje, aby zkratky byly vysvětleny na začátku.
+* PERSON2 napíše "bleu" do rejstříku.
+* Měla by být v prvním použití jako úvod. Pokud je již na seznamu krátkých, měla by být vysvětlena v seznamu zkratek.
+  - Disc: Není to tak správné, jak by to mohlo být.
+* PERSON2 a PERSON1 nechtějí, aby GLS křičel, pokud není vysvětlení zahrnuto do nápovědy k papíru, protože jim se nelíbí, aby GLS křičel takhle, a chtějí, aby to bylo jasné. PERSON2 a PERSON1 souhlasí.
+* PERSON2, PERSON1 a PERSON3 se snaží přijít na to, co BERT, Robert, XLR a XLMR znamenají. V textu nemají XLM. Musí se podívat do textu, aby to zjistili.
+* PERSON2 vysvětluje PERSON3 a PERSON1, že X je kříž v křížovém jazyce.
+  - Disc: X je symbolem kříže v označení kříže.
+  - Fact: Je to symbol křesťanské náboženství, podle PERSON2.
+* PERSON2 a PERSON3 se zabývají předškolenými modely a MT a BERT v Word2vec. První věta říká, že odborníci mohou přezkoumat a přeskočit.
+  - Disc: Druhá říká, že vůně je hned za ní a další stránka je hloupá.
+* PERSON2 nemá kapitolu 2 v knize.
+  - Disc: V číslování stránek je díra.
+  - Fact: V PDF je pouze strana 4 a strana 15. Předběžný přehled 2018 2018 na webu je 79 stran dlouhý.
+  - Disc: Není to všechno.
+* PERSON2 a PERSON1 hledají knihu.
+  - Fact: Najdou ho, ale místo předhlídky je plný, takže když tam napíšou plný, tak neexistuje.
+  - Disc: Pravděpodobně proto, že je to tak skvělá kniha, že se očekávají, že ji koupí.
+* PERSON2 a PERSON1 něco přepíšou.
+  - Disc: a pravděpodobně to bude vypadat jinak.
+  - Fact: Říkají tomu "nerozumitelné" místo poznámek, které už udělali.
+* PERSON2 má knihu tvořenou jednotlivými bundly papíru svázaných dohromady. Má básně svázané na některé kousky papíru. Dokonce má i voskový list přilepený na láhev.
+  - Disc: Nechce se dostat z knihy.
+  - Disc: Je to stará literatura.
+* PERSON2, PERSON1 a PERSON3 se dívají na knihu, která se jmenuje balíček.
+  - Fact: Má 16 stran rozdělených o 10 a půl oblouků, což je 11,3 stránky.
+  - Disc: Zadní stránky budou prázdné stránky, které lze použít pro poznámky.
+* PERSON2, PERSON3 a PERSON1 si musí napsat kapitolu pro sebe.
+  - Disc: PERSON2 bude psát úvod, předlohu, souhrn a úvod.
+* Druhá kapitola bude zařízena osobou 10.
+  -- Disc: PERSON2 se postará o úvod a udělá to.
+* PERSON2 a PERSON3 předvídat, co bude říkat v úvodu, jeden, dva a po slovech. Bude mít 4, 3, 4 lidi, podle PERSON2 a PERSON3.
+  - Disc: Smějou se tomu.
+* PERSON2 a PERSON1 nezapsaly, co chtějí udělat s vetřelcem.
+  - Disc: Chtěli, aby to bylo delší, ale nevěděli, jestli se o tom dohodli.
+    -- Disc: Nemají ponětí, co chtějí mezitím dělat.
+* PERSON2 a PERSON3 dostávají upozornění na spojení.
+  - Disc: PERSON1 musí v dokumentu napsat něco nekonfliktního, co si myslí, že pro lidi nebude zmatené.
+    -- Disc: Musí se ujistit, že každý má něco, s čím se ověřit, než to dostane do tisku.
+* PERSON3 a PERSON1 se snaží zacházet s rybami jako s slovy, aby zjistili, jestli s nimi něco mohou udělat. Myslí si, že zacházení s nimi jako s slovy by mohlo být špatná myšlenka, protože by mohlo způsobit, že ryby umřou. Je to otázka, co to znamená, že se něco děje.
+* PERSON3 a PERSON1 se hádají o významu slov.
+* PERSON3 chce vědět, zda je slovo vobrázky skutečné a zda by mohlo být popsáno v textu.
+  - Disc: PERSON1 si myslí, že ne.
+* PERSON3 nechce přemýšlet o tom, jestli jsou pravdivé nebo ne, protože mu to nevadí. PERSON1 tam něco napíše a pak to znovu přečte, ale je to pravděpodobně zbytečné.
+  - Disc: Nevědí, kdy skončí lhůta.
+* Termín pro pořádání je pondělí.
+  -- Fact: Voda střediska má odpověď na přezkum pro ORGANIZATION21, ORGANIZATION19 a ORGANIZATION9.
+  - Disc: Není jasné, jestli tam něco poslal.
+  - Disc: Je možné, že ne.
+* PERSON1 a PERSON3 mají dnes schůzku.
+  - Disc: Zítra mají další schůzku.
+  - Disc: Chtějí, aby někdo něco provedl ohledně situace, ve kterém se účastní organizátor mezi 4. a 7. prosincem. Schůzka skončila a kapitola, o které hovoří, skončila.
+* PERSON3 se zvykl sledovat GitHub, protože tam nebylo nic, co se tam děje už roky.
+  - Disc: Pokusí se zvyknout se dívat zpět, když se něco děje. PERSON1 si myslí, že GitHub je stejně dobrý jako <unintelligible> a postup přezkoumání, ale je příliš dlouhý.
+* Pořád to ještě není.
+  - Disc: Bude to v neděli, ale PERSON1 ještě neví, kdy. PERSON1 čeká, až to bude hotové.
+  - Fact: Ještě se to nevytahuje, ale bude to v neděli.
+* PERSON3 se na to hned podívá.
+  -- Disc: Jestli už nebude žádná závislost, je to pravděpodobně v pořádku, pokud tam nebudeš mít další větvičku.
+  - Disc: Pravděpodobně ještě nenašli, jak to udělat, abys mohl tlačit rovnou bez přezkoumání, takže to zase vypnuli.
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

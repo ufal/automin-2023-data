@@ -1,0 +1,50 @@
+-Ask a friend to join you in a chat room, if you haven't already done so, or ask someone to join you in a chat room.
+-So I'm curious, if [PERSON is here, we don't have [PERSON, Okay, that's too bad, that's too bad.
+-The problem with this experiment is that it has explayable mistakes, which makes it difficult to run it with explayable mistakes, which makes it difficult to run it.
+-To run the same set up [PERSON ran for that test part on other parts of the test part, and it's only the baselines.
+-Note that the GPU test is FP 16 version one new version of [PROJECT 16 (which is the GPU test version of the FP 16 version of [PROJECT 16).
+-Use the [PROJECT 16 version of the FP use in the half precision version of the FP use, which is the version of the FP use in the half precision version of the FP use.
+-This is a question on [PERSON, what are the problems that we have not like - What are the problems that we have not like - What are the problems that we have not like - What are the problems that we have not like -
+-Start with the executive summary and then the comments on multi-source corpus and then the executive summary and then the executive summary and then the executive summary and then the executive summary.
+-So we could have done the multi-source research also in the text domain, if we can have them like that and they are as multilingual as they are.
+-The experiment by [PERSON26], which are covered there like small data only and your monkey only.<n>Multi-source text, [ORGANIZATION.
+-The problem with multi-source text is that the text are all already very, ah, very disambiguate, because the text are all already very, ah, very disambiguate.
+-[PERSON, I think we need to have a separate call with you and [PERSON, I think we should really test the multi-source.
+-Just say something, so whatever two pm or three pm is fine for me, and for [PERSON, it's okay, right?, right?
+-Thank you, ah, for taking the time to discuss the two biggest things of the [PERSON10]'s work.<n>Ah, the one of the biggest thing is that [PERSON10] will finish the language checking of his original tasks.
+-If you're in touch with [PERSON or 10], you'll probably be in touch with [PERSON or 10], you'll probably be in touch with [PERSON or 10].
+-[PERSON6], here on the call, is not [PERSON10], right? As the - - - - - - - - - - -
+-If the other [PERSON10], who is on the call, ah, can you hear us?, so please be in touch with [PERSON10].
+-Start the conversation with [PERSON8], because this is an important message for [PERSON8], because this is also an important message for [PERSON8] who has disappear again from the call.
+-The filtering, profanity, has it been tested on locks?,<n>The filtering, profanity, has it been tested on locks?, right? The filtering, profanity, has it been tested on locks?
+-Now it's the time to test it on the life pipelines, and if this can be done by the author of that component, it would be most efficient for all of us.
+-The problem with this is that we have the local copy of the file on the oval machines, which means that we can simply download the files on the oval machines.
+-Use X2Go to download files, things, things, things.<n>Use X2Go to download files, things, things, things, things, things, things.
+-Do whatever works for you, laugh> Okay, so we have seen during the last sessions that the new ASR, the end to end ASR, E2E ASR, also suffers from spasm issues.
+-The problem with the ASR language is that they're already in the English language.<n>The problem with the ASR language is that they're already in the English language.
+-If we remove the spasm removal from the ASR itself, then the MT worker can create its own spasm for good ASR.<n>The MT worker can create spasm for good ASR.
+-So, you have the call with ah, [PERSON10], you have the call with ah, [PERSON8], you have the call with ah, [PERSON10] later today.
+-[PERSON10], ah, will get this from him so that we have [PROJECT baseline for his own experiments, right?,<n>So we have [PROJECT baseline for his own experiments, right?
+-So the regular preparations for every session that unfortunately will land on [PERSON10], the regular preparations for every session that unfortunately will land on [PERSON10 only.
+-Plan the call with [PERSON10], [PERSON6], and [PERSON6], as MT filtering, not as MT filtering.
+-This domain adaptation that will land on you, ah, preparing for the Monday seminar that's going to be given by the author of [PROJECT English, famous Italian guy.
+-I like the idea, and - I like the idea, and - I like the idea, and - I like the idea, and - I like the idea, and - I like the idea, and - I like the idea, and - I like the idea, and -
+-Make sure that you are in touch with [PERSON1], so that you can work on whatever tasks that [PERSON1] can help with.
+-So we are now with [PERSON1] putting that, ah, ah, sentences together to, ah, just one particle experiment.
+-This technique is used in the training pipeline, which is used for training of the that uses this same technique, so it's not clear how they apply it.
+-This is very important to know which all bells and whistles are available in which tool[ORGANIZATION7], and also one more lesson that we have like harshly learned yesterday.
+-To, ah, [PERSON18] and [PERSON8] were not able to start the pipeline.<n>To, ah, [PERSON8] knew in principal what to do.
+-Explain the situation to the mediator, so that he doesn't get rolled in the pipe and he doesn't get rolled in the pipe and he doesn't get rolled in the pipe.
+-This was kind of creating, ah, errors, creating, ah, errors, creating, ah, errors, creating, ah, errors.
+-This is something that should be more self explanatory, because if you were trying to get it running, you didn't know where to look and what to check.
+-Around two pm, I was spending him through the pipelines that escaped like, what does each block, what exactly does each block and how to debugg.
+-Have you seen the common addresses file to include [PERSON5]'s ah army worker, or have you seen the common addresses file to include [PERSON5]'s ah army worker.
+-If we want to implement [PERSON5]'s worker, we need to have a separate descript (or 'descript') for the worker.
+-[PERSON8] is working on like, ah, configuration cleaner for the configuration of the configuration of the configuration of the configuration of the configuration cleaner.
+-The first specification of requirements for a pipeline set ups is [PERSON8], [PERSON18 and [PERSON8], which is the specification for the first specification of requirements for a pipeline set ups.
+-The scripts that start you avanti and workers, which is like a multi-edr and multi bigger and multied relevant.<n>The scripts which start you avanti and workers, which is like a multi-edr and multi bigger and multied relevant relevant.
+-Maybe we could make it so that there is one script, because - Yeah, with different parameters, like workers for English to Czech model, workers for English to Czech model, etc.
+-For some switch for the for the which model to use, but is it possible to pass these parameters to can I assume when you were it on cluster.
+-If you have one worker, which emits all the languages, it's completely up to us, we can control how many languages we want to see the subtitling platform.
+-You can run the multi lingual moral with fewer languages enabled (PERSON16 and PERSON16 are both supported by the same language options, so you can run the multi lingual moral with fewer languages enabled.
+-What did you do with [PERSON18?,<n>What did you do with [PERSON18?,<n>What did you do with [PERSON18?

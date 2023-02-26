@@ -1,0 +1,121 @@
+[PERSON9] for instant the multilinguality is not there.
+[PERSON9] for instant the multilinguality is not there.
+[PERSON9] for instant the multilinguality is not there.
+[PERSON9] for instant the multilinguality is not there.
+[PERSON9] for instant the multilinguality is not there.
+[PERSON9] for instant the multilinguality is not there.
+[PERSON9] for instant the multilinguality is not there.
+[PERSON9] for instant the multi.
+next phase should have been commenting on text that is not finished.
+[PERSON8] i m just planning to rewrite what s already there.
+[PERSON9] i don t know how many such paper we sh-, we, um, how many s-, um, these copied so unintelligible> pictures are there.
+[PERSON8] i don t know.
+maybe we should at least check the licence of the paper..
+[PERSON17] if it s from acl antology it s, it s creative comments.
+[PERSON8] if it s not [PERSON24] then you probably can do it.
+[PERSON8] if it s from acl antology it s, it s creative comments.
+[PERSON8] if it s from acl antology it s, it s creative.
+[PERSON21] it s an atribution and no additional restrictions so.
+[PERSON17] but i would, i would still mention the licence.
+[PERSON9] i think major, major all the figures - [PERSON8] hm.
+[PERSON9] should be ours.
+[PERSON9] it is - [PERSON8] hm.
+[PERSON9] it looks better.
+[PERSON9] i, i plan to generate the picture from, from tabels which.
+[PERSON9] laugh> [PERSON9] unintelligible> fractuality.
+[PERSON9] laugh> [PERSON8] ok.
+ok.
+ok.
+[PERSON9] usually at the content at least.
+[PERSON9] laugh> [PERSON9] unintelligible> fractuality.
+[PERSON9] laugh> [PERSON9] laugh> [PERSON8] ok.
+ok.
+[PERSON19] everything is for attentions.
+[PERSON9] everything is for probing but in transformers.
+[PERSON19] yeah, this is like gpt - [PERSON8] hm.
+[PERSON19] gpt and attentions.
+[PERSON9] there is on the right.
+[PERSON9] there is on the right.
+[PERSON17] so it s why it does those things.
+[PERSON19] i think it s hard uninte.
+[PERSON9] hm.
+[PERSON9] hm.
+[PERSON9] hm.
+[PERSON9] hm.
+[PERSON9] hm.
+[PERSON9] hm.
+[PERSON9] hm.
+[PERSON9] hm.
+[PERSON9] hm.
+[PERSON9] hm.
+[PERSON9] hm.
+[PERSON9] hm.
+[PERSON9] hm.
+[PERSON9] hm.
+[.
+i finally managed to train fasttext embeddings.
+and as you can see the bands are actually there.
+the fasttext image here seems much more, um, similar to the original glove that i trained..
+[PERSON21] you can see the bands here and the bands here in the fasttext s image are similar.
+[PERSON19] it's possible for czech, not for english.
+[PERSON21] yes.
+but fasttext shows the structure right away.
+[PERSON21] yes.
+but it's possible for czech, not for english.
+[PERSON21] yes.
+but it's possible for czech, not for english..
+i've written something about debiassing i wrote a conclusion.
+tonight the chocolates will be in the box and i rewrite the chocolates.
+i'll either move it to your chapture or delete it..
+[PERSON9] and figures at least in pdf and not it pgf, it's no problem.
+[PERSON9] if we don't change the content of the figures just how they look.
+[PERSON9] if only (the font) change and the picture will be same only the nicer and then i m sure it's ok..
+[PERSON17] just, just avoid an other unintelligible> font.
+[PERSON21] you will have figures in the missing sections like pca and ica.
+[PERSON17] you can replot it so it has the same font as a book.
+[PERSON21] sorry, what? [PERSON17] you can replot it so it has the same font as a book..
+[PERSON9] so do you think you can make it to today or? more or less? [PERSON9] i think so.
+[PERSON9] ok, i can do that.
+after the text is written.
+and finished.
+[PERSON9] so that you know that you really have it, the chocolate is (reorder) in the box.
+[PERSON9] yeah, but then you need to reorder the chocolate.
+[PERSON9] yeah, but then you need to reorder the chocolate.
+[PERSON9.
+i think it s better if we have like, like one unintelligible> reviewer from, from [LOCATION2], when we have the book alm-, almost finished, we can, we can ask someone.
+[PERSON17] yeah.
+[PERSON9] it would be at least abstract or i don t know if i ask only, ok, we will have a book with unintelligible> about - [PERSON8] hm.
+book, books often have summaries.
+and they have the summaries in multiple languages so.
+[PERSON9] boo-, book, book summary is, is more like, um, lon-, longer abstract usually.
+[PERSON9] but the introduction would also be something like, what is the - [PERSON17] hm.
+[PERSON8] yeah, there are no rules, in the books series that we should have a summary and, and summary in czech and something like that..
+[PERSON9] i think longest book in the series would be the (light) lexikons.
+[PERSON17] or [PERSON14] might be a good candidate.
+[PERSON4] 119.
+[PERSON9] but this is unintelligible> lexikon.
+[PERSON9] yeah, [PERSON26] 110.
+[PERSON9] yeah, [PERSON26] 110.
+[PERSON4] 119.
+[PERSON4] 149.
+[PERSON4] 149.
+[.
+[PERSON8] unintelligible> this is for now.
+[PERSON9] i haven t - yeah.
+[PERSON9] i haven t - yeah.
+[PERSON21] so it should be after the [PROJECT2] meeting.
+[PERSON9] yeah, it will be after in our office.
+[PERSON8] 2 p.
+m.
+[PERSON9] 2 p.
+m.
+[PERSON17] ok.
+[PERSON8] ok..
+[PERSON9] i have holiday from thursday but i think i will do some work even in the holiday.
+[PERSON17] i didn t understand how it really works so i didn t have time to investigate it.
+[PERSON21] yeah, me too.
+[PERSON21] yeah, me too..
+[PERSON21] do you have to be registered for the tutorials? [PERSON21] yes, but you can, you can ask questions live on [ORGANIZATION6] so maybe all videos who are registered will get [ORGANIZATION6] link and will, will be able to ask questions.
+[PERSON19] unintelligible> be this like screening here or other unintelligible>.
+[PERSON8] yeah.
+[PERSON19] unintelligible> be this like screening.

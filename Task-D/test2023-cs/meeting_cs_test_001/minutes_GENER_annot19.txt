@@ -1,0 +1,18 @@
+Účastníci: [PERSON3], [PERSON1], [PERSON8], [PERSON9]
+
+Účel schůzky: úkoly ke knize
+
+Datum schůzky: 3. 3. 2020
+
+Shrnutí schůzky:
+
+- příští meeting v úterý
+- je potřeba, aby byly příběhy, názvy kapitol a podkapitol, a co v těch kapitolách a podkapitolách bude, případně odkazy na literaturu
+- překlopit literaturu do Zotera
+- nebude udělán long paper z mBERTovýho článku do pátku, protože v pátek začíná anonymity period na calling
+- článek z Helsinek se dá na archive a na calling se to předělá
+- nakonec se asi bude všechno cílit na Black box, který je v Dominikánské republice
+- jeden článek je rozdělený na EMNLP
+- možnost poslat článek do PBML
+- stále chybí jeden článek do časopisu
+- rozdělení příběhů na kontextové embeddingy, attention, introduction, GPT, debiasing

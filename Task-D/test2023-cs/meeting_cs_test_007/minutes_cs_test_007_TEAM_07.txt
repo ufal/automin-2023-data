@@ -1,0 +1,94 @@
+Summary:
+
+* PERSON8 a PERSON9 mají zprávu due 15. ledna. Zpráva je omezena na 3000 znaků, takže mají spoustu času na přípravu.
+  - Disc: Jestliže splnili plán, požádají PERSON9 o další podrobnosti.
+* PERSON8 chce vědět, jestli na konci loňského roku chyběl souhrn textu. Nejspíš není na WP1, protože není na OTHER5. Je na WP1, což jste vy.
+  - Disc: Shrnutí je v češtině.
+* PERSON16 a PERSON15 nemohou vidět své věci na OTHER6 DEMO, protože to neběhá.
+  - Fact: Datový zdroj je podrobně popsán v dokumentu. Validace DEMO má být vydána v roce 2019. Na DEMU jsou k dispozici modely a časové přístroje pro obrazové a strojové překlady a analýzu citů.
+* PERSON8, PERSON16 a PERSON15 chtějí dokončit pokusy o tom, jak zachytit morfologické a syntaktické informace z RNN. Pokračují s BERT a jeho syntaktické vlastnosti.
+  - Fact: Vyzkouší to s jednotným, univerzálním transformatorem.
+* WP4, který je stále nejpopulárnější hra, byla zrušena minulý rok.
+  - Fact: WP5 musí být zrušeno v letošním roce, protože nikdo nechce hrát už.
+    -- Disc: Je to ta věc jako strom, která dělá divné věci, které už nikdo nechce dělat.
+* PERSON16 a PERSON8 minulý rok zrušily WP4.
+  - Disc: Pokusí se zrušit WP5, ale nechtějí se s tím vypořádat.
+  - Fact: Pokud mají dostatek článků a je to rozumné, bude to projít, podle PERSON8.
+* PERSON8 a PERSON16 diskutují o Elmo a BERT. Diskutují o tématu zabudování slov v článku na ACL. Porovnávají to s tím, co udělal PERSON16 s stážisérem a co udělal s PERSON9.
+* PERSON16 neobdržel nic o Elmě a Bert. Existuje článek o tom, co slibují udělat příští rok z WP6. Existují dva články na vrcholu z článku. Je to z tohoto slovní balíčku, takže mohou jít tam.
+* PERSON8 se pokusí něco napsat o té zprávě.
+  - Fact: Tato zpráva je 3 000 slov dlouhá. Analýza řešení je mezi 10 a 3000 znaků. Byl to návrh na další rok.
+  - Disc: Proces práce byl o něco těžší než samotný zpráva.
+* PERSON8 neměla moc prostoru, aby se vyjádřil o platech na příští rok, protože mu dala instrukce, co dělat a jak to udělat spolu s ručitelemi vosku. Rozhodli se, že mu nic nedají, protože někde z něčeho zbylo nějaké peníze, takže kdyby mu to dali, bylo by to tři měsíce.
+* PERSON9 má smlouvu do srpna, ale může ji prodloužit do září, pokud bude hlásit o dvou různých ročních věcech od Google. Pokud to vyjde, půjde na Google Berlin na další rok, pokud ne, bude zpátky v Berlíně. Má 30%, 30%, 20%, 50%, 50% z grantu, 45% z OTHER7 a 45% z OTHER5. Má 20% z toho, taky.
+  - Disc: Povinnosti jsou víceméně stejné, jako jsou nyní.
+* PERSON8 má jednu publikaci plánovanou na rok. Musí být v Tomsně nebo Skopu. Malý chlapec je TSD a malá dívka je SD nebo TSD-SD.
+* Publikace bude v Dečko nebo Skopi.
+* PERSON8 a PERSON22 stále chybí dva články v časopise.
+  - Fact: Jeden z nich budou překrývat na další článek týkající se diplomu, který tu dělá PERSON22.
+* Měli by mít ještě alespoň jeden článek v PBML.
+* PERSON16 byl pozván, aby poslal PBML rozšířenou verzi článku, který měl na Derimo, který byl na grant. On neví, jestli opravdu hlásí na OTHER6. Byl pozván jako čest, jako nejlepší články na (Derimo) pozval je.
+* PERSON8 chce o něm napsat článek v časopise.
+  -- Disc: PERSON15 ten článek neviděl tak dlouho, že neví, co s ním dělat.
+  - Fact: Zapíše to a zašle to osobě 22.
+* PERSON8 chce studovat vícejazyčné BERT, překlady bez dohledu strojů, mapovat prostory začlenění na sebe a tak s vonem.
+  -- Disc: Chce napsat obecnou tématu o mnohojazyčnosti.
+  - Disc: Nechce, aby se do toho zapletl von.
+* Je to moment poklesu pro lidi, aby začali trénovat jiné vícejazyčné zastoupení než BERT.
+  - Fact: Dnes byl v archivu článek, který bude vycházet na příští iClear.
+  - Disc: Dělali něco podobného tomu, co jsme právě cvičili na některých dvoujazyčných BERT.
+  - Fact: Jedinou společností, která tam byla přidružena, byla společnost OTHER1.
+* PERSON9 si myslí, že vícejazyčný BERT je v úpadku a že jeho výpočetní kapacita klesá. Lidé nacházejí nové způsoby, jak to udělat vícejazyčně a nemají šanci s tím soutěžit. Lidé mohou vždy studovat modely.
+* PERSON8 a PERSON9 očekávají, že příští rok uvidí vícejazyčnou BERT bouři. Příští rok Von bude číst články, přemýšlet o tom, a příští rok může něco udělat.
+  - Fact: Pak ho posílají na stáž někde na Google nebo Facebooku.
+* PERSON16 chce vědět, jak zkoumat zelené výzkumy, aby to nepálilo příliš mnoho energie, takže to jde někam, aby to mohlo být trénováno, abys nepálil jen celou energii na světě jen na přizpůsobení modelu trochu lépe někam.
+* PERSON8 a PERSON16 se smějou, že někteří lidé dostali víc, než si zasloužili za svou diplomu, a někteří dostali méně, než měli.
+  - Fact: PERSON9 s tím počítal pro vícejazyčný článek BERT, protože začal dělat experimenty v ACL.
+* PERSON16 chce mluvit o tom, jak trénovat účinné malé modely.
+  - Disc: PERSON8 to píše tak, jak funguje mnohojazyčné, mnohojazyčné zastoupení jazykových jednotek.
+  - Fact: Není omezený na písmena, slova, (smíchové slova) nebo cokoliv jiného.Neví, jestli je to vůbec aktuální.
+* PERSON9 a PERSON16 hovoří o strojovém překladu. Mluví o pokroku strojového překladu v posledních 5 letech. Mluví o současném stavu techniky v strojovém překladu a o pokroku od předchozí generace k současné generaci.
+* PERSON8 musí pro PROJECT8 napsat tři až čtyři věty dlouhý projekt. Plánuje se soustředit na psaní knihy a čtení článků příští rok. Žádá se o grant od ORGANIZATION9. Pokud dostane grant, poskytne další grant ORGANIZATION9 pro Vona a S. za jejich práci.
+* PERSON16 do března zjistí, zda získal grant od ORGANIZATION9.
+  - Fact: Má 50 procent naplánované a musí přijít na to, jestli dá grant ORGANIZATION9 a bude na grant ORGANIZATION9 do března.
+  - Disc: Opravdu to neví.
+* PERSON9 žádá o místo návštěvního výzkumného pracovníka v Googlu. Píše návrh, co tam chce dělat.
+  - Disc: Nechce dělat mnohojazyčné zastoupení, protože se bojí toho, co si budou myslet recenzenci, když si přečíst jeho návrh.
+* PERSON16 chce s PERSON15 mluvit o tom, jak se hlouběji zadat do směru, ve kterém je PERSON15 zajímavá, prostřednictvím některých z těch divných věcí, které nikdo neví, co jsou. PERSON8 si myslí, že je to špatně oceněné, ale málo lidí to dělá, takže alespoň nikdo nemůže říct, že to dělají všichni.
+* PERSON16 mluvila s PERSON1 ve čtvrtek.
+  - Disc: Vypadá to, že určitě hlásí.
+  - Fact: Bude studovat na univerzitě v LOCATION2. Je odhodlán se zapsat v březnu, takže ho nechají v LOCATION2.
+* Menu v LOCATION2 bylo zrušeno. Menza je v průběhu rekonstrukce dočasně uzavřena. rekonstrukce se provádí nad starým nebo nad novým sídlem v budově.
+  - Disc: Není jasné, kdy to skončí.
+  - Fact: Až to bude hotové, bude menu opět v provozu.
+* Společnost PERSON16 informuje společnost PERSON9, že během prvního čtvrtletí roku 2020 by mělo být maso opětovně zavlažováno.
+  - Disc: Pravděpodobnost je, že voda bude studována v říjnu, takže to bude pravděpodobně provedeno před říjnem. PERSON9 chce vědět, co je nového o LOCATION2.
+* PERSON16 a PERSON8 se chtějí přestěhovat v létě, ale neví, jestli se přestěhují brzy. PERSON9 tam byl párkrát v noci autem a v noci pracoval v tom domě. Stavba byla dokončena už nějakou dobu, ale je tu nějaký rozvod a nejsou tam žádné linky.
+  - Disc: Dům bude hotový v pátek v půlnoci.
+* PERSON16 půjde do LOCATION1 a sejde se s PERSON2 a možná dostane nějaké zprávy o situaci týkající se PERSON11, PERSON12 a PERSON2.
+  - Disc: Neslyšeli od něj nic měsíce.
+* PERSON16 se baví s ostatními lidmi, kteří se tam přestěhují.
+  - Fact: Ani oni nic nevědí.
+  - Disc: Jediný, kdo něco ví, je PERSON2, který to ještě moc nechce říct a záměrně mlčí a říká, že toho moc neví.
+* PERSON8 musí napsat knihu do konce roku. Musí dokončit všechny věci, které musí udělat předtím. Lhůta je do června, do července. Ještě nemá žádné úkoly, které by mohl předat, ale chce na to strávit hodně času.
+* PERSON8, PERSON16 a PERSON9 chtějí napsat knihu.
+* Chtějí rozdělit některé kapitoly a dát do nich všechny související články, které četli.
+  - Disc: PERSON8 chce začít s těmi, kteří jsou mu nejblíž.
+  - Fact: Nainstaloval nástroj pro přenos publikací mezi svým profilem a OTHER6. Někdy dal článek tam někde a to nefungovalo.
+* PERSON8 by se chtěl zbavit morfologie, syntézy a semantického rozdělení, protože je to těžké.
+  - Disc: Raději by ji rozdělil především tím, co tam je, co tam je testováno, a také tím, které části jsou vydestilovány.
+* PERSON16 chce, aby studenti dělali nějaký druh průzkumu stávajících článků ve formě tabulky.
+  - Disc: Téma průzkumu je, zda data z iTracker vám pomůže udělat lepší parser. Student se chystá vyzkoušet některé z itrackings.
+* PERSON8 a PERSON25 ztratili dodávku.
+  - Disc: Komunikace mezi nimi a Vonem byla zpočátku nejasná, ale teď je jasné, že Von s nimi už nechce pracovat. PERSON16 a PERSON8 se to nelíbí.
+* Byla tam e-mailová zpráva, že z organizačních důvodů musí pracovní den začít o čtyři hodiny dříve.
+  - Disc: PERSON15 a PERSON16 tomu vůbec nerozumí, ale je to pravda. Smějou se tomu.
+* PERSON16 vaří chleba a posune postel s PERSON15. Do 4:00 je kontejner, ale do 4:30 je kontejner.
+  - Disc: v kontejneru.
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

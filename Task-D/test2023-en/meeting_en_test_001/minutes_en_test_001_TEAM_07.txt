@@ -1,0 +1,163 @@
+Summary:
+
+* PERSON5's microphone is no longer usable, so he uses a different microphone. The recognition works well, but the microphone for the call itself is not usable. 
+  - Fact: It's possible to hear PERSON5 and PENALTIOUS 13. 
+  - Disc: It works well for the recognition. 
+* PERSON5 is happy that someone from ORGANIZATION1 is joining the team. The goal for today is to get everything (money) on the full workload. 
+  - Disc: PERSON4 will join a little bit later, but he won't have headsets, because he didn't respond to an e-mail. 
+* PERSON5 suggests to go through the topics in the PROJECT2 document and do any (debugging) which is necessary to see what is needed to see in the document. 
+  - Disc: PERSON9 agrees with this idea. PERSON5 and PERSON9. 
+* PERSON5 is arranging the logistics for a full Wednesday for people coming from abroad. 
+  - Fact: They can get to the airport for the whole Wednesday. 
+  - Disc: Tuesday afternoon is also very likely. 
+* Please talk to PERSON1 and let her know when you are here. 
+* PERSON5 hasn't had time to update the fingerprints map and the sketch, so it's not legible. 
+  - Disc: The sheet with the graph is also missing, and so is the grapf, which is unhelpful. 
+  - Fact: The graph is not available either. 
+* PERSON5 wants to see the full workload of imputs and all target languages in the presentation platform today. 
+  - Fact: The presentation platform available is not yet (updated) and a working copy will be deployed next week. 
+  - Disc: The platform supports publishing different languages, but they all (may be) published with using English as the language. 
+* PERSON5 wants to use the setup which he has used in the past for this check. He wants PERSON9 to kill off the unneeded lines and switch between different bridges and different workers to do the switching. 
+  - Disc: The different bridge would be used and the different path selected. 
+* PERSON5 is testing the old option, the bridge workers to select the "unintelligible" option. 
+  - Disc: It's not clear if it works. 
+  - Disc: It's possible that it doesn't, but it's not certain. It doesn't seem to be working. 
+* PERSON5 and PERSON9 are going to meet on Wednesday evening at South Premises, but they don't know if it's Wednesday evening or even earlier as PERSON5 didn't know that Wednesday is also available for the full (guesting) at South premises. 
+* PERSON5, PERSON9, PERSON12 and PERSON19 are going to meet on Tuesday lunchtime. 
+* They need to test the setup and provide the interpreters with feedback on the quality of their subtitles. 
+  - Disc: ORGANIZATION5 will bring enough laptops for four people. 
+* PERSON5 wants to connect more laptops to the Internet, but he doesn't know about the capacity of the switch. The idea is to have notebooks in the interpreters' booths and fake language labels to correspond to the ASR of the individual booths. 
+* PERSON5 is worried that they will need another ASR worker. He wants to discuss how to do it in a different way so that the network load is not duplicated again. 
+  - Disc: If it's too complicated, he will give up on the idea. 
+* PERSON9, PERSON5, PERSON12 and PERSON23 are discussing how to set up a little path out from the main path to the presentation platform. 
+  - Fact: They are going to collect feedback from participants and create a random feedback form to ask questions relevant to the project. 
+* PERSON5 and PERSON9 are going to create a form for the participants regarding the user interface and the presentation of the platform. They will finalise the content of the form on Wednesday and give it to the participants on Thursday so they can give them the form. 
+* PERSON5 wants to record a video from a PhD student of journalism. 
+  - Fact: They are waiting for the confirmation from ORGANIZATION3 if they have no objections to this. 
+  - Disc: They will decide on Monday. The journalist will propose the content of the video and organize it. 
+* PERSON5 and PERSON9 want to record something inside the building. ORGANIZATION3 needs to approve that the person can enter the building and that he can be there with the equipment. 
+  - Fact: The room is not in the street regime. 
+  - Disc: It is a lecture room. It's easier to get there than the presentation or workshop room. 
+* Unintelligible message is not working on Parallel Talk. 
+  - Disc: PERSON5 and PERSON16 are trying to solve the problem. It doesn't seem to be working. 
+  - Disc: It's not clear what's wrong with the message. 
+    -- Disc: It is not clear to them what's not working. 
+* PERSON5 wants to record the setting and what they do there. The biggest thing would be to watch their participants from behind. 
+  - Disc: They will probably meet with the journalists. 
+* They need to have a non-disclosure agreement for them and for the journalists as well. 
+* There are concerns about the participants talking too much and leaking data. 
+* Some of the sessions should be close to the participants so that they are sure they are not going to leak anything, but it's not clear what the setup would be for the sessions. 
+* PERSON5 and PERSON4's microphone has been switched on. They hear someone else's typing, but it's not their voice. 
+  - Disc: They're trying to talk to someone else, but they're not sure who it is. 
+  - Fact: It's not PERSON11. 
+* PERSON5 and PERSON3 are trying to do an experiment. They are having problems with the quality of the input quality of their speech. 
+  - Fact: It's recognising them, but the subtitles don't make any sense. 
+  - Disc: It's possible that the problem is with the microphone. 
+* PERSON5 has the full set of subtitles but only some messy German and broken English. 
+  -- Fact: There are only two English segmenters so they can run at most two languages at once. 
+  - Fact: There is no one from French, Hungarian, Italian, Dutch, Polish, Romanian or Spanish. 
+* PERSON5 suggests to keep connected to the call and to do the (debugging) at various places. 
+  - Disc: If someone is not doing anything at any point, then they will be called. 
+* PERSON5 advises to keep working on whatever you have to do. 
+* PERSON5, PERSON6 and PERSON3 are talking about German being published. 
+* PERSON5 wants to use the translation service of PROJECT2, but it's not using their service. 
+  -- Disc: It's looking for the long files. 
+  - Fact: They have an English to German translator. 
+* PERSON11 and PERSON3 are talking in Romanian. They are trying to talk in English as well, but it doesn't work. 
+* They try one, two, three, four Romanian sentences instead. 
+  - Disc: It doesn't help. It's not working. 
+* PERSON11 notices that the English channel still has some old English subtitles. There are some words about microprhone and recognising and reasonable which were uttered by PERSON5 several minutes ago. 
+* PERSON5 is looking for a way to (flush) the cash within the presentation platform. In the protocol there's a message that performs the flush of the message, but there's still an incremental transcription problem to be solved. 
+  - Fact: The same phrase is proposed several times, with small differences. 
+* PERSON11, PERSON13, PERSON5 and PERSON9 are discussing the same thing. They find it similar to ASR. 
+* They copy the link to the ORGANIZATION4 document to check if the algorithm specified to the paper has been changed. 
+* PERSON5 wants the subtitles at PROJECT2.com to be live, so that the English should be clear between the words of the speaker and what appears in the subtitles. 
+  -- Disc: The subtitles are not live at the moment, so there is a delay between the speaker's and the subtitles' words. 
+* PERSON3 and PERSON5 can't see any output from the Romanian subtitles. They are trying to figure out what's wrong with their speech and why there is nothing in the Romanian. It's not clear where the stuck word is and why it doesn't get through. 
+* PERSON5 and PERSON21 are waiting for the ASR workers to start publishing again. The last published message is three minutes old now, so no one is publishing right now. 
+* PERSON3 wants them to let them know when the publishing will start again and they will retype things. 
+* PERSON5 will do the same thing as PERSON3. 
+  - Fact: The ASR workers are not available for the call, so no-one will be available. 
+  - Disc: for some reason (anyone here won't be) - nobody will be in the call. 
+* PERSON9 wants to know if they invited PERSON22 and PERSON13. 
+  -- Disc: They didn't respond to an email from PERSON5 yesterday and they haven't responded to another one from PERSON3 five minutes ago, so he thinks it's important that they participate in the call. 
+* The ASR is not working at the moment. 
+  - Fact: Two ASR workers from English are available, but they don't produce anything. People can't hear each other because of the problem. 
+  - Disc: The problem is caused by a bug in the ASR software. 
+  - Fact: People talk to each other instead of talking. 
+* There are two ASR workers registered as available, but one of them is not working. 
+  - Disc: One of them didn't connect with the other one, so PERSON5 is trying to reach out to them via Skype. If they are available, they will talk to him. 
+* PERSON5 needs to stop sharing on PERSON3's screen, because it's not working properly. 
+  - Disc: He will do that. 
+  - Fact: PERSON3 asks him to do that, and he agrees. 
+  - Disc: He does not want to share at all on PERSON5's screen. 
+* PERSON3 and PERSON9 used the same EB-client to send the audio in the March fair, but they don't know if it was the same one or a different one. 
+  - Disc: It's not clear which one they used, but it's not the correct one. 
+* PERSON3 and PERSON5 have two ASR wors- workers, but they run out of segmenters. There is only one English segmenter and it's not available, but there are two German segmenters, so they switch for German input only. PERSON9 is trying to call the office, but nobody answers. 
+* PERSON5 and PERSON3 can't pass the translation system from German to English and from English to other languages, because it's unable to do it. The translation system is from ORGANIZATION1. 
+  - Disc: It's not possible to translate from German into English. 
+* PERSON3 is trying to launch CSEU, but it's not working. 
+  - Fact: It's one segmenter down, so they try another one. 
+  - Disc: It doesn't work either. 
+    -- Fact: They launch it again and it works this time. 
+  - Disc: It is working now. 
+* PERSON3 didn't start the publisher. 
+  - Disc: The publisher is going to run the workers right now. The subtitles are not right. The producer is called PERSON22 and he's going to take care of the workers now. 
+* PERSON3, PERSON5 and PERSON3 are going to watch the Polish subtitles. Jeden, jeden and jeden are the Polish words for "Jeden" and "jeden" in English. " 
+  - Disc: Jeden" means "jeans". 
+* PERSON5 is looking for other recordings from the desktop. 
+  -- Fact: PERSON21 can send them to him, but PERSON7 can't do it as he's not here today for medical reasons. 
+  - Disc: PERSON4, PERSON9 and PERSON10 are also looking for it. 
+* PERSON5 wants to know what happened to PERSON7. He didn't know about the private call and the Regularer. It's the regular thing that every week they planned it for every Friday. 
+  - Fact: It was in the document. Yesterday PERSON10 didn't receive it. 
+* PERSON19 sends a transcript of ORGANIZATION3 to PERSON5. 
+  - Disc: PERSON19 is not satisfied with the information and wants to talk to someone else about it. PERSON5 is not willing to talk about it at the moment. 
+* PERSON5 is joining the other call. 
+  - Disc: He will try to mute himself to keep hearing himself when he's talking to the other one, but it doesn't seem to work very well so he'll try to change the channel again. 
+* PERSON5 informs PERSON11 that the agenda is (metaphorum) and the most likely project is PROJECT2. The organizer's name is a question mark and the project is ORGANIZATION1. PERSON5 and Parallel Talk agree that it's okay. 
+* PERSON5 is on the call. 
+  - Fact: PERSON11 is the LG-code from ORGANIZATION1. 
+  - Disc: He will ask him to take care of the conversation later. He is probably going to metaphorum too. 
+  - Fact: He can ask him about it later. 
+* PERSON9, PERSON11 and PERSON3 are going to test. 
+* They should probably drop off soon. 
+  - Disc: On-PERSON5 is doing the testing. 
+    -- Fact: PERSON11 can hear some traffic hitting a translation servers. 
+  - Disc: PENALTIKE is trying to talk to them. 
+* PERSON2 wants HTTPS to be mandatory on the presentation interface for the event. 
+* It's not mandatory at the moment, but the HTTPS should work. 
+  - Disc: There are no requirements for user authentication for this event, but they're willing to use it in the next versions. 
+* PERSON20 and PERSON3 are having problems with connecting to the Internet. There is a problem with managing user's data for the GDPR. 
+  - Fact: There are no usernames or passwords needed, just a password to prevent anyone from listening in. 
+  - Fact: The presentation platform didn't store any data. 
+* PERSON2 can't see French subtitles from English source from one recording from last year's workshop. 
+  - Disc: There may be an error in the segmenter. 
+    -- Disc: It turns out that the error is caused by super general authentication on the platform. 
+  - Disc: It's available for the developer. 
+* PERSON2 launched two instances of ebclient. The first one doesn't output anything and the second one can't connect at all. The second one is connected and it's outputting the same text, but sometimes it doesn't do anything. 
+  - Disc: It's not avaiable. 
+* PERSON19 has ten instances of this running all (off) (putting) hard files. It's not producing output. 
+  - Disc: It might be because the audio is not being sent correctly. 
+  - Disc: PERSON11 is off the line for an hour or two. 
+    -- Fact: He will try to talk to someone on Slack. 
+* PERSON19 and PERSON3 will probably not meet in the previous afternoon, because it's not possible for them to be there in the pre-voice at the time they agreed to meet in Parallel_talk, which is not a good idea for them. 
+* PERSON19 will arrive on Wednesday in the evening and will meet with PERSON9 on Wednesday evening. 
+  - Disc: They will talk about the meeting later. in the person's presence. 
+* PERSON2 is going to upload his microtest script with a test case and upload it to the (crise) control (repo) and will inform the rest of the team that they are still testing something. He will inform them when they are done. 
+* PERSON9 wants to talk to PERSON2 about the (bridge) and the fingerprints. They will exchange some emails on parallel_talk. PERSON4 and PERSON9 want to talk about the fingerprints, and they want to exchange emails about it. 
+* PERSON9 and PERSON2 need to change the publish- publishing workers on the client side. 
+  - Disc: They will do it in the afternoon. 
+* They need to provide the correct language in the presentation platform. They also need to restart the clients and change the fingerprints. 
+  - Disc: PERSON9 will finish the script. 
+* PERSON9 and PERSON2 will come back in the afternoon to continue the call. 
+  - Disc: They will write on Parallel Talk or Unintelligible instead of participating in the call, as they don't need to be involved in it now. 
+* PERSON2 will write a script to test the ebayclient to send audio to ASR(+) segmenter. 
+  -- Fact: He's compiling the client now and will test it himself. 
+  - Fact: He will meet with PERSON3 in 10 minutes or so to do it. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

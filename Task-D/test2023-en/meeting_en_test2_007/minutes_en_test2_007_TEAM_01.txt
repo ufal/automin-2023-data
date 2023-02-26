@@ -1,0 +1,35 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON16, PERSON15, PERSON13, PERSON6, PERSON3, PERSON8, PERSON2, PERSON7
+
+
+SUMMARY-
+ -PERSON16 has problems with the recognition quality.
+  He needs to log into one of the machines.
+  The files are too big to be uploaded to PROJECT3.
+ -PERSON14 has set up a project called PROJECT4, but he doesn't have direct access to the data.
+ -PERSON13 and PERSON16 explain to him the difference between the PROJECT13 Archive, which are the interviews with the survivors of World War II of the Holocaust and the PERSON6 has to go to the dentist in one hour.
+  He will explain to PERSON13 and PERSON15 what is going to happen in the PROJECT7 and PROJECT12 demo papers.
+ -PERSON13 will send a link to the reviews of the PROJECT12 multilingual life subtitling.
+  The quality of PROJECT14 is bad for remotely handled sessions and especially if people are wearing face masks.
+ -PERSON16 will work on the evaluations first and then on the experiments.
+ -PERSON15 is continuing with data preparation of ORGANIZATION5 corpus.
+ -PERSON7 is writing a tool that will allow an operator to define the, the part of the pipeline and how it is connected.
+ -PERSON8 is going to process all the files Next Friday there is going to be a conference about PROJECT13 and they are going to provide life subtitles and transcription for non native English speakers.
+  The conference is on the twenty fifth on January.
+ -PERSON13, PERSON7, PERSON15 and PERSON18 should prepare simple instructions that the participants PERSON13 asks Vicky and PERSON16 to make a new evaluation campaign, in the PROJECT12 test set evaluations and put the multiple PROJECT1 systems in the public part of the set.
+ -PERSON8 is working on the chopped, training data for the PROJECT12 test set evaluations, campaign.
+ -PERSON13 wants to be paid from the PROJECT5 tool.
+  He needs to find out how the training pipeline on, that, private data stood loader within the PRO PROJECT9 framework works.
+  He also needs to talk to PERSON19, who is giving a talk this afternoon.
+  He According to PROJECT2, when translating from English into German, the alignment information between set and "gezacht" would bring the early time stamp of the "said" to the late part.
+  According to PRO PROJECT11, it would be okay, because the proportional position of "ge PERSON13 and PERSON6 are discussing how to improve the speed of the text to speech.
+ -PERSON13, Abraham, and PERSON6 have a problem with the segmentation strategies.
+ -PERSON13 is not sure if she actually wrote the questions down.
+  It should be based on only C.
+ -PERSON13 will keep the paper as it is and not add any further things.
+ -PERSON6 and PERSON13 are working on a project.
+  They are going to finish it today and send an e-mail to PERSON2.
+ -PERSON13 wants PERSON6 to get in touch with PERSON16 and PERSON7 and try to get the profanity filtering set up for himself and PERSON6.
+
+
+Minuted by: Team ABC

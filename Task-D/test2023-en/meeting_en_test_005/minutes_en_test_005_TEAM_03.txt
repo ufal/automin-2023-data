@@ -1,0 +1,48 @@
+Attendees: [PERSON9], [PERSON11], [PERSON4], [PERSON7], [PERSON8], [PERSON3], [PERSON6], [PERSON12]
+
+Summary:
+[PERSON12] asked  , can X hear [PERSON12] , is it doing anything ? have not heard from [PERSON3] this morning , and what we do not have is the presentation platform . This is what [PERSON7] should be seeing now , it is [PERSON11]'s screen that runs the client for connecting together , one ASR worker and then the translation into Czech . 
+
+[PERSON12] will try to get the batteries , and [PERSON7] are right the good thing about German ASR is that we do not rely on the German , on the English segmentation workerthat that could run as well . 
+
+[PERSON7] should see blinking here , [PERSON12] . One , two , three , four,One , two , three , four , this is what [PERSON12] is saying directly to the head set microphone . any observation [PERSON7] make , , add it there . PERSON11] will connect with one more laptop . 
+
+[PERSON12] will start sharing [PERSON12]'s  screen . 
+
+[PERSON3] know [PERSON11] extended the client . And wierd ASR behavior , [PERSON12] agree . 
+
+[PERSON12] think it is what we want , because it is very same string then the empty worker should not have been called . the workers are not running , and [PERSON11] cannot get audio into [PERSON11]'s  laptop right now . 
+
+[PERSON3] run a test with the English ASR , maybe it was [PERSON3] . 
+
+[PERSON3] finished , it is all available now . 
+
+[PERSON3] can surely and going to write it in the Google doc . 
+
+[PERSON3] cannot share these right now , because it is up and running . But maybe it is better if [PERSON3] share [PERSON3]'s  screen with [PERSON12] . 
+
+[PERSON3] do not have this button unfortunately . 
+
+[PERSON12] shall stop presenting for now . what we would like to have is [PERSON11] notebook initiating the session . 
+
+[PERSON12] should be able to see in subtitles what [PERSON12] is saying . 
+
+[PERSON3] think it is a matter of web browser [PERSON3] is using . But , [PERSON3] have something , this is good . during the day [PERSON12] is available from eleven to three . 
+
+[PERSON12] think that the [ORGANIZATION4] people can leave now , thank [PERSON7] very much for [PERSON7]'s  time today and thanks [PERSON4] especially for putting this worker together . 
+
+[PERSON12] would like to avoid the time scale , . of course [PERSON3] have to be registered , let us say to the system as administrator . In this case [PERSON12] see the main page , possible by each one has the browser . The configuration page where [PERSON12] are able to set the and the stream provided for each language . 
+
+[PERSON12] think we should we should try to wrap up , [PERSON12] would like to ask everybody who is still on the call , to go through the current state of the Google document , and add whatever we have not recorded in . PERSON3] [PERSON3] mentioned three issues with this with the presentation platform . and [PERSON3] replied  But [PERSON3] is managing it is in the integration worker , which is the one who has the minus pub fingerprint . 
+
+[PERSON12] asked  what is this available language sources ? [PERSON9] do not know what is going on . 
+
+[PERSON12]'s  question , [PERSON12]'s  original question was when changing here in , [PERSON12] is still sharing the screen . 
+
+[PERSON12] is making these up , [PERSON12] is not sure If . the only way [PERSON12] can do is use the same . 
+
+[PERSON12] shall stop sharing [PERSON12]'s  screen , how do [PERSON12] , stop that . 
+
+[PERSON12] shall try actually [PROJECT1]dot [ORGANIZATION6] dot com . it is Firefox , but [PERSON12] shall try to rotating it . 
+
+[PERSON12] think it would be ok already now . , [PERSON3] think probably at the moment the CSS is operate the same we have to . If [PERSON12] like to have a bigger video screen text , [PERSON3] can note and [PERSON3] will ask them . extracting this worker logic from [PERSON3]'s  worker of the presentation platform would be very useful for us . that the same worker would offer two output , one would bethat [PERSON3] can connect it and it does not change the stream and the other one would be the one that we could then directly use as the console client .

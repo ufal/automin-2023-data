@@ -1,0 +1,94 @@
+i'm a little worried about the multi source status for the deliverable.
+i'm waiting for the input from unintelligible> from [ORGANIZATION1].
+he promised it by thursday.
+(PERSON15) ehm.
+(PERSON12) then, then i only need to finish the executive summary.
+(PERSON24) ehm.
+(PERSON3) ehm.
+(PERSON18) ehm.
+(PERSON18) ehm.
+(PERSON1).
+ah, the all the corpora that we are collecting are document level.
+if we can have them like that and they are as multilingual as they are, still it would be useful to replicate.
+some experiments with text multi-source in [ORGANIZATION6] should be done immediately after this baseline..
+cnn's jarrett bellini talks with cnn's mike downey.
+he says we need to have a separate call with [PERSON24] and [PERSON12].
+downey: [PERSON10] is leaving, and he'll finish language model checking of asr outputs..
+profanity filtering is not yet integrated.
+people should be able to test it themselves.
+if someone disappears from the call, they should be able to integrate..
+i think it's better if [PERSON6] explains how to do this so that [PERSON6] runs it for himself.
+i think it's important to first debug it using the lock files, and then it's important to debug it in the pipeline.
+i think we unintelligible> get on to bad he can simply download the files on the oval machines..
+i think we need to fold proprietors spasm removal, because if we remove the one from the asr itself, we can create its own spasm for good asr.
+i haven't planned the call with [PERSON10] but i have a call with [PERSON6].
+i haven't planned the call with [PERSON10] but i have a call with [PERSON6]..
+ah, on monday we will hear the italian english and yesterday, ah, we had a chance to hear the japanese english.
+the asr system has to see the largest possible set of sentences.
+the current idea that that better is working on is that he will create new sentences by concatenating words that were spoken in other sentences..
+ah, we are going to create new sentences by from text only language model.
+we are going to add the sound part to that so that that's, ah, the language model will be better.
+for the asr and the robustness to different speakers would be also better..
+i was having a call with a man who got rolled in the pipe and he was able to understand.
+i was spending him through the pipelines that escaped.
+i was surprised that like the pipeline was the same pipeline that the pipeline..
+the fingerprints were still the same, but when the workers started running, it didn't work.
+if we want to implement [PERSON5]'s worker, we need to have a separate descript.
+ah, it's a pity he he is not here at the moment.
+and, ah, discuss this with him very carefully.
+next week, i would like to hear from you three how far you got in the in the specifications of the requirements..
+i think it's better to run the multi lingual moral with fewer languages enabled.
+overall, it was blows.
+course was better for fulfills were okay.
+i don't think it is any saving..
+i think we could have multiple, multiple replicas of your same workers.
+each emitting, a different subset of languages.
+i don't see that because it should be paralyzing when your -.
+(PERSON16) there are maybe like forty languages, so so there are forty.
+i suggest that we do not use [PERSON16] tensor to tensor worker at all for the live sessions..
+i'm using the newest version of [PROJECT3] to train the shortening models.
+i have version one point nine comparates as well.
+i'm not sure if i am.
+i don't think i am either..
+uedin rainbow audience asks uedin rainbow to send him a quick report.
+he says he's running out of storage quota, so he's just asking for more.
+he says he's also running into the same issues with PROJECT3 in the summer.
+uedin rainbow audience: i'm just asking [PERSON15] dash [ORGANIZATION5] for help..
+the only way to avoid an exponential growth is to make the growth modest and moderated.
+(PERSON15) that's too little.
+obviously you can, you can ask for much more.
+(PERSON12) you can use command df and it will tell you the the space on all the disk..
+i'm for tommorow at two i'm trying to send a [ORGANIZATION2] invite.
+i've already reminded everybody to record what you what you saw and also read what other has other have experience..
+ah, ah, ah, in the test set, we absolutely need the evaluation of all systems, all files, ah.
+the last week i couldn't work because of the covid.
+look at me and i wouldn't do anything like i told them.
+this is my local bactery.
+pretty unintelligible> strange but having made.
+then unintelligible> let me go home..
+cnn's john sutter talks with cnn's mike downey on his "unintelligible" project.
+sutter: "we really need to make sure that we have the important people around the globe" sutter: "we need to know which components we are using and who are the people behind these components".
+the monday test document is highlighted in four times highlighted.
+it's called gazette years.
+so when some session is happening, we need the names, ah, and terminology for that session.
+and we need someone to be responsible for that.
+if you find anyone else who would be ready to help with the immediate domain adaptation the data crunching please, ah, say so..
+domain adaptation is for the [PERSON17] toolkit, right? we don't have that pipeline for [PROJECT2] yet.
+can you confirm that the dictionary is well included?.
+people don't have the human capacity to do that yet.
+if we could steal the data, we could make training tests out of it.
+if we could do that, we would be able to do a lot more..
+ah, our profanity filtering should really be aggressive about about any slightly negative words.
+i'm afraid that we cannot just aggressively remove these words, because there are many words that actually might harm someone.
+but maybe we could employ some sentiment analysis to to remove some agressive sentiment..
+people have to make models to detect hateful tweets.
+if you download some models from a cable competition, you will have a question fire that can classify basically this sentence is like hateful or fake news.
+the difference is that we do not expect the speakers to use this abusive language.
+the bad words arise only as errors of asr and errors of translation..
+cnn's john sutter is a professor at fit university.
+he says asr should make a different hypothesis about hateful comments.
+sutter says it's a great idea to supervise a student..
+the last item that i had on my list was shortening mt.
+i'll i'll think about that, working on that.
+i'm happy to see that actually we have covered by someone, to some extent.
+but there's probably more and, ah, yeah, we just need more people to do that..

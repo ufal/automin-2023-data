@@ -1,0 +1,79 @@
+(PERSON6) So I just realized that the, the, the speakers are -
+
+The left speaker is to the right. <laugh>
+
+(PERSON11) Iím not sure it can be fixed maybe -
+
+(PERSON3) So change it. (PERSON11) I donít know, but -
+
+But on Thursday and Friday I officially have a vacation. Um, then, um, I plan to write like official email to [PERSON5] that we want to, that we want to have a book, publish a book and, um -
+
+In the instructions on the web is that we should, we should send him a table of content at least. But I think it is, this is ready for [PERSON5] so that he can, he can start searching for reviewers or -
+
+(PERSON7) Hm. I will see but I, I would like to at least send him this, this version. (PERSON9) We can -
+
+I think we can send him the whole thing and just tell him how it's <unintelligible>. I, I can write it but it, the, the book is really not finished yet. <laugh>
+
+(PERSON6) So, yeah, we still donít know whether to restructure it somewhere to have only one chapter -
+
+(PERSON9) Hm. I donít know whether we -
+
+I would like to had the book more or less written on, at the end of June. But the, the results of that paper are not very, not very on much, not very good. On sixteenth I should be - go away and be away for the rest of the week. (PERSON11) So, so, actually, weíll only be here on the thirteenth. I plan to be here in July -
+
+(PERSON6) So -
+
+(PERSON11) And probably like half of August. And Iím taking vacation this week from Thursday to Friday and next week on Wednesday. You can wri-
+
+Yeah, because we donít have a calen-, set calendar yet, so -
+
+(PERSON9) Hm. Then we could have a meeting on, um -
+
+Iíll be here the, like, the um, one to - the first, to fifth, um, no. (What about) the next, next Tuesday and, and Tuesday after it? (PERSON6) Because -
+
+(PERSON9) So thirtieth we do have a meeting. (PERSON9) So there is (calling) deadline but nobody submits anything. (PERSON7) Well, it, it, it doesnít, does not depend entirely on me but I think the results is that, that we have now wonít lead into something publishable in two weeks. But, um, anyway, um, I would like to submit it like officially the end of July. But I donít know how to -
+
+I will ask [PERSON10], he -
+
+(PERSON9) Hm. (PERSON11) Yeah, but if we ask for the Covid nineteen postpone then we could use the money. (PERSON6) Yeah, but anyway I think we will -
+
+If we can, if we will spend somehow mon-, the money this, um, this year. This is the lady that, that, that sits it, it [PERSON12]'s room and nobody know who she, who, who she is? Um, what we have promised, all that papers there's promised we will, we should have at the end of the, the end of this, this year. (PERSON6) So I, I, um, I donít know whether to, um, how to, how to write about it in a, in the text because I know that they are, um, very different. We tested this thing of, um, neural machine translation and we tested bad and (beside the, beside) the outcomes or <unintelligible> try more param-, changing the parameters and see different heat maps and ñ 
+
+Um, but it will be much more and more complicated how to, how to say something about that so. Only and -
+
+Yeah, I would like to, um, so I, maybe I will, I will go through my chapter and go, um, say what is needed to be, to be -
+
+What are the new content this, that are needed to be, um, added. So, the first part of, um, section, um, of chapter five must be reviewed. Then I have, um, the section about self-attentions and -
+
+So, this is the categorization, it is almost done. (PERSON6) Um, then I have a section about highly, um, about the written that attention heads that mainly the paper from, of [PERSON14] et al. Um, then there will be, um, syntactic specific functions in attention heads. This will be written mainly by [PERSON3] and he already -
+
+(PERSON3) Hm. So, this is also unusable, but you can comment on it and we'll see you where that leads. Anyway during working on this I, I came to the conclusion that this chapter really, the, the old idea of having a story is not really doable for me because I donít know that much of the history and I would have to spend another half a year reading things. And I havenít seen any papers concerned with embeddings in these models because itís more interesting to look into the attention heads and things like that. But I think Iíll just mention them and, and wonít really go into it. So thatís, Iím the - the, the, the, the -
+
+Thatís the overview of where my chapter is going, and I have a few questions about data, but I think it will be easier to ñ 
+
+If I just write them on Slack and we will discuss it there because I have to run anyway. Four point three, one and four point three, two still need some work. Then I want to write something on debiasing and the summary and thatís it. If you donít put section, you just put subsection then itís in the zero section. <laugh>
+
+(PERSON11) And then you can always you know, itís just Tex. (PERSON9) Yeah, so I can, I can share my screen so that -
+
+(PERSON6) Yeah, it will be better. We have these hidden states and these contextual embeddings and theyíre kind of the same thing. So, I should probably begin with morphology and right now there are some parts moved from other parts of the text so itís not very coherent, um -
+
+<laugh>
+
+But in general, this is what should be there and, um, there are some more works that are not there yet which I plan to add. But itís basically just reorganizing the information thatís already there. Um, so, um, yeah, itís a same thing so itís, itís, um, things from different parts of the chapter now moved together to one syntax section and -
+
+Yeah, I think I'm missing still some of the key, um, papers that find syntax in there. Um, so I have some things there which I found, which I believe are semantics, but I would be happy to take some suggestions, like. Something is there, maybe there is something missing as well. Winogradís schemas are probably pragmatics or maybe event what linguists call discourse. Yeah, well the, the point was that to result the coreference in the Winograd test you really need and actually to understand the meaning of the words kind of -
+
+(PERSON7) Yeah. (PERSON6) I, I have a discussion with [PERSON3] whether part of speech (tags) are syntax or morphology. So, so the same could be done for syntax but Iím just saying syntax but there is constituents in syntax, the, the labels, the structure. Again dependencies whether it's the structure or the labels or just distances in the trees so I could split it into multiple smaller sections. More or less this, this is what I think will be there and, um, then there a few more. Morphology is usually the first layers and then syntax is the deep layer, deeper layers or and so on. Um, then there is another thing, um, where they look at, um, to a which, um, the, the context section. So, I found it interesting, so I think we should have a section on that. Yeah, then the last thing I really have is the effect of pre-training task. So um, yeah, so I think whenever you have something that fits into something here, feel free to put it there -
+
+(PERSON3) Hm. (PERSON9) Cause itís a mess anyway, so -
+
+<laugh>
+
+(PERSON3) Yeah. (PERSON6) Um, add these to table of contents -
+
+(PERSON9) Hm. So, um, Iím writing now survey mostly about, um, syntax in, um, neural networks. Um, so yeah, so, so itís mostly a thing what also [PERSON9] was talking about. (PERSON3) I, I also plan now to do some visualisation about transformers. We should also make sure that all the visualisations look at least similar. Yeah, so that is, theyíre for, for, yeah, my attention <unintelligible> is that they are really different. (PERSON6) And...
+
+(PERSON7) If you, um, if you're spending time with that I would, I would suggest, um, generating them as in, in, as PGF so itís, itís basically in, in, Tix and -
+
+(PERSON6) PFG? (PERSON7) Yeah, but I meant the, the, the Python script that -
+
+(PERSON9) Hm.

@@ -1,0 +1,85 @@
+Summary:
+
+* PERSON16 nebude zkoumat, co bylo až do 30, protože text se vůbec nezměnil, takže už to nechce riskovat.
+  - Disc: Zkontroluje, jestli ho někdo má, ale jestli ne, požádá někoho jiného.
+* PERSON4 a PERSON16 mají problémy s komunikací s ORGANIZATION2.
+* Potřebují pomoc. Doporučeným postupem je použít zpětný překlad z zdroje angličtiny na zpětný překlad angličtiny a pak zdokonalit to na originál a originál.
+  - Fact: Postup pro PROJECT1 je trénovaný PROJECT1's PROJECT1.
+* PERSON16 a PERSON4 provádějí experimenty na WMT.
+  - Disc: Tento víkend provedli nějaké experimenty, ale nechtějí se o tom příliš podrobně zabývat.
+  - Fact: Smějou se, že si na WMT užívali a provedli další experimenty.
+* PERSON16 a PERSON4 se o pokusce bojují.
+  - Fact: Provádí své experimenty asi tři dny a má dost materiálů, aby někoho dneska zabil.
+* PERSON16 navrhuje, že více zdrojových překladů jsou lepší než jedno zdrojových překladů. základna je vycvičena z téhož zpětného překladu a z autentického česky.
+  - Fact: Překlad je parafrazován a originál je použit k výcviku překladu.
+* PERSON4 a PERSON16 se snaží vypracovat strategii pro projekt. Mají problém s provedením strategie. O problému se budou konzultovat s lékařem. Strategie je založena na dvou programovatelných kódovačech.
+* PERSON4 chce vyjádřit, že mají nějaký jazyk s nízkými zdroji. Učitel na pěti milionech dat se pokusil trénovat v PROJECT1. Nyní ho někdo jiný trénoval v PROJECT2.
+  - Disc: Jazyk je upravený před-před, takže není tak dobrý, jako kdysi.
+* PERSON16 dostal útok na jednu GPU.
+  - Fact: Teď ho trénuje. GPU je ve stejných pěti miliónech let a bojuje už pět miliónů let.
+* PERSON16 a PERSON11 budou sledovat učitele a trénovat ho. PERSON4 bude trénovat dalšího studenta na stejném překladu před tím studentem. Učitel bude muset dodržovat doporučené postupy, veřejnost, pokud je sleduje.
+  - Disc: Element není nezbytný.
+* PERSON16 chce porovnat skóre obou verzí, s Elementem nebo bez něj.
+  -- Disc: Zpoždění v porozumění předchozí dohodě je tak, že jsou oddrženy, protože výpočetní kapacita je omezená, a proto musí porovnat skóre mezi verzemi.
+  - Disc: Výsledek není jednoznačný.
+* PERSON11 a PERSON4 se budou muset zabývat ziskem z Medjugorje, pokud jim učitel napíše. Pokud je to veřejné, budou muset nasadit estonské modely.
+  - Fact: To je již v PROJECT1, že je jim dáno z modelu.
+* PERSON16, PERSON11 a PERSON4 souhlasí s tím, že projekt v PROJECT1 by to měl být schopen udělat.
+  - Disc: Bylo by to trochu v tom projektu.
+* Mělo by to být v projektu PROJECT13.
+  -- Fact: Je to v projektu PROJECT2, PROJECT1.
+* PERSON16, PERSON4 a PERSON7 se budou zabývat embeslisem a možná I-PERSON7.
+* Poslední věc, se kterou by měli zabývat, je OTHER1.
+  - Fact: On oficiálně vyřešil DPA a poslal mu na poštu pozvánku.
+* PERSON16 a PERSON4 ho zavolají příští týden, až budou hlavní problémy vyřešeny a jen dva z nich s ním budou moci mluvit. PERSON16 mu to pravděpodobně zapíše dnes a pravděpodobně ho zavolá dnes po vyřešení problémů.
+* PERSON16 a PERSON4 se ho budou ptát, jestli něco vynalezl příští týden.
+* Chtějí, aby se přidal na seznam.
+  - Disc: Jestli ano, chtějí znehodnotit některé hry s týmem a dát ho na distribuční seznam projektu.
+* PERSON16, Aspon a PERSON4 budou duplikovat tvrzení a nechat snímajícího psa snímat tašky. Pokud se ukázalo, že je to špatné, budou muset být tam, aby ověřili, zda je to pravda nebo ne.
+  - Disc: Veřejnost se trochu dozví, jestli si hrají s látkou.
+* PERSON16 a PERSON4 plánují trénovat více GPU na všech GPU pro PROJECT1. Dá to Somovi po termínu WMT a on si vezme cluster.
+  - Disc: Nechtějí, aby to udělal ve velkém měřítku.
+* PERSON16 chce použít parafrazu věty a zdůraznit některé slova, které nemusí být v originálu.
+  -- Fact: Ukáže vám parafrazy pro PERSON11 a PERSON4.
+  - Disc: O tom budou diskutovat za dva dny.
+* PERSON11 je schopen upravit TNT pro práci s Multi-Source a Multi-Target.
+  - Disc: Hlavní myšlenka je mít nějaký druh omezení, jako je dekódování, aby to bylo pro někoho snadnější mluvit o tom.
+    -- Disc: Je to hlavní myšlenka rozhovoru.
+* PERSON4 chce spojit omezení v PROJECT1 s programem v PROJECT5.
+  -- Disc: Je to bolest, když je možné na to později zapomenout.
+  - Disc: Tato myšlenka je proti myšlence, že PROJECT1 a PROJECT5 budou mít konvergenci.
+* PERSON4 chce spojit PROJECT1 s PROJECT7 a spojit více zdrojů s týmem tak, aby bolest byla omezující, což vám dá nějaké výsledky kt, a současně jej spojit s jiným zdrojem.
+* PERSON16, PERSON11 a PERSON4 diskutují o návrhu Frontendu.
+* Chtějí být schopni kliknout na slova a blokovat slova v generovaném cíli, ale není to právě teď, že klepají na slova.
+* PERSON11, PERSON4 a PERSON16 budou zkoumat, zda překladový systém funguje pro uživatele. Snaží se přijít s rozumnou hypotézou a jak ji zkoušet. Mají zkušenosti s testováním výsledků takového systému.
+* PERSON16 chce vytvářet parafrazy pro navigační úlohu, ale nechce použít slovo "synonym", protože chce přinutit systém používat synonym nebo tak něco.
+  - Disc: PERSON11, PERSON4 a PERSON16 diskutují o úkolu.
+* PERSON11 a PERSON16 budou experimentovat s dekódováním omezení.
+* Musí se soustředit na to, jak by to uživatel měl chtít, a pak se zabývat technickými detaily.
+  - Disc: Pokud se najdou v relevantní literatuře o tomto tématu, pokusí se jej spojit s dokumentem.
+* PERSON16 si myslí, že uživatelské zkušenosti, jako navrhnout, aby jej uživatel použil, a oddělené pokusy, které nejsou v konečném výrobku bude o předmětu, stejně jako design produktu sám. Také si myslí, že by mohly existovat oddělené pokusy o různých předmětech.
+* PERSON16 a PERSON11 diskutují o tom, co je dostačovatelné z jejich výzkumu o omezování. Souhlasí, že je to lepší než použít standardní bez omezování systému, ale nechtějí ho přímo testovat s uživateli, protože pracují na primární výzkum.
+* PERSON16 a PERSON11 chtějí spolupracovat na projektu, který zahrnuje parafrazování a dekódování.
+  - Disc: Projekt by tvořil někdo z OTHER1 a pru-, druhý tým znovu, a já bych byla funkčnost, kdybych ji neměla.
+* PERSON16, PERSON11 a PERSON4 chtějí, aby Som zkusil nějaké nízkovětší ovoce. Je to jako držet se něčeho, jak říká PERSON16. Som se pokusí to udělat.
+* PERSON16 a tým pracují na pokusech od prosince. Dnes budou dělat druhý soubor pokusů.
+  - Disc: Pokud budou úspěšní, budou schopni zlepšit konečný produkt. Pokud ne, budou problémy s organizací týmu.
+* PERSON4 a PERSON16 pracují na projektu. Tým by mohl pracovat paralelně jako oni, takže nemohli dělat nic. Čekali na toho, s kým začali pracovat, a znovu, jsou, pokud pot. Bylo mnoho věcí, které možná nepočítá.
+* PERSON16, PERSON11 a PERSON4 budou spuštěny příští týden.
+  - Disc: V OTHER1 bude změna, aby to mohli udělat s ostatními.
+* PERSON16 chce napsat ORGANIZATION4, aby se jich zeptala, jak je připraví na zahájení.
+* Systém trénuje PERSON4.
+  -- Fact: Chystá si toho druhého studenta, toho silného, a napíše mu to.
+  - Fact: Jestli to dokáže napsat, nechá ji to připravit na konferenci.
+  - Disc: PERSON11 a PERSON16 souhlasí.
+* PERSON16 to napíše do <neznatelného> a připraví to na příští pondělí.
+  - Disc: Bude to zpráva odesílateli.
+    -- Fact: Je to zpráva od osoby 1 k osobě 7 a osobě 13.
+  - Disc: Není jasné, co to znamená.
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

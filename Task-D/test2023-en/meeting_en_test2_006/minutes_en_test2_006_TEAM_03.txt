@@ -1,0 +1,32 @@
+Attendees: [PERSON2], [PERSON7], [PERSON3], [PERSON11], [PERSON14], [PERSON8], [PERSON15], [PERSON4], [PERSON10]
+
+Summary:
+[PERSON3] had a [ORGANIZATION12] call this morning with this cell phone , and it worked . 
+
+[PERSON3] is [PERSON3] is [PERSON3] is back . , [PERSON3] can not share the the [ORGANIZATION2] doc . And , there will be a lot of connection with , lot of connections with everything what he do . Can [PERSON7] hear [PERSON11] , see [PERSON11] ? , and then since then [PERSON11] have not actually been working onmuch . But there have been some things since [PERSON11] did not have really many instructions . one thing that , [PERSON11] have been working on is actually trying to collect the data that we can use . , at first , [PERSON11] tried , actually filtering , some other data sets that already exists . But still , it is something and and otherwise [PERSON11] did not find out any . 
+
+[PERSON3] asked  are [PERSON11] in touch with [PERSON13] ? But [PERSON11] had a lot of to do to do in the past week . 
+
+[PERSON11] will write to him as soon as possible . 
+
+[PERSON11] have been looking at this , and they have also released . and also they are very tricky to run , because [PERSON3] need for GPUs with sixteen gigabytes of RAM at least . 
+
+[PERSON3] would like to highlight the high level thing , . 
+
+[PERSON13] last year already , and we never got to finish that . with the evaluation [PERSON3] would like [PERSON11] to , test the evaluation , using [PROJECT5] test set and [PROJECT3] and in on the call [PERSON3] saw . And then it is ready and we can [PERSON11] know publish it . And [PERSON3] is happy also to see [PERSON14] here on the on the call . , find a way in which this tool will work for all of [PERSON8] . In any case this is a big request from [PERSON3] . 
+
+[PERSON3] said when [PERSON3] were talking [PERSON3] said: It works independently , without any . , [PERSON3] think it should be the same tool , and it should try to connect to the [ORGANIZATION5]and download it . 
+
+[PERSON14] have been looking here and there . and this is what [PERSON10]is now also working on . PERSON10] and are technically the same person there . 
+
+[PERSON4]'s  task werefar to generate synthetic multisource train set . But when [PERSON4] will receive the cluster access [PERSON4] will check this out . And [PERSON10] can also send [PERSON3] how they do this data collection in [ORGANIZATION15 , if that would help . , [PERSON7] is working on the chopped data set as already . it is kind of [PERSON7] do not know whether it is strictly . If [PERSON7]'s  model , evaluates well , using [PROJECT2] on [PROJECT5] test set , we would like to have that integrated . But [PERSON3] know that it is , behaved differently . Then it would be great to , ask someone to help [PERSON7] , for example [PERSON10] , to help [PERSON7] , with the onlinezation of [PERSON7]'s  model . keep that in mind , that we want to evaluate [PERSON7]'s  model and if it looks good , then we want to have that integrated . And just [PERSON15] just stay here with [PERSON7]Peter for second . 
+
+[PERSON3] can contact [PERSON10] by email . thank [PERSON4] very much for this call . 
+
+[PERSON3] shall now leave the call myself . From [PERSON7]'s  point of view it has few , few . 
+
+[PERSON15] think [PERSON15] need to work on whatever he was thinking aboutI will just maybe first to the path of data from . 
+
+[PERSON15] need just , use the same data for [ORGANIZATION13] evaluations . But [PERSON7] is afraid that these data are just , private and we cannot use them . 
+
+[PERSON15] know [PERSON15] is bit confused . If [PERSON7] recall correctly , the most papers that work with accented speech , were are working with the Common voice data set .

@@ -1,0 +1,27 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON5, PERSON1, PERSON6, PERSON10, PERSON2
+
+
+SUMMARY-
+ -PERSON10, PERSON2, PERSON3 and PERSON6 are going to have a meeting on Thursday.
+  There will be call on Thursday with the project partners.
+ -PERSON1 has been employed in a temporary way and needs to come in person to enter a proper work contract as soon as possible.
+  If he wants to stay, he will have to come for the paperwork first.
+ -PERSON6 will keep people updated on the application process for a visa.
+ -PERSON10 didn't receive the letter from the organiser yet, so she needs to check the status of the application.
+ -PERSON10 will check the progress of PROJECT3.
+  The communication is fine, but it's not perfect.
+  There is a problem with the quality estimation.
+  The certificate on the server of the plane who does the just expired.
+ -PERSON9 is preparing leaflets for the participants.
+ -PERSON6 and PERSON2 are working on PROJECT4.
+ -PERSON6 is sceptical about machinelearning evaluation methods.
+  He would like to implement the method in the pipeline, but he doesn't know how to do it.
+ -PERSON2, PERSON6 and PERSON10 are discussing a new evaluation for MT.
+  They agree to focus on case of paraphrases.
+ -PERSON10, PERSON6 and PERSON1 will have a meeting next week to discuss the task for the PROJECT4.
+ -PERSON10 will try to give an alternative to the alternative.
+ -PERSON6 will see if it's a good approach to the task.
+
+
+Minuted by: Team ABC

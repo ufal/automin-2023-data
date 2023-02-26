@@ -1,0 +1,16 @@
+-Call some system by pipe, that should be easy to do, because there should be a system just by pipe available for translation worker, because if there is no system, it should be almost ready.
+-For partial sentences, we should treat them from [PROJECT prospective as simple sentences other sentences that we expected process process process to process (or not process).
+-If we have a single timestamp of the beginning and end of the sentence or, then we can compare these two timestamps and string comparison are sufficient for the presentation.
+-How do we present partial translations and partial output, and how do we make sure that the updates are reasonably well displayed, for example, we had something like the textfiled.
+-The agreement on Monday was that the presentation platform would like to send to the textfield content several times as an update, and then at some point there would be a decision that let's move on to the next textfield.
+-To implement the partial hypoteses and partial translation output of the presentation platform, we will need to implement the full translation of incoming messages, which will be displayed on the subtitles.
+-Update the history field to include the new content right?,
+-Now we need to discuss the history of text fields, whether it should be closed or updated. And we would be displaying the contents from this timestamp on.
+-For [PERSON10] There is a development schedule for the presentation platform after we have discuss it on Monday, uh, there is a prototype available at a work point.
+-There's no prototype available at the moment laugh> Okay, but when would we have a prototype today?--or when would they have one?
+-The prototype should be presentable at the 15th of June, but this is only my information and is not guaranteed by any means laugh>.
+-Probably development team have something close to be fine advertial to use as prototype, but we can have some working maybe for.
+-Ask for a backup side of workers to be able to connect the room to the workers.
+-The workers have one by one died out, the workers worked yesterday seemed there were totally know worker available, but the workers had one by One died out.
+-If there is anything we can do in order to help the mediator test just your worker forsom Or anything else we stand us careful the Mediator test.
+-The production client is different from the simple one only by a b We remove Windows version of the client for all users,

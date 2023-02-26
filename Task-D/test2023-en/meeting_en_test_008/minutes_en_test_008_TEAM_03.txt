@@ -1,0 +1,46 @@
+Attendees: [PERSON7], [PERSON8], [PERSON5]
+
+Summary:
+[PERSON8] is just aligning that link of the web interface , which is already there one in the . 
+
+[PERSON5] actually wanted to talk to [PERSON2] today and he planned to join us . 
+
+[PERSON7] did with [PERSON8] [PERSON5] for [PERSON7] have to collect the minutes . 
+
+[PERSON7] just connected with him and maybe will be skipping meeting later this week . Can [PERSON5] look at the minute in the website ? Ye , if [PERSON5] follow the link [PERSON5] may open this search for minutes , here's minutes , and here's a search . And the name could be from if [PERSON7] go to the data , europarl data . 
+
+[PERSON5] did not find it [PERSON5] do not know why . 
+
+[PERSON7] think this corresponds with manually verified this corresponds cause this one is . 
+
+[PERSON5] , [PERSON8] have linked the reference in the agenda . After the in the after the references [PERSON5] can find that . now [PERSON5] speaking about which figure . As [PERSON5] can see from the description of the figure . 
+
+[PERSON5] propose to make something like that ? Maybe [PERSON5] can see the previous page as well . 
+
+[PERSON8] just wanted to show [PERSON5] how what kind of . 
+
+[PERSON8] asked  What kind of manually valuation people are performing for the summarisation systems . and [PERSON5] replied  they are giving some set of cautions to the annotators . 
+
+[PERSON8] will form this airdraft and send [PERSON8] and finalize . what [PERSON8] have already done is very beautiful . 
+
+[PERSON8] have some papers , [PERSON8] have confirmed factbased . If [PERSON5] just have web base interface for manually evaluation . 
+
+[PERSON7] just want to understand that supposed we have the interface . that is what [PERSON8] is asking that what do we want for shared task . 
+
+[PERSON8] do not think that would be a good thing but . 
+
+[PERSON7] is absolutely ok with the interface . 
+
+[PERSON8] was reading the paper how to actually add interface some constant values . And there is something [PERSON8] is reffering to it . and [PERSON5] replied  [PERSON5] would like to add that it would be that it is very hard work to make these evoluations . And it has a sense to speak about it after we see [PERSON5]'s  criterias . , [PERSON8] do not have any progress with the new thing . 
+
+[PERSON8] implemented the all the beginning of the paper . It took [PERSON8] really long time to fix that . 
+
+[PERSON8] maybe link the papers which [PERSON8] implemented . That is one thing which [PERSON8] is insure towards small portion . this is only a new thing which [PERSON8] is doing . 
+
+[PERSON8] is doing it with our data and not the AMI and the ICSA corpora . on our paper do [PERSON7] have any figures that how the matrix work . 
+
+[PERSON8] think [PERSON7] also might have done the papers [PERSON8] think . And when [PERSON8] need to share the evaluation criteria and we would all would annotate . , [PERSON7] think if we can have the europarl data with the transcript and the minutes align . 
+
+[PERSON5] dont know if it makes sense but probably technically it will . Ye it seems bigger but [PERSON5] meant just finding minutes for each transcript . somehow [PERSON5] did not push us away todaythey granted us woth extra time . The implementation [PERSON8] have done on . 
+
+[PERSON8] will [PERSON8] will link them in five minutes [PERSON8] think just opening .

@@ -1,0 +1,13 @@
+Attendees: PERSON2, PERSON7, PERSON3, PERSON11, PERSON14, PERSON8, PERSON15, PERSON4, PERSON10
+
+ * [PERSON3]: The warning that I have to say before we go into the individual report is that there is the [ORGANIZATION7] conference.
+ * We will use the next year's [ORGANIZATION7] as our main demo event for the [PROJECT5] project.
+ * [PERSON11]: Which is that I was using the rainbow model for paraphrasing for [PERSON1].
+ * In the domain to create synthetic data, based on that, we need parallel data as much as possible.
+ * We have [PERSON8] here and he is overseeing the development of the [PROJECT3].
+ * The [PROJECT5] test set contains the input texts and references and also input sounds and reference transcripts.
+ * We will try to accommodate to that by maybe searching for new slot later on.
+ * [PERSON3]: Whenever [PERSON7], whenever you have the data ready, please get in touch with [PERSON15].
+ * [PERSON7]: I´m using first alignment and eeh, what I what I´m want to do is to chop the utterences and recreate new sentences using the words itself.
+ * [PERSON7]: I have to check I have to check whether we are allowed to use these data.
+ * [PERSON7]: It´s end-to-end model I tuned it to recognize phonemes rather than graphemes.

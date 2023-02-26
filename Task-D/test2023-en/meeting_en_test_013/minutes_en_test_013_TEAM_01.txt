@@ -1,0 +1,35 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON11, PERSON14, PERSON4, PERSON8, PERSON9, PERSON15
+
+
+SUMMARY-
+ -PERSON14 is watching the lecture on PROJECT2 ORGANIZATION5.
+ -PERSON9 wants to test the script first.
+ -PERSON9 wants PERSON14 to run the ASR and the segmenter independently.
+ -PERSON8 wants PERSON9 to review review the scripts.
+ -PERSON14 is planning to open a lot today.
+ -PERSON14 does not have the input files for this evaluation.
+  The input files will be in VDD format, one sentence per line.
+ -PROJECT3 is 20 minutes in the row and broken into smaller chunks manually by PERSON13.
+  The PERSON14 needs to go to sheet number 3 forced alignment inputs and go to see 5.
+ -PERSON8 will put the paths for the most up to date OST files in the most recent version of Antrecorp.
+ -PERSON14 needs to create the support director in the files he's processing.
+  After that he needs to have it versioned.
+ -PERSON8 is preparing the Antrecorp test directories.
+  The files are 2 WAVs and OST files, the depth set is Depth set Since set is , so it is just 2 files.
+ -PERSON8 asks PERSON4 to synchronize with PERSON14 on the on the audible SLT test set and depth set forced alignment files.
+ -PERSON4's priorities are the SLT evaluation and preparing the files that PERSON14 will digest.
+ -PERSON8 wants to create a case similar to the academy test set they have now.
+ -PERSON9 wants to rehandle the Doodle poll.
+ -PERSON14 was working on a caraoke as timeview yesterday.
+ -PERSON14 is working on timestamping the caraoke.
+ -PERSON9 is finishing the paper about subtitler for the 25th.
+ -PERSON15 is working on 3 languages Polish, German and Russian to prepare test the data for preparing WSLT.
+ -PERSON8 forrest asked him to process Antrecorp test which is an 17 and 18 and 19.
+  He collected 3000 sentences for 3 languages and almost cleaned them.
+  The subtitles for this test are in VDD format.
+ -PERSON14 will send them to PERSON4 in two hours.
+ -PERSON4 will create a script for it.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,29 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON7, PERSON14, PERSON12, PERSON13, PERSON5
+
+
+SUMMARY-
+ -PERSON13 is back to work after the New Year holidays.
+  He is staying in Mannheim in a private private apartment in Barbican city.
+ -PERSON12 is going to the PROJECT6 tomorrow at 10.
+ -PERSON13 and PERSON14 are going to prepare data for the two events.
+ -PERSON14 will be available as a backup person for PROJECT13 on the 26th of PERSON12 is working on the demo paper submission, which is due next Friday.
+ -PERSON7 has some project reports to do.
+ -PERSON13 probably won't make any progress over the Christmas.
+ -PERSON12, PERSON7 and Ivana are working on a project.
+  They need to prepare a translation dictionary, a rare words evaluation, a list of names and, terms that they want to appear in the output.
+  They also need to improve their segmenter.
+ -PERSON7 will ask PERSON10 to correct the current PROJECT10L for the correct type.
+ -PERSON5 will train a model on common voice and revise the data set for the experiment.
+ -PERSON12 wants more datasets, common voice and links to the data.
+ -PERSON5 is the only one training PROJECT3 system at ORGANIZATION4.
+ -PERSON13 would like to work with PERSON5 on PROJECT5 PROJECT3 as part of her masters thesis.
+ -PERSON12, PERSON5, PERSON13, PERSON7, and PERSON14 are going to meet for a sunchro.
+  They will prepare a subtitler study paper for ORGANIZATION8 and train a replacement for PERSON10.
+ -PERSON14 explains to the others how the audio will be sent to the text worker.
+  The quality of the models deteriorates when there are more than three languages at the beginning.
+  It is better to create a direct bilingual model with English as a derivatory language.
+ -PERSON12 will try to record her suggestion about how to use the language ID in the document.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,164 @@
+Summary:
+
+* PERSON45 neví, jak se mohla jednat o chybu.
+  -- Fact: Vybuchl asi v 08 a nemohl se připojit, a pak ta dáma poslala link do (Teams), takže to udělali přes to.
+  - Fact: Nebudou s tím teď nic dělat.
+* PERSON2 a PERSON5 hovoří o schůzce ORGANIZATION5 s Vanou. ORGANIZATION5 si s nimi chce ještě jednu schůzku.
+  - Disc: Splňují regulační požadavky, ale Vana chce vidět něco jiného, co je proti pravidlům.
+* PERSON2 a PERSON5 mají schůzku s dámou. Předtím jim dáma chce vyjádřit svůj názor. Pošle jim informace v jejich domě, a pak se o tom budou bavit společně.
+* PERSON5 a PERSON2 nechtějí, aby z té tragédie vydělali dům. Chtějí s nimi pracovat s veřejným prostorem a nutit je do větších hitů. Nejdřív to nechtěli, ale teď se snaží být rozumnější.
+* PERSON2 a PERSON5 musí přijít na to, jak udržet tuto osobu (PERSON61) před selháním. Musí ho takhle držet a konzultují se s ním, takže ho potřebují udržet v klidu. Urbanismus funguje.
+* PERSON2 a PERSON4 budou dnes večer používat záložku Chat.
+  - Disc: Během konverzace budou psát na pravé straně tabulky a pak se k ní vrátí později, aby diskutovali o tématu. Konverzace bude organizována tak, aby lidé věděli vzájemné řešení.
+* PERSON2 hledá Honza Coolera, ale nemůže ho najít, nechce umýt schody pro PERSON29, ale stejně by to udělal.
+  - Disc: Je tam, ale PERSON2 ho nevidí, takže mu nemůže pomoct.
+* PERSON2, PERSON6 a PERSON38 se setknou s PERSON2 a PERSON2.
+  - Disc: PERSON38 se k nim pravděpodobně připojí také. Nejspíš tam budou všichni společně.
+* Dojde k organizační změně a vedoucí ORGANIZATION14 se stane osobou 14 vody 1. prosince.
+  - Disc: PERSON53 bude pokračovat v práci ve službě, ale už nebude vůdcem, protože ho to ztěžuje. Bude pracovat s PROJECT24.
+* PERSON2 chce mluvit více o svých vlastních operacích na příští schůzce příštího středu ráno. Chce vědět, zda některé z prohlášení, které píší, jsou naprosto nezbytné a zda by měly být zařazeny do filtru.
+  - Fact: Za 14 dní bude devátá osoba prezentovat PROJECT29.
+* PERSON2 chce vědět, kdo si bere dovolenou do konce listopadu, aby se mohli přemístit do personálu, a vy mapovat, jak to bude vypadat na Vánoce. Chce vidět, jestli někdo bude pracovat nebo nepracovat.
+* PERSON48 chce vědět o možnosti převést dovolenou na příští rok, na letošní rok.
+  - Fact: Letní dovolená je až do konce dubna, ale vždy je to 5 dní.
+  - Disc: Existuje spousta lidí, kteří si nevybrali dovolenou, takže to bude pravděpodobně mít takové otázky.
+* PERSON2 chce, aby externí faktury pro PROJECT38, PROJECT35, PROJECT6, PROJECT25, PROJECT14, PROJECT4 a PROJECT10 byly zaslány do 15. prosince.
+  - Disc: Model na PROJECT35 bude fakturován a voda na PROJECT6 bude také.
+* PERSON2 a architekt pracují na analýze. Chtějí určit objekty, které si zaslouží zachovat pro nemocniční operace.
+* Chtějí také extrahovat půdu, která by mohla být vyměněna s státem.
+  - Fact: Je monitorován ORGANIZATION25. Projekt ještě nebyl odeslán. Dvakrát týdně zavolá manažer projektového manažera.
+* PERSON2 bude mít schůzku s ORGANIZATION30 o PROJECT31. Před schůzkou bude půlhodinový briefing.
+  - Fact: Organizátor zjistí datum den předtím nebo stejnou ráno v půlnoci.
+  - Disc: PERSON2 již shromáždil spoustu názorů na to.
+* PERSON2, PERSON32, PERSON34, PERSON38 a PERSON6 se chtějí připojit k organizované schůzce.
+  - Disc: Pokud dostanou odkaz od ORGANIZATION33, připojí se. Musí odpovídat na otázky od ORGANIZATION33.
+  - Fact: Musí předtím něco poslat zpět ORGANIZATION33.
+* PERSON2 uspořádá soutěž pro projekty PROJECT23, PROJECT4 a PROJECT7.
+  - Fact: Soutěž se bude konat v únoru.
+  - Disc: PROJECT23 bude pravděpodobně v pracovní skupině a možná v řídící skupině, takže o tom pravděpodobně ví nejvíc. Bude tady.
+* PERSON48 se zbavila ORGANIZACE12 a delegovala ji někomu jinému.
+  - Disc: PERSON2 a PERSON2 by na něj byli naštvaní, kdyby to udělal znovu.
+* PERSON2 a PERSON51 nebyli pozváni na schůzi výrobního výboru na PROJECT43.
+  - Disc: Projekt se týká celého území. Ani nepozvali PERSON2.
+  - Disc: Jestli se o tom něco dozví, řekne jim to.
+    -- Disc: On nechce jít.
+* PERSON2 chce vědět, jestli Von napíše pár řádků o PROJECT34.
+  - Fact: Je v pracovní skupině pro vytváření nebo pro konzultace ohledně PROJECT12, koncepční studie, kterou nechá ORGANIZATION19.
+  - Fact: On a PERSON19 o tom nedávno vyměnili e-mail.
+  - Fact: PROJECT16 nepůjde do ORGANIZACE14.
+* Mezi ORGANIZATION17 a ORGANIZATION11 proběhly určité jednání.
+  - Disc: Program pro PROJECT32 je v rukou některého pana PERSON17 a bude organizován ORGANIZATION28. PERSON2 a PERSON5 o tom budou mluvit, až se navzájem uvidí.
+* PERSON2 chce vědět, jak se vedly jednání s PERSON50 o PROJECT1. Chce mluvit s Vonem, ale o tom nic neví.
+  - Fact: Vysvětlil mu to J-PERSON6, ale nevypadalo to nijak zvlášť.
+* PERSON2 odesílá zprávu osobě 3.
+* Musí klepnout na záznam, aby ho poslal.
+  -- Fact: Ještě ho nemá.
+  - Fact: Může ho poslat, jestli ho napsal jako všechny ostatní, nebo jestli nemají vosk, aby ho četli, jak je to podle pokynů.
+* Byla zde intenzivnější schůzka, na které se zúčastnili u, od té doby, z jejich kanceláře PERSON38, a z jeho kanceláře PERSON51. Přispěli také k PROJECT41. Pak formuloval závěr. Přispěl také z ORGANIZATION17, ORGANIZATION14 a ORGANIZATION36.
+* PERSON7 včera konzultovala ORGANIZATION1, ORGANIZATION37, ORGANIZATION14, ORGANIZATION27 a ORGANIZATION20 o regulační studii PROJECT10.
+  - Fact: O tom bude také konzultovat ORGANIZATION14 a ORGANIZATION38.
+  - Disc: PROJECT10 je o nižším Blue Mountain.
+* PERSON7 bude mít zítra konzultaci s ORGANIZATION32 o zeleně na trhu.
+* Inženýr z PROJECT22 by měl odejít příští týden, takže navrhují spojit koncept projektu s tím, co navrhnou, aby to dobře spojilo s návrhem.
+* PERSON2 přestěhovala své chaty na nové místo. PERSON4 a PERSON7 tam zůstávají. Mají kromě obvyklého pořadu jednání: aktuální, který je pořadem jednání aktuální schůzky.
+* PERSON48 a ORGANIZATION12 se v pondělí sešli o PROJECT23. Včera se sešli o PROJECT11.
+  - Disc: ORGANIZATION12 má problém s koncepčním úkolem pro PROJECT11, že je právě poslala před 14 z nich pro připomínky.
+  - Fact: ORGANIZATION12 bude mít další online setkání s nimi dnes s PERSON47 a s PERSON5, aby jim to vysvětlil. ORGANIZATION12 leží tam měsíc a půl a žádný z nich spadl.
+* PERSON2 a PERSON31 spolupracují na projektu PROJECT39 už měsíc. Mají problémy s Pa, Pa, M mim a dalšími lidmi. Před měsícem se potkali na schůzce s jinou osobou. Jednou se budou zatěžovat na projektu PROJECT39.
+* PERSON31 neví, co od nich voda očekává.
+  - Fact: Měli dát nějaké vyjádření k volantu, ale ještě to nedali.
+  - Disc: Pro vodu existují tři možnosti: rozdělit sportovní prostory na zastávky a část nových, zachovat sportovní prostory nebo vytvořit novou půdu pro výstavbu městských bytů.
+* Město chce vybudovat část pozemku, který byl prohlášen za opuštěný, ale město nemá peníze, aby ho koupil.
+  - Fact: Sportovní tým PROJECT39 opravil dráhy.
+  - Disc: Město je ochotné prodat pozemek někomu jinému developerovi.
+  - Fact: Na PROJECT2 probíhá výstavba.
+* Organizátoři chtějí spojit dvě rozvojové oblasti uličkou pro pěší a cyklisty.
+* PERSON2 a PERSON51 chtějí spojit Prosek tramvají s Leťňany.
+  - Fact: Tramvaj prochází oblastí PROJECT19.
+  - Disc: Existují dvě možnosti, jedna je horší než druhá.
+    -- Disc: PERSON2 řekne PERSON31, kde najít studio.
+* PERSON2 chce dokumentovat, že dokonce I ORGANIZATION6 bude chtít mít od nich názor.
+* Chce poslat první pásku všem, aby si to prohlédli.
+  -- Fact: Má ho na plošině, tak ti ho pošle.
+* PERSON48 chce vědět, jak reagovat na projekt, který bude o patro vyšší, než by měl být na jeho místě v PROJECT7. Město chce postavit co nejvíce bytů, jak je to možné. Kancelář jim dává své připomínky. Konečné posouzení bude ponecháno na starostě.
+* PERSON48 bude pracovat na projektu na jeho území.
+  - Disc: Neví, jak to zařídit, bude stejně nepochopitelný jako kdokoliv jiný.
+  - Disc: Není to jediná osoba, která ho nebo ni nepochopí.
+* PERSON45 hlasuje. Chce poděkovat PERSON33 za rychlou odpověď včera.
+  - Fact: Také poděkuje PERSON48 za to, že se k němu obrátil s těmito stopami a on to vyřeší.
+  - Disc: PERSON45 si nemyslí, že by potřebovali psát e-maily vůbec. Zavolá PERSON52 na polovinu garáže.
+* PERSON33 chce o projektu diskutovat.
+  -- Fact: Má digitální vstupy, ale ještě je neposlal.
+  - Fact: Pošle je ke PERSON25 a pošle mu to hned, jak je pošle.
+  - Disc: Je z toho nadšený a chce, aby tam byl.
+* PERSON2 včera nemohla najít vysoké tričko v kanceláři. Počká na digitální verzi e-mailu.
+  - Fact: V e-mailu bylo uvedeno, že vysoké košile jsou někde v šuplíku, ale měli mít v pátek schůzku s ředitelem.
+* PERSON34 si myslí, že jednání s PROJECT1 bylo v pořádku. Pan PERSON50 se snaží několikrát opakovat to, co chce, aby se ujistil, že někdo rozumí tomu, co žádá.
+  - Disc: Lidé často nerozumí tomu, co někdo žádá, protože mají takové zkušenosti, že často lidé to neuvědomují.
+* PERSON34 a PERSON32 se znovu sejdou, až budou přesnější rozvahy nad revidovanou verzí, aby vysvětlily vybavení a zjistily, zda se nějak do sebe hodí.
+  - Fact: Měli nějakou interní koordinaci s PERSON9 za ORGANIZATION10. Chystáme se zjistit, jak by mohli přeložit sítě.
+* PERSON34 a PERSON32 se dohodly, že budou projít po PROJECT35 s ORGANIZATION4.
+  - Disc: Pan PERSON43 o tom měl nějaké výhrady, ale ještě je čas, takže uvidí. PERSON2 se s nimi půjde projít.
+* Modely už dali cenu a měli by model vytáhnout a začít ho zpracovávat.
+  - Fact: PERSON2 požádá PERSON38, aby se o ně postaral, pokud dobře pracují, ale PERSON38 to odmítá a řekne mu, aby s nimi přestal mluvit.
+* PERSON38 půjde v pátek k doktorovi na nějaké super psychologické-neurologické vyšetření.
+  - Disc: Neví, kdy se vrátí.
+  - Fact: Musí přijít každý den do ORGANIZATION18.
+    -- Fact: Může spát v ORGANIZATION18, když tam teď nikdo není.
+* PERSON38 chce do Vánoc vyčistit krabici, ale neví, jestli je to dobré nebo škoda.
+  -- Disc: Záleží na něm 50% na situaci.
+  -- Disc: Pověděl by PERSON2, jestli to udělá.
+* PERSON2 včera mluvil s Furtem a vysvětlil mu, že jí nemůže volat a ona s ním nemůže mluvit, protože jí to není dovoleno. Furt jí pořád volá a PERSON2 mu taky volá.
+* PERSON30 pracuje na PROJECT37 v Hostivaru dlouhou dobu. U pana PERSON22 se konalo asi pět setkání vedoucích osob. Na organizaci se něco děje25.
+  - Disc: Z nějakého důvodu musí vodítka vést.
+* PERSON30 sdělí paní PERSON44, zda by chtěla, aby na přípravných schůzkách s architekty z ORGANIZATION22 a ORGANIZATION20, kteří budou dnes pracovat na PROJECT24, byli politici.
+* PERSON2 a PERSON30 diskutují o penězích, které by měly být přidány do tisku a vůně bude vyřešena s PERSON26 na průzkumu. Musí to probrat s PERSON40 a s PERSON2.
+  - Disc: Na účet už něco přidali.
+* Je zde organizace účasti na PROJECT40.
+  - Disc: Je to teprve začátek.
+  - Fact: Existují jednání a různé požadavky.
+* Některé požadavky by pak byly zpracovány do DURK. Účast by měla být ve spolupráci s ORGANIZATION9.
+  - Disc: Základem organizace je designová cena z roku 2014.
+* PERSON40, PERSON2 a PERSON29 připravují námitku k PROJECT33.
+  - Fact: V následujících dnech bude PERSON40 připravit námitku s PERSON30 pro PROJECT33 a PERSON29 připraví námitku pro PROJECT50.
+* PERSON29 a PERSON40 pořádají PROJECT33.
+  - Disc: Rusové se do toho podílejí.
+  - Disc: Je možné, že Rusové jsou zodpovědní za organizaci PROJECT30 a PROJECT33, ale nevědí, jestli je to stejná věc nebo ne.
+  - Disc: Mohlo by to být možné.
+* PERSON40 včera zavolala kolem čtyři hodiny od muže, který nemohl zavolat.
+* Chtěl něco, co by regulovalo prostorové uspořádání místa, kde PERSON51 bydlí.
+  - Fact: PERSON40 mu řekl, aby jí zavolal za 15 minut, ale stejně jí zavolal.
+* PERSON40 a PERSON2 diskutují o různých projektech.
+  - Disc: Jeden z nich je téměř to, co by chtěli. Druhý je stále v diskuzi. Pobídky přijdou a až bude mít čas se k tomu věnovat, bude se s nimi konzultovat.
+* PERSON58 jí chce psát celou dobu a požádat o její podpis. Ona jí již poslala asi 10 věcí v pondělí. Včera slíbil, že je dá správní radě, ale představenstvo nebylo včera ráno, takže se přesunulo na třetí hodinu poledne.
+* PERSON45 a PERSON2 jsou trochu na okraji. V souborech ředitele se teď hromadí spousta věcí. PERSON58 a PERSON6 se teď ani netýkají souborů, takže je to pro ně problém.
+* PERSON57 si teď na stole přečte záznam o PROJECT28 a další věci, jako jsou běžné záznamy, prodej pozemků a tak dále. Také se podívá na záznam PROJECT28 na stránce PROJECT28.
+* PERSON2 a PROJECT27 budou mít zítra sníženou hlasitost. Budou v kanceláři dnes v poledne, takže PERSON57 se pokusí najít nějaké staré fotky z posledního pobytu a uložit je na dnešní den.
+* PERSON51 se usadil v božském osídlení a je spokojen se svým životem tam.
+  - Disc: Nelíbí se mu situace na území společnosti PERSON7, ale také skutečnost, že musí sdílet své území s ostatními lidmi.
+* PERSON2 a PERSON51 čekají na to, co jim řekne EJA na PROJECT5.
+  - Disc: EJA je mezi po, on a politici, takže vůně jsou tam. Byla podmínka, že byli všichni, že tam byl jeden EJA pro všechny tři fáze.
+  - Fact: Teď je to urovnáno.
+* PERSON2 chce mluvit o cílování objektu.
+  -- Fact: Organizátor neposlal ty studie, které museli udělat, takže si je stáhnou z internetu.
+  - Fact: Ve čtvrtek nebo v pátek se sejdou s osobou PERSON39 a osobou PERSON16, aby o tom všem promluvili.
+* PERSON5 a PERSON2 jsou znepokojeni nad nadcházejícími událostmi. 30. je o pondělí. Bude organizováno organizátorem ORGANIZATION13. Bude pozváno i veřejnost a zainteresované subjekty.
+  - Disc: O této události není více informací.
+* PERSON5 měla předběžné slyšení s ORGANIZATION14 a PROJECT21 o rekonstrukci železnice.
+  - Disc: Chtějí zajistit, aby byla vybudována pouze Seifertova ulice, takže od Lipanského do hlavní stanice mohou pouze přestavovat železnici a nemusí se zabývat ničím jiným.
+  - Fact: Jsou obviněni z toho, že tisk od jednoho roku, od 2,18, na ně nic nedává.
+  - Disc: Ještě jednou je d- uprostřed diskuze a pláče nesmyslně, nemá žádné informace o předmětu.
+* Probíhají jednání o Jičí, o rekonstrukci.
+  - Fact: Téma se zabývala kolem 2.16, ale teď se vrací k životu.
+  - Disc: Nebudou lidi pozvat na jednání, tak jim prostě zašlou pozvání.
+* PERSON5 je unavený způsobem jednání mezi vládou a lidmi vody, který probíhá.Myslí si, že je to kvůli novým dojmem, že vláda chce postavit PROJECT41.Styl komunikace vlády je nekonvenční. Je to barevná věc pro mladé lidi.
+* PERSON5 se před hodinou nemohla spojit s někým, protože nemohla cítit.
+  - Fact: PERSON2 a PERSON45 to potvrzují.
+  - Disc: v rozhovoru.
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

@@ -1,0 +1,9 @@
+Attendees: PERSON2, PERSON8, PERSON3
+
+ * [PERSON2]: By the way did you do [PERSON5], the annotator?
+ * For the special session, we have to strictly follow whatever [ORGANIZATION11] says there.
+ * We can send it to [ORGANIZATION2], no, for the shared task.
+ * Still, they are doing the proceedings and stuff.
+ * Membership to [ORGANIZATION1].
+ * the proceedings of some conferences and workshops.
+ * The only thing is, we have to do double work, ah, that is the thing.

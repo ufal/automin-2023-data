@@ -1,0 +1,37 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON9, PERSON7, PERSON4, PERSON1
+
+
+SUMMARY-
+ -PERSON4 and PERSON1 haven't heard from PERSON2 yet.
+ -PERSON7 is in Iran for a month or two.
+ -PERSON9 is moving to New Delhi for the vaccination drive.
+  The student of professor PERSON4 didn't respond to his e-mail, three hours ago, because he needs to finish his master thesis in a short period of time.
+  He needs to develop a tool to prepare the files for annotators and then PERSON7 and PERSON4 are working on a project.
+  They need someone to be available for this exercise, but they don't have the time or the programming skills.
+ -PERSON4 and PERSON7 discuss how to prepare documents for the annotators.
+  They agree on the bolding and italicisation of the text and the introduction of the token level annotation.
+ -PERSON4 and PERSON7 are discussing how to prepare an annotated HTML file for the workshop.
+ -PERSON4 and PERSON1 discuss how to present the full documents to annotators and how to communicate with them.
+ -PERSON4, PERSON1 and PERSON9 discuss how to upload documents to Google Docs.
+ -PERSON4, PERSON1, PERSON7 and PERSON9 will prepare a test document for the annotators.
+  They will do a challenge with the Scientific Committee.
+ -PERSON9 will make the website ready within one or two hours and send a link to the PROJECT1, GitHub.
+  He will also put the names of the Russian participants on the sheet.
+  They will submit the submission during the afternoon.
+ -PERSON4 needs a reference letter from PERSON7 for scholarship.
+ -PERSON9 is in the process of submitting PROJECT3 proposal to two places, one of which is probably, PROJECT2 or ORGANIZATION2.
+  They need to have all the data processed by February mid.
+ -PERSON1, PERSON9 and PERSON7 are working on a project.
+  They are going to meet on Monday to catch up.
+  The first sample should be ready by the end of this week.
+  The second sample will be ready next week.
+ -PERSON1 and PERSON9 didn't go to Russia for Christmas because of health issues.
+ -PERSON1 and PERSON9 are waiting for the mass immunisation program to start.
+  They have to submit a PROJECT3 proposal.
+ -PERSON1 and PERSON9 are working on the proposal submission to the Scientific Commu Committee.
+  They need to submit them by January tenth, so that they can focus on the research part.
+ -PERSON1 and PERSON9 are going to meet tomorrow to discuss the pending task.
+
+
+Minuted by: Team ABC

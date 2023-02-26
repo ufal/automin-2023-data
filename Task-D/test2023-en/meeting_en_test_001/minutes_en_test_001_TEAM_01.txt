@@ -1,0 +1,44 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON21, PERSON15, PERSON10, PERSON19, PERSON5, PERSON20, PERSON6, PERSON23, PERSON16, PERSON2, PERSON3, PERSON11, PERSON12, PERSON9
+
+
+SUMMARY-
+ -PERSON5 is trying to get everything running on his side.
+  The real video mixer is ordered and will be there on Wednesday.
+ -PERSON5 wants to see the full workload, all imputs and all target languages in the presentation platform.
+  The presentation platform available is not yet updated.
+  A working copy will be deployed next week.
+ -PERSON5 is testing the old option, the bridge workers to select the different path.
+  Wednesday is available for the full guesting at South Premises.
+  He wants to set up a little path out from the main path, which goes through the translation and to the presentation platform.
+ -PERSON5 and PERSON9 have a lot of questions regarding the user interface and the presentational platform.
+  They want to record a video from it, but they are still waiting for the confirmation from ORGANIZATION3.
+  They will finalise the content of the form on Wednesday, PERSON5 needs someone to confirm that he can enter the building and record inside it.
+ -PERSON5 wants to record the presentation and the workshop room.
+  Organizing2 has to confirm that they are fine with that.
+  There was a requirement for the confidentiality, so it's not easy to get permission to record anything.
+  There are concerns from the participants that the talk they will be talking about will leak too soon.
+  Some of the sessions should be close.
+ -PERSON5 suggests to keep listening to the call and to do the debugging at various places.
+  There are only two English segmenters so they can run at most two languages at once.
+ -PERSON11, PERSON5, PERSON3 and PERSON21 noticed the paper yesterday.
+  There is a problem with the English and Romanian subtitles.
+  The last published message is three minutes old, so no one is publishing right now.
+  Two ASR workers are available and registered as available, but only one of them is working.
+ -PERSON3 and PERSON5 are working on a project.
+  They have two ASR workers, but they run out of segmenters.
+  There is only one English segmenter and two German segmenters available.
+ -PERSON22 is PERSON5 is trying to find space for the worker, but it's not easy as PERSON7 is not here today for medical reasons.
+  There is a lot of traffic hitting a translation servers.
+  The testing is going to end soon.
+  There is a problem with managing user's data for the GDPR.
+ -PERSON9 will start work on it as soon as possible.
+  The first one doesn't output anything.
+  The second one is connected and it's outputting text.
+ -PERSON2 is going to upload a test case to the crise control repo.
+ -PERSON11 is flying today and won't be in touch.
+ -PERSON9 and PERSON2 will come back in the afternoon to check the source language in the presentation platform.
+ -PERSON2 is writing a script to test the ASR+ segmenter.
+
+
+Minuted by: Team ABC

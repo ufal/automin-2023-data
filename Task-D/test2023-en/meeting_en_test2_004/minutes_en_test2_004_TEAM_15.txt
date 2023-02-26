@@ -1,0 +1,3 @@
+-Train a model on common voice: This is the problem with the data set that we were trying to train the model on, it was just some flag for linking.
+-This week we're going to implement or train speech language identification corpus for Czech German and English which kind of works on YouTube videos in Euro parliament, [PERSON6].
+-The problem with the multi lingual model is that it was not necessarily bilingual, it could be multi  language as well as output would be multi language.

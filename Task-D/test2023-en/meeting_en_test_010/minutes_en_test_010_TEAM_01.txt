@@ -1,0 +1,37 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON3, PERSON1, PERSON2, PERSON4
+
+
+SUMMARY-
+ -PERSON3, PERSON3 and PERSON2 are having a meeting today.
+ -PERSON3 will try to find a poll for next week.
+  ORGANIZATION4 doesn't want to get any money from the PERSON3 and PERSON1 discuss how to ship translated audio to the participants of ORGANIZATION4 events.
+ -PERSON3 wants to make sure that in the project, there is no promise on the translation of speech to speech.
+ -PERSON1 doesn't have experience with shipping voice to individual PERSON3 will create a task in the integration work package for the presentation application development for the ORGANIZATION9 congress.
+  There will be the main ORGANIZATION9 congress in the middle of the project.
+  There will be some dry runs workshops, and after that, there will be other events mainly workshop style.
+  Organizing7 should make sure that there is enough events happening and that they connect to them.
+ -PERSON3 promotes the workshop style sessions that she organizes as it is more practical and in line with the speech research partners' focus on nonnative speech.
+ -PERSON3 and PERSON1 discuss the OTHER2 project.
+  ORGANIZATION2 would like the project to be extended to include OTHER2 ASR.
+  Organizing3 is active in the ASR field and provides ASR for thirty language.
+  The PERSON3 wants organiser7 to include OTHER2 as a language partner in the project.
+  The partner has the best ASR system in the world, so it would be a pity not to use it.
+  Organizer7 needs to estimate how many person months they need to spend on PERSON3 and PERSON1 explain to PERSON3 how speaker adaptation is done.
+  The adaptation starts from an existing acoustic model for the language.
+  It takes four hours to adapt to each of the OTHER1 speaker and up to five hours per other speaker.
+  The main conference is four days long PERSON3 is in touch with the OTHER1 radio and they should be able to provide the baseline acoustic model for OTHER1 and for OTHER4.
+ -PERSON3 wants to have more such respeaking sessions for OTHER2 and for the other languages.
+  He wants to give short-term contracts to some ORGANIZATION3 handled respeakers and record them.
+ -PERSON1 has started checking the availability of specific hardware for the ORGANIZATION9 congress.
+  He will add some hardware costs for the equipment, because they will have to set up the local infrastructure for publishing.
+ -PERSON3 wants to know how much it will cost to record one person, so that they can do the recordings with the respeakers here.
+  He wants someone to make a separate line for one ORGANIZATION5, of for recording and copy that for themselves.
+  The integration of multi target empty engine should include both PERSON3 and ORGANIZATION1.
+  Organiser 7 should be involved in the design and testing purposes.
+ -PERSON4 and PERSON1 discuss milestones, deliverables and the organisation of the project.
+ -PERSON3 prefers ORGANIZATION7 doc over Microsoft Word as it's faster for her.
+  She will merge the text into the Overleaf.
+
+
+Minuted by: Team ABC

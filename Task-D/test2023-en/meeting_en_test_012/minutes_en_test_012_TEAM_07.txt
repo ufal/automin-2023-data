@@ -1,0 +1,108 @@
+Summary:
+
+* PERSON20 and PERSON12 are going to go to the same place. They will meet at the LOCATION1. 
+  - Disc: PERSON20 will be the host and she will be very good at it, as she thinks she is always the host when she opens the link. 
+* The winter is coming and people are worried about the pandemic. 
+  - Fact: There are almost one hundred thousand new cases per day in India. In the Czech Republic there are many more cases that didn't register and didn't make the test. 
+  - Disc: There is a panic among the people and the die solution centers are not very good. 
+* There was a marriage that was supposed to be scheduled and the groom died immediately after the day of the marriage. Almost almost three hundred people got infected in one single event from there. Even the family members did not report of the incident to the authorities because they were afraid of panics. 
+* PERSON9 wants to change the names of the proper nouns in both English and Czech meetings. He wants to use a named entity recognition model for English meetings and a different model for Czech ones. 
+* The names are common and should be transferable between the two languages. 
+* PERSON9 and PERSON12 are looking at a spreadsheet with tables on excel file with the names of the seventy nine meetings and the words that it extracted from them. 
+  - Disc: It has some problems in here for example. 
+* An annotator should be used to remove these words. 
+* The total number of names on the menu is two thousand and one or two hundred. 
+  - Disc: It is possible to remove some of them automatically, but there are a lot of them and it would be a lot to remove all of them at once, so it is not recommended. 
+* PERSON9 and PERSON12 have to remove all the names of the speakers from the meetings because the name of the speaker is not clear in the meeting. 
+  - Disc: In this case, there will be no diarizations or division into speakers. 
+* PERSON12 and PERSON9 agree to change the name of the speaker in brackets to "A" and "B" for the data set that they want to publish. 
+  - Fact: They will also change the brackets for the diarization of the data to "B". 
+* PERSON9 and PERSON12 agree that the names of the speakers should be unified at the beginning of the line in order to keep the information that the speakers have changed, but some of them are just unrecognized and it's not clear what their name is. 
+* PERSON9 and PERSON12 have to rename letters to A, B, C and like that. 
+  - Fact: They have to create a map that maps the letters to the real names. 
+    -- Fact: It's hard because the transcripts are done by different annotators and the abbreviations are different. 
+* PERSON12 wants to keep the O and OB marks for PERSON3 because he is talking about 80% of the meeting. 
+  - Fact: He is mostly marked as O or OB, so he could be re-marked. 
+* PERSON9 wants to give him an A. 
+* PERSON9 and PERSON12 are going to ask if they can change the meeting with the other people. 
+  - Fact: If they can, they will change one of them. The other person, PERSON3, is not coming today. If he takes the offer, he can join them. 
+* PERSON9 and PERSON12 discuss some words that don't end in the same way as they do in the meetings. They discuss it in parallel with the speech of the person who didn't finish the word they were talking about and it's similar to what happened in the meeting. 
+* PERSON12 and PERSON3 are having a meeting. 
+  - Fact: They are going to meet with PERSON9, PERSON20, and PERSON12 by pripojil. PERSON3 is going to join them. PERSON12 and PERSON3 are meeting with someone else. 
+* PERSON12 will send a link to the meeting to PERSON3 and will forward it to PERSON9 in a moment. 
+  - Fact: He will send it to him as soon as he receives the e-mail from PERSON9. The meeting starts at 00:00. 
+* PERSON9 and PERSON12 agree that it's not possible that any proper noun end with dash. It could be a mistake in dashes or an annotator making a mistake. 
+  - Fact: The name of the person who attended the meeting is from PERSON17. 
+* PERSON9 and PERSON12 are unsure what to do in cases where the word doesn't finish. 
+* They are unsure if they should remove the words with dash or remove the <unintelligible> from the transcript or remove them from the proper nouns. 
+* PERSON3 and PERSON9 are discussing how to identify named entities. 
+  - Disc: They agree on two steps of manual identification. They also agree on the need to improve the way the list is collected and the way it's presented. 
+  - Fact: They discuss how to replace Polak with a full stop. 
+* PERSON3 would like to hide the ID of a named entity in the data. He would also like to hash the ID to arrive at the same ID immediately when the entity value is given. 
+  - Disc: The hash method is Mt five sum and the first five characters of that sum. 
+* PERSON9 will assign annotators to annotate the RNNs. The annotators will add a letter at the beginning of each line to the plain text file. They will add A, B, C to this line. The list will be sent to the annotators in the Xml format. 
+* PERSON12 wants to replace Switzerland with some other country in the transcript, but it has to be the same as Switzerland. The solution is to replace the MT five sum of of the word Switzerland with two first letters of the MT 5 sum of the country ID. 
+* PERSON12 and PERSON3 need to share the screen. 
+  - Disc: The task is to get the task to mark all proper names the task treats as proper names. 
+* PERSON12 needs to in-in-the-annotator to do this. 
+* PERSON3 and PERSON12 agree that the geographical entities should be used as the name tag instead of the system of name tag, as they are the most important thing to be taken into account when choosing a name tag for the geographical entity, as per PERSON3's recommendation. 
+* PERSON9 doesn't know about their name tag. He asked about Czech and named entity recognition. The latest version for ORGANIZATION1 is available. 
+  - Disc: It works on the web as well. 
+  - Fact: It's Sunday, Tuesday. PERSON3 can only chat to the host. 
+* PERSON12 and PERSON3 are discussing the number of months and days. 
+  - Disc: They agree that there are too many days on the list. They will probably have to shuffle the names later. 
+  - Disc: They can handle years and months, but the days are not important. 
+* PERSON12 suggests that name tags are too fine grained for their purpose. 
+* He suggests that annotators should learn the system of abbreviation of named tag and use them properly. 
+  -- Disc: If they do it wrongly, it's not a big deal. 
+  - Disc: He advises sending a table with the named entity types to annotators. 
+* PERSON3 sends a link to a list to the annotators. 
+* The list should be processed through copy paste thing by name tag. 
+  -- Disc: After that, PERSON9 will use named entity recognition for Czech meetings for English meetings, which is the same as on the list. 
+* PERSON3 and PERSON9 are preparing the training data. The name tag will pre-annotate the list. 
+  - Fact: If it's a person's name, all occurrences of that name will be confirmed in the data. If the name tag doesn't recognize it, it will be annotated with a question mark and a small W. 
+* PERSON9 and PERSON3 need to provide the interface for the annotators. 
+  - Disc: The easiest way of doing this is to process the corpus from top to bottom and replace the lines with suspected named entities with the correct decisions. 
+  - Fact: The line number is the number of the line number in the list. 
+* PERSON9 and PERSON3 would like to indicate the number of unique words that are used in many meetings so that it's easier to remember them. 
+  - Disc: i   and something else would be helpful as well. 
+* PERSON9 and PENPON15 are discussing the issue of annotating the grey word MOG as a proper noun or as a question mark. They have less than a minute to decide what to do about it. 
+  - Disc: PERSON9 will do it. 
+* PERSON12 and PERSON3 discuss how to handle the names of the speakers in the transcripts diarizations. 
+  - Disc: They agree on the use of angle brackets to unify all of the names. 
+  - Fact: They also discuss the need to preserve the full name of the speaker in the transcript. 
+* PERSON3 advises PERSON9 to use MT five sum to create a hash. 
+  - Disc: If they use python hashing, the hash is not reversible. 
+  - Disc: It depends on the type of hash that is used, but it is important that it is a hash, so that you cannot reverse the value. 
+* PERSON3 and PERSON12 agree that all the Changs are misunderstandings in the transcript. 
+  - Fact: The annotator could only know at the token level that his PERSON17 is actually PERSON17. 
+  - Disc: If the wrong Chang survives there, it could be dangerous. 
+* PERSON3 wants to limit the involvement of PERSON15, who is starting his Phd. on speech recognition, to limit his involvement in the minuting and the tool for that. He wants him to transfer the tool to a technical support person, so that the person would be able to do the changes. 
+* PERSON3 has talked to PERSON19 about the test annotation and the mock annotation. 
+  - Disc: He wants him to say everything he wanted to say so that he can do other things, like the mock annotation. He is making good progress with the anonymization. 
+* PERSON3 and PERSON12 are going to do an exercise in pairs where two people will do a test evauation of summaries. They will take notes and write down what was the most problematic thing and what were the problematic things. The participants will learn so much about the task that they want to do that they will be in better position to implement the model. 
+* PERSON12, PERSON20 and PERSON19 are going to take a leave today. 
+  - Fact: They have to select some of the meetings. Two of them will work as annotators and two as evaluators. 
+* They will read the transcripts and produce the summaries, the minutes and scores. 
+* PERSON12, PERSON20 and PERSON3 have to choose the number of meetings and send them the minutes. PERSON8 has already prepared some evaluation form and they will discuss it and evaluate the meetings. 
+* PERSON12 and PERSON3 want to create minutes. 
+  - Disc: They want to do it within this week. 
+    -- Disc: The minutes are already there and annotators have already created them. 
+* They need to take ready minutes and evaluate them on different ways. 
+  - Disc: PERSON12 would take one meeting. 
+* PERSON12 lost in the task distribution and didn't know who is responsible for all of that. 
+  - Fact: The task was given to PERSON3 and then to PERSON19. 
+  - Disc: PERSON20 doesn't want to create minutes again, so they will do evaluation instead. 
+* PERSON20 and PERSON12 will annotate one-one-one hour-long meetings. 
+* The annotator needs a week to prepare a transcript and a minu-nad minutes for each one-hour-long meeting. 
+  -- Disc: They will discuss the timing with PERSON3, who is in the office now. 
+* PERSON20 and PERSON12 will meet tomorrow to discuss their plans for the future. PERSON20, PERSON12 and PERSON20 will meet then. 
+  - Disc: People 9 and PERSON12 agree to meet tomorrow. 
+  - Disc: PERSON20 will pick PERSON12. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

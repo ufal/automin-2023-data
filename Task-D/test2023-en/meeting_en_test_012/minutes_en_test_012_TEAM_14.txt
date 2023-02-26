@@ -1,0 +1,17 @@
+Not always, when (PERSON4) are never the host.
+(PERSON20)'m really looking forward to it.
+[PERSON9], will would [R]PERSON20] - (PERSON20) can trust the statistics? [R8], will [R6], would [P1ERSON9], would [MERSON9] could trust the data? [P3], will be [P2ERSON4] - [P3] can [P6], could [P7], could trust [P8], could not trust the] [P5], could (P7] could trust this data?
+And actually the participants meeting spoke about the data set yesterday and probably it would be nice if the participants the meeting speak about consents today.
+The participants meeting have English meetings and Czech meetings.
+Find proper nouns the names that the participants of meeting want to change, and then the participants replace them in both English and Czech meetings.
+To identify the proper nouns.
+(PERSON20) think it should be possible at least for the common nouns that are repeating from English meetings to Czech ones.
+The participants the meeting have good models for named entity recognition.
+(PERSON20) can see that it change just
+Participants the meeting can just remove some of them automatically.
+Yes, okay - something in the meetings as (PERSON20) can see here the name of speeker is defind here.
+Remove, but in this in this case the participants the meeting will participants of meeting have no diarizations or division into speakers.
+(PERSON20) is not sure if the participants of meeting have brackets and something inside of brackets - It should be unified somehow to keep information that the speakers changed.
+The only thing that could be r possibly kept is [PERSON3], because as (PERSON4) had (PASTER1) own experience everybody here he is talking about eighty percent the meeting.
+And something else is that some words (PERSON4) can see that they end with this - The word didn't, the word didnt wasn't ended.
+ja jenom jsem ti chtela rict, kdybys nahodou mohl jestli by ses k nam nepripojil na ten meeting.

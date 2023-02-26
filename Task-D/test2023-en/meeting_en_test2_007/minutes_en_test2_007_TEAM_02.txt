@@ -1,0 +1,60 @@
+uh, uh, i would like to ask [PERSON16] and [PERSON3] to debag what was the problem yesterday.
+can it also affect the recognition quality or is it just slow? (PERSON13) mhm.
+(PERSON16) now, i am looking so i can just upload it as a link file..
+cnn's john sutter talks to a man who has applied for a domain adaptation.
+sutter: "i think we primarily need [PERSON14] to collect the text data" sutter: "we are not so interested in the old people giving their memories as such".
+i'm still horribly struggling with the [ORGANIZATION6], uh, [ORGANIZATION6] demo papers.
+i have now started worrying about the calculations of a number of things.
+i think for some of them, we are calculating exactly the way we should do..
+cnn's john sutter talks with the author of the "PROJECT12" demo paper.
+the paper is supposed to be six, uh, pages long.
+sutter: "the [PROJECT14] quality is very bad for all, uh, remotely handled sessions".
+cnn's john defterios has a new paper out on how to automate x windows.
+he's working on the evaluations first and fore-.
+he's also working on the multi- [ORGANIZATION8] demo..
+i'm writing a tool that will allow an operator to define the part, of the pipeline and how they are connected.
+and the tool will make a unintelligible> script, that will make sure that everything is corrected as it was specified.
+and there should also be some support for a docker, uh, and part of the pipeline that are in docker..
+a conference is going to provide life subtitles and transcription.
+a generic description of how people should look at the outputs is missing.
+if you could get directly in touch with [PERSON18], i will write-.
+i will unintelligible> an email..
+vicky mccartney has a week and a day of feedback to give.
+mccartney: if our outputs are so bad as they were yesterday, there is no point in collecting the feedback at all.
+mccartney: i haven't sent them the transcripts yet, because, uh, i shall have to rerun the transcript late..
+cnn's john sutter talks with cnn's john sutter about his new shortening project.
+sutter says he's working on the chopped training for english.
+sutter says he's not sure if it's relevant for others..
+uh, the problem is with czech because, uh, the [PROJECT11] speech has a, uh, less than three hundred thousand texts.
+and, uh, common with the [PERSON17] has fifty or millions of recordings.
+uh, the training pipeline on that, private data stood loader within the [PROJECT9], uh framework is a black box and it is quite complicated..
+i'm not sure if [PERSON19]'s [PROJECT5] will be active now, uh, when she is on maternity leave.
+i'll do it half and half without any further information.
+i would i would use the same number, the same amount from the two [PROJECT5]s..
+"apparently this matters" is cnn tech's weekly, offbeat look at items trending online.
+this week, jarrett looks at a problem with translating from german to english.
+jarrett: the problem is that the verb itself is not expected any sooner than the source verb was uttered..
+lz granderson: proportional alignment and proportional values will be comparable.
+he says it would require words to be emitted sooner than a previous word.
+lz: it would max out the rest of the sentence with the value of the previous word.
+lz: if you could come up with an example, uh, uh, this alignment would be perhaps even better..
+i would suggest that we do not max it with the proportional value.
+(PERSON6) because it doesn't make sense to me.
+(PERSON13) yes, exactly.
+so it should not lose anything in in delay.
+(PERSON6) yes, i think the only acceptable reason the translator didn't for example write this other word is waiting for this one..
+"apparently this matters" is cnn tech's weekly, offbeat look at items trending in the web.
+this week, jarrett looks at some of the things he found confusing.
+jarrett: i think that the current description is excessively detailed and confusing..
+the end of the world is like three characters proportionally from two, 0, four and four four zero.
+the formula should be based on characters at the end of the word.
+fe-, feel free to switch to persian for now if it's faster..
+there is nothing in the paper that would allow people to calculate this.
+the formula is very complicated.
+i'm thinking if this is simple enough to call it simple..
+i think from the 5th of january they- (PERSON13) the restrictions are over.
+i'm surprised if you still do not have that access.
+(PERSON2) yes, zarivar.
+yes, 29 and 28.
+yeah, i'm sharing the screen.
+so please check, right? (PERSON2) yes, it's correct..

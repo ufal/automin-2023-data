@@ -1,0 +1,32 @@
+Attendees: [PERSON7], [PERSON14], [PERSON13], [PERSON10], [PERSON3]
+
+Summary:
+let us wait until [PERSON15] and [PERSON6] get back from the break . 
+
+[PERSON4] may or may not join us depending on . And for the presentation platform by [PERSON15] and colleagues . But actually , [PERSON3] see the presentation platform slowly taking its form . And [PERSON3] hope briefly we can have raw example of its structure and working . But actually [PERSON10] have seen something which stopped working . 
+
+[PERSON10] are not yet working oryes [PERSON10] think that having a text client would be useful also for debugging . 
+
+[PERSON13] need to figure out what best way to test . And [PERSON10] do not know , could [PERSON10] could [PERSON10] explain what exactly we would like to have for this type of testing ? it'sPersonall , [PERSON14] 'm not sure exactly how will go , but fixings is because will require fixing the ASR , the segmentation and the MT from us , at the same time . Though , worker round that [PERSON14] can do that works somewhat is waiting between sending sentences . 
+
+[PERSON14] do not send all the sentences at once but wait . Actually , this week we work together with [PERSON14] and [PERSON6] , in order to find better workarounds . only for transcribing , having ASR output in order to train machine translation on this . also [PERSON5] needs to test machine translation by looking at the output of the online ASR . 
+
+[PERSON10] would suggest to focus on fixing the batch processing mode . 
+
+[PERSON14] think that is that is reasonable . 
+
+[PERSON14] would think that the segmentation is all prepared for offline ASR is reasonably close to what online ASR produces . what is needed in order that [PERSON5] can check that . For the offline ASR we will not have a worker . And [PERSON14] feat to this client , can [PERSON10] just repeat to [PERSON10] the exact set up for the testing of the [PROJECT1] worker connection . But [PERSON14] think we also have very similar offline systems . 
+
+[PERSON10] mean , what what [PERSON10] understood is that [ORGANIZATION5] have already connected together online ASR and machine translation system trained independently on the current state of the art . 
+
+[PERSON13] mean , [PERSON13] mean , [PERSON13] appreciate what [PERSON13] are saying that it may look different . everyday , [PERSON14] can send [PERSON10] some samples from the actual translator . 
+
+[PERSON10] think our main concern is not the quality of the translation , but the mismatch of the segmentations . That needs to be debugged and kills all the workers very quickly . 
+
+[PERSON10] think that we are just seeing again , the same bug . 
+
+[PERSON7] ask [PERSON7] to check it , but since we just agreed that we are going to use [PERSON7]'s  final we do not need it . The segmentation worker shares a lot of the code with MT worker and therefore will probably have the same problem as the text client for the MT worker . But [PERSON14] do not have a precise time . But the ASR workers are not reliable to debug it or . and [PERSON7] replied  The segmentation workers in [ORGANIZATION5] . 
+
+[PERSON14] do not think [PERSON14] have observed this with text very much . that probably , PERSON5] has probably restart it again . And the only common thing that [PERSON6] sees is actually the worker , , the sound client , the audio client . Even though it doesn't , [PERSON14] guess it does . PERSON3] have to check it better , [PERSON3] have to restart the mediator in order to check it . But [PERSON14] , take a note , that we need the reconnection . But actually , killing the client is useful only to in computational power on servers which was the workers . Or [PERSON10] is not happy with the machine translation that [PERSON10] 'm getting from that . But [PERSON10] understood that there is no way to switch , which of the sources is the one to be presented while the whole system is running . And present it , can there be more people monitoring the same presentation platform at the same time , that one would be checking the Spanish outputs , and one would be checking the Dutch outputs , and one rechecking the German ones , and they would like simultaneously make their decisions . actually [PERSON3] hope that this is not a something that we have to choosemany times during the conference . 
+
+[PERSON10] , just a technical question , our integration has ask [PERSON3] to report [PERSON3] , they are pretty care by the fact that 4000 people connects on the same WiFi network . Is the part of the mediatThis is [PERSON10]'s  decisions , [PERSON10] need to make these decisions .

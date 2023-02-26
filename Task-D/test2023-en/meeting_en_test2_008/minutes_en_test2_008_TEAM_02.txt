@@ -1,0 +1,86 @@
+(PERSON10) no, i think no.
+this proposal isn't important.
+it doesn't have sense to to discuss summarization.
+(PERSON4) i think we can drop.
+(PERSON9) i'm really worried about [PERSON7] if he can actually help us or not..
+the annotator has stopped.
+he just didn't finish the annotation.
+john sutter will open the agenda and send you the link so we can write it down.
+sutter says he doesn't understand what he's talking about..
+i'm saying that this, uh, uh, the process, is documented to the finest level.
+i'm not saying that the distinct decisions are made to the finest level.
+but we always must be sure about the fact, whether someone has processed this or not..
+PERSON7 has made the annotations to the same file, and that he wanted to name it.
+he asked him to make a copy of his document not to delete the lists.
+the process of the named entity removal has to be very clean, and we have to know at what stage of this process we are..
+a word type is the word as it appears in the dictionary.
+a word token is a particular instance of the word in a running text.
+if [PERSON7] is not available, that will be like seriously in need off..
+the typos in named entities are mainly because the people do, the annotators not knowing the correct spelling.
+if martin creates this list, it would not suspect all beginnings of words to be named entities.
+(PERSON10) the multi word ones are also a problem.
+(PERSON4) yes.
+and they are connected..
+lz granderson: if you have world war ii, you will have three words.
+granderson: we can ignore the identity or tracing of the identity of projects.
+he says there will be a lot of gaps in this type of output, but it's for the sake of time.
+granderson: i think it's important to know who said what and when someone referred to someone else..
+lz granderson: we can afford to ignore this type of chaining.
+but we should not ignore it for speakers and, uh, for persons referred to, he says.
+lz: we don't have to discuss whether this is the same jane or different jane..
+i'm not like so worried that i could de-identify this corpus.
+if i could lock myself in a sanctuary for a week, then i think it's doable.
+but it has to be a skilled person in in this, ah, like text processing.
+i'm happy to do errors in the second part, but i would be very unhappy to do errors in the first part..
+i would be very happy if we left english, german, czech and don't mix it up.
+the identification has to be done on both, of course.
+(PERSON4) leave english, german, czech and don't mix it up.
+(PERSON9) so a document is either the transcript or any minute version for that particular meeting..
+the key word indeed is the personal data.
+all person's data must be removed.
+the data set needs to be free of personal data.
+there will be a secondary or tertiary or final annotation stage..
+two consent forms have been created, one for publishing and the other for publishing.
+people who haven't signed those consent forms are not able to give us their consent.
+if they give us their consent now, we'll publish the data in the de-identified form..
+i'm a little bit lost in what should be done for the whole year.
+ideally every person would have all the meetings that he was taking part in.
+it would be leady this de-identified, but he would know the content..
+cnn's john defterios has created a web page to extract meta data from meetings.
+he says it's a pre-release of the corpus.
+he says it's a matter of putting it in a directory, wrapping it in a html uh.
+defterios: i think this is like a pre-release of the corpus..
+cnn's john sutter talks to cnn's john sutter on personalised emails.
+sutter: i think it's doable.
+it's kind of mail merge.
+we should ask people for bug reports, so this is a big value..
+i think it's doable for us in those kind of two months to have almost finished the de-identification.
+two months for us and then one month for them to answer.
+so they would answer within a week.
+and we would have three weeks to finish it..
+the data de-identification consent from participants should be done by february.
+i think that we will have the data at the end of february, and they should then do the consent.
+i think that [PERSON4] will be finished with the work type level annotation in two days..
+PERSON9 has created a lot of different things during christmas holidays.
+he is unsure if we should invite all of these people to the scientific committee.
+he thinks it's at least phd students.
+(PERSON9) if they are participating, so they could also be the potential reviewer..
+i'm now on the [ORGANIZATION9]sheet, uh, that you will created.
+i'm in the scientific committee.
+scientific committee, so that we have the same language.
+for this work better, the more personal we write it, uh, the better..
+cnn's john defterios asks if we should submit a proposal in january.
+he asks if we can have a scientific committee in ten days.
+defterios says he wants to send a list of people he wants to contact..
+i'm happy to ask ian unintelligible> if he would either himself be agree or have someone else to to suggest.
+(PERSON10) yeah, it is like, yeah okay.
+(PERSON9) so let's cut it short, uh, now.
+(PERSON10) yeah, it is like, yeah okay.
+(PERSON9) yeah, we should send this proposal to [ORGANIZATION7].
+and uh january 15th, we should be sending this proposal to [organiz.
+(PERSON10) mhm.
+(PERSON4) i think it would be better if you sent it to my candidates.
+(PERSON10) mhm.
+(PERSON4) as the leader of the [PROJECT1] committee.
+(PERSON10) mhm.
+(PERSON4) i think it's be better, i think it's better in english..

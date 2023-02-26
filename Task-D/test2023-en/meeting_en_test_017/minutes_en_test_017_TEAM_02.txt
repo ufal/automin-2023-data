@@ -1,0 +1,110 @@
+i'm not available on thursday and friday because i'm also not available on thursday and friday.
+on thursday and friday i officially have a vacation.
+i have something planned for thursday but it can be done on monday or - because i told [PERSON2], [PERSON2] set a deadline for us, for this, for today.
+(PERSON3) hm.
+(PERSON1) hm.
+(PERSON7).
+(PERSON6) i think this is ready for [PERSON5] so that he can start searching for reviewers.
+(PERSON7) i think the first, first chapter is ok.
+(PERSON6) i think so.
+(PERSON6) i think so..
+(PERSON3) are we unintelligible>? (PERSON9) it's not secret.
+(PERSON9) we can - we can - send him the whole thing and just tell him how it's unintelligible>.
+(PERSON7) and when exactly are we planning to send it to [PERSON5]? (PERSON6) sorry? (PERSON7) so please, please bear in mind that i will send it or i will send you an email notification that i am sending it but please.
+i don't know if i'll be here in the first and third week of july.
+i'd like to submit the paper to [PROJECT11] but withdraw it because the reviews were not very, very good.
+i'll rewrite the paper to [PROJECT11], to the deadline at the end of june.
+(PERSON9) we don't have a google calendar for [PROJECT2] right? (PERSON9) second week is, uh huh -.
+i think most of the deadlines shifted and nobody corrected it.
+i think most of the deadlines shifted and nobody corrected it.
+i'm taking vacation this week from thursday to friday and next week on wednesday..
+(PERSON6) i only - i only - i wanted to set meetings in some time.
+(PERSON6) next two tuesdays will, there will be meetings.
+(PERSON6) thirtieth we do have a meeting and the next week i am not here..
+i think we have now won't lead into something publishable in two weeks.
+i think we need several deadlines.
+(PERSON7) i think we need to s-, or, or wh-, what is actually the d-d-dead-, deadline for?.
+the official deadline for the book was the end of june but i think now that it's  um, we will not make it so, um.
+but i think that it can be postponed from, from the end of december to the end of january.
+i dont know whether it can be postponed many more.
+maybe it can but anyway if we postpone it we will not write so..
+if we ask for the covid nineteen postpone then we could use the money.
+if we have some new publication next year, i think we will get some money from other sources.
+(PERSON9) hm.
+(PERSON9) i don't know how they assess that..
+i think we will make it somehow.
+only thing is the book and, um, we have to spend all the money somehow.
+next meeting would be july, oh, no, no, july thirteenth.
+i'm still working on the attention, um, attention metrices and different patterns..
+cnn's john sutter compares the results of a neural machine translation study.
+sutter: "i don't know whether to, hm because it was some, it was some" sutter: "the balustrades are really, really sharp but, how to say it, not sharp".
+(PERSON6) i think it mostly comes from concentration of the distribution because in [PROJECT9], [PROJECT9] also something like balustrades.
+(PERSON6) i have also the blue on white, u-, you unintelligible> like bright - laugh> on black then i see those.
+(PERSON6) i think colors really negative unintelligible> sometimes..
+the book is one hundred fifty-eight pages and we still don't have anything.
+it's ok for a book to be one hundred fifty-eight pages.
+it's a good book if you can concentrate the main message without the details..
+the author has written twenty pages of text since he started writing.
+he says he will concentrate on visualisations of embeddings.
+he says he doesn't think he will be writing much about the new generative language models..
+i think it will be easier to  if i just write them on slack and we will discuss it there because i have to run anyway.
+up to component analysis it's almost there but, yeah, ok.
+maybe don't.
+i think there is a quite a big overleap or, um, i forgot what, what, what is, was..
+(PERSON6) hm.
+(PERSON9) i'm restruct-, restructured the section so now what should be definitely readable is like the structure.
+titles of sections and basically the things that are there mostly should stay there or be made shorter maybe or rewritten a bit but kind of the contents that's there should be mostly there.
+(PERSON9) hm.
+(PERSON9) and there is some things missing which are not there yet..
+"who is better", is, is, is a very bad title of the section.
+in general, this is what should be there.
+there is already quite a lot of syntax, actually..
+i think i'm missing still some of the key papers that find syntax in there.
+i have a section which is now called "semantics" and i'm really not absolutely sure which things belong into semantics.
+i think so, but i can't see it now..
+(PERSON9) it's probably safer.
+(PERSON6) it's safer.
+(PERSON9) it's easier to unintelligible>.
+(PERSON9) everyone is unintelligible> but at least it's safer.
+(PERSON9) it's easier to unintelligible>.
+(PERSON9) it's easier to unintelligible>.
+(PERSON9) it's easier to unintelligible>.
+(PERSON9) it's safer.
+i think we should have a section on morphology and syntax.
+i think we should also have a section on the context section.
+i think the last thing i really have is the effect of pre-training task.
+but i think it belongs here because i mean whenever you have something that fits into something here, feel free to put it there..
+(PERSON7) hm.
+(PERSON9) i dont know if we can just copy paste our paper.
+(PERSON7) hm.
+(PERSON6) if it is ok, i will write him like the official.
+(PERSON5) hm.
+(PERSON14) hm.
+(PERSON14) hm.
+(PERSON14) hm.
+(PERSON14) hm.
+(PERSON14) hm.
+(PERSON14) hm.
+(PERSON14) hm.
+(PERSON14).
+(PERSON6) hm.
+(PERSON6) i think we just remove the sentence level representations we decide nobody (wants) it.
+(PERSON9) hm.
+(PERSON6) i would like to send it maybe on thursday, so.
+(PERSON9) hm.
+(PERSON6) day..
+i'm writing now survey mostly about syntax in, um, neural networks.
+i'm using (mostly frozen) network and then probing it to find some syntactic information.
+i don't really, i don't send it to [PROJECT10] - (PERSON9) hm.
+(PERSON6) because i don't know if unintelligible> accept this kind of overviews..
+machine translation and recurrent neura-, neural networks are very similar.
+but machine translation and recurrent neura-, neural networks are very different..
+i'm not very good at visualisations.
+i'm fine with writing the text but there are not as many visualisations.
+(PERSON6) yeah, these are good.
+(PERSON9) hm.
+(PERSON6) fonts and - (PERSON9) hm.
+(PERSON6) and - (PERSON9) hm.
+(PERSON6) and - (PERSON9) hm.
+(PERSON6) and - (PERSON9) hm.
+(PERSON6) and - (PERSON9) .

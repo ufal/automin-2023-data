@@ -1,0 +1,77 @@
+Summary:
+
+* PERSON2 will translate the Czech text from the last mail for PERSON3 and PERSON8. 
+  -- Disc: They have to like replan everything now, because they are not going for special sessions. 
+  - Fact: The last mail is in Czech. 
+  - Disc: It is nothing serious. 
+* PERSON2 had a technical communication meeting. 
+* Papers for special sessions should fill the same criteria as all other papers and the same timelines. If it's a satellite event, it should be co-ordinated with something like <unintelligible> two more. 
+  - Fact: The articles are not in the proceedings of ORGANIZATION11. 
+* PERSON3 and PERSON8 are organizing a mini conference. They are going to handle the track alone. It is independent of ORGANIZATION11. 
+  - Disc: The program committee and key note speakers will choose the speakers. 
+  - Disc: ORGANIZATION11 will only be there for the track. 
+* PERSON8 and PERSON3 are going to refine the proposal for a satellite. 
+  -- Disc: They don't have any other option than to do that right now, because they don't know what else to do. 
+* The proposal is going to be different, so they need to figure it out. 
+* PERSON2 and PERSON3 will make a shared task at the next conference at ORGANIZATION2. They will also do a shared project at ORGANIZATION9. They want to do both at the conference, so they need to choose one or the other. 
+* PERSON3 wants to apply for a spoken language technology workshop, but the proposal for this year's workshop was in September, which was too early for them, and the next proposal would come for 2022, which would be too late for them. 
+  - Fact: If they don't get in the workshop, they will apply for either ORGANIZATION2 or ORGANIZATION11. 
+* PERSON3 and PERSON2 are going to participate in a shared task. ORGANIZATION11 will not allow them a space in the proceedings. 
+  - Fact: ORGANIZATION6 allows people to publish their papers at any time. The last time the time period between proposals, submission and final submission was 5 months, but this time it's only 3 months. 
+* PERSON2 and PERSON3 make a proposal for the workshop. 
+  - Fact: If they get it, they write to their participants and ask them to take part in the shared task. The participants are supposed to write a program and write a paper beforehand. 
+* For the special session, they have to follow the rules of ORGANIZATION11. 
+* PERSON8 and PERSON3 have to prepare their data for the workshop in 3 months. They have to get an ISC endorsement before submitting the proposal. 
+  - Fact: The last date of submission is February 8th. 
+* The workshop participants will be notified by March 15th if they are accepted. 
+* PERSON2, PERSON8 and PERSON3 decide when is the date for submitting the full papers to participants. If they conduct a separate workshop, they can set it up. 
+  - Disc: It is up to them to decide. The workshop is scheduled for the end of the month. 
+* PERSON8 and PERSON3 are going to do double work today, because they have a lot of work to do. They are preparing for a meeting with someone else. They have to prepare for both people. 
+* The deadline for the satellite event is February twenty-eight. 
+  - Disc: Before that, they have to submit the proposal any time and get an endorsement. 
+  - Disc: They have to do both. 
+* If they accept them both, they need to submit by January fifteenth. 
+* They need to manage this submission and do their thing. 
+* PERSON2 and PERSON3 are going to have a workshop. 
+* They need to find 12 participants, but they can do with 5-6. 
+  -- Disc: The organizer is doing the proceedings and stuff, so it's not a problem for them. 
+* They will go to both workshops. 
+* PERSON3 and others have to take out an institutional membership to submit their proposal to the ORGANIZATION1. 
+* They have to pay two forty Euros for the membership. 
+* They will ask PERSON7 if they have to ask him about it and he will forward them to PERSON6. 
+* PERSON3 has to prepare the proposal content for the workshop. 
+  - Fact: He has to study some other satellite events that he got accepted to an organization last year. He also has to make a website for their shared task and invite the program committee and organize the management. 
+* PERSON2 has probably published something in the Organization journal once or twice, but he didn't make a recheck or research about it. 
+  - Disc: He doesn't understand why it's important to ask ORGANIZATION5 or ask ORGANIZATION11 about the journal. 
+* PERSON2 is anti-organisational. 
+  - Fact: The ORGANIZATION8 journal was published in 1964. The core papers were in it. 
+* The participants might be interested in a publication in this journal. 
+  - Disc: It depends on the participants and if they are aware of it. 
+* PERSON8 and PERSON3 are going to give it some thought. They think the editorial board members are interesting to see, and they find it interesting that PERSON7 is there as well. 
+  - Fact: It's not indexed, but it's in ORGANIZATION5. 
+* PERSON3 and PERSON8 need to do a machine translation corpus linguist. They need to find out where it is indexed. 
+  - Fact: It is not indexed in ORGANIZATION12. 
+    -- Disc: It would be easy for them if they had to do ORGANIZATION8 or ORGANIZATION8. 
+* PERSON8 suggests going for the <unintelligible> workshop. 
+  - Fact: The proceedings would be indexed with ORGANIZATION3 anthology. The workshop is mostly on machine translation. There are no proceedings of any workshop or conference in the journal. 
+  - Disc: If they are to do it, they will use the Proceedings of any conference or workshop. 
+* PERSON8 and PERSON3 are going to publish in the proceedings. 
+  - Fact: They have to choose between ORGANIZATION6 and ORGANIZATION8. 
+  - Disc: ORGANIZATION8 is famous in the machine translation community. They will try to choose ORGANIZATION8 as it is more popular. 
+* PERSON3 wants to know if PROJECT1 hosts the conference proceedings of some conferences and workshops and if they will charge for that. 
+  - Disc: The conference proceedings are from ORGANIZATION14. 
+  - Fact: They will be indexed in <unintelligible> and all the major industry services. 
+* PERSON8 would have preferred PROJECT2 over PROJECT1. 
+  -- Disc: The quality of paper on PROJECT2 is very good. 
+  - Disc: It's open access and indexed by <unintelligible> directly from the website of PROJECT2, which is a positive point about it. 
+* PERSON3 will ask his other co-editors if they can do it as part of the <unintelligible> forum. 
+  - Disc: The forum has a big visibility among the IRN and PROJECT4 community, so it could be a good idea. 
+* PERSON3 and PERSON2 have to revise the proposal for the satellite event. 
+  - Disc: They will meet tomorrow to discuss the additional works they need to do. PERSON2 will read the proposal and write some chapters to the proposal. He will also help with contextual things. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

@@ -1,0 +1,52 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON3, PERSON10, PERSON6, PERSON9, PERSON1, PERSON2, PERSON7
+
+
+SUMMARY-
+ -PERSON1 is waiting for someone from ORGANIZATION3a to join the call.
+  There is only one administration user at the moment.
+  The authentication fee has been reintroduced so that only people participating in the event are allowed subtitles.
+  The credentials provided There is a problem with multiplexing of ASR workers.
+  The problem is at the client level.
+  There is no solution in the protocol.
+ -PERSON10 and PERSON1 are dissatisfied with the mediator's implementation of the ORGANIZATION2 project.
+  The machine translation workers are not working properly.
+ -PERSON1, PERSON9, and PERSON11 are trying to solve the problem.
+ -PERSON1, PERSON9, PERSON2, PERSON7 and PERSON5 are working on the event.
+ -PERSON7 will be around on Wednesday, Thursday and Friday, but not on Wednesday.
+ -PERSON1 and PERSON9 are having problems with the presentation platform.
+  They are trying to set up a server to stream the slides, but it's not working properly.
+  They need to make a platform running locally within the Wired Network.
+ -PERSON6, PERSON1 and PERSON14 will arrive on Wednesday around the 16 or 17.
+ -PERSON10 and PERSON1 are having problems with the presentation platform.
+  The release also implements the feature, which will allows them to select the source stream.
+  It will be impossible at the moment to distinguish which English is coming from which microphone at present platform level.
+ -PERSON10 and PERSON1 are working on the presentation platform.
+  They need to prepare the final setup.
+  They also need to test the ASR workers and the streaming off, stream of slides.
+ -PERSON10 complains about the presentation platform's presentation of the partial hypothesis output.
+ -PERSON10 will disable ASR for now and test it during the afternoon.
+ -PERSON10, PERSON1, PERSON9 and PERSON12 are going to meet tomorrow.
+  They need to confirm availability for debugging on slack.
+  There is a delay in the mediator in the admin interface.
+  There are empty workers but they are already in use by the pipelines.
+  English is the preferred language for output.
+  The subtitles will not be published even if there is no English available.
+ -PERSON1, PERSON9, PERSON12, PERSON13, and PERSON11 are trying to connect the, but it didn't work.
+  They need to keep debugging this afternoon and tomorrow and restart ASR workers as soon as possible.
+ -PERSON3 is available for Wednesday, Thursday and Friday PERSON3 is trying to create a website for the ASR workers.
+  He has no experience in coding in any web server package.
+  The workers know about the session IDs, but he doesn't know how to map them to them.
+ -PERSON3 has a problem with restarting workers that produce log files.
+  There are no session IDs for ASR workers.
+  There is only one ASR worker running in a screen session right now.
+ -PERSON9 is going to test all of ASR and segmenters right now.
+ -PERSON1 wants to know if the worker is idle or if it's responding.
+ -PERSON13 would like to know the session ID of the worker.
+  There were issues with the move from the old mediator version to the new one.
+  The workers are running on different services, so they need a function call to extract the session ID from the cloud packet.
+ -PERSON1's SSH access is not working.
+  He needs to restart the other workers to get it to work.
+
+
+Minuted by: Team ABC

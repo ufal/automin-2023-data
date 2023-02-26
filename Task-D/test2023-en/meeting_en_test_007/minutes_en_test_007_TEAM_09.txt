@@ -1,0 +1,122 @@
+(PERSON6) Oh, uh, uh, we're waiting for someone, maybe, uh, that is going to join us, but I'm not sure.There will be call on Thursday, you probably received the email from [PERSON4] already.It might be good for [PERSON10] to get more insight into the project itself, I guess, but again it's –
+
+(PERSON10) Sorry, this is, this is a meeting on Thursday?So, so, this is a call we have usually every month with the, uh, other project partners.(PERSON6) That's the good thing to check, because, uh, otherwise we, we should add you to the maidli– mailing list at least.(PERSON10) And maybe I have, I have one from [PERSON4] here, but no, it's about the, the GitHub.(PERSON6) You should rather look at that it's quite possible that you're not in the mailing list or, uh, yet.(PERSON6) It should be around 1 P.M.
+
+(PERSON2) So, it should be like –
+
+(PERSON10) Oh, we're having lunch in –
+
+(PERSON2) 1 P.M.?(PERSON2) N– no, sorry, sorry, [PERSON6], what, wh– wh– what did you say?(PERSON6) So, no, it might, it, it might be about 1 P.M. [LOCATION1] time, I'm not sure, what it is called.It's not [LOCATION1] time, right, it's, it's, it's, uh, different –
+
+(PERSON10) Well, it is, I think.(PERSON10) Somet–
+
+I call it like this, maybe, um, there's, there are other names, but –
+
+It's –
+
+(PERSON6) Probably it makes sense, so, (yeah).(PERSON2) Like simply said, it's 1 hour from now and 4 days –
+
+<laugh>
+
+From –
+
+<laugh>
+
+4 days and 1 hour from now.(PERSON2) <laugh>
+
+(PERSON6) So, okay, so, that's that.And also, uh, [PERSON1]asked me, uh, to tell you [PERSON10] that you s– you should think about the possibility that –
+
+Basically, the moment the travel restrictions are, uh, going d– go down.So, so, try to think about this, uh, as a, as a, as a mandatory visit.Like, I'm, I'm not sure how, how it would be handled.So, I just –
+
+This is a remark, uh, that actually comes from the, uh, like, uh, personal department.And, uh, the– they are not going against the law, but they are, uh, in a gap of the Czech law.Uh, and, uh, it is important for you to come in person to, uh, enter a proper work contract.Uh, so, uh, th– the hosting agreement and other paperwork that is being prepared really has to be used, uh, as soon as you can, uh, and as soon as you can arrive.Uh, and, uh, the length of your duration, uh, I would prefer you to stay here but I know you, that you, uh, initially indicated that you would like to stay, uh, remote, if possible.And, uh, it would be better for us and better for the project if you decided to take it as an opportunity and not as a, as a negative must.Uhm, as a negative duty.You, you will have to come, uh, for the paperwork and then you can possibly return and, and work remotely.(PERSON1) Yeah okay so –
+
+(PERSON6) I think we will keep you updated, uh, (when) we will <unintelligible> –
+
+(PERSON10) Okay, yeah.Uh, uh, tha– tha– there's a date for this, I mean, there's a –
+
+(PERSON1) The sooner, the better.(PERSON1) That is a paper that has to be shown to the [ORGANIZATION4] when you are applying for the visa.(PERSON10) Oh, I, I, I'm not sure about that.(PERSON1) If you please start checking, what would be the process for you to apply for, uh, for visa.I, I think that you at the moment, you cannot apply simply because the [ORGANIZATION4] is closed.Uh –
+
+(PERSON10) Okay.(PERSON1) But that –
+
+I know this for the Indian [ORGANIZATION4] because we have other people who are trying to come here and they really want to come, uh, is from India and they cannot.So, uh, I'm, I, I'm, I fear that the same situation is for [LOCATION1].(PERSON1) So, keep checking and –
+
+(PERSON10) Okay.(PERSON1) We will also, occasionally check for you and as soon as you can apply for visa, then please go for it.(PERSON6) Okay, so, so, I think that's care of the –
+
+That's it for the organizational stuff.Or I'm looking at it, at we are still waiting for –
+
+How, how is it with [ORGANIZATION3]?I, uh, nudged, uhm, [PERSON9] that he should do something and then, yeah, he, he starts to or like finish testing it and thanks to [PERSON3] for resolving all the issues that, that like [PERSON9] came across.And then I replied to him, I mean to, to [PERSON9], on Friday and I have no messages from [PERSON9] since last Thursday.(PERSON6) We can definitely raise that on the Thursday call, maybe it ne–
+
+The thing that the communication is not completely perfect and, uh.It, it's sort of like a –
+
+(PERSON2) Like it i– like it is fine, but, uh, yeah, uhm.The problem is that, uh, I think like [PERSON9] raises issues, new and new issues.(PERSON6) Yeah, so, definitely we can at least –
+
+(PERSON2) There is also, some objective problem with the quality estimation or I, I don't know maybe.<laugh>
+
+(PERSON6) No, no one is talking, right.We should, we should ask –
+
+(PERSON5) Sorry, is it better?(PERSON5) Yeah, uh, sorr–
+
+Uh, so, to comment on that, uh, the (certificate), uh, on the server of that (plane) who does the <unintelligible> just expired.And now, uh, the state is that, uh, [PERSON9] is preparing the leaflets, he would be handing out to, to participants and that's it.(PERSON5) But –
+
+(PERSON2) Yeah, something that he could prepare three weeks earlier and yeah.(PERSON6) <laugh>
+
+(PERSON2) <laugh>
+
+(PERSON6) Okay, so, so, next, uh, let's go to [PROJECT1].Like, I, I, get what, what, what is the progress right now.(PERSON6) So, that's the, that's the forty jobs that's are, that are on the cluster, or?<laugh>
+
+(PERSON6) (Like I've notice that you –)
+
+(PERSON2) <laugh>
+
+That's it.<laugh>
+
+But they are a low priority, so, you can –
+
+They are just minus one hundred priorities, you can skip them, if you, if you need.(PERSON2) Yeah, but, uh, every job takes two hours, so –
+
+(PERSON6) Oh, okay.(PERSON2) So, it's nothing that –
+
+(PERSON6) Yeah, yeah, that's, that's quite –
+
+(PERSON2) If you, if you (secure) your own job like in two hours, it will be on.<laugh>
+
+(PERSON2) <laugh>
+
+(PERSON6) So, ok, so, the –
+
+Let's, let's, let's –
+
+Yeah.(PERSON2) Yeah, we have to like in this week, I have to, uh, discuss things with [PERSON7], what should we do next.Okay, so, the, the –
+
+(PERSON2) I will also, maybe run this, uh, translation on CPUs, because there are many CPUs that are now not used, so, just to, uh, make it quicker.(PERSON6) Oh ye–, w–
+
+Oh yeah, we already discussed right that you're, you're, you're s– still catching up with the state of the art.And if I understood correctly, they were basically training a model to do the, uh, evaluation, right?So, the thing is that it might be useful, but I'm not completely sure whether we would like or how w–
+
+Uh, whether we can use it for the evaluation itself.But, yeah, I, I'm thinking that, that it might be implemented into the pipeline somehow, but –
+I– in my case, also, I, I, I, don't know, don't know exactly how we can add it or include it right now.(PERSON6) And it, it seems that it ma– might be useful that the, the approach they, they take there in in the paper, so, so, definitely good thing to keep that in mind.The, the problem is that if, uh, the decoder generates a sentence that is, uh, has the same meaning, but different words, maybe we have a problem trying to use just (blue), right?I think that the idea –
+
+I'm not sure –
+
+Like they, they, uh, uh, their argument about the metric being semantically sensitive, or what's the term?(PERSON6) Like the argument is that the [PROJECT5]is actually creating semantically rich representations, right?I think if we, if we sort of maybe take the pretrain model and, and fine–tune it during training it might be actually useful for, for this kind of distinguishing.Like, right, uh, I guess with paraphrasing or if we use it for example for paraphrasing, we might use the metric to, uh, estimate the sim– sim– simil– like semantic similarity, but still have the constraints to enforce some, some like surc– surface form.Like that's, that's, that's the thing that comes to my mind, but, uh, again, I also, need to look into it in more, in more detail.It's, uh, because of that, uh, like case of paraphrases, that bo–, <unintelligible> is in fact measuring the similarity, not the diversity, or?(PERSON6) No, so, I, I can –
+
+(PERSON2) Why do we need like another like non–standard metric?(PERSON6) Uh, well technically we can use it either for –
+
+Well, yeah, probably for the paraphrasing, right.And the thing is that we want to kinda guarantee a semantic similarity, right, which BLEU doesn't capture, because it's just using the surface forms during evaluation.But on the other hand, we like again, we can, we can force the system to choose different wordings, different phrases and this kind of –
+
+And this blurred metric can be used to guarantee that the, the, the paraphrase or the alternative sentence does not straight– stray away from the original meaning too far, right?Uh, the idea is that w– we could add as many, as many constraints we want and, and see ho–how many can we add until we lose the meaning completely.Uh –
+
+(PERSON2) Yeah, yeah, yeah, yeah, that sounds like fine.(PERSON10) Yeah, I, I don't know it was, uh, addition idea that I think that we can work on for now until we have new ideas.(PERSON6) Yeah, this is –  this definitely sounds interesting, because again, I think that the papers that do focus on the constraint decoding, they, they really don't evaluate it from this perspective, right?Still, still, I guess the metric can be, can be useful during the, let's say, some, some fine–tuning or development phase.And maybe later when we are ready to publish the paper, we should definitely still, uh, generate some subset –
+
+(PERSON2) Evaluate manually.Uhm, I'm not sure, do you want to have a longer meeting this week t– about the [PROJECT4], like?I was thinking, yeah –
+
+Okay, later, let's keep it that way.(PERSON10) Oh, but I –
+
+It's up to you guys.I'm, I, I'm okay, I will keep, uh, until I have new ideas or new alternatives –
+
+(PERSON6) Okay.So –
+
+Well –
+
+Let's pu– put it this way, like, if you, if you don't have a–anything to discuss, we can leave it at –
+
+Like leave it b– let it, be it for this week.And, uh, I'll, I'll try to ask [PERSON1]and we, we should, we should try to have a, a meeting for the task next week together with him.Ye–, uh, well but then I think like this, this might be a good, good approach to the, to the task.We'll, We'll see, we will see how much time it will take, depending on the, on the, on the time consumption, we can then, uh, shift to, uh, additional or another, another research direction.

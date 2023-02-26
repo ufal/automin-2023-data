@@ -1,0 +1,36 @@
+Attendees: [PERSON21], [PERSON16], [PERSON23], [PERSON10], [PERSON6], [PERSON20], [PERSON3], [PERSON15], [PERSON9], [PERSON2], [PERSON19], [PERSON5], [PERSON11], [PERSON12]
+
+Summary:
+[PERSON5] asked  Can X hear [PERSON5] now ? , [PERSON4] is responding , PERSON4] will join a little bit later . as [PERSON5] said , , for today [PERSON5] would really like to see the full workload ,all of [PERSON9]'s  imputs , , and all target languages in the presentation platform . and [PERSON5] would also like to test [those] . , [PERSON5] hear [PERSON9]'s  voice interrupted at times . how close is [PERSON5] to the microphone and andon . 
+
+[PERSON5] guess that should not be any problem . 
+
+[PERSON23] guess it should not , but [PERSON23] do not know about the capacity of the switch , [PERSON23] should check . And , [PERSON5] have not thought about the details , about the fingerprints , [PERSON5] [let] this to [PERSON3] . if [PERSON23] have any ideas what to ask , simply create a random questions we will [polish] this . and , this time [PERSON5] have a student journalist , a PhD . , [PERSON5] think [there] is many sensible ways how he can record something and still not record any of the participants , and not our [inper] iterpreters as well . 
+
+[PERSON9] do not need an ID card to enter this room , ehich is different from the normal premises of [[ORGANIZATION3]] . 
+
+[PERSON5] thing it is it is something that we all can sign that we are not going to leak anything and that will be very careful about the data and all that , but obviously , [yes] [PERSON2] have to decide . 
+
+[PERSON9] do not know what the setup would be . PERSON4] , [PERSON9]'s  microphone is now [very well] . 
+
+[PERSON3] [PERSON3] turned [English] off and [PERSON3] started German ,cause [PERSON3] struggled with [plunging] English and German at once . these words were uttered by [PERSON5] several minutes ago . [but and] [PERSON9] think that is that there still be incremental transcription problem to be [solved out] . 
+
+[PERSON13] had some kind of simple caching . [] Only the Romanian is running , but [PERSON3] cannot see any output from it . the very last published message [PERSON21] can se on . 
+
+[PERSON3] , should [PERSON5] [do the same] something ? Because [PERSON9] think that it is really important to have at least [PERSON22] and [PERSON13] participating this call . or [PERSON3] cannot share the screen , [PERSON3] we have there two ASR workers from English , which are available . And [PERSON3] just minute ago and they should output something , but they don't . 
+
+[PERSON3] asked  Can [PERSON3] stop sharing [your screen] ? [PERSON9] is trying to call in the office , . should [PERSON5] be all day it is from audio . By any chance , other recording and all the old recordings , for example from [PERSON4] . might be a little more difficult because [PERSON7] is not here today for medical reasons . We need to know when [PERSON10] are not going to be available . , make sure this does not again happen again that we are like reaching [PERSON10] and all the possible ways . but [PERSON10]'s  mail was around 6 p.m . oni sou taky v jinym formátu , než potřebujem . 
+
+[PERSON11] asked  [PERSON11] is the [LGcode] now , [at least] from [ORGANIZATION1] . probably he has going to metaphorum too , but [PERSON11] can ask him to look after it later . 
+
+[PERSON11] can [see] some traffic hitting a translation servers . 
+
+[PERSON19] asked  Can [PERSON2] hear [PERSON19] now ? , [PERSON9] cannnot [promise] it but we will [work] we will start work on it as soon as possible . 
+
+[PERSON2] got [PERSON2] is getting no output from the first one . 
+
+[PERSON19] could see [PERSON2] [with this] producing output because then it is writing something to the [logs] . Because when [PERSON2] try text instead of text , send it to ASR now . in the previous afternon and probably it is not possible , [PERSON9] is sorry . 
+
+[PERSON9] just want to be sure that we are able to provide the correct [source] language in the presentation platform . 
+
+[PERSON2] is going to finish the script .

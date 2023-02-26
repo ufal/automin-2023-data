@@ -1,0 +1,66 @@
+i'm not sure if [PERSON2] will be joining the project.
+i'm hoping to have this faster, but there is too many things to discuss.
+(PERSON1) yes, did you call h- did you ask him? (PERSON9) yes, he's in prague.
+(PERSON7) yes, he's already in iran, but uh, for a month or two..
+i- i- i support uh the goal of the thesis is to develop the tool, uh, which will help the annotations, but it's not to carry out the data uh an- and uh like uh, manage the process uh of de-identification.
+i'm- i'm in the corridor, so that's why i took the- the- the- the face mask laugh> unintelligible.
+cs student uh, who is also remote and busy, could do this over the weekend.
+uh, i don't think it would be a- a good idea, if we employed him on the project.
+uh, i'm not paying him on the project, because he would be effectively, uh, he wouldn't have the time, effectively so it would be only like, spending money on something which he cannot provide anyway because time is limited..
+m-hm: if you're skilled in- in these processing tools, but you don't have the time capacity, you can't automate your work.
+m-hm: if you're not skilled in- in these processing tools, you can't automate your work.
+m-hm: if you're not skilled in- in these processing tools, you can't automate your work..
+mr sanchez says it's possible to do this over the weekend.
+he says it would be good if people already were looking at the documents.
+mr sanchez says it would be a good idea if people were already looking at the documents..
+uh, the annotators can't edit those html files without uh, opening them in an editor.
+it's possible for the annotators to open them in word, in microsoft word, or whatever, uh an open off- uh, in libreoffice..
+if you cannot do it yourself, uh, would be to extract the, uh, s- the indicators, this is essentially indicators, uh, a- and put them into the, uh- the clean xml format.
+uh, i feel that if i modify this text, the comment has now moved, uh, with the copy pasting, and that's bad..
+i'm- i'm open for your suggestions, or maybe, maybe, you should, come up with that markup yourself.
+ideally we should, allow them to skip quickly through the instances of that.
+uh, are we going to show them only the sentences with the- with those- (words), or the whole text, and some (words) in it?.
+PERSON9 has invented a way for people to upload documents to google docs.
+if they are used, it's easier for us to keep track of when they are submitting.
+if they are using google forms, they can upload the documents to a specific folder..
+if we mark non-named entities, it's good for the people to validate that decision.
+if there is a name which is not red, or if there is a non-name, uh, it's green.
+if we mark non-named entities, it's good for the people to validate that decision.
+if we mark non-named entities, it's good for the people to validate that decision.
+if we mark non-named entities, it.
+i think that's probably everything f- that you needed from me for this uh, uh, pipeline.
+we now need the web page to be completed, so that we can uh ask the people, right? (PERSON9) yes, so i will- (PERSON9) sorry, okay, continue..
+i'll make the website ready within maybe one or two hours, and let you know that it's ready.
+i also (ported) the website in the ([PROJECT1] github.
+(PERSON5) is not on this call.
+is- she normally would be probably coming, right?.
+i've seen your request, uh, the regular email, but the link is buried somewhere in my inbox.
+i'll try to locate it and may- like, please help me locating it.
+i need to make someone host now, and whoever, i'll make [PERSON9] the host of this meeting?.
+cnn's john sutter is a freelance writer.
+he's working on a book he's working on.
+he's working on a book he's working on.
+sutter is working on a book he's working on.
+he's working on a book he's working on.
+sutter is working on a book he's working on..
+cnn's mike downey says he's almost done with the proposal.
+he says he'll talk a bit more about it in a few more minutes.
+downey says he's still working on the website..
+(PERSON9) i'm still not very confident towards flying now, because there is a new variant.
+(PERSON1) they say that it's not really weaker, because you know, any person who is h- having a comorbidity, is susceptible, towards that.
+(PERSON9) i am diabetic, so, that's why i didn't go to russia on this christmas..
+i'm just waiting for a downward train to that, uh, uh the vaccines are working.
+there is a (margin) of error, for all of them, but it has the ability, to stop the spread.
+i think it's positive, because the various pharmaceutical companies that have come up with the vaccines are more than 90 percent accurate..
+aha, aha, portal requirements, aha.
+but we don't have scientific committee.
+(PERSON1) uh, registration.
+on the (second page) it's extremely long.
+(PERSON1) uh, registration.
+on the (third page) it's unintelligible>.
+(PERSON9) uh, you can also put your web page, and uh, i will just check it out and put your uh, website there..
+i'm a bit fluent of what to do, and what not to do.
+i'm good at personal things and then, very bad at group things.
+i'm a bit fluent of what to do, and what not to do.
+i'm a bit of a skeptic, but i'm not a skeptic, i'm a skeptic, i'm a skeptic.
+i.

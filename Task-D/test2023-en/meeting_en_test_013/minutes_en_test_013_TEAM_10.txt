@@ -1,0 +1,6 @@
+Attendees: PERSON4, PERSON2, PERSON14, PERSON15, PERSON8, PERSON9
+
+ * [PERSON8]: I had to replace them in the released files with the with just language or nation names.
+ * Yes,so on the third sheet forced alignment inputs.I've just done a the yellow lines, which is a good input for [PERSON14].
+ * He is already for the separation, and he should run the alignments, and produce OST files out of us to OSTP plus ASS files.
+ * [PERSON4]: I will clean everything tomorrow.

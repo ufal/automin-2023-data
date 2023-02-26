@@ -1,0 +1,20 @@
+-Monday 20th of May at ten will discuss the presentation platform perfect, integration with [PROJECT and [PERSON.] And resolve the platform perfect.
+-This is the big question mark, yes, we have tried creating corpus of incomplete sentences, and we are continuing training our sentence level training for these incomplete sentences.
+-The main problem is that we don't have enough time to fix the cashing client, because what we really want to do is to have incomplete sentences for the user experience.
+-This is where the segmentation worker has decided to end the sentence right?,
+-Analyze the output of the individual segme individual tokens from the unsegmented output to see if the timestamp falls in the range that is like operational in the segmentation worker.
+-What d in general if we run segmentation worker, we should train our empty systems work on all individual lines that we are getting from these segmentation workers, right?
+-The output that we get from the mock conference with the interpreters, is this output of seco English unsegmented text, text. This is the segment English segmentatiton worker, and we are getting outputs like this.
+-Try to translate partial sentences and even more sentences in one go.
+-Try translating this sentence from English to German: 'I don't know if it is here, we are still getting good translation of that sentence.
+-Validate the timestamps for the individual parts like here internet full stop and then we should decide how we should proceed.
+-Adaptatiton is the process of adapting the language model to the different types of data that can be collected from various slides, for example, the presentation slides.
+-The Czech ASR.
+-The connector to the main client should be able to speak now.
+-The machine translation systems multilingual English tool for this is not working for the student, because he knows how to train PROJECT, but somehow it doesn't work for him.
+-The data input for the fine tuning is still collecting.
+-Tuesday June 19, we'll learn from [PERSON, which is an empty system that emits outputs in such a way as to directly connect the English system to the German system.
+-The problem is that we don't have enough output system transform model that would work for us to get the right result.
+-Take note of German ASR to English machine translation and the presentation platform at the German ASR [ORGANIZATION German language machine translation, that's the idea of pivoting.
+-What does this German ASR presentation say about the idea of the [ORGANIZATION platform, laugh>, and then on to English worker side.
+-Now we need to take paralel text only corpus then we try on the output from ASR with errors against original targets and try again on the same target.

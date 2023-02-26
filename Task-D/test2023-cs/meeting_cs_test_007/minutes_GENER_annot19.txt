@@ -1,0 +1,35 @@
+Účastníci: [PERSON16], [PERSON15], [PERSON8], [PERSON9]
+Účel schůzky: zhodnocení úkolů za rok 2019
+Datum schůzky: 18. 12. 2019
+Shrnutí schůzky:
+- Secondary report je do 15. ledna
+- je to omezené na 3000 znaků
+- na [OTHER5] chybí u WP1 sumarizace textu
+- [OTHER6] DEMO nefunguje
+- dokončit experimenty, jak zachycují morfologickou a syntaktickou informaci RNNka – není dokončený článek
+- WP3, bude se pokračovat v analyzování attentionu, v transformer architecture – bude na to jeden článek
+- experimentovalo se s multilinguálním BERTem
+- WP4 bylo zrušeno minulý rok
+- WP5 zkusit zrušit
+- WP6 jsou slovní embeddingy – rozmyslet se, zda to nechat nebo posunout na další rok
+- končí [OTHER5]
+- úvazky budou navržené jak nyní
+- chybí 2 články v časopise
+- jedna možnost domluvit se s [PERSON22] a předělat jeho diplomku
+- jeden další článek minimálně v PMBL
+- podívat se na jeden článek, a dohodnout se, co s ním udělat, byla by možnost ho poslat do PMPL
+- [PERSON1] bude dělat asi Ph.D. a bude zkoumat multilinguálního BERTa, dělat unsupervize machine translation, mapovat na sebe prostory embeddingů
+- článek by měl být How multilingual is multilingual BERT
+- ukazuje se, že multilinguální BERT není moc multilinguální, jsou již i jiné přístupy
+- první článek v roce 2017 byl takový, že nejdřív se udělaly dvojjazyčný slovní embeddingy, ty se namapovaly, pak se trénoval denoising jednojazyčný, a to se dělalo tím samým RNN pro oba dva jazyky
+- 2018 přišly frase based, natrénovali embeddingy engromů, udělali frázový tabulky a v cílovým jazyce, language model
+- v březnu se rozhodnout, kdo se zapojí do grantu [ORGANIZATION9]
+- napsat knihu
+- do června, července musí být napsaná, a pak se to musí dát recenzentům
+- je potřeba si rozdělit kapitoly a dát tam všechny související články, které jsou přečtené, aby byla představa o tom, jak bude vypadat
+- je možné ji rozdělit na syntaxi a sémantiku a morfologii, anebo na probing a attentiony a jiné různé věci
+- pro každý článek mít taggy
+- teď je knihovna strukturovaná tak, že jsou tam zvlášt attentiony a zvlášť embeddingy
+- [PERSON25] bude pokračovat na něčem jiném
+
+Zapsala: [ANNOTATOR1]

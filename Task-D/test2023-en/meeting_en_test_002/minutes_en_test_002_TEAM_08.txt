@@ -1,0 +1,37 @@
+(PERSON3) So, [PERSON11] was sending me me a e-mail that he might be a little bit late. Yeah, we can- we can start with the [PROJECT3] I guess, because [PERSON6]can provide feedback, right? (PERSON6) Um, but I'm not sure whether I should talk about it, when uh-
+
+[PERSON11] is not here. (PERSON6) Uh, yeah, just today I finished the uh, the reviewer comments. (PERSON6) And I could just briefly comment on the number of participants. Where we just see whether it all works and just write a small paper out of it. (PERSON6) And w- we just thought this was going to be like small paper, but-
+
+(PERSON3) Mhm. But uh I think the k- the big paper is not happening, because there is just no, any data. It seems like he should be- ready, but he didn't send me a message or anything, so I don't know. So uh, it's not even expected to- to have results for- for this- this deadline, right? [ORGANIZATION6] is N, double A, I don't know CL <laugh> I don't know how to say this names yet, but it's November the- the deadline. (PERSON8) [PERSON5] uh, told us about the the data set that has multip- multi-reference. Uh we have a data set of very many uh Czech reference translations. So f- uh we have only 50 unique English sentences and each of those was equipped with as many references as people could come up with. And that's uh, if I'm not mistaken about six hundred unique uh- source sentences. And then uh we also have uh, some year of [PROJECT6], where um the uh German was translated directly into Czech. Like uh the same one we had uh last week, so, where we can- we can dis- discuss the things in more detail. Uh only that we are formally starting with uh with that thing, and uh they should uh find translators, and uh the overall budget available is lower than we uh we were hoping for, uhm but uh-
+
+So now they will uh come up with some number of translators to do the post-editing, and uh the- the price, and this will give us an estimate on the total number of sentences we c- can uh uh, dew. Uh and then we will discuss uh with [PERSON7], whether this coverage will be sufficient, so that we would trust the numbers or whether we would somehow have to do it differently. And-
+
+(PERSON5) Oh- <unintelligible>-
+
+(PERSON3) So so the thing is that <unintelligible>-
+
+(PERSON6) [PERSON11] and I are (very) frustrated. (PERSON3) Maybe it would be good idea to ask who is taking over, an- and and start uh, bothering the other person with- with this. So <laugh> we should uh, count on the option that they totally fail to deliver anything useful. Uh, but you know, I've looked at the website and it seems, like, eh it is progre-
+
+But I'm not sure how how old that advertisement is-
+
+(PERSON6) Well, the the issue is that we already agreed to do, to do the writing and so on. (PERSON3) Yeah, I think I think that's-
+
+(PERSON11) Or- or or or- at least to train a systems with uh with uh all the data, all the monolingual data, just to see whether it helps or not with- with this monolingual data included. Uh well if you need some some technical help, uh let- let me know, I can probably chip in. (PERSON3) Uh, and maybe last thing [PERSON5], uh there is uh uh I've I've noticed that there is a system demonstration (tract) in [ORGANIZATION6]. Like it would be nice dissemination, it would be, good <unintelligible>-
+
+(PERSON5) That's right, so they-
+
+Uh s- uh the web page for uh the call or uh the call for demos uh was empty, and is still- it is still empty. (PERSON5) It's uh-
+
+I think it's always a paper, well I always expect a-
+
+(PERSON11) Yeah, okay. So-
+
+(PERSON11) Yeah, but it is it is already enough for the [PROJECT1] paper, like-
+
+(PERSON3) Mhm, mhm. (PERSON6) Like like we are looking for native English speakers, how are we supposed to disseminate this? Yeah, I- I know like I'm really dissatisfied with this and I know that uh, this should be-
+
+(PERSON6) But are- are we supposed to-
+
+I-
+
+Do we get Engli- native English speakers, via this channel?

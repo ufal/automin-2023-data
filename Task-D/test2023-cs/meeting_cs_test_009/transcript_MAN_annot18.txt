@@ -1,0 +1,863 @@
+(PERSON10) Čau.
+(PERSON2) Čau.
+(PERSON12) Čau.
+<other_noise/>
+Eště nikto niestě na [ORGANIZATION1]?
+(PERSON2) No, já počítám, že tam budu zejtra.
+(PERSON10) <unintelligible/>.
+(PERSON12) Teraz mi to splynulo dohromady.
+Niekto zajtra povedal niekto teraz?
+(PERSON4) Já přijdu zejtra.
+(PERSON12) Jo, aha.
+(PERSON10) Já sem tam byl minulej tejden na chvíli.
+(PERSON12) Aha.
+(PERSON10) Tak <unintelligible/>.
+(PERSON12) Já sem tam aj chcel ísť, že tento týžděň tam zavítám, ale dneska som si to rozmyslel kvoli tomu počasiu.
+<laugh/>
+(PERSON10) Hm.
+Tak zejtra je [ORGANIZATION1] pivo, ne?
+(PERSON4) Jo, mělo by bejt.
+(PERSON12) Je [ORGANIZATION1] pivo, ale já neviem, či to úplně ta zahrádka je dobrý nápad.
+<laugh/>
+(PERSON4) Jestli je otevřená?
+Nebo co myslíš?
+(PERSON12) No, tak vonku bude asi tak dvanácť stupňov, ak nebude pršať eště k tomu.
+(PERSON14) Ahoj, ahoj.
+(PERSON13) Ahoj.
+(PERSON14) Sleduju, že -
+(PERSON2) Ahoj.
+(PERSON14) Sleduju, že plánujete pivo, jo?
+Podle počasí jo, nebo co?
+<laugh/>
+(PERSON12) Jo.
+(PERSON4) No, eště se uvidí.
+(PERSON10) Bude 14 stupňů, no, tak pudem na chvíli a když tak pudem pryč.
+(PERSON12) No, ako hej, no.
+(PERSON13) To je zima.
+(PERSON4) Jako mně to problém nedělá, že jo.
+Já to mám 5 minut od baráku nebo 10.
+(PERSON13) Jé, jé, [PERSON2].
+(PERSON2) Ahoj.
+(PERSON13) Ty seš, ty seš tady?
+<laugh/>
+(PERSON2) No, jasně, kde jinde bych měl bejt?
+(PERSON13) A už máš internet?
+(PERSON2) Jo, jasně.
+Dneska mi ho zapojili konečně po třech tejdnech.
+(PERSON13) Óóó.
+(PERSON14) No a najednou kvalita je mnohem lepší.
+<laugh/>
+(PERSON2) No, ale před-, ale je to úplně stejnej internet, jako sme měli na tom Karláku.
+Jenom ho přesouvali semka na Prosek.
+(PERSON14) Hm.
+(PERSON10) Ty seš na Proseku, jo?
+(PERSON12) <unintelligible/> všeci asi.
+(PERSON2) Jo, jo, no.
+Na dálym severu, potřebujete vízo, abyste se sem dostali.
+<laugh/>
+(PERSON4) Já chodim nakupovat na Prosek.
+(PERSON2) Kam chodíš?
+(PERSON4) No, do Billy.
+(PERSON2) Do Billy.
+Já chodim do Lidlu, která je, kterej je sice dál, ale maj tam aspoň něco k nákupu než, já mam tady nejblíž Penny ňákej a ten je hroznej.
+(PERSON4) Jo.
+(PERSON14) Tak.
+Eh, no.
+(PERSON4) Do Lidlu taky občas dem.
+(PERSON13) Tak -
+(PERSON14) Rád vás všechny vidim, já si kameru nezapnu, stejně je tu tma v pokoji.
+<laugh/>
+A, eh, s-, no, tak se pusťme do toho, ať stihnem dnešní půlhodinu, ne?
+(PERSON10) No.
+(PERSON4) No, dobrá.
+Tak, eh, díval sem se deliverable, eště tam nic nepřibylo.
+(PERSON14) Hm.
+(PERSON4) Já sem se k tomu taky ještě nedostal k tomu svojemu, ale já nevim.
+Za sebe tento týden už tam něco přidám a nevim, jak ostatní.
+(PERSON12) No, já som sa dneska na to pozeral, eh, prvykráť a teda zjistil som naozaj, že nič nepribudlo.
+(PERSON4) Hm.
+(PERSON12) Takže som aspoň sa pokusil rozhodiť tam to-dočka na ludí.
+(PERSON14) Hm.
+(PERSON4) Jo, jo.
+(PERSON12) Nezostalo mi žádné to-dočko pre, pre [PERSON2].
+Neviem, či si chce niečo zobrat, alebo o niečom tam chce písať?
+(PERSON14) No, [PERSON2] by moh přispět nějak jako vo datech, ne?
+Ten novej Chang.
+Ale to je do jinýho spíš.
+(PERSON12) No, právě, nevim, no.
+(PERSON2) Chang tam sp-
+(PERSON12) Jinak som to tam roz-, rozdělil som to tam asi tak nasledovně, že som vytvoril, eh, štyry kapitoly předbežně, štyry sekcie, source complexity, source variation, <unintelligible/> alban translation a <unintelligible/> multiple sources in alban translation.
+Eh, source complexity buděm já s tými BERTími experimentmi.
+(PERSON14) Hm.
+(PERSON12) Niečo by tam mohol napísať aj [PERSON10] s tým xlm -
+(PERSON10) Hm.
+(PERSON12) Čo sme zkůšali chvilu.
+Eh, a potom verím, že tam napíšu niečo [ORGANIZATION4], čo sa týká teraz toho QE pre [OTHER2], ktorý snad niejaký, v niejaké verzi budě a budě -
+(PERSON14) Hm.
+(PERSON12) Pre ten, eh, pre ten deliverable.
+Source variation, tam mám iba toho [PERSON5], ktrorý robil ten parafrazing.
+Eště mi napadlo, že by tam mohla [PERSON8] niečo napísať o <unintelligible/>.
+(PERSON14) No, to je dobrej nápad.
+(PERSON13) [PERSON8] říkala, že se bude účastnit těchle meetingů.
+(PERSON12) Dobre, tak já tam pridám [PERSON8], aby tam prid-, aby napísala niečo, ono to prostě niemosí úplně sůviseť s tým [OTHER2], ale to sam nějako zakomponuje.
+(PERSON14) To je super, no.
+Hm.
+(PERSON12) Takže source variation [PERSON8] a [PERSON5].
+Environment, to je [OTHER2], takže to já s [PERSON11] v podstatě.
+(PERSON14) Hm.
+(PERSON12) Eh, a posledné explorating multiple sources in alban translation, tak tam [PERSON4], eh -
+(PERSON14) Hm.
+(PERSON12) Tie niejaké initial experimenty, a potom [PERSON10] so mnou, čo sa týká tých multiple parafrazes.
+(PERSON14) Jo.
+(PERSON12) A ďale mi nič něnapadá, že čo sme tam eště chceli.
+Eště neviem, či tam by sa možno hodilo, ale neviem v akom je to stave, ten, eh, lost in back translation, ak tam chcetě niečo, alebo [PERSON11] ak tam chce niečo napísať o tom.
+Tak tam možem eště vytvoriť <unintelligible/>.
+(PERSON14) No, je pravda, že u lost in back translation jaksi selhal ten nápad, protože se nám zdá, eh, že toho je strašně málo, kdy se něco vopravdu ztratí.
+A -
+(PERSON12) Hm.
+(PERSON14) Myslim si, že ten nápad na článek jako takovej je teďka kvůli tomu vodloženej, eh, ale -
+(PERSON12) Jasně.
+(PERSON14) Ale už k tomu bylo, nebo není?
+(PERSON2) Hele nevim, jak, jako teďka z mojí strany je to pozastavený, protože tam, jak to říkáš, je to takový, že nemáme, eh, moc dat, který by se daly vidět.
+Se slyšim hrozně v ozvěně, to je strašný.
+(PERSON14) Já taky.
+Někdo, někdo se ztlumte, kdo máte hlasitý -
+(PERSON12) To je asi odo mňa.
+(PERSON14) Kdo máte hlasitý repráky, tak si je ztlumte.
+(PERSON12) To asi je moje, no.
+(PERSON14) Jo.
+(PERSON12) Tak počkajtě.
+(PERSON2) Eh, jo -
+(PERSON14) No.
+(PERSON2) A takže je to pozastavený, ale každopádně si stejně myslim, že to je dobrej nápad, jenom nemáme, jak to vyhodnotit.
+Takže teoreticky, eh, jak sme tam naposled mluvili vo tom, že bysme sehnali ty anotátory nějaký, ale s, no -
+(PERSON14) Udělejme to tak.
+Určitě tam prosim tě, [PERSON12], přidej jako pro to playhold, teda jakože to tam chceme dát a ne-, nechceme tam dát ten název, jo, to lo-, lost in back translation, to tam bude jenom jako schovaná poznámka, aby my sme to poznali.
+(PERSON12) Jasně.
+(PERSON14) Ale spíš, že je to analýza problému, který může backtranslace zakrejt, a, eh, tam bysme měli dát přesně to, co [PERSON11] už připravil, eh, a to, co my sme jako komentovali s [PERSON2].
+Prostě jako technická zpráva vo tom, že ten problém teda vlastně tak častej neni.
+(PERSON12) Jasně, jasně.
+(PERSON2) Já bych tam ale jako, byl bych opatrnej i s tím, že s, není tak častej, to, že my ho na těch datech, co sme zkoušeli, se to tolik neprojevuje, když sme projeli pár stovek příkladů, je otázka.
+Jakože spíš -
+(PERSON14) No, já myslim, že se dá říct, že není častej, ale ne, rozhodně se nedá říct, že není závažnej.
+To je ten problém, jo?
+Jakože -
+(PERSON2) Jo, takhle.
+Jo, to jo.
+(PERSON14) Jo?
+(PERSON2) Jo.
+Jo, jo, ne-, nevyskytuje se prostě -
+(PERSON14) Čili závažnost nedokážeme usoudit, protože sme to prostě nenašli dost často.
+(PERSON2) Hm.
+Jo.
+(PERSON12) Já čo som si všimol v tých [OTHER2] datách mi to, mi to hněd napadlo, keď som to viděl a som vám to chcel napísať, potom som zabudol.
+Neviem, či stě, že jeden z takých zaujímavých prípadou, eh, toho lost in backtranslation je vlastně, že keď prekladáš z češti-, z angličtiny do češtiny, tak sa ti može stať, že vlastně do té češtiny, že sa to preloží niečo, kde by si chcel vykať, ako tykanie.
+(PERSON14) Hm.
+(PERSON12) Alebo sa to preloží ako něsůrodo.
+Že jedna veta tykanie, druhá veta vykanie.
+(PERSON14) Hm.
+(PERSON12) A ty to nezistíš tym backtranslation, že sa tykalo, že jo, zle.
+(PERSON14) No, to je důležitý.
+A to může bejt jako velmi závažný.
+(PERSON12) To som, to som viděl tam viackráť v tých -
+(PERSON14) Hm.
+(PERSON12) Dátách, keď sa to prekladalo veta po vetě, vlastně tie, eh, tie formuláre -
+(PERSON14) Jo.
+(PERSON12) Tak tam naozaj prostě jedna veta bola ako tykačka a druhá vykačka.
+(PERSON14) Hm.
+(PERSON12) A tak, no.
+(PERSON14) No, to je blbý.
+(PERSON2) Hele, s tím mi přijde i je docela problém, jak já sem na začátku roku dělal ten geneder bias v překladu tou backtranslací, dost podobnej experiment, takže tam bylo, že on občas zvolí ženskej rod, občas zvolí mužskej rod, což přesně taky jako z angličtiny do češtiny a zpátky nepozná, protože v angličtině nemá ten rod.
+(PERSON12) Hej, hej.
+(PERSON2) Ale on ten rod v tý češtině nezachovává čistě mužskej, ale, bezpříznakovej, že by byl, ale von tam -
+(PERSON14) Podle dat, náhodně.
+Tam Náhodně a ani jakože my kolikrát sem přemejšlel, jakou mohl intuici zatím, že prostě jako možná jenom tam byl zrovna ňákej film s titulkama, kde to zrovna to slovo bylo tak často v ženskym rodě, že.
+Jo, že to nebylo o to -
+Anebo klasický příklady jako pretty teacher se přeloží jako pěkná učitelka a smart teacher jako pěk-,eh, chytrý učitel.
+(PERSON14) Jo, jo, jo.
+Tak to je dobrý.
+<laugh/>
+(PERSON2) Tak to.
+(PERSON14) No, no, tak to sou vlastně jasný jako, eh, to je ten obsah toho článku lost in backtranslation, že jo.
+A přesně tydlety systematický jevy a my teda tady k tomu se musíme vyjádřit vlastně, jak to teda vošetříme, když ten zdrojovej jazyk, eh, ten rys nemá.
+Abysme tudle informaci správně tomu člověku dali, tak my bysme měli naschvál jako trénovat ten model tak, eh, aby angličtina tydle rysy vodhalovala, jo?
+Jakože you_, eh, s, eh, polite, anebo tak něco.
+Že my bysme měli připravit ty zpětný modely pro tu backtranslaci tak, aby v těchhle gramatickejch rysech, kde to víme jasně, tak to paralelní data prostě byly jako vylepšený a byla to vylepšená angličtina, eh, která to vodhaluje.
+(PERSON2) Hm.
+(PERSON12) Hm.
+No.
+(PERSON14) Což nemusíme teďka udělat, ale minimálně jako tady vo tom napsat prostě půlstránku, eh, a, a ukázat, jak to jako chceme udělat, tak to za to stojí teda.
+(PERSON2) Ale mně by to i mimochodem ale i přišlo zajímavý třeba pro letošní WMT, protože tam jeden test suit.
+(PERSON14) No, ale to, jako na to je čas, eh, teď ještě sem to furt nenapsal na web, ale bude to 30. května, eh, kdy ty test suits zdrojový strany mně musej, eh, přijít.
+(PERSON2) Jo.
+(PERSON14) Takže jestli vymyslíme test suit na todle, tak super.
+A potřebuju prostě zdrojovou stranu v jakýmkoli WMT jazyce a instrukci, do kerýho jazyka to má jít, a já to tam přimíchám a všichni nám to přeložej, a my pak uvidíme, kerej systém se s tím jak vypořádal.
+Takže je 20 dní necelejch na to, eh, připravit zdrojový strany.
+(PERSON4) Hm.
+Tak jo.
+A jo, už máte přímo rozdělené, kdo to, kdo to bude dělat?
+(PERSON14) No, to nemáme ještě vůbec.
+Eh, píšem z tohodle někam zápisky?
+(PERSON4) Eh, snažim se dělat nějaké aspoň poznámky.
+Teďka, teďka tam musím udělat jenom odrážku -
+(PERSON14) Jo.
+(PERSON4) Lost in BT.
+Ale asi sem tam nezapsal úplně všechno.
+(PERSON14) Hm, jo.
+Čili to je todle, eh, udělat na to test suite, eh, do 30. 5. [PERSON14] poslat zdrojové věty.
+Tak, eh -
+(PERSON2) A jinak, když sme u toho WMT, [PERSON14], eh -
+(PERSON14) Ano?
+(PERSON2) Co přesně, [PERSON1], má udělat s tím test suitem?
+Já to teďka to s ním řeším a on dostal prej mraky souborů, teďka mu [PERSON13] poslala, eh, ty data -
+(PERSON14) Jo.
+Jo.
+(PERSON2) On má jenom na to kouknout, jestli tam je něco divnýho nebo?
+(PERSON14) Eh, ano, přesně tak.
+My, my se na to nechceme koukat, protože ty v tom soutěžíš a já taky jako chci mít vod toho větší vodstup, když můžu.
+A von má jenom prostě zkontrolovat, že to po řádkách sedí a že tam není ňáká jako formální hrůza systematická.
+(PERSON2) A já myslel, že von dostane už jeden soubor, jak je to klasicky na WMT?
+Von jich dostal ňákejch 130?
+(PERSON14) No, tak to se akorát nějak zkonkatenuje nebo tak, jo?
+(PERSON2) Jo, eh, eh, ne, spíš jenom, jestli to je nějaký jakože sou to dokumenty nebo takhle nebo -
+(PERSON14) Je to, jsou to dokumenty.
+Ano.
+No.
+Jo.
+(PERSON13) To byly ty, ty novinový články.
+(PERSON14) Ano.
+(PERSON13) A, eh, ty překladatelé to prostě překládali a ukládali co článek, to nový soubor.
+(PERSON2) Jo, dobře.
+A <unintelligible/> mám potom poslat kompletně to konkatenovaný nebo v těchhlectěch datech?
+(PERSON14) Hm, hm, to je jedno.
+Jako von ty dokumenty potřebuje.
+Eh, eh, dokonce asi -
+(PERSON2) Tak já mu to pošlu takhle a když tak mu to -
+(PERSON14) No.
+(PERSON2) Von si to když tak zkonkatenuje, to řešim kraviny.
+(PERSON14) Ano, přesně tak.
+No.
+(PERSON2) Jo.
+(PERSON12) Okej.
+Možme zase zpeť k [OTHER1]-, [OTHER1]?
+<laugh/>
+(PERSON14) Jo.
+Todlecto je -
+(PERSON12) Je?
+Já neviem.
+(PERSON14) Todlecto je taky [OTHER1], ale tak, takže, no, takže ten test suite.
+No, ne, to sou, to sou jako [OTHER1], eh, [OTHER1] téma, co se ztratí v překladu.
+Tom si kvůli tomu teda vzpomněl na <unintelligible/>.
+(PERSON12) No, to hej, ale ten test suite.
+(PERSON4) <unintelligible/>.
+(PERSON14) Jo.
+No a teďka -
+(PERSON4) Že by to mohlo být separátní možná kolo potom až na detaily k tomu.
+(PERSON14) Teďka vo čem mluvíš, [PERSON4]?
+(PERSON4) Eh, na ten lost in back translation.
+(PERSON2) To sme řešili teďka s [PERSON14], to bylo jenom takhle rychlý.
+(PERSON4) Jo, jo.
+Dobře.
+Okej, v pohodě.
+(PERSON14) Jo, tohle bylo rychle vyřešený.
+A eště ale ten test suit, já sem tadyhle napsal teda, že do 30. 5. mi kdokoli může cokoli poslat.
+(PERSON4) Hm.
+(PERSON14) Otázka je, eh, kdo co by připravoval?
+Takže, eh, k-, kdo má kapacitu na to, aby vymyslel, jaký zdrojový věty chceme dát, aby to byl test suite zaměřenej na lost in backtranslation?
+(PERSON4) No -
+(PERSON2) Já s tim klidně pomůžu nějak koknzultacema.
+Myslim, že s [PERSON11] můžeme dát dohromady ňáký něco.
+(PERSON14) Jo.
+(PERSON2) A jestli sou anotátoři typu -
+Nám by se hodilo jako, jestli sou hotový anotátoři a hlavně, jestli je na to ňákej pipe lina, jak to, jim to dát, tak že my najdeme tydlecty, my už máme ňáký, jak třeba [PERSON12] zmiňoval ty, to vykání, tykání -
+(PERSON14) Hm.
+(PERSON2) Nebo ten rod anebo pár takovejchdle věcí sme vod-, vodhalili, tak je vyt-, vytvořit uměle.
+Ale to myslim, že je zbytečný, abysme já nebo [PERSON11] dělali ručně stovky témat, tak jestli na to sou ty anotátoři, tak jim dát, nebo jestli vás napadá ňákej jinej způsob, jestli to spíš hledat nějak v datech?
+(PERSON14) Hm, no.
+(PERSON4) Tak na základě nějakých výstupů třeba z judi pipy, nevim.
+(PERSON14) Právě.
+To by mohlo jít jako generovat, ne?
+(PERSON4) Nevim, jestli generovat.
+Jako jak to myslíš?
+Že bychom měli značky a z toho generovali formy?
+To přímo judi pipe neumí, jakože to by se muselo nějak přes triks.
+(PERSON14) Hm.
+No, já ještě nevim, jak to celý postavit, aby, eh, sme věděli přesně jako, co se tam testuje.
+Protože když zvolíme takovej směr, kde víme, že se ta informace ztrácí, jakože budeme dávat, eh, s-, to, přineste, nebo tam dáme dokonce ještě m-, ještě množný číslo víceznačný, jo, eh, ne-, nezapomeňte si přinést občanský průkaz, že jo, a nezapomeň si přinést občanský průkaz, tydle dvě věty tam dáme jako kontrast, eh, ve směru do angličtiny, no, tak všichni to zahoděj, že jo, eh, j-, jako, jak ten test suite má bejt postavenej?
+Co se tam testuje?
+Jestli ten systém správně uhodne společenskou situaci a podle toho vyká nebo tyká?
+Eh, nebo jestli dokáže vyjádřit vykání, tykání ze zdrojový češtiny v angličtině nějak jako podprahově, aby se to poznalo?
+Nebo, eh, jak je tam -
+(PERSON10) To ani mnohdy nedokážou lidi, ne, rozeznat?
+Jestli mají napsat ňákej text, kerej, jako typicky, když píšeš ňákej program a chceš tam mít ňáký texty, tak jako napíšeš rozkazovací způsob, tak nevíš, jestli máš tykat nebo vykat.
+(PERSON14) Jo, no.
+(PERSON10) Podle mě je to takový, že tomu překladu by se mělo říct, teď to přelož a chci, abys vykal, explicitně.
+(PERSON14) Hm.
+No, ale na to nemůžeme teda udělat test suite -
+(PERSON10) Hm.
+(PERSON14) Protože, protože, eh, jenom jakože ten systém dostane nějakej vstup -
+(PERSON2) Já, já myslim, že by to mělo bejt dělaný tak, že by to mělo bejt jakoby základní forma, třeba ta bezpříznaková a, eh, aby, eh, byl systematický.
+Buď všechno překládal vykáním, nebo tykáním a naopak, když pak by se to vyhodnotilo, tak jenom kontrolovat, kterou použil formu.
+(PERSON14) Jenom konzistenci.
+Takže by to bylo dvě věty za sebou.
+(PERSON2) Buď, anebo u toho, anebo třeba u toho rodu by bylo fajn, kdyby to používalo, eh, prostě jako jenom, eh, bez, eh, bezpříznakovej mužskej rod.
+Pokuď ty věty jako tomu odpovídaj.
+(PERSON14) No.
+No, hele, my bysme mohli spíš to udělat, eh, test suit jednak na ty rody, ale i na to tykání, vykání by to taky šlo, jakože v první větě uděláme jenom angličtinu.
+Vstup je prostě jenom anglicky.
+A, eh, druhá věta je víceznačná, prostě nevíme, jestli, eh, se má tyknout nebo vyknout, nebo jakej se má použít rod, ale první anglická věta je jednoznačná, jo.
+Takže dobrej systém pozná, že v první větě prostě je učitelka učitelka a ve druhý větě, kerá na to navazuje, tak ten, eh, systém musí za-, jako zachovat si ten rod, jo?
+A to samý s tim vykáním, tykáním.
+Podle formulace v první větě musí bejt jasný, že ta první věta je, eh, s-, tykací a v tý druhý větě, ta bude naschvál víceznačná, eh, tam, eh, s-, ten systém musí udržet tu konzistenci.
+Čili my bysme měli vyrobit test suite, kterej by byl dycky takovej dvojičky vět.
+Ta druhá věta -
+(PERSON2) A -
+(PERSON14) Tam bude opakovaně, ono by to -
+(PERSON2) A otázka je, jestli dvojice.
+Vono by to stačilo, aby to bylo souvětí, protože většina těch systémů, jestli bude trénov-
+Ne, počkat.
+Eh, čeština je document level, že jo?
+(PERSON14) Je document level.
+No.
+Takže -
+(PERSON2) Tak tam je to v pohodě.
+I kdyby byla sentence level, tak to de udělat souvětím, že jo, jako -
+(PERSON14) Kdyby byla sentence level, tak to jde udělat souvětím -
+(PERSON2) Eh, učitel-, učitelka je ve třídě, ale ona měla -
+(PERSON14) Jo.
+(PERSON2) Jako and she is, jo, no, jo.
+Ale jako jestli je document, tak je to vo to líp teďka.
+(PERSON14) No, takže tadydle by bylo jako, eh, úloha, eh, nebo tydlecty dvojičky buď to spojený do souvětí, anebo dvojice vět za sebou v rámci jednoho dokumentu.
+Eh, ty, dycky ta druhá věta by tam byla opakovaně ta samá a ta první věta, ta by to zjednoznačňovala a, eh, otázka, jak spolehlivě to zjednoznačňuje, ta by se měla přeměřit na lidech, že bysme anotátorům v rámci našeho vyhodnocení dali ty první anglický věty a ano-, a změřili bysme mezi anotátorskou shodu a jak moc ti lidi řikaj, že toto jasně indikuje ženskej rod, toto jasně indikuje tykání, a tak.
+Eh, čili my ten test, test suite vychrlíme, necháme ho přeložit, eh, ale eště i dodatečně můžeme zvalidovat, který z těch votázek sou jakoby bezpečný a který sou míň bezpečný, a potom, eh, zkontrolujem, jestli ten systém příslušnej, eh, tu druhou větu udělal podle toho, jak většina lidí voznačkovalo tu první větu.
+To je dobrej návrh.
+To se mi líbí.
+Takže jenom, kdo to jako, kdo ty věty vymyslí a kdo to, kdo to udělá.
+A todle můžeme použít i sílu anotátorů na konstrukci těch vět.
+To je pravda.
+(PERSON2) Hele já mám z ledna vod, eh, jo, kdo mi to gener-
+Jo, vod [PERSON9], mi generoval ňáký, hm, pá-, páry přechýlenejch slov, ale jsou to jenom dvojice.
+(PERSON14) [PERSON9], jo?
+(PERSON2) Eh, jo, jo, jo.
+[PERSON9].
+Eh, teoret-, von to vytáhl z ňákýho skrz judi pipe, myslim, něčim.
+(PERSON14) Jasně.
+(PERSON2) Ale nevim, jak moc tohlecto by bylo užite-, jako použitelný, no.
+Jako já tadydle s tím klidně rád jako nějak pomůžu na to kouknout -
+(PERSON14) Jo.
+(PERSON2) Nebo s nápadama, ale -
+(PERSON14) Hele -
+(PERSON2) Určitě na to nenajd-, nevyhradim si čas to celý udělat bohužel, no.
+(PERSON14) Separátní call, [PERSON11] teďka chvíli byl přetíženej, ale, eh, jak ho znám, já nevim, jestli tu je teďka nebo není na callu, eh, tak se hrozně rychle vyhrabe a zase von bude mít spoustu volnýho času.
+<laugh/>
+[PERSON11] je jako rychlej.
+Eh, takže, eh, tím to na něj nechci ještě hodit, jo?
+Musí von to jako vodsouhlasit, že na to by měl čas, eh, protože to nesmí zdržovat [OTHER2].
+Nesmíme jako dalšim, eh, nápadem prostě ohrozit ty stávající, jo?
+Eh, ale, eh, [PERSON2], ty prosim tě vohlídej, ať todlecto jako dopromyslíme a zadáme si.
+Čili ať si na to ještě jednou zavoláme, eh, technicky, eh, zkusíme toho [PERSON11].
+Můžem zkusit [PERSON8], protože ta má, ta je v kontaktu s hodně anotátorama, takže tam bysme mohli využít lidskou sílu a, eh, s-, prostě -
+(PERSON2) No, já to můžu ohlídat, ale -
+(PERSON12) No, anot-
+(PERSON14) Ty to ohlídej.
+(PERSON4) [PERSON11] je tady.
+(PERSON2) Ale kdo to na-
+Cože?
+(PERSON4) Že [PERSON11] je tady, takže můžete se ho zeptat rovnou.
+(PERSON2) Jo.
+<laugh/>
+Já viděl jeho přikyvování a úsměvy, když [PERSON14] řikal, jak se z toho rychle vyhrabe.
+<laugh/>
+(PERSON14) Jo, já, já tady mám jinej, já nevidim vaše tváře, protože tu mám ten dokument, tak -
+(PERSON2) Ale já to klidně můžu pohlídat, ale fakt jde vo to, aby to, aby se to teda někam pohnulo, no.
+Takže jestli teda [PERSON8] na to bude mít čas?
+Nebo jestli, jestli na to máme kapacity, nebo je lepší to rovnou jako tak nějak pohřbít?
+(PERSON14) Ne, já bych to nepohřbíval.
+(PERSON12) A potrebujetě anotátorou, anotátorsků silu, tak asi zbytočné [PERSON8] kontaktovat.
+Najlepšie asi to nějako zformulovať tu úlohu a cez [PERSON13], ona to pošle všetkým anotátorom a oni sa budu postupně hlásiť a za chvilku ich mátě všetkých.
+(PERSON14) Jo, no.
+Ne, my potřebujem nejenom tu anotátorskou sílu, ale i to rozhraní pro ně na-, jako na-, naklikat.
+Ale to taky většinou [PERSON11] -
+(PERSON2) Ale to by teoreticky nám mohli psát do dokumentů -
+(PERSON12) <unintelligible/>.
+(PERSON2) Věty jenom.
+Když by měli dobrý zadání.
+(PERSON14) No, nebo by to mohli psát do ňáký tabulky, to je fakt.
+(PERSON2) Hm.
+(PERSON12) Zatial som všetko riešil cez [ORGANIZATION2] drive.
+(PERSON14) Jo.
+(PERSON12) Eh, s tými anotátormi, že mi všecko písali do [ORGANIZATION2] sheetu.
+(PERSON14) Hm.
+(PERSON12) Urobil som niejaké anotátorské rozhranie eště teraz naposledy aj s, s automatickými kontrolami, že je všetko vypísané.
+A tak viem aj kontrolovať, že zhruba aký čas na tom urobia, podla historie, a tak.
+(PERSON14) Jo.
+Hm.
+Eh, no, dobře.
+Tak [PERSON2], ty to prosim tě, chyť jako myšlenku a během tohoto týdne rozhodneme, jestli na to máme kapacitu, to během příštích dalších čtrnácti dnů jako připravit dost velkej test suite, eh, pomocí anotátorský síly dogenerování a, eh, a tak.
+A potom ty anotátory na, za štr-, za 14 dní by nám ty věty mohly jako dodat, eh, a pak bysme to použili a, eh, s-, prostě aspoň by ty data byly jako přeložený účastnickejma systéma a dál bysme s tím mohli pracovat, jo?
+Čili T-, [PERSON2], vohlídej, ať tenhle tejden jako to buď pohřbíme, anebo spustíme realizaci.
+Ale jako nápad se mi to líbí, je to jako dobrý.
+(PERSON11) Jo, jak <unintelligible/>.
+(PERSON12) O tych anotátorou by som sa klidně potom mohl postarať já potom, hej, ale já mám teraz zkušenosti s ich bičováním, takže -
+(PERSON14) Jo, jo, to je dobrý.
+(PERSON13) Ano, přesně tak.
+Anotátoři se nemůžou nechat jen tak.
+<laugh/>
+(PERSON14) Ano, ty se přesně musej, no.
+(PERSON12) No.
+(PERSON14) Jo.
+No, no, no, [PERSON2], prostě jako přinuť mě k dalšímu callu -
+<laugh/>
+A ten pokud možno jako dotáhněme.
+(PERSON2) Oukej.
+(PERSON13) Tak to máš teďka nejtěžší úkol.
+<laugh/>
+(PERSON2) No, jo, s-, mám to, hodil sem si to už do kalendáře na to-do, tak se k tomu to, když tak zkusim to nějak rozmyslet si a navrhnout ňáký jako, jak by to mohlo vypadat, to, ten sběr dat vod těch anotátorů a, a tak.
+(PERSON14) Jo.
+Čili tadydlec, tak, [PERSON2], já to tady píšu teďka do toho lost in backtranslation, teďka do toho [ORGANIZATION3], eh, [OTHER1]-, eh, [OTHER1] [ORGANIZATION3] internal.
+Jo, dobře, no.
+Tak todle, to je super.
+Eh, tak -
+(PERSON12) Dobre.
+Takže ukončíme ten deliverable, tak momentálně je tam 9 stran, tak ideálne, keby bolo buducí pondělok 20, to by bylo super.
+(PERSON14) Jo.
+(PERSON12) Že by každý něčím prispel.
+(PERSON4) Čím?
+(PERSON12) Ticho po pešině je zrazu.
+<laugh/>
+(PERSON4) Tak já myslím, že je to rozdané.
+Já sem se chtěl jenom zeptat k tomu, že jo, jak máme tu exploiting multiple sources, tak jak moc se to má, eh, vázat přímo na tu lowering source complexity jako tématicky?
+Jakože mám tam říct, sme dělali pokusy s multisourcem, anebo mám říct, že sme dělali pokusy s multisourcem, protože takhle budeme explitovat, eh, lowering source complex-, complexity?
+(PERSON12) No, tak ono to, hej, není úplně naviazané akože na to, nieje to priamo akože lowring source complexity.
+(PERSON4) Hm.
+(PERSON12) Ale -
+(PERSON4) <unintelligible/> -
+(PERSON12) Že je to istý zposob lowering source complexy.
+Keď nám ten uživatěl dodá ako viacej zdrojov, tak tým ako snižujeme komplexitu toho -
+<laugh/>
+No, je to -
+(PERSON4) Jo.
+Oukej, oukej.
+(PERSON12) Článek komplexity zdroja, ale to -
+(PERSON4) Jo, to by asi šlo.
+To je v pohodě.
+No.
+(PERSON12) No.
+(PERSON4) Jo, dobře.
+Tak -
+(PERSON12) Ako na základě ty, toho niejakého rozhrania uživatelského my vieme získať, eh, viacej parafrází.
+(PERSON4) Hm.
+(PERSON12) A toto sů akože experimenty, ktoré, no, ty si nerobil s parafrázami, ty si robil s viacerimi jazykmi, ale -
+(PERSON4) Hm.
+(PERSON12) To je jedno.
+No, tak to sa tam niejako <unintelligible/>.
+(PERSON4) No, okej, dobrý.
+Eh, eště něco přímo k deliverablu?
+Kromě toho jaké mám -
+(PERSON12) Eh, já tu eště mám napísané, že keď popíšeme [OTHER2] teraz, čo buděme popisovat do D1.4 Initial interface for alban translation v 27. mesiaci?
+To je iba otázka, akože rozumiem, že tam niečo napíšeme, ale iba som to chcel ako predniesť tu otázku, že máme aj špecialovaný delevi-, deliverable, teda je, má ho na starosti [ORGANIZATION5], ale je na 27. mesiac plánovaný, kdě bysme mali popísať initial interface for alban translation.
+(PERSON14) No, tam bude potřeba, eh, tu integraci, že jo?
+Čili do tý doby bude nějakým způsobem asi zrealizovaná a -
+(PERSON12) Integrace podla mňa je iný deliv-, nebo iný zase word-, tento word package.
+(PERSON14) No, integraci sem tím myslel jako to, jak vypadá.
+Nemyslel sem tím, eh, jak vevnitř se to -
+(PERSON12) Jo.
+(PERSON14) Posílá, ale jak to vypadá ve, ve Firefoxu.
+(PERSON11) Eh, integrace?
+Šak to sme ještě vůbec se o tom nebavili.
+(PERSON14) No, ano, protože zatím to není jako urgentní, protože, eh, sme dospěli k závěru a zatím nás nikdo z něj nevyvedl, že to teď na to demo není potřeba.
+Je to tak, že jo, [PERSON12]?
+(PERSON11) No, tak co sem to já pochopil, tak -
+(PERSON12) No, ano, dospeli sme k tomu, takže -
+(PERSON11) Tak teď máme jako studovat, co, co se jako pomůže a z toho máme udělat poznatky, kam -
+(PERSON14) Ano.
+(PERSON11) Se, kterým směrem by se měl jako vyvíjet vývoj nějakého integrovaného nástroje?
+(PERSON14) Ano.
+No a to si myslim, že by, na to je právě těch spousta dalších měsíců a tydlecty poznatky a to, jak to teda nakonec uděláme, tak to se pak napíše do toho deliverablu.
+(PERSON11) Jo, takhle.
+(PERSON12) Okej, dobre.
+Eh, akože tiež očakávám, že tým, že keď že to má na starosti [ORGANIZATION5], že oni tiež prídů ako s ňákým konkrétným návrhom, ako to chců teda, ako to má vypadať, takže -
+(PERSON14) Jo.
+(PERSON12) Myslím, že sa to s tým, no, teda důfám.
+(PERSON14) Já taky doufám.
+<laugh/>
+(PERSON12) Eh, dobre.
+[OTHER2], eh, malo sa štartovať 8. 5., eh, bohužel, zatial je odklad o týžděň.
+Důfám, že nie vic, akože keď to vyzerá, že to budě aj viac.
+<laugh/>
+(PERSON14) Hm.
+(PERSON12) Ale prostě mosí sa to odštartovať už čo najrychlejšie, lebo termíny nepustia.
+Eh, s [PERSON11] sme dolaďovali viaceré detaily, sů tu popísané, alebo som ich tu popísal.
+Rozhodli sme sa tu mgizu neintegrovať, zostaněme pri fasteline.
+(PERSON14) Hm.
+(PERSON12) Eh, písali sme inštrukcie pro uživatelov [OTHER2], aby prostě to bolo podrobné, to sa aj vela z toho textu može zkopírovať do deliverablu.
+A teraz momentálně sa čaká na to, že [ORGANIZATION4] sa musí rozhodnuť teda, že či chců, lebo že oni písali zprávu, že to QE ich eště nefunguje tak, ako by chceli, alebo že nefunguje moc dobre.
+No, takže oni to chců eště niejako ako povylepšiť alebo tak a já sem jim dněska napísal, že no, tak buď, eh, ak chců ísť do toho experimentu teraz, tak ať čo najskvor zprovozňa ňáků online, online, eh, komponentu, ktorá budě bežať, už akýkolvek modul tam budě.
+(PERSON14) Hm.
+Ano.
+(PERSON12) A potom ak eště prostě bude na to čas, tak si to možů prostě vylepšovať a ak nechců, no, tak eh -
+(PERSON14) Jo.
+(PERSON12) Něch prostě -
+(PERSON14) No, správně.
+Super.
+(PERSON12) Si robia, čo chců.
+Alebo nie, že si robia, čo chců, ale potom, že bysme mali uvažovať nad tým, že ako zahodiť by sa to nemalo, mohlo by sa to použiť, lenže potom bude problém zase ako, eh, znova tuto, ten celý tento, celů tu mašinériu aj s tým anotováním, s tým zháňáním uživateloch a to spůšťať od znovu.
+No, takže trošku sa bojím, že něbuděme mať buď uživatelov, alebo něbuděme mať dostatok dat na to, abysme to znova zkůšali na nějakých tých dalších verziách.
+(PERSON14) Hm.
+Jo.
+(PERSON12) Ale -
+(PERSON14) Jo, čili, čili ty se, ty se obáváš, že když QE nevyhodnotíme teď, tak už nikdy se k tomu nevrátíme.
+(PERSON12) No a to sa presně tak obávám toho, no.
+Ale, ale je, ale [PERSON3] napísala teraz email, že ona je tiež skvor za to riešenie, že by sa to tam malo dať.
+(PERSON14) Jo, i když je to špatnej model.
+(PERSON12) Len, len to zrejme -
+No, já s nimi buděm zajtra telefonovať, takže zrejme budů eště ako ma masírovať, aby, aby som im dal eště trochu času.
+No, on ten čas závisí aj od [ORGANIZATION5], lebo já som jim v piatok napísal, nech teda už, ak eště nezačali, nech začnů sháňať anotátorov, aj keď prostě o tom termíně veděli, ale teraz sa ako tvárili, že oukej, tak tera iděme začať, ale tak neviem, že, a zároveň si tam hněď napísal [PERSON7] do toho mailu berličky, že nevie, ako sa mu to budě dariť a bla, bla, bla.
+<laugh/>
+(PERSON14) Jo, jasně.
+(PERSON12) No, takže neviem ako, v akom stave to budě koncom tohto týždňa, kolko buděm mať anotátorov.
+Každopádně nám potom ostává vygenerovať fajn-, finálný backend QE, keď buděme -
+(PERSON14) Hm.
+(PERSON12) Veděť, kolko je uživatělov, alebo tých anotátorov, a či budě, eh, quality estimation sůčiasťov experimentu.
+A ak by teoreticky nebol sůčásťou experimentu, tak vtedy by som navrhoval zmenšiť ten data set na polovicu, abysme ušetrili polovicu dat pre ňáký prípadný další experiment.
+(PERSON14) Hm.
+(PERSON12) Ale -
+(PERSON14) Jo.
+Ano.
+To zní taky rozumně.
+(PERSON12) A já akože uvažujem, že zmenšit to napolovicu tak, či tak, že keby sa eště, ale, ale asi nie, to radšej potom zoženěme nové data, snad by to, alebo to zkusíme pro ňáký iný jazyk -
+(PERSON14) Jiný, jiný pár jazyků, no.
+(PERSON12) Nebo neviem.
+Hm.
+No a, eh, s, já tu mám eště spustiť, ten vylepšiť, mám taků drobnost, ktorů bych mal v útorok, stredu dokončiť.
+Ale to sůvisí iba s tým, že, už teraz je [OTHER2] pripravený, ale momentálně eště ta naša servisa pre estonštinu nevie vrátiť score, word score.
+Ono je to už pripravené, len já to musím nasadiť.
+(PERSON14) Hm.
+(PERSON12) <unintelligible/>, no.
+Takže to je iba taká drobnosť.
+Takže to je, čo sa týká [OTHER2].
+No, tak hýbe sa to, tlačím na nich a no, snaď to stihneme.
+(PERSON4) Jo, tak teďka, teďka říkáš, že se to posunulo o týden a do kdy, jaký máte teďka deadline potom na to nejbližší?
+Chcete to na to WMT nebo?
+(PERSON12) No, tak, eh, 8., no, hej, jako -
+(PERSON4) Jo.
+(PERSON12) Deadline zostává stále rovnaký, je WMT.
+(PERSON4) Hm.
+(PERSON12) No, tak akože my tam máme něaké tie, bol tam ňáký padding, niejaká vata na to, abysme to zvládli.
+(PERSON4) Hm.
+(PERSON12) Já si myslím, že teoreticky by sa dalo, ak by začali anotovať, aj keď [PERSON11] s tým něsůhlasil, ale myslím si, že by sa to možno, že dalo ako niejako ako zfunkčniť, že by sa daly ty data, keď sa to rozdávkuje na niekolko dávok, tak a keď to budů ti anotátori anotovať, tak my buděme to mocť už pos-, priebežně posílať, prekladať, eh, tým hodnotitělom, aby hodnotili ty preklady.
+A nemuseli čakať až do konca, do kým ten experiment skončí a až potom to posielať tým hodnotitělom.
+Že možme jim to posielať priebežně, no.
+(PERSON11) No, tímhle bychom vyřešili jeden problém, ale byla by to jako metodologická chyba, že bychom prostě jim to nedávali náhodně, protože já jako očekávám, že ta kvalita těch překladů se zlepší v průběhu -
+(PERSON12) Hm.
+(PERSON11) Eh, v průběhu, že jo, toho.
+(PERSON4) Eh, ještě něco k tomu [OTHER2] když tak, nebo?
+(PERSON12) Hm.
+(PERSON11) Asi nic.
+(PERSON12) Asi nie, no.
+(PERSON14) No.
+(PERSON4) Dobrá, no.
+Tak poslední věc asi, co tu máme, sou ty parafráze.
+Nebo máte něco s parafrázema?
+Tak, no, [PERSON10]?
+Jak de práce s parafrázema?
+(PERSON10) Zatím nic novýho nemáme.
+(PERSON4) A tam, tam je v plánu jinak ňáký, ňáký paper, nebo, nebo jenom?
+(PERSON10) Jo.
+Jo, ňáký, ňáký to WMT.
+(PERSON4) Jo.
+(PERSON10) A to je někdy 15. července.
+(PERSON4) Hm.
+(PERSON14) Jo.
+Hele, ty dokdy budeš v Praze?
+A vodkdy, eh?
+(PERSON10) To nevim přesně, že jo.
+Protože j-, jako, zat-, takhle, kontrakt mám vod 1. července v [LOCATION1].
+(PERSON14) Hm.
+Jo.
+(PERSON10) Ale nevim, jestli budu fyzicky v [LOCATION1].
+(PERSON14) Jo, jo, jo.
+No, tam jde, mně jde vo to, abys, eh, aby my sme měli afiliaci na tom, co ty pak uděláš, že jo.
+Vono se to, tím, že se to táhne různě, tak aby prostě -
+(PERSON10) Tak já to dělám s [PERSON12] minimálně, že jo, tak -
+(PERSON14) To je pravda.
+To je pravda, no.
+No, čili jako s-, bylo by lepší, kdyby co nejvíc se stihlo ještě, dokud si tady, eh, aby to bylo jako, eh, jednodušší, a pak na <unintelligible/>, no.
+(PERSON10) Jasně.
+Já počítám s tím, že, že todle doděláme nějak do toho konce června jako to.
+(PERSON14) Jo.
+(PERSON10) No.
+(PERSON4) Dobrá a kromě tohohle tam asi už nemáme nic k řešení.
+(PERSON14) Jo.
+(PERSON4) Administrace žádná?
+(PERSON14) Asi nic.
+(PERSON13) Eh, administrace, no, někdo si rozmyslete -
+(PERSON14) Jo, je, ano, no.
+(PERSON13) Kdo pojedete na, do Lucemburku.
+(PERSON4) Eh, co všechno se po nás chce v tom Lucemburku vlastně?
+To bude -
+(PERSON14) Vodprezentovat naše věci.
+(PERSON4) Jo, ten, ten deliverable.
+(PERSON14) No.
+(PERSON13) Hm, všech-, všechno.
+(PERSON14) Jako všechny, celej náš <unintelligible/>.
+A já sem se, eh, předběžně ptal [PERSON12], [PERSON12] mi nevím, jestli asi neodpověděl.
+(PERSON12) Nie, no.
+Já sem něodpovedal, lebo som bol z toho taký, že -
+<laugh/>
+(PERSON14) Zaskočený.
+(PERSON12) Zas to padně na mňa.
+<laugh/>
+(PERSON14) Ahá.
+Já sem to myslel, že to je jako vodměna.
+<laugh/>
+(PERSON12) No, tak je to na jedné straně odmena.
+Já som tam čakal, že tam pojděm, ale nie, že tam budem nakonec obhajovat ako aj tie politiky a toto všetko, no.
+(PERSON14) Ale né, tam se neobhajuje tolik politiky.
+<laugh/>
+(PERSON12) No, tak neviem, no.
+(PERSON4) Politiku bude obhajovat [PERSON6], ne?
+(PERSON14) No, právě.
+(PERSON13) Hm.
+My bychom tam měli, tohle je [OTHER1], tak tam budeme jenom mluvit, nebo tam, někdo z vás -
+(PERSON14) Přesně tak.
+<laugh/>
+(PERSON13) Bude mluvit, co sme udělali my, ale jako celkový řízení projektu, to je -
+(PERSON14) No.
+(PERSON13) To není na nás.
+(PERSON14) Přesně tak.
+(PERSON4) No, já sem se, já sem se nedíval na ten mail.
+To má být fyzické nakonec?
+(PERSON13) Jo.
+(PERSON14) No.
+(PERSON13) Jeden člověk fyzicky.
+(PERSON14) Jako aspoň jeden.
+Můžeme je tam poslat dva, jo, jestli nebo jestli byste jako chtěli, tak to asi není to -
+(PERSON12) Já by som bol rád, keby tam eště niekto šiel, no, ale -
+(PERSON4) Tak asi bych to -
+(PERSON12) Já som s tým počítal predbežně teda, že tam pojděm.
+(PERSON14) Hm.
+Jo.
+Tak -
+(PERSON12) Ale niepočítal som s tým úplně, že, že to tam celé spadně na mňa zas, no.
+(PERSON14) Jo.
+(PERSON4) Můžu se taky přidat, no.
+(PERSON14) No, tak dobře.
+(PERSON4) Jako dát dohromady slidy a -
+(PERSON14) Hele, tak jo, tak to mně by se jako líbilo.
+(PERSON4) Akorát jenom, kdy to má být?
+Červenec ne ňáký <unintelligible/>?
+(PERSON14) Červenec, no.
+(PERSON10) 12.?
+(PERSON13) 23.
+(PERSON10) 23.?
+(PERSON13) 23 myslim.
+(PERSON10) Jo.
+(PERSON4) No, tak jestli je to po deadlinech na tydlety ty, tak, konference, tak to asi bude v pohodě, no.
+(PERSON14) Jo, takže si budeme myslet, že tam, eh, za nás pojede [PERSON12] a [PERSON4].
+(PERSON4) Jo.
+(PERSON14) A pravděpodobně už tam stejně bude [PERSON10].
+(PERSON10) No, já nevim.
+(PERSON4) Počkat, to nemá být v Lucembursku?
+(PERSON13) Je.
+(PERSON14) Ne, [PERSON10], ten bude v [LOCATION1].
+[], jo, sorry, no.
+(PERSON4) Jo.
+(PERSON14) Takže jo, do Lucemburska, eh, že by [PERSON12] a, eh, [PERSON4].
+(PERSON4) Jo.
+Dobře, no, tak -
+(PERSON14) A uvidíme teda, jak to bude doopravdy, jestli se tam bude smět, že jo, to já nevim jako, jestli je jistý, nebo není jistý.
+(PERSON10) Teď už se tam smí, že jo, jenom musíš mít test, aby ses moh vrátit a nemusel bejt v karanténě.
+(PERSON14) Vono to ale nedává smysl mít negativní test při vodjezdu.
+Já právě, eh, jako k těmhle pravidlům se, eh, zatím vůbec <unintelligible/> -
+(PERSON10) Při příjezdu musíš mít negativní test.
+(PERSON14) No, kterej není starší než 4 dni, takže si ho vybavíš při vodjezdu a -
+(PERSON10) No, jasně.
+(PERSON14) A von ti platí.
+(PERSON10) Když jedeš na tři dny, tak -
+(PERSON14) Je to úplná blbost.
+Jako já právě tady vůbec nerozumim logice toho opatření, takže se k němu ani v duchu sám pro sebe nevyjadřuju.
+(PERSON10) No, ale jako stejně jednak si nechceš nechávat dělat ten test, protože je to nepříjemný a jednak -
+<laugh/>
+(PERSON14) Já nevim, to ti vezmou trochu krve, ne?
+(PERSON10) A stejně ti -
+Co?
+(PERSON14) To ti vemou trochu krve, ne?
+Nebo co?
+(PERSON10) Ne, to ti narvou metrovej kabel do nosu.
+(PERSON14) Jo.
+(PERSON4) Jo, to je tohleto, ježišmarija, tak -
+<laugh/>
+(PERSON14) Tak to sem -
+<laugh/>
+(PERSON4) To doufám, že to bude vzdáleně v tom případě.
+<laugh/>
+Jesus christ.
+<laugh/>
+Vono je to tyčka ne, ale no, jasně.
+(PERSON10) Jo, jasně, no, nějak jako, no.
+Myslim, že <unintelligible/>.
+(PERSON4) Hm.
+Jo, teď sem se šlyšel.
+<laugh/>
+No, každopádně stejně teďka za ten, za ty dva měsíce nebo kolik to je, za měsíc a půl -
+(PERSON14) Se to změní ještě.
+(PERSON10) Hm.
+(PERSON4) Se to ještě, ještě to.
+Počítejme s tím, že možná to bude fyzicky.
+Ono stejně to podstatné je, že potřebujem ty slidy a nějak to dát dohromady hlavně ten deliverable.
+Takže -
+(PERSON12) Což ako je najmeněj, či tam buděme cestovať, alebo nie.
+(PERSON4) Hm.
+(PERSON14) Jo.
+(PERSON12) Alebo najmeněj, no, tak ako to sa uvidí potom.
+(PERSON14) Jo, jo.
+No, dobře.
+Tak, eh, eh, hele, tak já rozhodně budu spokojen, eh, když vy dva, eh, to budete mít jako v sou-, součinnosti na starosti a, eh, to, takže takhle -
+(PERSON4) Jo.
+Jako asi bych to to -
+(PERSON14) Děkuju.
+Děkuju za ochotu a to, já tam fyzicky, pokud možno určitě nechci, protože jako já sem měl -
+(PERSON4) Musíš učit, že dycky?
+<laugh/>
+(PERSON14) To ne, ale měl sem, měl sem zaplacený ňáký dovolený zahraniční a -
+(PERSON4) Jo.
+(PERSON14) Jestli, jestli nakonec se ještě voživěj, tak je ještě nechci komplikovat jinou zahraniční cestou.
+Ale jestli s-, jako voni se asi spíš neoživěj.
+<laugh/>
+Jo, že je to takový fakt nejistý.
+(PERSON4) Hm.
+(PERSON12) Hm.
+(PERSON4) Každopádně to je asi všechno, ne?
+Dneska?
+(PERSON14) Jo.
+No.
+Super.
+(PERSON4) Dobrá.
+(PERSON14) Tak jo, děkuju, zase sme to -
+(PERSON4) Jo?
+(PERSON12) Já iba, zase sem už iba teda k tomu multisource <unintelligible/> with parafrases teda [PERSON10], ty to managuješ, hej?
+Abysme -
+(PERSON10) Jo, já si, já na to jenom nemám vůbec čas teďkom.
+(PERSON12) Jo.
+(PERSON10) Já prostě mám to cvičení a -
+(PERSON14) Hm.
+(PERSON10) Vopravovat, vopravovat prostě 15 domácích úkolů, když, když nemám to fyzický cvičení a chci každýmu k tomu napsat ňáký feedback, tak vono to prostě sežere minimálně jeden den v tejdnu.
+(PERSON12) Jasné.
+(PERSON14) No, potvrzuju, že výuka na dálku je mnohem náročnější než jako fyzicky.
+(PERSON10) Hm.
+(PERSON12) Hej, hej.
+(PERSON10) Že sem z toho trochu -
+Ale už by to mělo bejt prostě jenom dva další tejdny, a pak už to bude daleko míň jako náročný, protože už budou mít jenom, jenom dělat zápočťák, což se jako, tam je to dobrý tím, že každej to bude dělat jinak rychle -
+(PERSON14) Okej.
+(PERSON10) A nebudu to mít nárazově, takže -
+(PERSON12) Lebo já teraz ako bysom teoreticky, eh, lebo budeme to potriebovať aj do toho, eh, do toho deliverablu, vieš?
+(PERSON10) Hm, hm.
+(PERSON12) Takže akože aspoň niečo ako tam popísať -
+(PERSON10) Jo, tak jako zítra se -
+(PERSON12) Němusí tam toho byť hodně, ale -
+(PERSON10) Zítra se ještě o tom můžem pobavit na pivu.
+(PERSON14) No.
+(PERSON12) No.
+(PERSON14) To určitě udělejte, protože deliverable po nás pravděpodobně [PERSON6] chce na konci května, ne?
+(PERSON4) Eh, orientačně asi spíš -
+(PERSON14) No.
+(PERSON4) Nebo já nevim, začátek června asi někdy.
+(PERSON14) Možná vo tejden pozdějc, no, ale ne víc, no.
+(PERSON13) Protože tam musí bejt ještě interní review, takže určitě -
+(PERSON4) No, voni musí to posílat koncem června.
+(PERSON10) Jo.
+(PERSON4) Ne, nějak tak?
+(PERSON14) Přesně tak,no.
+(PERSON13) Jo.
+(PERSON14) Čili na to je jakoby málo času, no.
+(PERSON4) No.
+(PERSON10) Jo, jo.
+(PERSON14) Uvědomme si, sme v půlce května jo, takže pozor.
+(PERSON12) Já som teraz do mailu pre všetkých o [OTHER2] písal, že <unintelligible/>, tak som zvedavý, či sa [PERSON6] ozve, že to chce mať skvor.
+<laugh/>
+(PERSON14) Tak uvidíme, no, no, no.
+Dobře.
+(PERSON12) Ale a asi to tam asi zapadně, možno, že si to [PERSON6] vobec jako sám <unintelligible/>, ale -
+(PERSON14) Nepřečte.
+Jo.
+(PERSON4) Hm.
+Jo.
+[PERSON14], připomínám středu.
+(PERSON12) Ale tak počítáme s tím, že okolo 10. června.
+(PERSON14) Jo.
+(PERSON4) Jo, [PERSON14], připomínám, středu máš poznačenou?
+(PERSON14) Středu mám poznačenou na 10:30.
+(PERSON4) Oukej.
+(PERSON14) Jestli se nepletu?
+(PERSON4) Jo, jo.
+Dobrý.
+(PERSON14) Jo, super.
+(PERSON4) No.
+(PERSON14) Tak jo.
+(PERSON4) Tak jo.
+Jinak -
+(PERSON14) Takže děkuju, eh, ještě teď sem [PERSON4] přerušil, myslím, že každej by měl využít -
+(PERSON4) Eh -
+(PERSON14) Tady tu featchuru Zoomu a dát si ňáký zvířátko za sebe.
+<laugh/>
+(PERSON4) Jo.
+<laugh/>
+(PERSON12) To je na Windowse, že vraj.
+(PERSON10) Já nemám na to vhodný, vhodný pozadí.
+(PERSON14) Aha.
+No, tak já taky nemám, že jo, ale -
+<laugh/>
+Ale to sem nevěděl, že to jde jenom na Windowsech.
+<laugh/>
+No, tak, tak, tak sem -
+<laugh/>
+(PERSON12) Minule sme to niejako riešili pri [ORGANIZATION1] pive, eh -
+(PERSON14) Hm.
+<laugh/>
+(PERSON12) A to je -
+(PERSON14) Jo, no, tak to ta kočka byla lepší.
+<laugh/>
+(PERSON12) Výsledok bol -
+<laugh/>
+Výsledok bol, že to idě iba na Windowsech.
+(PERSON14) Aha.
+No, tak dobře.
+Tak ne, tak nemusíte.
+<laugh/>
+(PERSON4) Že jo, jinak k těm offtopicům, eh, zítra teda bude ňáký disclaimer, kdyby ten [ORGANIZATION1] beer nebyl nebo něco pošleme -
+(PERSON10) No.
+(PERSON4) Jako může se poslat.
+(PERSON10) Možná by stálo za to zjistit, jestli neexistuje ňáká zahrádka, kde maj takový ty plynový lampy.
+(PERSON4) Dobrá, tak -
+(PERSON12) Já viem, že u nás, u nás na Podolskej sokolovni postavili tuto obrovsků zahrádku, ale -
+(PERSON10) Hm.
+(PERSON12) Nebol som sa tam pozrieť a já mam také podezrenie, že aj tak budě úplně narvaná.
+(PERSON10) Jo, no, tak jako víš co, když bude hnusně, tak narvaná nebude, že jo.
+V Jarolímku -
+(PERSON12) No, ale ona, sorry, zahr-, zahrádka je krytá, pardon, to som za-, zabudol povedať.
+(PERSON10) Tady u nás v Jarolímku maj taky krytou zahrádku a -
+(PERSON12) No.
+(PERSON10) Ptal sem se ho dneska, když sem tam šel pro voběd, říkal, že dneska vodvírat nebudou, protože má sněžit, že na to kašlou.
+(PERSON12) Hm.
+(PERSON4) Hm.
+Anebo jako, no -
+(PERSON10) Že, že to vidí spíš tak na pátek, no.
+Tak uvidíme, kde vůbec bude vodevřeno.
+(PERSON4) Hm.
+(PERSON10) Asi by stálo za to zjistit, jestli na týdletý vůbec bude vodevřeno.
+(PERSON4) Jako dalo by se udělat [ORGANIZATION1] víno a pít se na, nahoře na [ORGANIZATION1], ne?
+<laugh/>
+(PERSON10) <unintelligible/>.
+(PERSON4) Nebo třeba otázka, jestli na, třeba na poslední chvíli, jestli to nevyjde, tak napsat, že to bude přes Zoom znovu, no, nebo -
+(PERSON10) Jo, asi to během zejtra bysme měli vyřešit.
+(PERSON4) Hm.
+(PERSON14) Jo.
+Dobře.
+(PERSON4) Oukej, tak to je asi úplně všechno.
+(PERSON14) Tak jo, tak díky.
+(PERSON4) Tak se mějte.
+(PERSON14) Ahoj, ahoj.
+(PERSON12) Dobre, čautě.
+(PERSON13) Ahoj.
+(PERSON12) Ahoj.

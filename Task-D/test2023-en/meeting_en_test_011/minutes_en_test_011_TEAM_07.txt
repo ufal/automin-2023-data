@@ -1,0 +1,77 @@
+Summary:
+
+* PERSON7, PERSON6, PERSON5 and PERSON9 are going to discuss the topics of the documents they have in a document. They will start with PERSON6 and PERSON5 and talk about their topics. 
+  - Fact: They discuss the manning of paper documents. 
+* PERSON7 wants to do some probing on transformer networks. He suggests using ORGANIZATION1 and GPT tool to do it. 
+  - Fact: He also suggests using SL to read the context word and manning in order to probe individual positions on the network. 
+    -- Disc: He doesn't want to use ORGANIZATION1 yet. 
+* PERSON5 gives a yellow paper called "Open Sense" to OTHER3. 
+  - Disc: The paper is about attention and and compution scores. 
+  - Fact: It's about 60 internet use and trying to use sentences and test on harder, weirder constructions to see introduction like emm. 
+* PERSON5 explains to PERSON7 what the paper does. The paper takes attention between subject and verb, subjects and verbs and subjects and verb in in sentences. 
+  - Disc: They check how much it makes a difference if there is some simply intervening and now PERSON5 is frazzled. 
+* PERSON7 suggests that PERSON5 should start with PROJECT5 and focus on tactogrammatical treebanks on OTHER9 and OTHER7. 
+  -- Fact: There are also the manner annotations on these treebanks and they can be used to probe for semantic dependence relations. 
+* PERSON7 explains to PERSON9 and PERSON5 how to make a paper with more than one layer on top of the transformer and a single perceptor on the top of it. 
+* They need to prepare to better practise to get the desired result. 
+* PERSON7 wants to have a skype call with the leader of the group in LOCATION1 so that they can collaborate on something with the people in LOCATION3. 
+  -- Disc: They haven't connected yet, so they need to create an organized call. 
+* PERSON1 has created a transformer attention matrix from other paper. 
+  - Disc: The lower layer was quite good, but the subject finding sub-object was not as good as he had expected. 
+  - Fact: There was only one head that was specialized in looking for the particulations. 
+* PERSON1 is training about dependency trees. The higher layer for components depend subjects was called (balustrade) layer. 
+  - Fact: It has rows looking in to different chunks. It's constructure which some heads correlates with syntactic trees and some heads has connection that's correlate with relation in different laytions in syntactic tree. 
+* There are almost all possible balustrades, if you take the shorter phrases or shorter. There are also almost all all possible short phrases somewhere. Shorter phrases can be in like (balustrade) but in different heads, as PERSON1 explains. 
+* PERSON1 focuses on the heads that are good at finding subjects and bad at finding verbs. 
+* PERSON7 and PERSON9 agree that the different heads do different things and we need to use all the heads in our paper. 
+* PERSON7 tried to generate something similar to balustrades from open NMT system, but it was not easy as different settings of transformer generate completely different results. 
+  - Disc: The attention mattrices are very blurrable and there were no (balustrade) straight. 
+* PERSON7 and PERSON1 discuss how to create a balustrade. 
+  - Fact: They discuss the different parametres that can be used to create different types of balustrades. 
+  - Disc: Some heads are a bit specialized in finding one high correlations, because one head stamps finds the subject for verb. 
+* PERSON7 will be taken in the beginning of December and will meet with PERSON1 on the 15th of December, so they can talk about their plans. 
+  - Fact: PERSON1 is staying in LOCATION2 until the end of December. 
+* PERSON1 wants to use the structure eeh with a with a graph conclusion layers to check for conclusions. 
+  -- Fact: The syntax relations can improve eehm, eeh, machine translations for instance. 
+  - Disc: The papers where they took syntactic trees from from the syntactic parsers and used them to form the input of machine translation systems are interesting. 
+* PERSON5 will send the links to the tactogrammatic and the treebank to help PERSON5 with experimenting with it. 
+  -- Disc: It's similar to the one given by PERSON5 to PERSON10, but it's better than it is. 
+* PERSON9 has a master thesis or research for master thesis. 
+* PERSON7 and PERSON5 will meet in 14 days to discuss the topic of the master thesis that will be the topic for PERSON5's thesis. 
+  - Disc: The topic will be "Theory of the thesis". 
+* PERSON6 and PERSON9 are working on similar things. They are laughing at the same thing. PERSON9 and PERSON5 are also working on the same stuff. 
+  - Disc: It seems they are similar to each other, too, as they laugh at each other. 
+* PERSON5 will try the experiment tactogrammer and OTHER10s and get the semantic score for the money paper. 
+  - Disc: He will also try to get the main paper better so it s all better then see it. It is the final review for the paper. 
+* PERSON6 and PERSON9 will get an invitation e-mail to join. 
+  - Disc: They will be analysed to have their own call there's a poor based. 
+  - Disc: They are discussing it on parallel talk at the Expert Network (excellnet) and will try it. 
+* PERSON9 wants to do an experiment on project for people who don't have access to the <unintelligible>. 
+  - Fact: He asks them to put PERSON3 in seminar. 
+  - Disc: They don't know what it is, so he asks them for help. 
+* PERSON9 used the milestone part of the award book papers for the project. 
+  - Disc: It disables strange (monkey) anything what were used, so he doesn't know where the problem came from. He suggests it could be a connection problem, but it's probably not. 
+* PERSON9, PERSON6 and PERSON5 are analysing a model. It's one of those retrained and test iniciate may be the Transformer. 
+  - Fact: It was trained in (neuromantee) and trained by PERSON4. 
+* PERSON5 prefers to analyse PROJECT4 over PROJECT5 because PROJECT4 has better answer in syntactic questions and recognize more than PROJECT5. The paper would become diversial one in PROJECT4. 
+  - Fact: In multilingual context, the mapping is the most detected function. 
+* PERSON9, PERSON5 and PERSON6 are trying to figure out which task is more abstract and which is more syntactic. They are using different models for different tasks, so it's hard to compare the results. They don't know if it make sense to compare them. 
+* PERSON1, PERSON5 and PERSON9 explain to the player what is the <unintelligible> and what is a large data or a model. The model layer is a layer with layers. 
+  - Disc: If it's too small, there is nothing interesting going on. 
+* PERSON9 wants to create a research model. 
+* He wants to train some <unintelligible> and the stuff like that and analyse and completely different models and then looking something crash. 
+  - Fact: PERSON5 uses some models in metro and explains to him how to do it. 
+* It seems to be working on picture form. 
+  - Fact: The (excel) knows as best document basicly there, so it's working on that form. 
+  - Disc: PERSON9 and PERSON5 are laughing at the joke. 
+  - Fact: People 3 are not. 
+* PERSON9 wants to set up an event with a model one-on-one with PERSON2. He wants to do it in December, but he doesn't know if he can come in December. He will be in the beginning of December, so he will probably come back after New Year's. 
+* PERSON9 sends an e-mail to a person he thinks is deserving in the beginning of December. 
+  - Disc: The person replies to the e-mails and suggests that it's the right thing to do. The conversation is almost over. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

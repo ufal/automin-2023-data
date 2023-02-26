@@ -1,0 +1,10 @@
+-To prepare the audible cell ties for both segmentor and after the segmenter separately.And then test the scripts separately.So the script should be run (byplan) and for locks for both, segmenter and after segmenter independently.
+-Ask yourself this question: Have input files for this project yet?,
+-Do not look at these transcripts, these transcripts are yours alone, this is the only way to process these scripts, SLT transcripts, These transcripts are from the original SLT transcripts.
+-The problem with this format is that it does not allow us to preview the subtitles for caraoke for preview or the OST format that SLTF evaluates than we need have it versioned.
+-For processing the Antrecorp text - This is the most stupid thing it's multiline slash OST - It's totaly stupid thing, it'd be better to change the line inside cell.
+-Check out the Antrecorp files, which are clean all cell ties, and then we have 16 kilohertz WAVs for the forced alignment or different once.
+-This is the Antrecorp depth and test directory.The depth set is - Depth set - Since set is just 2 files.
+-Please synchronize with the forced alignment files on SLT test set sheet, and look at the inputs in SLT data set sheet to see if there are any problems.
+-Create a case similar to academy test set we have now and for here we should mean - - the case similar academy test Set we have right now.
+-Try to find a script for Antrecorp (I haven't seen it yet) and tell them what exactly files and what needs to be created.

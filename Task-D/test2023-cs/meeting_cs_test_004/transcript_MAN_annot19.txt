@@ -1,0 +1,1306 @@
+<other_noise/>
+(PERSON4) <unintelligible/> to nemáme?
+<other_noise/>
+(PERSON11) Eh, máme, ale má <unintelligible/> -
+(PERSON16) <unintelligible/> -
+(PERSON11) Jo.
+(PERSON4) Dobre.
+(PERSON16) Už.
+Už.
+Eh, nikoho dalšího asi nečekáme.
+[PERSON2] se mě ptala, jestli -
+<other_noise/>
+<unintelligible/> -
+A myslím, že není nutné.
+(PERSON11) No, počkat, nebyla tam ta věc s tím, eh, finančním reportem?
+Nebo?
+(PERSON16) Ano, to už jsem se jí -
+<other_noise/>
+ptal mailem.
+Takže, takže -
+(PERSON11) Aha.
+(PERSON16) To se nějak vyřešilo.
+<other_noise/>
+(PERSON11) Ok.
+<other_noise/>
+A hm -
+<other_noise/>
+(PERSON16) Tak <unintelligible/>.
+<other_noise/>
+Zapíšeme docházku, hezky.
+<other_noise/>
+Tak.
+Eh, dobrá.
+Ten technical report, eh -
+V principu, že jo, [PERSON4], [PERSON4] ví, ten to, ten, ten to kontroloval.
+<other_noise/>
+Eh, jde jenom o to, že mi [PERSON12] posílal mail, že by se to mělo ještě checknout.
+Že to, co bylo do 30., byl jenom draft, takže ještě bychom to měli projít.
+Já jsem se d-, tam díval, jestli tam nemáme to do, a ty nemáme.
+A ten text se nijak neměnil, takže, takže to dál nehrotím.
+Ale kdybyste náhodou -
+(PERSON4) Hm.
+(PERSON16) nikdo neměl nic lepšího na práci -
+<other_noise/>
+Tak jenom proletět.
+<other_noise/>
+To jako by určitě nebylo od věci.
+Pak případně napsat, kdyby tam -
+<other_noise/>
+něco chybělo nebo něco.
+<other_noise/>
+No.
+Takže tolik k technickým věcem.
+A, a, a -
+Eh, co se týče samotného -
+<other_noise/>
+progresu, tak u multi-sourců, eh, to si, to jsem se s tím moc nepohnul.
+Ale jako to beru, že mám hlavně na starosti teda já, asi.
+(PERSON4) No, čo sa týká tej komunikácie s [ORGANIZATION2] -
+<other_noise/>
+Tak to hej.
+(PERSON16) Jo, minimálně, no.
+(PERSON4) Asi, ale -
+(PERSON16) Ale, že jo, a vy, a vy ještě zkoušíte s [PERSON8] ty, ty, ne?
+Nějaké, eh -
+(PERSON4) A my teraz ako sme v plnom rane experimentu.
+Máme dva týždne do deadlinu.
+WMT.
+<other_noise/>
+Takže púšťame teraz trénovania.
+Zatial, v podstate ako -
+<other_noise/>
+Eh, zkúšal som i ja nejaké s-, eh, experimenty.
+Tie zatiaľ moc, eh, nevyšli.
+Ale to, čo skúsil [PERSON8], tak to sa trochu podarilo.
+(PERSON16) Hm.
+(PERSON4) Takže, eh -
+Zatiaľ iba skúšal také, že odporúčaný postup pri -
+<other_noise/>
+eh, trénovaní [PROJECT1], eh, čo písal [PERSON1], tak je, že natrénuješ, eh -
+Natrénuješ ten systém na, hm, prekladoch a back translationoch -
+(PERSON16) Hm.
+Hm.
+(PERSON4) Že namiesto ako zdrojovej angličtiny použiješ back translation angličtinu.
+A české preklady.
+(PERSON16) Hm.
+(PERSON4) A potom, eh, keď dosiahneš ako maximum -
+<other_noise/>
+Tak potom fine-tunuješ na origináloch a prekladoch.
+Hej?
+Na tých istých dátach viacmenej.
+No a to je ako doporuč-
+(PERSON16) Počkej, originály a překlady myslíš co?
+Jakože originálý afara-, parafrázuje?
+Nebo?
+(PERSON4) Nie, nie, nie, nie, nie.
+Eh, teraz vôbec sa nebavíme o parafrázach.
+(PERSON16) No.
+(PERSON4) <unintelligible/> toto je doporup-, doporučený postup od [PERSON1].
+Je -
+(PERSON16) Ano.
+(PERSON4) Akože parafráze, ano, ale v tom zmysle, že to je back translation.
+(PERSON16) Jo.
+(PERSON4) Takže doporučený postup od [PERSON1] je, že -
+<other_noise/>
+eh, nietrénuješ na SRC a English a, a ta-
+No, počkaj.
+Že niemáš ako -
+Nie sú to tie ručné prek-
+No, tak to SRC je English a čeština je -
+(PERSON16) Hm.
+(PERSON4) trebas preklad.
+Alebo to neviem, -
+(PERSON16) Hm.
+(PERSON4) že ako to, či to je proste pre-, preložené z angličtiny alebo do angličtiny.
+To je jedno.
+(PERSON16) Hm.
+(PERSON4) Ale máš ten dvojjazyčný korpus -
+<other_noise/>
+A normálne trénuješ na ňom.
+Čo sú ako -
+<other_noise/>
+Obidve, obidva sú ľudské preklady.
+Ale doporučený postup od [PERSON1] je taký, že nerobiť to takto, ale robiť to rovnou na -
+<other_noise/>
+back translationoch, ktoré pomocou -
+(PERSON16) Hm.
+(PERSON4) nejakého systému preložíš vlastne z češtiny do angličtiny.
+Takže namiesto tej, eh, autentickej angličtiny tam máš syntetickú angličtinu.
+A češtinu máš stále -
+(PERSON16) Hm.
+(PERSON4) autentickú.
+Natrénuješ ten systém a potom robíš fine-tuning na dátach, kde máš obidve strany autentické.
+<other_noise/>
+Hej?
+<other_noise/>
+(PERSON16) Ok.
+(PERSON4) A my sme -
+<other_noise/>
+My sme teraz skúšali to, alebo [PERSON8] skúšal to, že čo keby -
+<other_noise/>
+Eh, čo keby zamenil ako -
+<other_noise/>
+v tom prvom kroku tie back translationy za výstup toho parafrázovacího systému.
+Lebo to je vlastne ako, tiež ako back translation, v podstate -
+(PERSON16) No, jasně.
+(PERSON4) Ale -
+<other_noise/>
+s tým cie-
+Ale s cieľom byť čo najodlišnější od, eh, nejakého toho zdrojového prekladu.
+Alebo, alebo toho ľudského prekladu.
+(PERSON16) Hm.
+(PERSON4) Tak a zatiaľ nám to vychádza, že naozaj to je lepšie.
+<other_noise/>
+Že -
+(PERSON16) No a ty parafráze teda ale vznikaj přes, eh, jiný pivotní jazyk, jo?
+<other_noise/>
+(PERSON4) Tie vznikajú pomocou toho sys-, eh, pomocou nejakého upraveného [PROJECT1] od, eh, od tohto, od, eh, [PERSON3].
+(PERSON16) Hm.
+(PERSON4) A ten upravil toho [PROJECT1], hm, eh, nejak tak, aby to proste gene-
+No, ja ti teraz to neviem povedať presne ak to tam je <unintelligible/> -
+(PERSON16) Jo, ale -
+Eh, jasně.
+Jenom, jenom jsem chtěl -
+(PERSON4) Je to niečo na -
+Je to niečo na spôsob toho parabangu.
+(PERSON16) Jo.
+(PERSON4) Že vlastne, eh, vygeneruješ si -
+Je to celé -
+<other_noise/>
+urobené ako back translationom cez, zase na -
+(PERSON16) Hm.
+(PERSON4) na nejakom čengu alebo na niečom takom.
+(PERSON16) Hm.
+(PERSON4) A potom vyrobíš si z toho systém tak, -
+<other_noise/>
+že sa snaží generovať tie parafráze z je-, ako s-, z jedného jazyka do toho istého jazyka.
+Ja teraz, teraz neviem -
+(PERSON16) Hm.
+(PERSON4) Teraz ako som na vode trošku.
+<other_noise/>
+Lebo neviem -
+(PERSON16) No, ono, on-, jako hla-, hlavní je, hlavní je to, že jo, aby <unintelligible/> ty parafráze nevznikaly nějakým round tripem přes tu češtinu.
+To by bylo trochu divný, že jo.
+Ale, ale to teda, jaks říkal, asi ne, takže, takže v pohodě.
+Takže jako -
+<other_noise/>
+Že jo, abychom -
+(PERSON4) <unintelligible/> -
+(PERSON16) Abychom s-, hm, do toho, do ho-, do toho moc nezabředli, tak v principu to beru tak, že experimenty jdou a nějak vycházejí.
+A vypadá to, že jste on <unintelligible/> -
+(PERSON4) <unintelligible/>.
+(PERSON16) na WMT.
+Takže -
+(PERSON4) Zatiaľ hej, no, akože, pokial' si tam niekto -
+<laugh/>
+Teraz ako sme mali púšťať nejaké, cez víkend, eh, sme dali púšťať nejaké dalšie experimenty, ale [PERSON14] -
+(PERSON16) Hm.
+(PERSON4) si to tam obsadil celé.
+Takže -
+(PERSON16) Jo, to jsem si taky všimnul.
+Trochu mě to jako taky znepokojuje, protože ty -
+(PERSON4) Ale -
+(PERSON16) experimenty už mu tam běží třeba 3 dny a má -
+(PERSON4) No.
+(PERSON16) <unintelligible/>.
+<other_yawn/>
+(PERSON4) <unintelligible/> -
+(PERSON16) Takže by nemusel nutně zabírat -
+Jo.
+Jo, jo.
+(PERSON4) Akože tie-
+Už mu písal [PERSON8] a on písal, že dneska večer se skúsi, skúsí niečo pozabíjať.
+No, tak -
+(PERSON16) Jo, jo, takhle.
+Jo, jo.
+Dobře.
+Hm.
+Tak -
+Jo.
+A teda ty vaše experimenty, d-, d-, to, to, co tam chcete prezentovat je, že, že budete mít lepší překlady, když budete překládat multi-sourcově -
+<other_noise/>
+zdroj -
+(PERSON4) No -
+(PERSON16) a jeho parafrázi?
+(PERSON4) No, teraz ako skúšame -
+Toto bolo úplne prvé, čo [PERSON8] skúšal.
+A teraz skúšáme na tom -
+Teraz máme ako ten základ natrénovaný z tých back translationou a z autentickej češtiny.
+A na tom trebas idem-, teraz trénujeme multi-source.
+Že dávame parafrázu a -
+<other_noise/>
+Hm -
+Originál.
+<other_noise/>
+Alebo -
+(PERSON16) Jo.
+Jo.
+(PERSON4) <unintelligible/> v rôznych kombináciách.
+No.
+(PERSON16) Hm, hm.
+(PERSON4) Skúšame, že či to ako nedá nejaký lepší výsled-
+Zatiaľ ako, už tam ako fakt dosiahli sme ne, alebo [PERSON8] hlavne, nejaké lepšie čísla.
+(PERSON16) Hm.
+(PERSON4) Takže také ako -
+<other_noise/>
+rôzne hrátky s tým ideme teraz skúšať.
+Ja som ako skúšal, eh, iba konkatenovať.
+Že na zdroji budeš mať konkatenovanú, hm, je-, vetu s parafrázou.
+(PERSON16) Hm.
+Jo.
+(PERSON4) Ale to sa učilo blbo.
+No, akože dneska -
+<other_noise/>
+to -
+Ako cez víkend to skončilo a niedosahuje -
+<other_noise/>
+to bleu score ani keď tam proste -
+(PERSON16) Hm.
+Já vím, že ta konkatenace, to byl nějaký ten původní raport k tomu multi-sourcu.
+Kdysi před dvěma třema rokama.
+Jako oni tam říkali, 
+<other_noise/>
+že jim to pomáhalo, ale nevím j-, jak moc to bylo -
+Jo, oni tam na to měli jakousi pseudo analýzu.
+Eh, dělali to teda se dvěma jazykama do třetí-, překlad do třetího, že jo.
+(PERSON4) Hm.
+(PERSON16) A měli analýzu, že, že ten attention fakt jako umí koukat, hm, eh, různě.
+Jako na různá místa v té konkatenované větě, které odpovídají obo-, oboum jazykům.
+A jako s tímhletím blbli.
+Ale n-, nevím.
+Musel bych se na to znovu podívat.
+Jako přijde mi to, že to, že to jako v tomhletom smyslu asi překonané.
+(PERSON4) Hm.
+(PERSON16) Že ten rouge s těma dvěma enkodérama zní jako, eh, logičtěji, nevím.
+(PERSON4) Hej, hej.
+Ideme, ideme proste do tohto.
+Zistili sme, že v [PROJECT1] už sú -
+(PERSON16) Hm.
+<other_noise/>
+(PERSON4) aj jako na tvrdo, eh, naprogramované dva enkodéry.
+(PERSON16) Hm.
+(PERSON4) A teda ako nemôžeme tam -
+Je to tam ako zadrátované -
+<other_noise/>
+Takže úplne nevieme či bude jednodušie preda-, pridať trebas tretí.
+To nevieme.
+(PERSON16) Hm.
+(PERSON4) Ale rozmýšľali -
+<other_noise/>
+skôr, sme skôr tak, že bysme mohli urobiť ako takú řetěz.
+Že vlastně, eh, pre-training na tých back translationoch -
+(PERSON16) Hm.
+(PERSON4) A potom, eh, fine-tuning na jedných parafrázách, fine-tuning na ďalších parafrázách, a tak.
+<other_noise/>
+A, eh, v rôznych kombináciách skúšať ako -
+(PERSON16) Hm.
+Jo, jako proč, proč ne, no.
+(PERSON4) Taký -
+<other_noise/>
+Taký řetízek nejaký.
+<other_noise/>
+No.
+(PERSON16) Hm.
+Prostě -
+<other_noise/>
+v principu je nějaká jako training strategie, no.
+Nebo já nevím, jak to nazvat.
+(PERSON4) No, no, no.
+No.
+(PERSON16) No, jasně.
+Eh, jo.
+Jo.
+(PERSON4) A v podstate akože ide o to, že potom vo finále do toho chceme dávať naozaj multi-s-, akože multi-source.
+Že dáš -
+(PERSON16) Hm.
+(PERSON4) do toho, eh, zatiaľ iba pos-, proste nástupe.
+Potom bude iba jedna zdrojová veta alebo jedna, alebo dve vety, vlastne.
+(PERSON16) Hm.
+(PERSON4) Akože dve parafráze navzájom, no.
+Nebudeme robiť zatiaľ experiment, že by tam boli tri alebo štyri, lebo na to nemáme čas, abysme to <unintelligible/> -
+(PERSON16) Ne, ne, ne, stačí asi se dvěma.
+Jasně.
+(PERSON4) No.
+Takže -
+(PERSON16) Eh -
+Jo, ale počkat, to, co teda tuníte, je ten parafrázovací systém, anebo přímo ten překladový?
+<other_noise/>
+Multi-source.
+(PERSON4) Prekladový.
+(PERSON16) Jo.
+(PERSON4) Prekladový.
+(PERSON16) Ok.
+(PERSON4) No.
+(PERSON16) Ok, ok.
+(PERSON4) S parafrázovačom nerobíme nič, ten používame -
+Buď [PERSON8] používa ten [PERSON3] a ja som -
+(PERSON16) Hm.
+(PERSON4) generoval parafráze pomocou toho [ORGANIZATION5].
+A tam som vygeneroval -
+<other_noise/>
+ako pre každú vetu štyri parafráze -
+<other_noise/>
+vlastne, no.
+Takže -
+<other_noise/>
+(PERSON16) No, tak to se, to se když tak domluvte, abyste měli asi, eh -
+Že jo, co se týče těch datasetů, kde máš zdroj, a pak si tam doděláváte nějakou parafrázi, tak aby tam byly nějak tvořené konzistentně, že jo.
+Aby se nemuselo řešit, že, eh, jed-, v jedné sadě to bylo generované [ORGANIZATION5] a v druhé jako nějakým jiným způsobem nebo -
+(PERSON4) Hm, my to budeme porovnávať ako tie štýly.
+(PERSON16) Jo.
+Aha.
+(PERSON4) No, akože ten -
+(PERSON16) Jo.
+Jo.
+(PERSON4) [ORGANIZATION5] je -
+Takto, on tam ten štýl, ktorý je generovaný pomocou toho [PERSON3] systému -
+(PERSON16) Hm.
+(PERSON4) Tak ten je naozaj robené tak, že on vybe-, on tiež vyberá nejaké negative constrainty.
+Ale on vyberá -
+(PERSON16) Jasně.
+(PERSON4) negative constraint tak, aby ta veta pôvodná bola čo najzdia-, najvzdialenejšia od tej nejakej zdrojovej.
+Al-, alebo od tej, od toho prekladu alebo niečo také, no.
+(PERSON16) Hm.
+(PERSON4) To e-, to ešte -
+(PERSON16) Jo.
+(PERSON4) budeme museť ako si premyslieť, eh, že, eh, ja to tiež chcem ako poriadne pochopiť -
+<other_noise/>
+<unintelligible/> do toho článku, že on dúfal, že tam nebude nejaké práve, ako hovoríš, zanášanie -
+(PERSON16) Hm.
+(PERSON4) nejaké češtiny do toho.
+Eh -
+(PERSON16) Hm.
+(PERSON4) Čo by mohla ako ten experiment zneverohodnotiť.
+Ale -
+<other_noise/>
+Verím, že, verím, že [PERSON8], hm, vie, čo tam [PERSON6] -
+<other_noise/>
+robil, a že to je v poriadku <unintelligible/>.
+(PERSON16) Hm.
+<other_noise/>
+(PERSON4) No.
+(PERSON16) Jo, no -
+(PERSON4) A <unintelligible/> pri, pri tom [ORGANIZATION5] -
+Pri tom [ORGANIZATION5] ja som vyberal tie constrainty, tam ich vyberám proste náhodne.
+<other_noise/>
+Že vyberem constraint a štyrmi rôznymi spôs-, alebo štyri rôzne constrainty, a tak získam štyri parafráze.
+(PERSON16) No, ok, jes-
+Ale máš to nějak jako udělané, aby to bylo rep-, reprodukovatelné?
+(PERSON4) Hm, no, jasně.
+Vyberám to náhodne so <unintelligible/> nejakým.
+(PERSON16) Jo.
+Ok.
+Tak to je asi v klidu.
+(PERSON4) Takže -
+Takže keby som proste to pustil znova, tak to vyberá úplne rovnaké náhodné -
+<other_noise/>
+(PERSON16) Jo.
+Jo, jo.
+Tak to jo.
+(PERSON4) Hm.
+(PERSON16) Ehm -
+No, dobrá.
+Tak, eh, co jinak [OTHER1]?
+<other_noise/>
+Nebo ty vaše experimenty s [OTHER1]?
+(PERSON4) No, tam som -
+Hej, no.
+Tam som minulý týždeň nejako trošku preváhal a -
+No.
+Nevedel som proste nnn-
+Začal som sa dívať na toho študenta, že ako to natrénovať -
+<other_noise/>
+A -
+(PERSON16) Hm.
+(PERSON4) Aj to, čo mi poslal -
+<other_noise/>
+[PERSON10].
+<other_noise/>
+A tak som najprv váhal, že či to urobiť či neurobiť.
+Potom som si -
+<other_noise/>
+už ako aj s [PERSON5] písal.
+Aj s [PERSON11] som to diskutoval.
+Že si praje, že to teda nebudeme robiť -
+(PERSON11) A co na to říkal [PERSON5]?
+(PERSON4) [PERSON5] mi na to povedal, že, no, ako bolo by to lepšie, ale ok, keď, že ako ne-
+Že mu to je jedno viacmenej -
+<other_noise/>
+Ale akože ako bolo by to asi lepšie s tým [PROJECT1], že, že hlavne kvôli tej rýchlosti.
+<other_noise/>
+(PERSON16) Hm.
+(PERSON4) Ale -
+(PERSON16) No, a tam je teda zásek na čem?
+<other_noise/>
+Teďka?
+(PERSON4) No a zásek -
+(PERSON16) Jakože -
+(PERSON4) je teda -
+<other_noise/>
+Takže ja som si nakoniec -
+Potom som ešte sa rozprával s [PERSON8] a on povedal, že -
+(PERSON16) Hm.
+(PERSON4) ,,No, tak to skús natr-, že to nebude také ťažké."
+(PERSON16) No.
+(PERSON4) No tak mne sa nakoniec ako -
+On mi s tým pomohol v piatok.
+Keď som bol v práci -
+(PERSON16) Hm.
+(PERSON4) Tak mi pomohol zkompilovať toho [PROJECT1] -
+(PERSON16) Hm.
+(PERSON4) Eh -
+<other_noise/>
+Pre natrénovanie tých študentov aj s tými -
+(PERSON16) No.
+(PERSON4) optimalizáciami.
+A -
+<other_noise/>
+Tak som si povedal, že ok, tak toto mám.
+Tak potrebujem -
+(PERSON16) Hm.
+(PERSON4) ešte ako -
+No, ale potom by som musel ako púšťať ten Teacher systém -
+<other_noise/>
+Aby som preložil tých 5 miliónov vet.
+Ale ten Teacher systém je [PROJECT2], a to som úplne nemal rozchodené, lebo to <unintelligible/> -
+(PERSON16) Jo.
+(PERSON4) A toho som nechcel otravovať.
+(PERSON16) Hm.
+(PERSON4) Tak som si povedal, že tak si natrénujem vlastný Teacher systém na tých istých dátach.
+Ale [PROJECT1].
+<other_noise/>
+(PERSON16) Hm -
+No, dobře.
+(PERSON4) A -
+Ten <unintelligible/> -
+(PERSON11) A p-, počkat, proč jsi nepoužil ten silný, co máme?
+Nasazený.
+(PERSON4) Silný nemôžem použiť pretože, eh -
+<other_noise/>
+Proste tým by si -
+<other_noise/>
+ten -
+Takto, keď trénuješ toho Teachera, alebo ten, toho študenta, tak ten Teacher je vlastne tréno-
+Takto, my chceme reprodukovať to, že máme nejaký low-resource jazyk.
+(PERSON16) Hm.
+(PERSON4) Ktorý je, má iba 5 miliónov dát k dispozícii.
+Takže aj toho Teachera -
+(PERSON11) Jo, u-, už, už tuším -
+(PERSON4) musím trénovať na tých piatich miliónov, vieš?
+(PERSON16) Hm.
+No, dobře.
+Ale počkej, a tak toho Teachera na pěti miliónech dat, jsi teda dal, zkoušel trénovat v [PROJECT1], ne?
+Anebo?
+(PERSON4) Teraz som ho dal trénovať v [PROJECT1] -
+(PERSON16) Jo.
+(PERSON4) Pretože my ho máme natré-, my ho máme natrénovaný pre, eh, pre [PROJECT2], tie modely máme -
+(PERSON16) Hm.
+(PERSON4) Ale ja zase kým by som to spustil -
+Ja neviem, ak to spustiť úplne na GPUčkách a toto <unintelligible/> -
+(PERSON16) Co?
+[PROJECT1]?
+(PERSON4) Nie.
+[PROJECT2], čo máme tie modely.
+No.
+Takže -
+(PERSON16) Eh -
+No, hm -
+Ne, ne, jako ber, ber, že to, že prostě natrénuješ ten wik systém znovu na, na, na, v [PROJECT1], a, a to -
+(PERSON4) Áno.
+Takže -
+(PERSON16) Ale to teďka čekáš ve frontě, ne, asi?
+(PERSON4) Takže teraz trénujem Teachera.
+Takže te-
+(PERSON16) <unintelligible/>?
+(PERSON4) No, nie.
+Podarilo sa mi tam včera dostať, lebo ja som -
+(PERSON16) Hm.
+(PERSON4) celý víkend bol preč.
+Eh, cez víkend sa mi tam nepodarilo dostať, ale včera -
+(PERSON16) Hm.
+(PERSON4) sa mi podarilo aspon na jednom GPUčku, eh, dostať.
+(PERSON16) Hm.
+(PERSON4) A trénujem ho teraz a je to našťastie, keďže je to iba na tých piatich miliónoch, už som v nejakej ako piatej epoche.
+(PERSON16) No.
+(PERSON4) A má to zatiaľ 20 bleu.
+Eh, 23 to má bleu.
+Takže -
+(PERSON16) J-, jo.
+(PERSON4) ešte asi to bude rast trochu.
+(PERSON16) No, počkej -
+(PERSON4) Ja počít-
+(PERSON16) Máš měřené to, kolik to bylo, kolik jste měli výsledné bleu na tom [PROJECT2]?
+(PERSON4) To neviem.
+To, eh -
+To možno, že by sa dalo z nejakých tých logov, ktoré by som našiel u [PERSON15].
+Ja som to nemeral na ničom.
+(PERSON16) Jo.
+(PERSON4) Takže ja som <unintelligible/>, že, že -
+(PERSON16) Já jenom, eh -
+Tak já nevím -
+(PERSON4) Že [PERSON15] mi dodal systém a -
+(PERSON16) Jo.
+No, tak, eh, zkus -
+Však [PERSON15], ten ještě má přístup na Classroom.
+Nebo už si všechno uklidil?
+(PERSON4) <unintelligible/> -
+(PERSON11) Eh, ještě, ještě má přístupy, ale, eh, podle mě, to nebude chtít dělat.
+(PERSON4) No.
+(PERSON16) Jo.
+No, no, zku-, zkus mu napsat, jenom jako se zeptat, a kdyby ne, tak, eh, že jo, vždycky můžeš vzít -
+(PERSON11) Eh, no, počkej, a, a pot-, potřebujem vůbec tuhle informaci?
+Jakože stejně to budem stopovat až -
+(PERSON16) Jo, takle, eh -
+(PERSON4) No, ja si myslím, že ja t-, ja toho Teachera budem stopovať, až keď začne konvergovať.
+Alebo proste -
+(PERSON16) Jo.
+(PERSON4) ho nechám trénovať, dokým sa bude trénovať -
+(PERSON16) Jo, jo, jasně.
+(PERSON4) A potom z tých dát-
+A potom ním preložím tie isté dáta, na ktorých trénujem, tak chápem, že tak sa to má robiť.
+(PERSON16) Hm.
+<other_noise/>
+(PERSON4) A potom dám na tých preložených dátach trénovať toho študenta.
+Ktorý -
+Ktorého snad už mám nejako zkompilovaný ten [PROJECT1], pre toho študenta.
+(PERSON16) Jo.
+<other_noise/>
+No, tak jako, eh, nut-, nutné to není, jenom mi to přišlo, že by to bylo dobré porovnání.
+(PERSON4) Robí sa tam -
+(PERSON16) Že, že jo, že to -
+(PERSON4) Potom) ešte Element, eh, cez, eh, tento Fasteline -
+(PERSON16) Hm.
+(PERSON4) Ale tak to viem, ak to púšťať.
+Takže to je v pohode.
+To bude asi zase možno trvať.
+Ale tak na tých piatich milióny-, miliónoch vet to bude trvať <unintelligible/> -
+(PERSON11) Počkat, tam je potřeba k tomu Element?
+(PERSON4) Lebo ty tam potom dávaš do toho -
+Akože je to vždy lepšie, keď mu tam dáš nejaký ten forced Element, alebo niečo také.
+Pre ten, pre toho [PROJECT1].
+Že jemu to pomáha tomu študentovi pri učení.
+(PERSON11) A je to stále lepší, i když jako ten Element je docela špatný?
+(PERSON4) Hm, to ja neviem, no.
+(PERSON11) Tak ok, v pohodě.
+(PERSON4) Akože -
+J-, neviem.
+Proste budem postupovať doporučeným postupom, vieš ako, ako -
+(PERSON16) No, jasně.
+Ale tak, eh, vždycky můžeš to pustit, ne?
+Obě dvě verze, i s tím, eh, Elementem, i bez něj, ne?
+(PERSON4) Možem, áno.
+Možem.
+Áno, áno, áno.
+(PERSON16) A porovnat ty skóre potom.
+(PERSON4) Hej, hej.
+Hej.
+(PERSON16) No.
+Dobrá.
+Ale tak ve výs-, ve vyt-, v principu jde o to, že -
+<other_noise/>
+Eh, že všechno nějak běží a jsme teďka zdržováni jenom jako výpočetní kapacitou, ne?
+Takže -
+(PERSON4) Viacmenej hej a bol som -
+(PERSON16) No.
+(PERSON4) zdržovaný svojou nerozumnosťou minulý týždeň.
+<laugh/>
+Takže -
+(PERSON16) Ale v pohodě.
+(PERSON4) Ale -
+(PERSON11) Ok.
+A teda až, až tohle doběhne, tak co budem potřebovat řešit?
+<other_noise/>
+(PERSON4) Tak, eh, keď dobehne Teacher, tak budem musieť, eh, študenta a -
+(PERSON11) Hm.
+(PERSON4) medzitým zistím -
+<other_noise/>
+Medzitým skúsim na tých, eh, hm, čo máme tie študent modely pre ten strong, eh, [PROJECT2] -
+<other_noise/>
+Tak, eh, pre ten systém skúsim nasadiť, eh, tie študent modely.
+Už ako na -
+<other_noise/>
+[OTHER1] backend.
+(PERSON11) Ok.
+Ok.
+<other_noise/>
+(PERSON4) Takže aby som aspon vedel že či tam ešte nie je nejaký zádrhel.
+Takže -
+Snad by nemal byť.
+Dúfam, že oni to zase nezm-
+<other_noise/>
+Ako vieš, ja som nasadzoval tie estónské modely.
+Prvýkrát, potom sa to zmenilo, tak som to zase nejako inak robil.
+(PERSON11) Hm.
+(PERSON4) Teď dúfam, že teraz to zas celé nezmenilo -
+(PERSON11) Jo.
+A nebude tady zatím problém s tím, že potřebujeme, eh -
+Jo, to už je v tom [PROJECT1], že se to dává <unintelligible/> confidences.
+<other_noise/>
+Z toho modelu.
+(PERSON4) Hm.
+(PERSON16) Eh -
+(PERSON4) To by malo byť v tom [PROJECT1].
+(PERSON16) Ten [PROJECT1] by to měl umět, ne?
+No.
+Jo.
+(PERSON11) Jo.
+Jo.
+(PERSON4) Hej, hej.
+(PERSON16) Ok.
+Takže -
+(PERSON4) No, ale, ale dobrá pripomienka, hej?
+Dobrá pripomienka.
+To si overím, no, teda či to vracia.
+Hej.
+(PERSON16) Dobrá.
+Takže [OTHER1] nějak běží.
+<other_noise/>
+Poslední věc, co bychom měli řešit je embeslis a asi já-
+[PERSON7].
+(PERSON4) [PERSON7].
+(PERSON16) Eh -
+No.
+Tak jde o to, že už má oficiálně -
+<other_noise/>
+Už má oficiálně vyřešené DPČ.
+<other_noise/>
+(PERSON4) Hej, čítal som.
+<other_noise/>
+(PERSON16) Eh -
+Waiting for IT, aby měl přístupy, a tohle.
+A teď jsem přemýšlel -
+Asi zkusím tento týden počkat, jestli nebude mít už vytvořený to, ty přístupy a tyhlety věci.
+A pokud ne, tak bych mu příští, eh -
+No, jako pozvánku na, eh, na call pondělní pos-, poslal na jeho na mail.
+<other_noise/>
+Jakože příští týden by se už mohl účastnit.
+(PERSON4) Hm.
+(PERSON16) Už jako určitě.
+(PERSON4) Ok.
+(PERSON16) No a co se týče práce pro něj -
+Jo, ptal se mě [PERSON5], eh -
+No.
+Jako co -
+On je teďka zaúkolovaný čím?
+Že jo, on, on si stále jako studuje materiály a má nějak jako popřemýšlet, co by chtěl dělat, ne?
+Jako t-, tys <unintelligible/> nějak jako <unintelligible/>.
+(PERSON4) Tak.
+No.
+Tak nejak.
+Akože on si študuje tie naše veci, no.
+Tak -
+(PERSON16) Tak -
+(PERSON4) <unintelligible/> napísal v tom poslednom e-maili, ktorý som mu posílal s tým, že bohužiaľ mu zatiaľ nemôžme nič dať, pretože to proste väzí, ako stojí na tých administratívnych veciach, no.
+Takže -
+(PERSON16) No, tak já mu -
+<other_noise/>
+A já mu to napíšu asi už dneska.
+Že teda příští týden ho přizveme na call.
+(PERSON4) Hm.
+(PERSON16) Ale asi třeba, jak se dořeší hlavní věci, tak jenom my dva si s ním pokecáme, co dál, ne?
+<other_noise/>
+(PERSON4) Ok, môžme.
+(PERSON16) Jo?
+Že tento týden bych ještě třeba nějaké ty denní cally neřešil, protože -
+(PERSON4) Hm.
+(PERSON16) No.
+Eh, s-
+Jo, a s tím, že když během týdnu přijde i jeho adresa, a tak -
+<other_noise/>
+Tak by se oficiálně přidal do mailing listu, a podobně.
+Ale, ale jenom, mu, mu dám vědět, že ať počítá příští, příští pondělí s callem.
+(PERSON4) Hm.
+(PERSON16) No.
+A -
+(PERSON4) Ja sa pozriem na ten distribution list, eh -
+(PERSON16) Hm.
+(PERSON4) [OTHER2] project.
+You are an owner and member of this list.
+Takže keďže som owner, tak by som ho tam mohol pridať, nie?
+Ale mám -
+(PERSON16) No a -
+(PERSON4) <unintelligible/> tlačítko unsubscribe, počkaj, edit, hm, edit.
+<other_noise/>
+Ok, tak ja ho tu môžem asi pridať.
+Hej.
+(PERSON16) Jo, přímo ten jeho, jeho normální mail, jo?
+<other_noise/>
+(PERSON4) Eh, to neviem, ale tak -
+(PERSON16) Nebo tam <unintelligible/> jenom [ORGANIZATION3]?
+(PERSON4) Eh, keď -
+Ja ho tam pridám keď [PERSON13] snad odpíše, že mu založil konto [ORGANIZATION3] a -
+(PERSON16) Jo.
+Jo.
+S t-, s tím počítám, no, že, že prostě -
+(PERSON4) No.
+(PERSON16) v nejhorším případě mu to pošlu na jeho normální mail.
+Ale jinak jako ideálně bych ho chtěl mít už v tom mailing listě, když, když to půjde.
+<other_noise/>
+(PERSON4) Hej.
+(PERSON16) No.
+<other_noise/>
+Dobrá.
+Takže my se ho příští týden zeptáme, jestli si něco vymyslel, nějaký research, eh, direction.
+(PERSON4) Prípadne ako tie, ako sme hovorili, tie úložky na rozohriatie môžu byť práve nejaké hrátky s tým [PROJECT1].
+Skúsi si to skompilovať, natrénovať -
+<laugh/>
+nejaký model.
+<other_noise/>
+Eh -
+(PERSON16) Dobře.
+Hm, a chce -
+(PERSON4) <unintelligible/> -
+(PERSON16) se ti to nějak jako s-, sepisovat, nebo jenom máš, máš nějakou představu?
+No, asi, nemusíme to nějak o-, oficiálně -
+(PERSON4) Ako v podstate môžem dať ten istý úkol, ktorý robím ja teraz, no.
+Ako to sme tak hovorili, že -
+<other_noise/>
+Eh, s [PERSON5], že si, že to bude ako -
+<other_noise/>
+duplicitná práca, ale -
+(PERSON16) Jo.
+(PERSON4) Aspon ja budem vedieť kontrolovať, lebo som si tým sám prešiel, že čo tam trebas ako robí zle, alebo tak.
+<other_noise/>
+(PERSON16) Jo, jes-, jestli s tím ani [PERSON5] nemá problém, tak je to v pohodě.
+No.
+(PERSON4) Tak on to sám navrhol, že -
+(PERSON16) No, jasně.
+Tak by byl -
+(PERSON4) Že by asi nevadilo, že to budeme robiť duplicitne, ale nech sa on -
+(PERSON16) Jo.
+(PERSON4) trošku ako, prakticky ako ošahá si tie veci a -
+(PERSON16) No, tak jo.
+Tak to nech <unintelligible/> -
+(PERSON4) Eh, vieš, naučí sa prakticky trochu ako robiť s klastrom, a -
+(PERSON16) Jo.
+(PERSON4) podobně, no.
+(PERSON16) Jo, jo.
+Tak to je dobrý -
+(PERSON4) Aj keď ideálne by som mu to dal až po deadline WMT, lebo bude jenom zaberať klaster.
+<laugh/>
+Na blbosti.
+Duplicitně.
+(PERSON16) Eh, tak mu j-, d-, řekneme to, že jo, v principu -
+(PERSON4) Hej, hej.
+(PERSON16) Aby nezabíral víc jak, já nevím, jedno dvě GPUčka.
+Nebo jako nedělal Multi-GPU trénování -
+Ty, ty to plánuješ trénovat Multi-GPU nějak, s tím [PROJECT1]?
+(PERSON4) My robíme na, na dvoch GPUčkách väčšinou, no.
+(PERSON16) Jo.
+<other_noise/>
+No, tak to je v klidu.
+(PERSON4) <unintelligible/> trénovanie.
+(PERSON16) No, jenom prostě mu říct, aby to nedělal nějak jako large scale, že jo.
+Aby si tam prostě vždycky rozjel jednu věc.
+(PERSON4) Hej, hej.
+(PERSON16) Maximálně dvě.
+Dobrá.
+Takže to je tohleto.
+A teď tady -
+<other_noise/>
+ještě [PERSON11] se ptá, co s-, s-, s tím TNT.
+<other_noise/>
+(PERSON11) Eh -
+(PERSON16) V principu jde o to -
+(PERSON4) <unintelligible/>, no.
+(PERSON16) Máme, máme momentálně teda napsaný nějaký <unintelligible/>, kde jsme schopní zobrazovat, eh -
+<other_noise/>
+buďto zdrojové možnosti, nebo překladové možnosti.
+Ještě s nějakýma highlightama, ne?
+Nebo umí to i highlighting těch slov?
+<other_noise/>
+[PERSON11]?
+(PERSON11) Eh, co, co je myšleno tím highlightingem?
+(PERSON16) Eh, já nevím.
+Tak třeba mám, mám větu a chci, řekněme, že bych to používal na, na nabídku fa-, parafrází, že jo.
+No, tak, tak, tak, eh, z-, zobrazím ty parafráze a zvýrazním tam slova, které třeba se vyskytují, nebo nevyskytují v tom originále.
+Eh, já si momentálně nepamatuju, jak přesně ten, ten, eh, vypadal.
+(PERSON11) No.
+Eh -
+Jako já jsem to zapsal na, za dva dny, jo?
+Takže to, v tom není žádná velká funkcionalita.
+<other_noise/>
+Ale jakoby prá-, právě, pokud někdo přijde s něčím, že dokáže dělat, jako nějaký model, který umí nějak pracovat s tím -
+(PERSON16) Hm.
+(PERSON11) Multi-Sourcem, Multi-Target, tak prostě k tomu jsem schopen doupravit TNT, aby, ab-, aby se s ním jako dalo pracovat.
+A -
+(PERSON16) Jo.
+(PERSON11) A pak se o tom dá jako povídat jako mnohem lépe, protože tady máme jako něco, co si leda <unintelligible/>, no.
+<other_noise/>
+(PERSON16) Ok.
+No, tak my tam chceme nějaké constrainování, jako při decodingu, ne?
+Že jo?
+(PERSON4) Hm.
+Hej.
+(PERSON16) Nebo to je tak ta hlavní myšlenka.
+No a teď -
+(PERSON4) To by bolo ideálne -
+(PERSON16) otázka, jak se to -
+(PERSON4) podla mňa -
+(PERSON16) No?
+(PERSON4) No, podla mňa by bolo ideálne ako asi nejako, možno že potom sa popýtať toho [PERSON3].
+Že on má tu branch, eh, [PROJECT1], kde už skúšal tie, kde má nejaký spo-, nejaký spôsob toho constraintovania, hej?
+(PERSON16) Hm.
+(PERSON4) Naprogramovaný.
+<other_noise/>
+Tak nejako vychádzať z tej branche, alebo nejak to proste -
+<other_noise/>
+Nejak to z-, s-, eh, z toho vytiahnuť.
+A že by v tom teraz mohol pokračovať, eh, ten [PERSON7].
+(PERSON16) Hm.
+Jako -
+(PERSON4) <unintelligible/> si do toho niečo doprogramovať -
+<other_noise/>
+Prípadne.
+Alebo minimálne ako -
+Aby sa -
+Lebo teraz je to postavené, ten backend na [ORGANIZATION1].
+A to už niechceme.
+Jednak to proste -
+(PERSON16) Hm.
+(PERSON4) dlho trvá -
+<other_noise/>
+A vlastne aj to ide proti tomu, -
+<other_noise/>
+proti tej myšlenke, že už by sme mali konvergovať k [PROJECT1].
+Takže -
+<other_noise/>
+(PERSON16) Jo, takže -
+No.
+(PERSON4) Najlepšie proste -
+Proste, eh, l-, len treba dotiahnuť tú myšlienku 
+<other_noise/>
+toho constraintovania v [PROJECT1] ďalej.
+<other_noise/>
+Proste.
+(PERSON16) Jo.
+(PERSON4) Neviem, či to -
+Neviem v akej fázi -
+(PERSON16) As-, asi možná i zkusit -
+Eh -
+Možná to i zkusit napojit i na, na ten, ten [ORGANIZATION], že jo.
+To by bylo taky docela užitečný.
+(PERSON4) Áno, áno, áno.
+(PERSON16) Jako -
+(PERSON4) Akože ak ten [PROJECT1] bude vedieť dobre constraintovať, tak už vtedy môžme jasne vymeniť ten [ORGANIZATION1] a napojiť to priamo na ten, na ten, eh, Frontend.
+Ktorý robil [PERSON11].
+<other_noise/>
+Hej?
+A tam sa potom bude môcť, eh, zároveň nejak aj riešiť v tom [PROJECT1]-
+Že by sme mohli potom už aj začať kombinovať ten multi-source s tým -
+Rozumieš?
+Že -
+(PERSON16) Jo.
+(PERSON4) Že bol by tam ten constrainting, ktorý ti dodá nejaké výsledky kt-
+(PERSON16) Hm.
+(PERSON4) A, a zároveň -
+<other_noise/>
+Alebo ten, eh -
+(PERSON16) Dobře, no.
+Jako -
+(PERSON4) Zároveň ten užívateľ by mohol ako pridať nejaké parafráze ďalšie a -
+<other_noise/>
+to si pridá ako nejaké mal-, nejaké dodatočné sourcy.
+No, neviem ako, podla mňa by sa s tým dalo -
+<other_noise/>
+<unintelligible/> ako zaujímavo hrať a kombinovať.
+<other_noise/>
+(PERSON16) Jako, že jo, co, co se týče nějakého) <unintelligible/> návrhu toho Frontendu, tak co, co tam asi chceme, je umět naklikat, já nevím -
+<other_noise/>
+Buďto které slova, třeba ze zdroje, se musí, nebo nemusí přeložit -
+(PERSON11) To už je.
+(PERSON16) No.
+(PERSON4) No.
+(PERSON16) A případně nějak zaškrtávat slova ve vygenerovaném cíli.
+Jakože, co nechceme, a takovéhle.
+Což asi taky tam už nějak je, že?
+(PERSON11) No -
+O-, ono aktuálně to není tak, že klikáš na slova.
+Nebo -
+(PERSON16) No, jasně.
+(PERSON11) Jo.
+Vlastně to je, že klikáš na slova.
+<laugh/>
+Sorry.
+<laugh/>
+(PERSON4) <unintelligible/>.
+(PERSON11) Eh -
+A teďka nevím, zdali to je ve zdroji nebo v, v cíli?
+[PERSON4]?
+(PERSON4) Eh -
+<other_yawn/>
+Neviem -
+(PERSON11) V cíli.
+(PERSON4) teraz, lebo -
+Eh -
+Teraz je to dosť ťažké, lebo robí to <unintelligible/> parafrázing.
+Takže ja si teraz nevybavujem či to -
+<laugh/>
+(PERSON11) Jo.
+<laugh/>
+(PERSON4) klikáš, eh -
+<other_noise/>
+<unintelligible/> -
+(PERSON16) No, ale jakože v principu, že jo -
+(PERSON4) <unintelligible/> TNT -
+(PERSON16) Co asi chceme potom testovat je, že teda budeš buď n-
+<other_noise/>
+něco zakazovat, povolovat, že jo, ve zdroji.
+<other_noise/>
+A v tom cíli bych asi čekal jako zakazování.
+<other_noise/>
+(PERSON4) V zdroji, zdroj to, zdroj zaklikáváš.
+(PERSON11) A to je zvláštní.
+(PERSON4) Počkaj, blbosť.
+(PERSON11) Proč ve zdroji?
+(PERSON4) C-, eh -
+V cieli.
+V cieli, pa-
+No.
+Hej, v cie-
+Áno, v cieli.
+V cieli zaklikáš.
+Lebo to je z angličtiny do angličtiny.
+<laugh/>
+A ty zakla-, zakli, zaklikáváš vlastne -
+<laugh/>
+v tej cieľovej angličtine.
+<laugh/>
+(PERSON11) Jo.
+(PERSON4) Ktoré slová tam chceš mať, a ktoré nechceš mať v tej cielovej.
+(PERSON11) Jo.
+Já, já už to vidím tady.
+(PERSON4) Hej.
+(PERSON16) No, ale jinak <unintelligible/> je , že co se týče Frontendu, tak, tak, eh, hm, jako maximálně nás budou napadat nějaké drobnosti, co by se tam upravily.
+Ale že to asi nebude taková hrůza -
+<other_noise/>
+(PERSON11) Ok.
+(PERSON16) To, co, to, co nás asi nejvíc tlačí, je vymyslet nějakou rozumnou hypotézu, a, a jakým způsobem ji budem testovat, že jo.
+Jako já nevím -
+(PERSON4) Hm.
+(PERSON16) Jo?
+K-, když chci otestovat, že umím překládat líp, eh, když v každé věte mám z-, zvýrazněné -
+<other_noise/>
+slovo a chci ho přeložit, tak, eh, jako takhle, takhle vágně zadané mi to moc nepomůže, že jo.
+<unintelligible/> -
+(PERSON11) No, no, s, s [PERSON4]-, s [PERSON4] máme jako, eh, zkušenosti s tím, jak otestovat, zdali nějaký překladový systém funguje lépe.
+<laugh/>
+(PERSON16) No.
+(PERSON4) Ešte raz, že čo?
+<laugh/>
+(PERSON11) Eh -
+Že, že máme zkušenosti s tím, jak otestovat, zdali nějaký překladový systém funguje lépe pro uživatele.
+Zdali ty výsledky -
+(PERSON4) No, to hej, no.
+(PERSON11) jsou lepší v překladech.
+<laugh/>
+N-, no, ale jakoby nějakým takovým způsobem by se testovalo, že jo.
+Že by prostě měli nějaký stimuly -
+<other_noise/>
+a, a někdo by jako měl tu možnost tam klikat, někdo neměl.
+<other_noise/>
+(PERSON4) Asi hej, no.
+Neviem -
+Neviem zatiaľ, že ak by sa to -
+<other_noise/>
+(PERSON11) No.
+(PERSON16) Ono stále je otázka, jestli -
+(PERSON4) Ako hej, no, ako -
+(PERSON16) to chceme, eh, jak-, kom-, kom-, kombinovat s překladem, a jestli třeba nechcem udělat parserfrázovač nějakým způsobem, že jo.
+<other_noise/>
+I, i to by se teoreticky dalo zahrnout do toho embeslis navigation úkolu.
+Jo?
+Že, já nevím, mám větu, chci vygenerovat parafrázi, ale určitě tam nechcu mít dané slovo, protože chci donutit ten systém tam použít synonymum nebo něco takového.
+Což už najednou by se možná dalo -
+<other_noise/>
+líp rozvrhnout do nějakého experimentu.
+<other_noise/>
+Protože já nevím, třeba u překladu -
+<other_noise/>
+jako chtít, že mám ve zdroji nějakou jmennou entitu a chci, aby se mi ta jmenná entita vyskytla i na, na cíli.
+Tam se obávám toho, že v dnešním době toto není slabina těch NNT systému.
+Že oni většinou, když tam mají jmennou entitu, tu si roz-, rozsekají na, na malé Ngramy -
+Nebo Ngramy, subwordy.
+A většinou se to naučí jako slovo od slova přepsat.
+Pokud to třeba není do češtiny, kde se musíš jakoby naučit i správně skloňovat tyhlety jmenné entity.
+Jo?
+(PERSON11) N-, no, no.
+Tohle jakoby ten-, TNT nenabízí.
+Že to TNT nabízí, pokud se -
+<unintelligible/>, když <unintelligible/> to zkusíš, tak že tam jako dostaneš 5 překladů.
+A v těch překladech si jakoby škrtneš, co chceš, a co nechceš, aby tam nebylo.
+A podle toho v té další iteraci se jako zobrazí jiných 5 překladů.
+Které splňují ty tvé podmínky.
+To je ten constraint decoding.
+<other_noise/>
+(PERSON16) Ok.
+Jo, s tím by se dalo možná nějak pracovat.
+Jo, jinak to, eh, [PERSON11], prosím tě, hodíš tam <unintelligible/> pod tu novou odrážku odkaz na ten -
+(PERSON11) Jo.
+(PERSON16) Jestli to někde běží?
+No.
+(PERSON11) Ok.
+(PERSON16) Jo, jo.
+<other_noise/>
+Super.
+<other_noise/>
+No, dobrá.
+Jako, hm, říkám, stále je potřeba to ještě líp promyslet jako, jakým způsobem -
+(PERSON11) Jo.
+(PERSON16) s tím budem experimentovat.
+Jako nem-, nemám sám jako <unintelligible/> nic, nic rozmyšlené.
+<other_noise/>
+Eh -
+Kdyby vás někoho napadlo, že byste narazili na nějakou relevantní literaturu k tomuhle, nějakému constraintovému decodování, tak určitě ji zkuste linknout, asi rovnou sem do toho dokumentu.
+(PERSON11) No, ale ta-, tady jsou jakoby dva problémy.
+Zaprvé řešíme -
+(PERSON16) No?
+No?
+(PERSON11) Jako pro uživatele -
+Co by vlastně uživatel mohl chtít od <unintelligible/> -
+(PERSON16) Jasně.
+(PERSON11) Děkuju.
+Jo.
+A zárověň řešíme, jak to technicky udělat.
+A to jsou dvě věci.
+A podle mě, bychom se prvně měli zaměřit na tom jako, jak by to uživatel měl chtít, a až pak řešit technické detaily.
+Nebo ne detaily, ale -
+Jako -
+(PERSON16) Hm -
+No, jasně, chápu to.
+Já bych to bral, že to jsou prostě jenom dva směry, kterými se můžeme brát, že jo.
+Jedno je tam ten, ten user experience, tak jako navrhnout to tak, aby s-, to fakt ten uživatel používal.
+A stejně tak si myslím, že tam by se daly dělat jako separátní experimenty, které nebudou ve final produktu.
+Ale budou se týkat toho tématu.
+Jo?
+Jakože prostě, hm, potom, potom v tom deliverablu, co je na konci, bychom řekli, že, že jsme tady udělali ty-, tyhlety sady experimentů.
+<other_noise/>
+Umíme constraino-, eh, jako dekódovat s constrainama.
+Nějakým způsobem jsme ukázali, že je to lepší, než, než když používáme standardní neconstrainovaný systém.
+Že to splňuje nějaké kritéria, co jsme si na začátku stanovili.
+Ale že nevadí, že, že to přímo nemáme otestované s uživatelama zas nějak jako.
+Protože jsme se věnovali spíš tomu, eh, primárnímu výzkumu, nebo jak to nazvat.
+(PERSON11) Jo.
+No <unintelligible/>-
+(PERSON16) Ale, ale nevím, eh, jo?
+Eh, ještě -
+Že jako určitě, určitě bych to zkonzultoval s [PERSON5], ale, ale mně -
+(PERSON11) Jo.
+(PERSON16) Přijde mi to, že, že tady asi není nutné jít úplně stejně, stejnou cestou jako s tím [OTHER1]. 
+Jo?
+Že k-, [OTHER1], tam, tam, jsme potřebovali opravdu zjistit, co vlastně těm lidem nabízet v tom out bandu, a tak.
+(PERSON11) Hm.
+(PERSON16) Kdežto tady -
+Říkám, můžeme to pojmout stylem, že, že v [OTHER1] jsme dělali, že jedna, jeden z modulů byl paraphrasing, tak, eh, v rámci tasku embeslis navigation, jsme se soutředili na to jenom, jak dělat lepší parafráze.
+Protože se odkážeme -
+<other_noise/>
+na to, dá se to používat v [OTHER1] nebo jako jeden z bodů.
+(PERSON11) Tak jo.
+(PERSON16) Tak, tak snad s-, by to nějak šlo.
+(PERSON11) Jo.
+Jo.
+<unintelligible/> -
+(PERSON4) <unintelligible/> ak, ak by to šlo bez užívateľských týchto -
+<laugh/>
+testovaní, tak by som išiel tiež radšej tým smerom -
+(PERSON11) Ok.
+(PERSON4) bez užívateľských testovaní.
+Lebo vidíme že ako je to s [OTHER1].
+Tak -
+(PERSON16) <unintelligible/> jako vzít to <unintelligible/> -
+(PERSON4) Eh, z rôz-, z rôznych dôvodov -
+(PERSON16) No?
+Hm, protože vří-, vzít to z hlediska nějakého parafrázování, tam se máme s čím porovnávat.
+Protože je nějaký výzkum, co se zabývá parafrázováním, že jo.
+(PERSON11) Jo, ale jakoby zase by mi připadalo škoda udělat jako nějaký, eh, chytrý parafrázovač nebo ně-, něco s constraint -
+(PERSON16) Hm.
+(PERSON11) decodingem.
+A pak to jakoby neprezentovat nějakýmu uživatelskému rozhraní, protože -
+(PERSON16) Tak, eh, to, to, to by se, hm, třeba nahodil, eh, udělal by se nějaký divný merch třeba toho TNT s tím outbound translation interphraser.
+Takže jako -
+(PERSON11) Jo.
+(PERSON16) Ten constraining by tam u toho parafrázovacího modulu byl.
+A řekli bychom, že jako nějak tímhletím způsobem jsme to, eh, aspoň basicli, implementovali, no.
+(PERSON11) Jo, jo.
+Jako má myšlenka hlavně byla, pokud by <unintelligible/> chtěl jako <unintelligible/> něk-, něčím jako, co by s tím souviselo, tak rád na tom budu kooperovat.
+(PERSON16) Jo.
+(PERSON4) Hm.
+(PERSON16) Jo, jo.
+Určitě.
+(PERSON4) Akože -
+(PERSON16) No.
+(PERSON4) Ako úplne -
+(PERSON16) No?
+(PERSON4) ideálne by bolo celý ten TNT potom zakomponovať nejakým spôsobom do toho [OTHER1] a pru-, pustiť znova ten [OTHER1] tým, že budu mať už ako tú funkcionalitu navyše, hej?
+<other_noise/>
+A -
+(PERSON16) Jo, jo.
+(PERSON4) Že by sme to vedeli potom ako porovnať tie výsledky aj s tými istými stimulami trebas, eh -
+A porovnať to, že či im to pomohlo alebo nepomohlo, a tak, no.
+<other_noise/>
+Akože -
+(PERSON16) Tak <unintelligible/> -
+(PERSON4) Ale to je podľa mňa už ako fakt že na dlhú trať, eh, a zatiaľ by som to, hm -
+<other_noise/>
+Akože zatiaľ by som ako sa snažil o nejaké low-hanging fruit.
+<other_noise/>
+(PERSON16) Jasně.
+(PERSON11) Tak kdyby to šlo, tak jo.
+(PERSON16) Jako držet si v -
+Dát si do <unintelligible/> -
+<other_noise/>
+že, že, eh, můžeme udělat znovu ty [OTHER1] experimenty s-, jako s více final produktem.
+Se asi hodí.
+<other_noise/>
+S tím, že si odhadneme, že já nevím, v posledních šesti měsících by se to snad mohlo stihnout, ne?
+Kd-, kdybychom fakt chtěli.
+<other_noise/>
+Nebo jak, jak dlouho vám to teďka už trvá?
+<other_noise/>
+<laugh/>
+Ta, ta, ta druhá sada experimentů, třeba?
+(PERSON4) Eh -
+Dlho, no.
+Od decembra -
+<laugh/>
+Od decembra -
+<laugh/>
+niekedy som -
+(PERSON16) Jo.
+<other_noise/>
+<laugh/>
+(PERSON4) Kedy sme s tým reálne as-
+Akože, co som s tým prišiel, že, že ideme toto robiť.
+<other_noise/>
+No a zatiaľ sme to ešte furt nespustili.
+Teraz ako -
+<other_noise/>
+uznávam, že mesiac to visí ako na nás, no.
+<other_noise/>
+Takže -
+Alebo na mňa a na [PERSON9], lebo [PERSON9] tam mal proste tú komponentu, ktorá padala.
+Takže -
+Ako áno, tam bol problém aj s tým, že, eh, jednoducho [ORGANIZATION4] -
+<other_noise/>
+Keď -
+(PERSON16) Hm.
+(PERSON4) Oni mohli paralelne pracovať, zatiaľ čo my sme robili, tak oni nerobili nič.
+A potom my sme čakali, kým oni začali pracovať.
+A zase my sme ako pot-, eh -
+Keď oni pracovali, tak my sme nie, že nerobili nič, ale trebas sme vôbec neprišli na to, že, eh, je to príliš pomalé, že trebas padá tá parafrázovacia kompon-
+Lebo tam s tým parafrázovaním sa to ešte -
+<other_noise/>
+menilo kvôli deliverablu.
+(PERSON16) Hm.
+(PERSON4) No, vieš, no.
+Ako s tým [PERSON9] to bolo také na dlhé, na dlhé lakte, trochu.
+(PERSON16) No, jasně.
+Ale tak to beru, že, že -
+(PERSON4) Že nie -
+(PERSON16) tam bylo dost věci, které třeba jsme s-, jako jsme s nima nepočítali.
+<other_noise/>
+(PERSON4) Jasne.
+Ale myslím si, že dalo sa na to nejako prísť skôr.
+<other_noise/>
+Neviem.
+Akože <unintelligible/> -
+(PERSON16) Jo, to jo.
+<other_noise/>
+(PERSON4) Ide-, i-
+<other_noise/>
+Neviem, no.
+Bol to môj prvý pokus -
+<other_noise/>
+Alebo niečo manažovať, takýto väčší projekt -
+(PERSON16) Hm.
+<other_noise/>
+(PERSON4) Eh, alebo nejaký taký, že, že tam bolo do toho viacej partnerov -
+<other_noise/>
+Možno, že proste som to mal ako lepšie si rozvrhnúť, aby sa robilo viacej veci paralelne, no.
+Tak ako -
+(PERSON16) No, jasně.
+A to, to, s tím nějak počítám, že, že pokud -
+<other_noise/>
+bychom to chtěli zkusit udělat znovu, tak že těch 6 měsíců by nám snad mohlo stačit.
+Protože už víme, eh, na co si dát pozor.
+<other_noise/>
+(PERSON4) Hm.
+(PERSON16) Ale to jenom jako beru, že, že, já nevím -
+<other_noise/>
+Třeba příští rok na jaře bychom se o tomhle pobavili znovu, jestli to teda chceme, nebo nechceme.
+(PERSON11) No, to, to bude záležet na tom, jak bude probíhat ten, jako [PERSON7] třeba výzkum.
+Nebo <unintelligible/> -
+(PERSON16) No, samozřejmě.
+<other_noise/>
+Jo?
+Že, že zatím si to nechme jako -
+<other_noise/>
+to, jako možnost, ale ne-, nemusíme nutně komitovat -
+(PERSON11) Hm.
+(PERSON16) Hm.
+No.
+A jinak jako já si myslím, že je snad všechno, ne?
+<other_noise/>
+(PERSON4) Hej.
+<other_noise/>
+(PERSON16) Ok.
+(PERSON4) Podla mňa hej.
+(PERSON16) Hm -
+(PERSON4) Budúci týždeň teda snáď bude posun v tom [OTHER1], aby to konečne sme mohli už spustiť.
+<other_noise/>
+Lebo každý ďalší týždeň je blbý na to, aby sme stihli <unintelligible/> aj to AT-, [ORGANIZATION6].
+Čo bol -
+<other_noise/>
+By si bol už rád.
+<other_noise/>
+(PERSON16) Jo.
+(PERSON4) Tak verím, že budúci týždeň už to bude, budem prichádzať so správou, že to máme hotové.
+A už to je na [ORGANIZATION4].
+Len potom ja sa zase bojím toho, že to dáme [ORGANIZATION4] a oni zase prídu s niečím, že sa im niečo nepáči, a že -
+(PERSON16) Jo.
+(PERSON4) budú chcieť niečo zmeniť, a podobně, no.
+Takže -
+<other_yawn/>
+Takže tak, no.
+<laugh/>
+(PERSON11) No, tak nechtěl bys jim teďka napsat, jako <unintelligible/> připraví na to, že příští týden to odstartujem?
+(PERSON4) Ehm -
+Mohol by som im, no.
+Keď ja zase tiež nechcem úplne sľubovať, eh -
+(PERSON11) Jo, jasně.
+(PERSON4) Niečo, čo -
+(PERSON11) Hm.
+(PERSON4) Lebo ako ja sa teraz primárne sústredím na ten, na ten WMT.
+(PERSON11) Jo, jo, jo.
+<other_noise/>
+Jo.
+(PERSON16) Jo.
+(PERSON11) Hm.
+(PERSON4) A -
+No, hej.
+Teraz sa mi trénuje ten systém, tak akože -
+Hej, akože ak, eh -
+Ja ešte skúsim teraz nasadiť ten, toho druhého študenta, toho silného.
+<other_noise/>
+Uvidím, ako to pôjde a keď tak <unintelligible/> mu ešte napíšem, nech sa na budúci týždeň už pripravia.
+(PERSON11) Tak jo.
+(PERSON4) No.
+<other_noise/>
+(PERSON16) Dobrá, no.
+Tak jo.
+Takže -
+<other_noise/>
+(PERSON4) Dobre.
+(PERSON16) Napiš i tomu <unintelligible/>, ať, ať je připravený na příští pondělí.
+(PERSON4) Hm.
+(PERSON16) No.
+A teda v tom případě asi -
+<other_noise/>
+zatím čau.
+(PERSON4) Ok.
+Tak sa majte.
+(PERSON11) Jo.
+Ahoj.
+(PERSON4) Čau.
+<other_noise/>

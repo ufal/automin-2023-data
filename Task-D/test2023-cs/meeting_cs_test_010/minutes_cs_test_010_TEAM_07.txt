@@ -1,0 +1,123 @@
+Summary:
+
+* PERSON21 chce mluvit s PERSON12, ale PERSON12 se jen rozlouká.
+  -- Disc: PERSON21 si přečte, co dal PERSON12 pro poznámky, a pak si promluví.
+  - Disc: Ráno.
+  - Fact: Ráno si PERSON12 přečte poznámky.
+* PERSON12 je vděčná za práci, kterou dosud provedla.
+  - Disc: May bude pravděpodobně znamením postupného návratu.
+* V ORGANIZATION28 varovala lidi, aby byli opatrní a aby se dodržovali zvyků, které měli dodržovat v březnu, dubnu a květnu.
+* PERSON21 a PERSON12 se sejdou zítra odpoledne v 1:00 online.
+  - Disc: Myslím, že je příjemné vás všechny vidět.
+* PERSON21 a PERSON12 musí kvůli chladné počasí vyloučit některé lidi ze svých schůzek před domem.
+  - Disc: Interní schůzky jsou opět přetíženy.
+* Budou muset zkrátit dnešní schůzku PROJECT17, jinak bude venku zima.
+* PERSON12 chce vědět, jak se vede poradenská schůzka s lidmi z venku. Jestli se během týdne nebo dvou nepohnou, zítra jim dá další pokyny. Jestli je počasí dobré, půjde ven.
+* PERSON21 má v pondělí schůzku, kde se bude diskutovat o budoucnosti PROJECT3, PROJECT12, PROJECT15, PROJECT16 a PROJECT34. Také budou hledat umístění nebo reprezentaci PROJECT16 a budou mluvit o studiu.
+* PERSON21, PERSON2, PERSON4 a PERSON37 se sešli na schůzi o PROJECT7. Napsali doporučení v jednotlivých školkách, takže je teď na PERSON6 v ORGANIZATION28.
+* ORGANIZATION5 chce v PROJECT10 umístit sochu svého prvního starosty.Zaměstnanost bude přijata ORGANIZATION28, dokud nedojde k oficiálnímu žádosti o spolupráci.PERSON21 provede konceptuální zaměstnání pro PROJECT22 s ORGANIZATION28.
+* PERSON21 chce, aby jim ORGANIZATION19 a ORGANIZATION17 pomohly vyřešit kabely.
+  -- Disc: Pošle jim možná definici, kterou mohou dát jako podmínky ve svém vyjádření.
+  - Disc: Definice bude k dispozici ORGANIZATION17 v zápisu z jednání.
+* PERSON21 chce vědět, jak to vypadá soutěžit na vnějších zde.
+  - Fact: Ve čtvrtek se konala úvodní schůzka, jen aby zjistili, jaké materiály budou muset získat a nechat je vyplnit před přípravou soutěže.
+* PERSON30 ještě nemá konkrétní úkol.
+  - Fact: Pan PERSON11 má svou vlastní skupinu jak pro exteriér, tak pro interiér, takže teď budou jen skládat zázemní věci, a pak se všichni do toho zapletou.
+* PERSON30 dnes odpoledne kandiduje na organizaci ORGANIZATION8. Má řadu setkání s PERSON29 a městem, které představí veřejnosti svoji vizi Hy-, PROJECT22 a PROJECT18.
+  - Disc: Chtějí také najít spojení s městem pro PROJECT4.
+* PERSON30 a PERSON21 se dostanou do ORGANIZATION4.
+* Chtějí se jich zeptat, kolik hovorů došlo proti PROJECT4.
+  -- Disc: Nevědí, jestli už to vědí, takže se nemusí ptát, jestli to vědí.
+* PERSON30 chce vědět, kolik odvolání bude od organizace odesláno k němu1. Chce vědět, zda bude také pozván k odvolání.
+  - Disc: Dostal informace z archivu.
+    -- Disc: Má zájem se znovu setkat s PERSON21.
+* PERSON26 zpracovává zásilky. Z toho dostal pár kruhů a má pro sedmletého kluka dojem, jak se zabývá problémy s ohřívacími domy, které se přeměňují z velkých bytů na menší jednotky v Bubenci.
+* PERSON26 se domnívá, že je divné, že Praha jako politické zastoupení hledá způsoby omezení a definování.
+  - Disc: ORGANIZATION27 to umožňuje bez mrknutí oka.
+* PERSON26 by chtěl ORGANIZATION27 poskytnout určité zpětné vazby na tento případ.
+* PERSON12 chce, aby další architekt vypnul svůj mikrofon.
+  -- Fact: Další architekt má mikrofon.
+  - Fact: Architekt to nemůže vypnout.
+    -- Fact: PERSON12 zavolá architektovi, aby ho požádal, aby ho zapnul.
+  - Disc: P ONP33 nemyslí, že organizace by měla ovlivnit práva vlastnictví.
+* PERSON30 chce použít případ ORGANIZATION10 jako vzor pro svůj vlastní případ. Chtěl by podat opravný prostředek městskému oddělení ORGANIZATION27, které souhlasí s tímto opravným prostředkem.
+* Chce dát své vyjádření mezi vzory ORGANIZATION26.
+* PERSON26 předložil podmínky pro poslední dvě připomínky k optickým sítím. Po konzultaci s ORGANIZATION18 a paní 31.
+  - Disc: Podmínka je formulovaně jako koordinace nebo přizpůsobení.
+  - Fact: Má tuhle kontrolu a opravu.
+  - Disc: Z optické sítě se ozývá nějaký zvuk.
+* PERSON30 by chtěla otevřít nějaký druh tématu, jako je úroveň kapitálu, nebo nějaký vyšší druh úrovně, aby mu dala nějaké prohlášení nebo něco takového, ale prostě nebyla ochotná.
+  - Disc: První dvě vyjádření by tak patřily řediteli, a kdo by to považoval za správné na jeho území.
+* PERSON12 je naštvaná na ORGANIZACE28 a ORGANIZACE2.
+* Domnívá se, že by se stát měl více zaměřit na jiné regulační nástroje. ORGANIZATION16 by měla mít stejné podmínky jako ORGANIZATION27.
+  - Disc: Organizace má mnoho členů jak v jejích členech, tak i ve městě a ve vodních orgánech.
+* PERSON18 má soutěž na PROJECT19. Má v poštu návrh formuláře oprávnění.
+  - Fact: Dal by do formuláře více informací, ale chce to probrat se svými kolegy, až se dostanou na tuto fázi.
+  - Disc: Nechce jít ven s dalšími informacemi.
+* Zjištění týkající se výstavby PROJECT8 budou známy.
+  - Fact: Existuje stavební povolení pro parkoviště, které se změnilo na pár parně zaplavených sportovních ploch.
+  - Disc: ORGANIZATION6 chce změnit budovy, než budou hotové, protože chtějí jejich názor.
+* PERSON18 jde na víkend do lesa, aby něco udělal v lese, protože v ORGANIZATION13 byly děti přiděleny.
+  - Disc: Když se vrátí z lesa, posílá fotky osobě PERSON21, ale nemusí.
+* PERSON21 a PERSON18 mají úkol týkající se PROJECT19.
+* Musí mluvit s UAP o tom, jestli jsou nosiči pachů nebo my.
+  -- Fact: PERSON21 přepínal záznam a má barevnou stránku s poznámkami, které se buď otočí nebo ne otočí.
+  - Disc: PERSON18 chce přečíst úkol a vyjádřit svůj názor.
+* PERSON24 zapnul mikrofon a teď může slyšet hlas PERSON21.
+  - Fact: Může ho slyšet, může slyšet i svůj vlastní hlas, může slyšet svůj hlas, protože zapnul mikrofon, slyší svůj hlas.
+* PERSON24 je zdravý a pracuje doma. Skládá pozorování pro PROJECT13.
+  - Fact: Má nějaké zprávy o vodních dopravcůch a skládá je dohromady.
+  - Disc: Není příliš zajímavý o věc, jen řve.
+* PERSON24 chce přestěhovat školu dál do středu území, aby se zabránilo problémům s hlukem a znečištěním ovzduší.
+  - Fact: Jakmile bude studie o této otázce dokončena, zašle k tomuto účelu doporučení osobě PERSON21.
+  - Disc: Stanovisko bylo dohodnuto, není však součástí textu.
+* PERSON1 přečetl úkol těm, které poslal osobám PERSON7 a PERSON21.
+  - Disc: Nebylo nic, na co by si mohli vzpomenout.
+* Nejdůležitějším bodem bylo, aby se do studie zapojila ORGANIZATION8, Praha.
+  - Disc: Až přijde instrukce, bude se připojit PERSON1.
+* PERSON36 má spoustu spisů a chce udělat nějaké schůzky, ale neví, jak se s nimi vypořádat.
+  - Disc: Nechce trápit PERSON28 s PERSON8.
+    -- Disc: Nejdřív chce vidět, jak volná je terasa.
+* PERSON21 je dnes na dovolené a bude mluvit s PERSON8 a PERSON28 o organizování schůzky.
+  - Disc: Chtějí vědět, kolik lidí bude na schůzi. Organizátoři objednali terasu, židle a stoly, ale ještě nejsou žádné stoly.
+  - Fact: PERSON8 zavolá ORGANIZATION14 a požádá, kde je objednat.
+* PERSON36 bude pracovat s stážiérem, který zemřel na školním území, na PROJECT2. Setkal se s ním ve studiu. Přijde do studia v 12 hodin, aby si s ním promluvil.
+  - Disc: PERSON27 je na cestě do ORGANIZACE17.
+* PERSON27 chce dnes poslouchat přednášku pana PERSON15 o vodách sedmi.
+  - Disc: Nebyla tu žádná stopa, že to bylo na ORGANIZATION11. Přednáška se objeví později na živém záznamu.
+* PERSON32 zítra pojede do ORGANIZATION8 a tam bude další balíček. Balíček bude stejný jako předchozí, takže není nic nového.
+  - Fact: Není to nový balíček, jen jiný balíček.
+* PERSON37 a PERSON25 vytvořili na PROJECT6 osídlené území. Jedná se o spoustu souborů a souborů souvisejících s PROJECT2. PERSON37 nedostal žádnou zpětnou vazbu na soubor, který hledal.
+* PERSON13 v této lahvičce vzdává právo na odvolání. Projektant PROJECT20 pracuje na vizualizacích. ORGANIZATION9 bude pravděpodobně tento projekt v blízké budoucnosti prezentovat lidem v fázi nějakého vizualizačního studia. PERSON37 mluví s PERSON13 nyní.
+* PERSON13 dnes provádí průzkum.
+  - Fact: Už mluvil s dopravci o PROJECT7.
+  - Disc: Vysvětluje, že když si někdo myslí, že je někde pod zemí a když tam jde, uvědomuje si, že je úplně někde jinde.
+* PERSON2 a PERSON13 jsou o PROJECT7 znepokojeni. Neví, jestli bude nějaké krytí, nebo jestli to bude jen tramvajová linka. Jestli se bude schovat ve svém původním tvaru, bude to 300 metrů od původního místa.
+* PERSON18 měl včera ve mrazáku dvouhodinovou schůzku s ORGANIZATION1. Myslí si, že vůně jsou tam na koeficientu odezvy, kterou tam chtějí, a potřebují nějaké jiné naplnění a strukturu, aby se zabránily tomu, aby chodili na vysokou místo na byt.
+* PERSON21 by chtěli pokrývat PROJECT7, protože chtějí udělat něco, co by je umisťovalo, ale pokrytí je vázáno na ORGANIZACE6, takže to není dlouhodobý plán.
+  - Disc: ORGANIZATION12 chce dostat tramvaj.
+* PERSON13 věří, že Bohdalec není jen chyba Vinohradského, ale ve skutečnosti problém s vůní.
+  -- Disc: Studie něco zkontrolovala, ale zkontrolovala to mnohem méně podrobně, než se dalo očekávat.
+  - Disc: Dopravci s tím mají relativní problém.
+* PERSON13, PERSON21, PERSON37 a PERSON12 diskutují o hluku z PROJECT7 a PROJECT11. Snaží se najít řešení pro hluku. Řešením je oddělit dvě akce a zlepšit životní podmínky a hluku tramvaje.
+* PERSON21 chce, aby lidé udělali fotku PROJECT7 a mluvili o tom s ním a dalšími lidmi zde.
+  -- Disc: tj. vidět to dobře a diskutovat o tom s jinými lidmi.
+  - Disc: Jmenuje se PROJECT7.
+* PROJECT7 se pohybuje pomalu, tam je hledání.
+  - Fact: Hledání pokračuje.
+  - Disc: Projekt bude trvat chvíli.
+  - Disc: Je to chvíli trvat, než se přesuneme kvůli zpoždění v průběhu PROJECT7.
+    -- Fact: Trvá to dlouho.
+* Ředitel konečně podepsal všechny prohlášení tento čtvrtek.
+  - Disc: Objem oznámení a rozhodnutí se výrazně zvýšil.
+  - Fact: ORGANIZATION22 již poslala všechny své připomínky řediteli. Nový balíček prohlášení byl připraven v pondělí, ale odešel, takže mají další balíček připraven.
+* PERSON27 chce vědět, zda záznam z této schůzky funguje dobře.
+  -- Fact: Jestliže pošle, paní architektka zašle audio nahrávku a ona zašle písemnou nahrávku zpět na PERSON27.
+  - Fact: Jestli ne, tak to není posílání.
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

@@ -1,0 +1,18 @@
+Schůzka [OTHER1], 2020-05-18
+
+Přítomni: [PERSON21], [PERSON24], [PERSON17], [PERSON3], [PERSON19], [PERSON9], [PERSON15], [PERSON8]
+
+Na schůzce bylo řešeno:
+
+- problém se spoluprácí s [ORGANIZATION2], řešit v pátek na callu
+- deadline na WMT je odložený na 15. srpna
+- zjistit, jestli nemá [PERSON14] problém s callem přes Zoom
+- přidat do deliverable nějaké čísla, např. [PERSON24] vygeneruje více parafrází
+- pokud se do konce týdne nevyřeší quality estimation, tak uděláme experiment sami
+- oslovit [ORGANIZATION6] s tím, že [ORGANIZATION2] nereaguje, že budeme dělat experiment sami, aby dodali jejich část práce
+- oslovit v pátek nasmlouvané anglicky hovořící anotátory, kteří neumí česky, aby se zúčastnili experimentu
+- připravit mail pro tyto kolegy s prosbou, aby 2 hodiny věnovali experimentu
+- vyhodnocení bude dělat [PERSON9] a [PERSON17]
+
+
+Zápis sepsala: [ANNOTATOR2]

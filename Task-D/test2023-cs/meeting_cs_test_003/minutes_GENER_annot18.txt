@@ -1,0 +1,31 @@
+Schůzka [ORGANIZATION21] 2020-05-13
+
+Přítomni: [PERSON11], [PERSON31], [PERSON18], [PERSON1], [PERSON24], [PERSON29], [PERSON38], [PERSON23], [PERSON40], [PERSON26], [PERSON1], [PERSON13], [PERSON10], [PERSON7], [PERSON5], [PERSON27], [PERSON9]
+
+Na schůzce bylo řešeno:
+
+- je potřeba dávat si pozor na chyby ve vyjádřeních, které jsou psány elektronicky
+- IT oddělení by mělo mít hotové košilky pro oběh faktur v polovině června
+- pokud vyjádření specialistů chodí pozdě, je potřeba je urgovat
+- do konce května nahlásit dovolené
+- 21. května je [ORGANIZATION2]
+- 22. května je [ORGANIZATION16] na téma [ORGANIZATION33] a památková péče
+- vznikne soutěž na vzhled [PROJECT23], [ORGANIZATION31] připouští i možnost tříkolejného mostu
+- brzy se budou projednávat ÚAP ve dvou úrovních, bude to projednávat pořizovatel
+- odmítnout studii in-house [PROJECT15]
+- připravuje se zadání pro [PROJECT13] pro externího zpracovatele
+- [ORGANIZATION21] zpracovává dokument [PROJECT9]
+- [PROJECT2] se zvažuje, že bude jako věřejné výběrové řízení
+- už je model [PROJECT1], je potřeba domluvit schůzku s [PERSON29] a náměstkem
+- do týdne bude dodána studie ohledně [PROJECT27]
+- diskuze o podání dokumentů pouze elektronicky
+- [ORGANIZATION27] by měl 25. 5. vydat rozhodnutí o [PROJECT3]
+- pan [PERSON21] má podat informace o [PROJECT4]
+- [PERSON29] konzultuje změnu územního plánu v [PROJECT20] s občanským sdružením [ORGANIZATION28]
+- [PERSON5] řeší koncepční zadání pokračování [PROJECT19]
+- varování o postupech [ORGANIZATION20]
+- spěchá [PROJECT10] a [ORGANIZATION33] a [ORGANIZATION25], [PERSON31] se na to podívá odpoledne
+- [ORGANIZATION17] zřejmě uzavře dohodu o spolupráci s [ORGANIZATION19] ohledně revitalizací dalších ulic a veřejných prostranství
+- [PERSON31] pomůže [PERSON20] s koncepčním zadáním na [PROJECT25]
+
+Zápis sepsala: [ANNOTATOR2]

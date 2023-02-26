@@ -1,0 +1,37 @@
+-So you are always host - Yes, I am always host.<n>You are always host - Yes, I am always host - Yes, you are always host.
+-What is the situation looking like in Czech Republic, there are almost one hundred thousand new cases per day, the situation is very bad and the situation may rise during winter.
+-Investigate the cases that didn't register or didn't make test so on.<n>Try to find the cases that didn't register or didn't make test.
+-There are news that many people are dying of old age - Why don't they report that?,<n>There are news that many people are dying of old age - Why don't they report that?
+-The problem is that there are people who don't report because they don't want to get involved in a situation that would be dangerous for them.
+-[PERSON9] If you have something to say about consent, perhaps we could beg from you, or maybe you could speak from a trusted person.
+-There are few matters I wanted to say about the Czech meetings, but there are few matters I wanted to say about the English meetings, the Czech meetings.
+-My idea was to run named entity recognition model on English meetings and Czech meetings, find proper nouns names that we want to change in both English and Czech meetings.
+-To identify the proper nouns in the model, first we need to talk about the first problem, the first problem, the second problem, identifying the proper nouns.
+-Czech meetings should be able to use common nouns that are repeating from English meetings to Czech meetings.<n> Czech part MSD meetings should be able to use common nouns that are repeating from English meetings.
+-For English models I use LNTJ model which is good model for Czech and Slovak names.<n>For English models I use LNTJ model which is good model for Czech and Slovak names.
+-The same thing each meeting is the name of the meeting, the name of the meeting, the name of the meeting, the name of the meeting.
+-The problem with manual annotation is that it is very difficult to read and understand the list of nouns and notators.<n>The problem with manual annotation is that it is very difficult to read and understand the list of nouns.
+-The problem is that the system is not responding to the speekers defind (which is a system response of the system to the definds).
+-Remove the speaker(s) of the summarization of the speaker(s) of the summarization of the speaker(s) of the summarization of the speaker(s).
+-Remove the brackets for data set that want to be published, for example A B example, we will have K, M, C, K, M, M, K, M, K, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M,
+-The only thing that could possibly be kept is [PERSON3], because he is very active and very active at meeting.<n>The only thing that could possibly be kept is the transcript.
+-PERSON je to nahodou mohlli by ses kdybys nahodou mohlli na ten meeting na dekuju dekuju.
+-Send a link to the meeting typing> I have sent him an invitation to join our forum typing> I have sent him an e-mail with the link to the meeting typing> I have sent him the invitation.
+-[PERSON17] is the person who was attending the meeting with [PERSON17], but he was not present at the meeting, which is very possible.
+-There are a lot of cases where annotators should not really understand the name of the person, for example, Mm, for example, is not excluded.
+-Another possibility is that this dash line could be a mistake, because it could be a chain of four zeroes, or it could be a mistake, which could also be a mistake.
+-From [PERSON17], remove words with dash from transcript, remove words with dash from transcript, remove words with dash from transcript, remove words with dash from transcript.
+-Stop the video if you're not listening or if you're stuck with the grey cases for named entities (I'm not sure if you're listening or not).
+-[PERSON12] that we're probably good with like this, but manual validation should come from level word types, rather than from manual validation.
+-The word type decision should be based on the context and not on the word type decision which is based on the word type decision of the entity or token decision.
+-What I had in mind was two step manual identification of the words of the noun, what I had in mind was two step manual identification of the words of the noun.
+-Let's say we have a meeting in the morning and then we need to discuss the words in the meeting - do we need to remove the words from the meeting.
+-Name entity ID which allows you to reconstruct the name entity value in data.<n>Name entity ID which allows you to like arrive at same name entity value immediately.
+-The data would say: this word is suspected to be a named entity or not one of the type level of the type level of the type level of the data.
+-In order to resolve all these cases like the above, we should assign the cases to annotators and then resolve all the cases like the above step.
+-The problem with this is that there are not many people who have worked with these in the past, so it would be difficult for them to recognize the names.
+-One of annotators would be saying for each line, one of three options, clearly not a name, This is clearly not a name and cannot be unnamed.
+-Annotators should have something like interface, but they should not do in - They should not do in - Here they just add A B C laugh> this line.
+-In the first phase just get the list without context, the list will just get the list without context, the list will just get the list without context.
+-The system name tag should be the same - So we have to use our system name tag - and then we could use our system name tag - which should be the same.
+-The problem with this is that we can only do twelve names at a time, and this is problematic because we can only do twelve names at a time.

@@ -1,0 +1,119 @@
+Summary:
+
+* The Czech Republic government has already lifted the restrictions on commercial activity. From the 4th of May, some commercial activity can already be open, but the free circulation of people can't start until June. 
+* Starting from June, PERSON11 and PERSON4 will be allowed to reach their families in the same region. 
+* PERSON11 went to the park yesterday. 
+  - Disc: The rules have changed since this Monday and now people can't go out even if they need to buy groceries. 
+  - Fact: People can go to the forest if they want, but they can't do anything else than that. 
+* PERSON8, PERSON11, and PERSON7 will have to postpone one of their regular meetings. They will meet in September instead of in May or June as they don't know if they will be able to travel somewhere. 
+* They need to vote in a Doodle to get the dates. 
+* PERSON11 has sent a link to a Google sheet with a couple of deliverables due in June. 
+  - Disc: They haven't decided who will be the internal review person for any of them, so it's a good opportunity to choose them now. 
+* If you would like to read one of the deliverables, you need to tell PERSON11. 
+* PERSON8 wants ORGANIZATION1 to review the summarization of the ASR system. 
+  -- Disc: PERSON16 will do the review. 
+* PERSON8 thinks they should ask for an extension for this deliver because Congress has not taken place and they contribute everything to the system. 
+* PERSON1 is looking for someone to review three points one. 
+  - Fact: ORGANIZATION5 is developing their own system in this area. 
+  - Disc: ORGANIZATION5 will do it. PERSON1, PERSON8, PERSON4, and PERSON13 will sign the form. 
+* PERSON8 wants to put PERSON13's name on the list, but he will let them know if he wants to be put there or not, so they will put him with two question marks. 
+* PERSON11 is writing a project management guide. It will be a lot of words. 
+  - Disc: The best position would be ORGANIZATION1, because they have coordinated a number of projects. 
+  - Disc: PERSON1 would rather read about ASR systems than read the guide. 
+* PERSON11 is looking for a project management guide for the new deliverable. 
+  - Fact: He doesn't have it. It's the first version of the deliverable and there's no description. 
+  - Disc: The project could have been managed without a guide for 15 months, if they don't have a guide. 
+* QT21 has period reports and data management plans, but not the project management guides. 
+  - Disc: PERSON8 thinks it probably was copy-pasted from something from somewhere. PERSON1 doesn't remember such a thing. 
+* PERSON11 will write something and someone will review it. 
+* The person who would like to coordinate future projects should have some incentive to read it. 
+  - Disc: ORGANIZATION3 could be asked to review the project because they don't know what EU projects are about yet. 
+* PERSON8 wants the internal reviews to be ready by the 8th of June. 
+  - Disc: The review is the first draft. 
+  - Fact: The reviewer has two weeks to fix it and a week for no further than one week with no more than one more week spare for final tracks from the coordinator. 
+* PERSON8 sends an e-mail to PERSON5 about the milestones for organizing the ORGANIZATION4 Congress. The Congress won't happen yet, but it will be taken off in a year from now, as per PERSON5's advice. 
+* PERSON11 has a milestone due in December, another in August and the year 2 test set due in the end of August. 
+  - Fact: He forgot to put the one more deliverable in the list. It's the one deliverable that will be due in August. 
+* PERSON8 is building the test sets for PROJECT1. The colleague responsible for this is very slow. 
+* He should have the repository populated and described by August so that they can submit it as a deliverable. 
+  - Disc: The layout of the repository is a directory of file lists. 
+    -- Fact: The files are curated according to the languages available. The annotators are searching for documents and in many languages. 
+* The August the August was the low deliverable of the year 2 test set. 
+* The files should be curated for the part-part particle purpose. The file list should be essentially like a (fine graph) so that you list all the files and check that you have all the languages that you want. 
+* PERSON8 suggests adding FLAC to sacrebleu's test set and then the file list name and it would do automatical downloaded and put the commit ID the current commit ID into the fingerprint. 
+  -- Fact: Max apps test sets can be easily extended to text. 
+* PERSON8 and PERSON1 agree that the public use of these test sets should be limited to a few of the interesting file lists. They need the particle, computational linguistics domain, auditing domain, text audits versus speech audits domain and a file list. 
+* PERSON8 is working on the SLTF for the evaluation of spoken language translation. The SLTF is a private repository, but it will be public when it's finalized. It is now under testing for the audible SLT share task evaluation. 
+* PERSON1 wants to know how to text evaluation marks. 
+  - Disc: Spoken language translation is a bit more difficult. 
+  - Disc: simultaneous translation can have an effect on the button translation. PERSON13 will try to reconnecting if someone needs it. PERSON8, PERSON15 and PERSON13 are connected. 
+* PERSON8 explains to PERSON15 and PERSON1 that SLTF includes delay and latency and wasted effort. 
+  - Disc: The primary evaluation will be the translation quality, and the ASR and translation quality regardless of delay or delay. 
+  - Fact: It was not a requirement for the audible SLT task this year, but in the next year it might be required. 
+* PERSON15 has to send the source code of his model to the organizers. 
+  - Disc: He would prefer to send it to the lock file. 
+  - Fact: The lock file is used for lock former time stamps. 
+  - Fact: The time stamps are used for desirability to tasks it. 
+* People can misinterpret what time stamps should be used. 
+* PERSON8 points out that forced alignment is not reliable for us either. The only thing that the one can say to this is the this at least affects everybody the same way. 
+* When people misinterpret what the locks should be, each party is affected in a different way. 
+* PERSON8 suggests to find paid or unpaid volunteers to do the task on the data. The task is to find and revise the translations and to check the translations are making translations. 
+  - Disc: It is possible to do both tasks at the same time, so they plan to do it both. 
+* PERSON8 finds finding and curating is half the price when we pay what we pay to annotators normally compared to like the professional translation. 
+  - Disc: For now, he prefers to use automatic processing and maybe use some quality automatic quality measures to cut the cost further. 
+* PERSON8 and PERSON1 have made progress in getting translations out of the auditing websites. 
+  - Fact: If they are unable to find speech domain and auditing domain, they will ask the people to find the text monolingually and translate it back to Czech. The current people have signed up work agreements with short-term contracts with the four languages that are not well represented in the project. 
+* PERSON1, PERSON11, PERSON8, and PERSON6 are going to finish the overview of the audible SLT test set and provide feedback on the layout and upload data sets. 
+  - Disc: If PERSON12 doesn't start soon, someone else will take over supervision and managing the annotators. 
+* PERSON8 needs someone to make sure that the demo of the integration part of the system is delivered. 
+  - Disc: ORGANIZATION5 would like to manage and make sure the demo is delivered as it is the responsibility of ORGANIZATION5. 
+    -- Disc: PERSON8 is not sure if PERSON13 is here. 
+* PERSON8 and PERSON5 are discussing the issue of retranslating. 
+  - Fact: ORGANIZATION7 has been working on the retranslation approach for the past years. The users prefer a delay. 
+  - Disc: ORGANIZATION7 has experience with defending their approach to the users. 
+* PERSON8 would like to have a user study on humans towards the end of the project. 
+  -- Disc: It's a question of whether it's a priority for the project or not, and whether they see it as a priority or not. 
+  - Disc: They will do it any time they have the time. 
+* PERSON8 and PERSON11 are in the middle of the project. 
+  - Disc: They agree that retranslating is not a good idea, so they need to end the project and start again at the end. 
+    -- Disc: They will probably not learn up before the end, but they agree to do less of the translation. 
+* PERSON15 is not an ASR person, so he doesn't know if retranslation goes back a lot with the transition to end-to-end ASR. The MT only translate will be get from ASR, so every hand is also changes. 
+  - Disc: If the ASR waits to the end of the sentence before sending his hypothesis, it injects instability. 
+* PERSON15 will have the new generation of transformers in direct translator. 
+  -- Disc: There is a big improvement from actual lectures. 
+  - Fact: There are still some improvements for flickering and translation support generally. 
+  - Disc: The quality is still not good enough. The new generation will be available soon. 
+* PERSON8 and PERSON1 confirm that there is no internal SLT in the new generation. In the end-to-end ASR there is only complete sentences admitted. 
+  - Disc: There is research going on how to low latency when they ASR and right now. 
+* PERSON8 and PERSON1 discuss the integration of the ASR and MT. 
+  - Disc: The new generation of ASR models is not ready yet. It will be up to the users whether to wait for the German verb or to guess and put there some English verb. The system is based on guesswork. 
+* PERSON8 is trying to run GPT tool to predict the tail of the sentence. 
+  - Disc: The ASR is so bad that the prediction is totally off. 
+  - Disc: So far it doesn't work at all, but they are trying this guessing. 
+    -- Disc: It's what the interpreters do. 
+* PERSON8 wants the demo to be on the 14th May 17th. 
+* ORGANIZATION5 should supervise the organization of the demo. 
+* The partners should have their systems ready. The communication should be done to ensure that the demo is delivered successfully. 
+  - Disc: ORGANIZATION5 will supervise this. 
+* PERSON13 wants to send a message that is not a <unintelligible> 17 than 4. 
+  - Disc: It's important because it's too close to the end of the message and they said sooner is better. PERSON8 suggests sending the message closer to end. 
+* PERSON13 will create the Doodle Poll with time slots already for PERSON5 and directly con PERSON5. It will be better if they post the final proposal informaly as a Doodle and then ask for time slots for all the partners. 
+* PERSON13 and PERSON8 will learn how to set up the Doodle and send it to <unintelligible> in both partners. 
+  - Fact: They will then agree to share it with someone else. PERSON8 has sent a couple of a like a recorded demo most to PERSON5 and propose something specific. 
+* PERSON4 saw the demo of the project officer and she mostly seen the Monday seminary. The demo was well tested by PERSON4. 
+  - Disc: The only problem is how to present the results to the project officier. They will not present the same thing online as the demo. 
+* PERSON8, PERSON4 and PERSON1 want to create a demo of the material they are subtitling for ASR. 
+  - Disc: The demo could be some low-level material like French watching session or a TEDx talk. 
+    -- Disc: It's not necessary to save the content, but it's a safer way of selling it. 
+* The sentence segmentation kills the performance for the final user of the machine translation. 
+  - Disc: It is partly due to having better models. 
+    -- Fact: There are many errors in the system, but still, there are many cases where the system does not put the full stop where the user wants it. 
+* PERSON8, PERSON15 and PERSON4 want to organize German talks next week. They want to test the whole set up via English into all the languages. The communication about the day should start internally immediately. Next week, they should send an email to the PERSON5 to truce, his date. 
+* The talks should take place towards the end of the next week and in the week from the 11th. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

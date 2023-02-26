@@ -1,0 +1,28 @@
+-About two days before the meeting.
+-Take note of the agenda agenda for the meeting, it should be somewhere on the agenda or in the agenda, it can be in the meeting agenda, or it could be somewhere.
+-Put it to the master plan for th first shared task on automated minuting, or we could put it into the shared task components, whatever we like better.
+-The agenda is now in master document, the agenda t Virtual Coffee agenda.This is agenda, agenda is the agenda for the Coffee Meetings, the Virtual coffee agenda.
+-Collect candidates for Annotate at word type level, if they are surely a named entity in context our context, insert token level annotations into xml mark-up of the documents.
+-To make a copy of someone's document not delete the annotations at type level.
+-To have token level annotation of the documents, we do want to have the word type annotation of these words all at once, professor mentioned that the token level annotations of the words are very useful in lexicography.
+-The list of words does not include the beginning of sentences, but all of the words at the end of sentences got into the list from the beginning sentences.
+-If someone refers Jane at the top of the meeting, and someone else refersJane at the end of the meetings.
+-To be able to do that type of text processing, it has to be a skilled person in this ah, like text processing and it's a special type of document processing.
+-The other thing that [PERSON14] needs to discuss is the annotation of the consent forms. That is very closely related but explai But this is totally new.
+-Give all participants of all meetings, both consent forms of the same time at same time, to give us their oral consent form of the first page of the consent form.
+-The first form is the consent to publish the data, which is the second form of the data that is to be published, and this consent will be complimented with samples.
+-To simplify the data set for every participant, like giving everybody the full dataset.
+-This is the most tedious part of all of them, this is what i'm asking about, how to manually extract names of participants from meeting minutes.
+-Do best effort thing.
+-Now that we have meeting IDs, we can easily find which ID belongs to which participant, which ID is meeting ID, and that i That should not take time.
+-Ifr We will see, maybe there are more outstanding pieces of information that need to be deleted but maybe we will do a second pass of the data.
+-Please put this on a timeline, ideally at the end of January.This is something that we can put online as the prospective participants of the meeting at the beginning of February.
+-end of February, would be a good date for participants for the meeting participants, get their consents, right? Would that make sense, would that date make sense.
+-The data de-identification consent from participants end should be done by February end, because that's how long it takes to write the consent form from participants.
+-The data should be ready for them to browse in the first week of February, but they should then do the consent at the end of February or something like that.
+-Item three, which is the token level instance of the Xml mark up find extract token level instances of the original, text from the document, which should not happen later on in mid February.
+-This should not happen by the end of February at the latest.
+-The Scientific Committee is not finalised, right lik That is why we have forwarded the email template to all of these people the Scientific Committee, right - PERSON.
+-Please prepare the text for an email prospective members of this group, in C F P P. This is needed for the application for the membership of this club.
+-Try to use the same document for editing the text of that, email, or maybe we can use the document with the same text for editing that,?
+-The invitation email will be personalized in some way, but it will not be the same as the invitation email with the Russian ones, for example, they will contact some, but not all of them.

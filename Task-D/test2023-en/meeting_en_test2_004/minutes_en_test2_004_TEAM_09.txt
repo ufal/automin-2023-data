@@ -1,0 +1,112 @@
+(PERSON13) Uh, yeah, I I can hear you now that you're-
+So, how are you [PERSON5]?<other_noise>
+(PERSON5) Sorry, I'm fine thanks.(PERSON13) Yeah, I got it built on during the <unintelligible>
+And it came one and half or two months ago actually.(PERSON5) Okay, it seems that I like I need to disconnect first, and then reconnect so, okay.(PERSON13) Hi, hi, hi [PERSON12], how are you?(PERSON12) So welcome <unintelligible>
+(PERSON13) <unintelligible>
+(PERSON12) I wasted my holidays by being ill, uh, but that was something from stomach, so not not Covid  
+related.<laugh>
+(PERSON13) Yeah, okay.As the New Year is king of expected of but filled more with assignments, projects <laugh>, these  
+kinds of stuff you know.So are you actually staying in Mannheim in the dorms or in uh, uh, uh-.<laugh>
+(PERSON13) <laugh>
+It is more like a kind of village kind of part of the city.So [PERSON13]  you or you said that, you would be very busy and you could-
+Uh, like, is there anything you can help with or, uh, or, uh-.(PERSON13) I, I would not make any like false promise like, make, a, promise now, and otherwise
+not do it.So I am, I'm like I will be quite honest because I'm like slumbered with the homework, the  
+assignments and exams approaching.I'm on the technical calls regularly so I'm like up to date with what is like happening and who is  
+doing what.(PERSON13) Okay, I'm happy to do that.Mm, it, it, could, be, any, data preparation, like, downloading for, uh, some, some, domain data  
+you know, for the two, uh, events, or, or, something, like that.<laugh>
+Uh, I'm I'm sending a question to [PERSON14] now, so the the second event, the [PROJECT6] will have two  
+parts.And, I'm, going to the [PROJECT6] tomorrow.So I will see where can we plug our bear ringers and actually record the sound, uh, um, on the, uh, 
+on site.And I 'm just checking if [PERSON14] would be available as a back-up person in case of whatever I get  
+sick, or something like that.And, like, the more important and still persisting topic to to work on is the ladder climbing and  
+I've suggested here uh, in the uh, uh, in the uh, paragraph for [PERSON7], uh,
+that we could use simple HTML tables that would be auto generated, and that would grow.Um, yeah, okay, so Weights and Biases this is not really, uh, recommended by [PERSON3].So that means moving the few scripts to, uh, where they belong from [PROJECT2] test set and some  
+automatic runner.Or what you could even do, is to have a full, uh, Git check out, uh, directly located in this  
+public HTML or simling from that public HTML.So this, this would be useful, especially for people outside of [ORGANIZATION4] such as, [ORGANIZATION10], uhm, we  
+know they have like-
+The performance was was bad for some of the files and they could directly, uh, browse it on the  
+web.So if this is up to you to set it up so that it is like user friendly and and easy and easy to  
+follow.I'm now, uh, working on, uh, getting to update the, um, demo paper submission, which is due next  
+Friday, if I 'm not mistaken.And then I have some project reports to do, and I'm starting to gather documents, ah, like, or  
+links to the documents, not the documents themselves yet, uh, for the two sessions.Like,  
+what is missing, and what is, um, uh, what, you, were, happy, about, and, what you were unhappy  
+about, when doing D one point five and D six point three.I mean, we are reporting the numbers of words, so, the statistics about the transcript percent,  
+right?(PERSON7) English to a German or English to Czech or vies versa, so that, um, ultimately we get, uh,  
+enough.Originally we wanted to get an idea about, uh, the conversion, like the world ratio of two  
+languages for a given transcript.So I guess we had a proposed that if there are some lines which are coming from, uh, [PROJECT3] and we  
+want to remove it.(PERSON12) Yeah, uh, so let me let me take a record here, so, uh, [PERSON7] will do this.And then, uh, as observations, uh, uh, of some D one point five empty, six point, uh, three  
+preparation.Uh ,so, you mentioned one, and that is profanity filtering, uh, evaluation.Uh, and here have an explicit list of names and, uh, terms, uh, that we, uh, do want to appear in  
+the output.So, [PERSON2] has compiled, uh, some, uh, uh, translation dictionary, um, and, uh, uh,  
+should-.Uh, so this would be the rare, uh, words, uh, eval for [PROJECT9] and then from [PROJECT13] we are also likely  
+to get some dictionary.And [PERSON7] could I ask you to to revise the [PROJECT1] domain and creates such a dictionary by looking at  
+the outputs and what is missing in the outputs.Or we could also ask [PERSON1], uh, not [PERSON10], but, [PERSON1], uh, uh, to extract
+uh, this positive plus negative lists from [PROJECT1] or domain documents.(PERSON7) So, uh, I think we need to improve our segmenter, the worlds are getting revised fine.Okay, uh, so uh, what I miss still, and what should belong to the ladder climbing and the regular  
+reports is [PROJECT10] style of evaluation.But, uh, get in touch with [PERSON1] and get some delay scores for some of the files from the [PROJECT2]  
+test set.So, segmenter is related tom this a lot, so that's why <unintelligible> it occurred to me that we  
+need that.So, uh, [PERSON7] please prepare for, uh, for the, uh, Wednesday call with, uh, like, uh, other  
+partners by, uh, getting [PROJECT10] scores delay plus [PROJECT7], uh,  on one of the IW[PROJECT10] Dev, uh, files or  
+uh other, uh, [PROJECT1] domain files.The plan and the goal is, of course, to put this into the regularly produced tables, but now do it  
+just for one file.I'll first ask him to, uh, correct po- the current [PROJECT10]L for the correct type we have.(PERSON7) <unintelligible>
+(PERSON12) Yeah, sure.So yeah, I should mention that loud, that like, uh, [PERSON7], has done tremendous amount of work, uh,  
+for the deliverable.So you see, that like, it's is despite, it seems simple, it actually takes time, and we need to  
+work this way.And I, uh, for the continuous, uh evaluation, for the ladder climbing I really do want to have tha, 
+uh, uh, um, these observations being gathered like throughout the weeks and 
+not for the deadline.And uh, uh, like the presentation of that is also important, and we need to do it way before the  
+deadline is approaching.So hopefully we will be more likely with, uh, like, time allocation for this, and and hopefully it  
+will be less, uh, stressful.For both of the sessions, [PROJECT13] and [PROJECT6] I do already want to choose the system the the  
+pipeline from some choices, and this has to be based on some numbers.We have always used just some of the system and and not really thought about which one, but let's  
+really start making an informed choice.So, uh, [PROJECT13] is going to be in Czech, right?Uh, yes, if I'm not mistaken.(PERSON7) <unintelligible>
+(PERSON12) You will need to be in touch with [PERSON10], as you said, uh, because we need to revive, uh, the  
+[PROJECT5].(PERSON12) <laugh>
+(PERSON5) Well it was some fix I found on the internet.to [PERSON17] and [PERSON15] so to the [ORGANIZATION10] people asking about links to the data, and they still didn't  
+respond.But at the same time, I'm, I'm pretty sure the common voice alone would be too small.It would not be good, uh, it would be good for comparison purposes, but it would not be good as a  
+system for deployment.And, uh, so when I said that [PERSON8] is owing us the list of [PROJECT4] data and other links, they actually  
+have already provided these, uh, links in some way.Uh, let me check [PROJECT2]
+You, deliverables, D one one and D one five.So, D one one and D one five.You are actually the only one who is training [PROJECT3] system, uh, at [ORGANIZATION4] these days.So you should, uh, like clean or make yourself familiar with the data on our disks and put it  
+there.(PERSON13) Uh, like, in building a non native speech, uh, automated system, for tor some languages, as a  
+part of my, as a part of the masters thesis.(PERSON13) So I mean, I think the sooner I get started working on it the sooner I will be able to I, I  
+will be able to build the-
+Uh, I I do not know, because I haven't done this in the past.So that you, like, [PERSON10] has already written, like, understood some of the traces that [PERSON11] left  
+for us.That the knowledge is stored with someone in the team, it can be [PERSON7], but it also could be  
+[PERSON13] and [PERSON5].(PERSON13) So, what I was thinking, that I should first view the video which [PERSON11] had, 
+recorded, before he left.So, once, uh, once, I, I, I, go through that, then I think, uh, me a [PERSON5] can decide on when to  
+have a call, uh, with [PERSON10].So, some things were removed, so I don't know whether we can run everything which is in in the  
+video.So then we are with the most up-to-date version of our remote <unintelligible>
+(PERSON13) Yeah, said the sounds.So because I m actually also like to work on the non native speakers so of it is actually, uh, uh,  
+one part of my, uh, uh, of my thesis.Uh, but if I understand it correctly you you would like to do this model using [PROJECT5]  
+<unintelligible>
+(PERSON13) Yeah, yeah, yeah.(PERSON13) Yeah, probably that would also uh, ease the distribution of [PROJECT2] project.(PERSON5) Okay, so uh, the call with, [PERSON10], uh, should continue right after this call.(PERSON12)  So, [PERSON7], when is your call.(PERSON7) No, I will probably talk to him on Monday.But [PERSON10] is busy <unintelligible> and not available on Friday, so it will be probably on Monday or  
+Tuesday.(PERSON5) Okay, uh, [PERSON7].Yeah sure, I'll I'll do and [PERSON13].(PERSON12)  Great, okay.Great, so I'm happy that we have not missed this.Or if you did, then maybe we could include him as well in the call, so that 
+essentially he will also be training [PROJECT3] systems if he is to replace [PERSON10].(PERSON12) Uh, uh, yes, you're talking about the what is his name.(PERSON12) Vi, [PERSON4], yeah, yeah, yeah.I have a model for Czech, German and English which kind of works on YouTube videos in Euro  
+parliament.It in works in online mode, with three seconds delay, and I 'm going to integrate it into the  
+mediator and create one s simple start up script to increase control so anyone can use it.And then I'm going to analyze the ASI dev <unintelligible> data and then probably [PROJECT12]  
+training or anything else.So um, aiming, uh, towards [ORGANIZATION8] deadline with a subtitler study paper, uh, yes, uh, and then, uh,  
+then [PROJECT12].And and and class, you can see the silence, Czech, German, English, and then I will let on the  
+others how they want to use it, in, the, pipeline.Uh, because, uh, that is, uh, [PERSON7], and also [PERSON7], when you talk to [PERSON16] a well and also  
+possibly [PERSON13].Uh, if we have this tool, we need to ship the audio, uh, to multiple, um, uh, [PROJECT3], uh, or,  
+multiple, uh, workers, in, the, directory.That's the [PROJECT12] tool, which will be preserving these text outputs and also following the  
+time stamps <other_noise>.Uh, and it would emit, uh, it would probably like <other_noise> produce <other_noise> 
+uh, separate the output into the three language channels.<other_noise>
+So we need like, uh, filters for the [PROJECT3]s so the [PROJECT3] is silent if' it's the wrong language and it,  
+uh, it, it is the recognized text if it is the correct language.Another set up would be that, the same sound is shipped to [PROJECT3] and this language checker and, uh,  
+that already, like this language checker is essentially a a part of the [PROJECT3] silencing the [PROJECT3] if it 
+is the wrong language.So, we need to figure out, which way, um, uh, is of integrating the language ID 
+is the best for our purposes.Ideally, uh, uh, I think that uh, the, the, least, uh, like, management, 
+confusion, and, and, so on would arise if our [PROJECT9] models were multilingual.Ah, so, we would have this multi langue- multilingual, multiple [PROJECT3] at the beginning all going into 
+English and then from the English would go into all of the languages.And later, when [PERSON5] would have a multilingual model of [PROJECT3], uh, that language ID would not even  
+be needed.Uh, and, uh, I think that we should have multi lingual, uh, [PROJECT9] models and either multi lingual [PROJECT3]  
+or multiple [PROJECT3] with this language ID all feeding into the same multi lingual [PROJECT9] and then this [PROJECT9]  
+producing English.(PERSON7) Um, I mean it kind of does, but it will like <unintelligible> bias the translations.<other_noise>
+Given the time <unintelligible>
+(PERSON12) Yeah, not necessary for the for the multilingual models.Uh, I don't think, it, should deteriorate too much if it's if it's, uh, three languages, uh, at  
+the, uh at the beginning.So, uh, I mean to interpret -
+Or they talked about how the computer had learned to try, or to interprete- 
+Or it created one language on it's own.Starter <unintelligible>
+<other_noise>
+So I understand too.So, he or she can directly translate from one language to another, withour using English as a  
+derivatory language.But if your data is more available through English then it's it's better to go through English or  
+synthetise the uh the data for the direct language pair.That you create synthetic corpora, uh, based on English centric data set but you create then a  
+direct model.(PERSON7) Yeah, the input could be multi lingual as well as the output would be multi lingual.In, the middle of the year so, uh, probably we should start meeting on that and start, uh, writing, 
+uh, right after the subtitler study is, is a way.I'll try to record somewhat my suggestion about how to use the language ID in theirs that we have  
+in the document, and otherwise, uh, uh, uh, uh, have a good week and talk to you, uh, next, uh,  
+Thursday, and be in touch, uh, with, uh, the preparations for the for the events so that is, uh and 
+the continuous evaluation.

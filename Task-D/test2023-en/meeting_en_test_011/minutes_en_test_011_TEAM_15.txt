@@ -1,0 +1,16 @@
+-Okay, first of all, how can we understand each other? Oh, and the problem with this question is that there is no way to understand this question.
+-Try to use a perceptor for example, single perceptOR on top of the transformer - Actually what have we used in the paper with we need?
+-One layer one layer what we need it's like more than one layer, like a collaboration with people in [LOCATION', that we were talking about.
+-Look at the first layer is very focused on the subject or objects in the last layer it's more like a matrix of things that looks like for other sentences.
+-Look at the different parts for (syntactic tree) and for those determiners modifiers those heads look like justs looking up the neighborhood but context words just shift one way or another.
+-To understand the relation between different laytions in syntactic tree and its dependency trees or -? It's constructure which some heads correlates with relation in different laytion in syntactic Tree.
+-Focuse on the heads that's for instance was quite good at finding subjects eem verb (balustrades) from cognition (balutrades).
+-Figure out what heads do different stuffs.
+-Try extracting the graph structures compare how was like similar syntactic trees or different types of trees we can (extract from syntax) from graph conclusion layers (aproach).
+-There is a paper where they took the syntactic trees and use that form input of machine translation systems to form extract from the attentions (RNM) which.
+-The objective function should be as similar to the (dependency) trees that are trained differently, with the objective function being as similar or slightly different to the tree(s).
+-They have two syn two heads or eeh that were trained to be similar to the two heads like gold syntax, they also report better results improvement in this training.
+-The yellow paper was like some reason the small [PROJECT model mention predict somen passwords, that's completely different model uhm.
+-laugh> We have it's layers model analyse small layers that, if it is too small to model analyse model analyse models.
+-What's analyse and completely different models and then looking something crash. laugh> These always maybe could differently, here anything (alphe) or -?
+-The (excel) knows best document basicly there.

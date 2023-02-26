@@ -1,0 +1,44 @@
+Attendees: [PERSON10], [PERSON1], [PERSON9], [PERSON11], [PERSON6], [PERSON12], [PERSON7], [PERSON13], [PERSON3], [PERSON2], [PERSON5]
+
+Summary:
+lets wait short while for a short while on because [PERSON1] hope that [PERSON13] would join . Could [PERSON10] tell us about the presentation platform , which now requires password . 
+
+[PERSON10] is going to register also these credentials and just being , . Quickly share the screen where [PERSON10] had the the launch of ten workers at the same time underneath of each other . 
+
+[PERSON9] is going to change the browser . if [PERSON1] if [PERSON1] open the screen , that [PERSON9] has shared . But [PERSON9] just its return , and it is , and bug info , and it works sometimes . just any anyone know where [PERSON12] is or why . 
+
+[PERSON1] is afraid that we what we need to [PERSON1] is , because the the machine translation workers seem working well , . 
+
+[PERSON9] is goint to test the ASR workers . 
+
+[PERSON2] dont think we can manage anything like that . 
+
+[PERSON1] will be around on Wednesday , Thursday and Friday but not tommorow . 
+
+[PERSON5] 'm not sure if [PERSON1] this . 
+
+[PERSON1] have the new , [PERSON1] have the new . 
+
+[PERSON1] have not seen any of the subtitles in [PERSON1]'s  view of the presentation platform . PERSON5] we will still be around to fix this right . 
+
+[PERSON6] is almost certain it is not related to that . thats something for [PERSON13] probably because we need the presentation . can [PERSON9] , can [PERSON9] comment , because [PERSON9] will [PERSON9] will be coming to the venues . She is talking right now , but [PERSON6] cannot hear . and [PERSON6] replied  [PERSON6] is expanding this extra write file , [PERSON6] can [PERSON6] can find it on GitbHub . 
+
+[PERSON1] have the contact for [PERSON14] already . if [PERSON1] may repeat this , or comment on this . Its either one of the respeakers or the person from the round table . We are going to check each path and [PERSON10] think that they already manage the directs ASR output for English , Czech and . 
+
+[PERSON10] will be travelling but also in [LOCATION2] is holiday . 
+
+[PERSON1] will copy these availabilities of yours . 
+
+[PERSON1] is not sure if [PERSON12]'s , [PERSON12] is away right . 
+
+[PERSON1] is checking if he can connect . PERSON9] should not rely on this , like the . 
+
+[PERSON11] says he has a problem connecting to the pexip . We are going to configure te presenation platform , English as the top priority source language since we are running test with English , but if [PERSON10] change the test , tell usthat we can put German as top priority andon , because otherwise we will not be published on the front end the subtitle . 
+
+[PERSON1] would also like to ask everybody to keep debugging this afternon and tomorrowthat we have the workers reliable , and , . 
+
+[PERSON1] asked  Would [PERSON3] be available for this , for all the coming days ? And what [PERSON3] would do , in the script would be [PERSON3] would know which process ID this . this ID corresponds to and [PERSON3] would kill the process and start a new process instead , that we could initiate the restart of the worker . 
+
+[PERSON3] dont how [PERSON3] can make some kind of website available for [PERSON1] over the internet [PERSON3] dont know map our workers to session IDs , the workers know about the session ID , [PERSON3] guess they do but it might have this . We have a workers which all produce log files , we have here are actually docker container ID is and we can look this is what one of the log files looks like . can [PERSON9] tell minus F instead of this less . that the thing is , in theory this log output will indicate if this worker is in fact idle and is in fact new connection . It probably works , if [PERSON3] can avoid it [PERSON3] will not . 
+
+[PERSON1] think it is the the matter of a would be only to recompile this worker with one print . PERSON11] if [PERSON1] could do tried this afternon , finding the source code of [PERSON1]'s  workers . Can [PERSON3] see whether [PERSON3] can ping this adress . , if [PERSON1] tell [PERSON1] [PERSON1]'s  password . that [PERSON1] would paste its adress here .

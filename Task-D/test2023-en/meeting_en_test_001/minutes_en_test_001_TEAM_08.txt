@@ -1,0 +1,98 @@
+(PERSON5) Okey, yes, so I use <ehm> this - <ehm> this microphone is no longer usable <ehm>
+
+(PERSON5) This microphone is <ehm> the recognisory, <ehm>, the recognition. (PERSON5) The real (video mixer) is ordered an will be there, so this is something that we <ehm> can <ehm> experiment with and hopefully we can get it running. (PERSON5) <ehm> yeah, so, everything is going -
+
+<ehm> so, <ehm> <unintelligible> [PERSON9] or [PERSON8] can you please explain? (PERSON5) <ehm>, so, I hear your voice <ehm> interrupted at times. (PERSON5) So, maybe - <ehm> <other_noise>
+
+I'll just say <ehm>, so - <ehm>
+
+yeah, we're testing the old option, the <ehm> bridge workers to select the <ehm> <unintelligible>
+
+(PERSON5) Please <ehm> explain <ehm> whether the - <ehm>
+
+the (planned) behaviour <other_noise> for the next week. (PERSON9) <ehm>, I don't <unintelligible>
+
+(PERSON9) I have to ask <unintelligible> journey. (PERSON5) Yeah, so, <ehm> so <ehm> as (said), <ehm> Wednesday is surely available from the very morning and <ehm> Tuesday <ehm> afternoon is also extremely likely. (PERSON5) So for example now if I saw me, if I saw my own English among the - <ehm> on the subtitles, which, for some reason, does not <ehm>, yeah -
+oh okay, something is being updated and I don't see the actual words. (PERSON12) <ehm> but, we need <ehm> the setup to - 
+<ehm> to be there. (PERSON5) I want you to doublecheck with [PERSON4], <ehm> whether <ehm> the - 
+<ehm> whether they can still <ehm> connect (formal) laptops to the Internet. (PERSON23) I guess it should not, but I don't know about the capacity of the switch, so, yeah, I should check. (PERSON5) Yeah, so the idea is to - to have <ehm> notebooks also in the interpreters' (booths), but we can run into physical limits, maybe there is not enough space on their desk and - and so on. (PERSON5) So this is <ehm> like an idea and I would like (that) [PERSON3] and - and <ehm> [PERSON9] or -
+<unintelligible> to discuss how to do this <ehm>, so that the <ehm> network load is - is not duplicated again. (PERSON9) And, so, also - 
+(an) users will be <ehm> <parallel_talk> Yes <\parallel_talk> allowed to choose one of them <ehm>, and -
+<other_yawn> I don't know if it's suitable or not. (PERSON5) <Ehm>, so, <ehm> maybe call it like (X1), (X2), (X3), (X4). (PERSON5) So we'll keep updating this form <other_yawn> as we go. (PERSON5) <ehm> my main <parallel_talk> Well, actually, <\parallel_talk> Yeah <parallel_talk> sorry I <unintelligible> <\parallel_talk> Yeah, yeah
+
+(PERSON9) we have a lot of questions regarding the user interface, <ehm> <parallel_talk> Okay <\parallel_talk> 
+
+(PERSON9) The fun- functionalities and -
+you know (there're two) <ehm> maybe presentation(al) platform more  comfortable <parallel_talk> Great <\parallel_talk> for the user. (PERSON9) So we can - put a lot of questions regarding these parts. (PERSON5) so if anyone would like to know anything about their part, <ehm>, feel free to add such questions in a way that is understandable to - <ehm> like a - late users. (PERSON5) So, <other_yawn> this is - this is the [ORGANIZATION4] document <ehm> which <ehm> would be then the content of the video. (PERSON5) So, please, if you have any ideas <parallel_talk> Sorry, <\parallel_talk> just (put) them there. (PERSON9) <ehm>, the problem is -
+<ehm> for the guy is to <unintelligible> building or to (recover) - recall (the inside it). (PERSON5) <ehm> and - and they double-check that I don't have any knives, and <ehm> all the security gates. (PERSON5) And- and the content of the - of what they are talking should not have (be) in the - in the video. (PERSON5) <other_noise> So - so - <ehm> I don't know, maybe - maybe some of the sessions should be like <ehm> close
+(PERSON9) for us or -
+I don't know what - what the setup would be. (PERSON5) So - <ehm> so [PERSON4], your - your microphone is now <ehm> (very well) <ehm> -
+we - we hear your typing (frantically), I guess (it's not) - <parallel_talk> Not me, not me. <parallel_talk> <unintelligible> <\parallel_talk>
+
+(PERSON5) No - no, I don't know, we hear someone typing <em> (very) loud. <\parallel_talk>
+
+(PERSON5) But what is being dispayed in the subtitles is totally wrong. (PERSON5) Yeah, so that's -
+<ehm> my voice correctly arise, so (not) French, Hungary, Italian, <ehm> Dutch, Polish, Romanian, Spanish -
+
+(PERSON5) So I have the - full set of subtitles <other_noise>, but I don't have -
+ <ehm> I see only some messy German <ehm> and some <parallel_talk> Yes <\parallel_talk> completely broken <ehm> English, so <parallel_talk> We still have only two English segmenters so we can run at most two languages at once. (PERSON5) <ehm> and - <ehm> I'll have to leave for another call in thirty minutes from now, but [PERSON3] and [PERSON20] will be <ehm> here <ehm> and-
+
+another thing that we <ehm> still have not started (debugging) is the - <ehm> is the video - broadcastings, so we should make yoursel(f this) opportunity and see -
+<ehm> yeah - if I can - <ehm>
+
+if I can shift the video from Linux (mischief) for example. (PERSON5) So <unintelligible> <parallel_talk> <unintelligible> <\parallel_talk>
+
+(PERSON5) Say it again? () Only the Romanian is running, but I can't see any output from it. <other_noise>
+
+(PERSON3) <ehm> I - I asked the ASR workers, they are running or not or if they are available but - not responding. (PERSON3) Now we - I can -
+or I can't share the screen, I  - <other_yawn> we have there two- two ASR workers from English, which are available. (PERSON5) <unintelligible> <ehm> t- they should be producing something only when I'm talking. (PERSON11) But you're talking <unintelligible> it (didn't occur) - <parallel_talk> Yeah I'm talkin now. <\parallel_talk> 
+
+(PERSON11) And <ehm> there's going nothing hitting the MT server <unintelligible> 
+
+(PERSON3) Say something [PERSON5]. <parallel_talk> <unintelligible> <\parallel_talk> <other_noise>
+
+(PERSON3) <unintelligible>
+
+(PERSON5) Yeah, one, two, three, four -
+
+it didn't connect, okay, I <ehm> sent a message <ehm> to [PERSON14] on Skype hoping that <ehm> we'll connect - 
+we'll somehow get respond from <unintelligible>. <other_noise>
+
+(PERSON3) So, here you can see that we are <unintelligible>
+
+(PERSON9) Sorry guys, <ehm> anothers question - <laugh> 
+
+<ehm> did we use the <unintelligible> send the audio in the (march fair)? <other_noise>
+
+(PERSON3) O- okay so we run out of segmenters. (PERSON3) There is only one English segmenter and it's not available, but <ehm> two German. (PERSON5) Okay, so if no way to <ehm> to notify anyone from <unintelligible> -
+
+this is too bad. <other_noise> <other_unrecognisable speech>
+
+(PERSON9) <unintelligible>   <other_noise>
+
+(PERSON3) So - so now we should be able to see - some German subtitles from - from many interpreters (from) one - 
+
+mom- a mock-interpreter conference. (PERSON5) We need to know when you're not going to be available. (PERSON10) I must have missed (that), okay,  (it's) on every week(end). (PERSON5) Yeah, but if you have also recieved the - <ehm> the email probably, so (what's) -
+
+(PERSON5) Let's make sure that we are <ehm> <unintelligible> . <\parallel_talk>
+
+(PERSON5) <unintelligible> oni sou možná ňáký ty <unintelligible> (zpřetrhaný). (PERSON9) Well, On- [PERSON5] <unintelligible> does, <ehm> but [PERSON3], are you still there? (PERSON9) But it's not mandatory, but at the moment the HTTPS should work. <other_noise>
+
+(PERSON9) [PERSON4], what's your - <ehm> your point? (PERSON9) Neither <ehm> username and password (that they) -
+
+(PERSON2) Oh, we donť need a <unintelligible> participant username and password, one password for the whole call will be sufficient. (PERSON2) And no usernames are needed, just something to prevent anyone from anywhere to listen (in). (PERSON9) And they <ehm> (pulled) me that actually it's - <ehm> it's easy to do things we already (reason) about it and <other_noise> it's available for the <unintelligible> <laugh>, okay? (PERSON19) So I am -
+I right now have ten instances of this running all (off) (putting) hard files I - I don't even know which one you're connected to. (PERSON19) Because it's -
+
+I could see you (with this) producing output because then it's writing something to the (logs). <\parallel_talk> if you can connect and you -
+
+it say you get (up) (pipeline) then- then there should be definitely output if there is input. <\parallel_talk> I - I'm not sure, if you - 
+
+yeah I'm <unintelligible> again we (off) <unintelligible> contact for an hour or two. (PERSON11) <ehm> <unintelligible> is actually - <parallel_talk> Okay. (PERSON19) What is not - 
+
+(PERSON9) <ehm> for us, for (pre-voice) to (be) there in the previous afternoon. <\parallel_talk> possible for us to-
+
+is it possible for us to <ehm> check each - <ehm> each part that is meant to be -
+
+and - <unintelligible> the <ehm> speakers languages right now. (PERSON9) It possible for us to check each - each (path) - togther? <parallel_talk> Or we can write on <unintelligible> <\parallel_talk>
+
+(PERSON9) Yes, sure, okay.

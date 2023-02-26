@@ -1,0 +1,15 @@
+Attendees: PERSON6, PERSON12, PERSON7, PERSON13, PERSON3, PERSON2, PERSON5, PERSON10, PERSON1, PERSON9, PERSON11
+
+ * Lets say the credentials provided to people paricipating to the workshop, we can use just one credential for all of them.
+ * We are failing to feed them with the input.
+ * Is there anyone who would be available for implementing the C code the EB client, modified to do the multiplexing internally.
+ * [PERSON1]: I have the new, I have the new.
+ * The participants notebooks will all be connected to the very same wired network, and we need the URL with RTMP protocol with the stream subtitles to work from for their notebooks.
+ * My guess is that the configuration will work.
+ * Could we with this file that he will push with the instructions.
+ * [PERSON1]: You are using the in your tests, you are using the real [ORGANIZATION2] presentation platform, and the subtitles are coming from the Internet while the stream is only copied locally.
+ * We have tested the solution several times, and we and the students.
+ * The other one will use one of the respeakers.
+ * [PERSON3]: I have no experience in coding in any web server package, I'm looking at the logs right now and I dont see easily from the logs where were the session ID, no I dont think we can do this.
+ * Before the first message waiting for the client.
+ * [PERSON1]: [PERSON11], if you could look at the code of this.

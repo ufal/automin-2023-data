@@ -1,0 +1,33 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON3, PERSON2, PERSON8
+
+
+SUMMARY-
+ -PERSON8 and PERSON3 are waiting for PERSON3 to join them.
+ -PERSON2 will translate the last mail for them.
+ -PERSON3 and PERSON8 wrote a proposal for a satellite event.
+  It is independent of ORGANIZATION11 and they will promote their workshop only on their webpage.
+ -PERSON2 wants to go for ORGANIZATION2, but the proposal for this year's workshop was made in September, which is too early for them, and the next one will be made in 2022, which would be too late for them.
+ -PERSON8 would like to go PERSON2, PERSON8 and PERSON3 explain to each other how the process of organising a workshop works.
+  The deadline for submitting the full papers to participants is February twenty eight, but before that, they have to submit the proposal any time as soon as possible and get endorsement.
+  If they accept them both to ORGANIZATION2 and, this organiser, they need to do both.
+ -PERSON2, PERSON3 and PERSON8 are going to a workshop organised by ORGANIZATION1.
+  They need to take out institutional membership to submit the proposal.
+ -PERSON3 and PERSON2 have to pay two forty Euros for institutional membership for their workshop.
+ -PERSON3 has to study some satellite events that she got accepted to an ORGANIZATION11 last year.
+  They have to invite the program committee and make a website for their shared task.
+ -PERSON7 is the technical editor of ORGANIZATION16.
+  The core papers were in this journal.
+  There is a machine translation published in it.
+  The participants might be interested in the publication.
+ -PERSON8, PERSON3 and PERSON7 are interested in organizing a conference or workshop.
+ -PERSON8 and PERSON3 would like the proceedings to be indexed with ORGANIZATION3 anthology.
+ -PERSON8 and PERSON3 are going to publish in the proceedings of PROJECT1 from ORGANIZATION14.
+ -PERSON8 would have preferred PROJECT2 over PROJECT1.
+  The quality of the paper is very good, it's open access and it's indexed by Directly.
+ -PERSON2 will read the proposal and write some chapters to the proposal.
+ -PERSON3 needs PERSON2's input at every point.
+  They have to do double work tomorrow.
+
+
+Minuted by: Team ABC

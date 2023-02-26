@@ -1,0 +1,88 @@
+Summary:
+
+* PERSON3 is not sure if PERSON11 will be a little bit late, or if he will join today remotely, because he sent her an e-mail that he might be a bit late. 
+  - Fact: PERSON5 is not here, so it's not known if he'll join today. 
+* PERSON3 and PERSON6 will start with PROJECT3, because PERSON6 can provide feedback. 
+  - Disc: PERSON6 is not sure whether he should talk about it, because PERSON11 is not here. 
+* PERSON3 will talk about PROJECT3 with PERSON6. 
+* PERSON6 is preparing the paper for PROJECT1. 
+* He needs to read through the reviewer comments. 
+* He also needs to properly decide ORGANIZATION4's or ORGANIZATION4's quality estimation stuff, so he needs to prepare a paper for that too. 
+* PERSON6 and PERSON11 did the 2B experiment at their faculty. They thought it was going to be an introductory experiment and write a small paper. The big paper was supposed to be with ORGANIZATION7, but there is no data. Only two people finished the experiment. 
+* PERSON3 doesn't know if PERSON5 is joining them, because he didn't send her a message or anything. 
+  - Disc: He might be with someone else, but he doesn't seem to be ready to go yet. 
+  - Fact: He's not sure if it's with PERSON5 or with PERSON11. 
+* PERSON8 and PERSON3 are working on organizing a paper. 
+  - Fact: The deadline for organizing the paper is this Sunday, but it's not expected to have any results yet. 
+  - Disc: The paper is just to organize the ideas and to think about alternatives or limitations, so that they can check them. 
+* The ORGANIZATION6 deadline has been moved. There is an extension for the organization. 
+  - Fact: PERSON5 asks PERSON3 to check if there is any extension. in the organization's official website. 
+  - Disc: The extension is not yet known. 
+* PERSON3 is starting to write to someone this week. He will probably not make it until Sunday, but this might help him a lot as he will be able to rest for three more weeks. He is also going to tell that to PERSON11. 
+* PERSON3 sends a link to the organiser's calendar with important dates for conferences. It's November the deadline for ORGANIZATION5, ORGANIZATION1 and ORGANIZATION4. ORGANIZATION6 is N, double A. ORGANIZATION5 is North American. 
+* PERSON8 wants to access the data set that has multip-multi-reference. The data set has a data set of very many Czech reference translations. There are also evaluations from PROJECT6, where German was translated directly into Czech. The system outputs were manually post-edited and a secondary annotator confirmed whether they are good translation. 
+* PERSON5 will send the HYTER data set with 50 Arabic and 50 Chinese sentences and each of these were translatek into English again, trying to create as many references as possible. PERSON8 will check the data set and choose the one most useful for him. 
+* PERSON3, PERSON5, PERSON11 and PERSON8 are going to have weekly or bi-weekly meetings to discuss details of the task. 
+* They will leave it to PERSON5 to decide whether it will be weekly or if it should be a specific date. 
+* PERSON3 wants to keep the daily reports and calls as they are beneficial for the team. He also wants to continue with the daily calls for the time being, at least until it is possible for PERSON8 to visit PERSON3 at LOCATION1. 
+* There was a meeting last Thursday. 
+  - Disc: PERSON3 thinks they covered everything for PROJECT7 and that's probably everything they need for now. PERSON3 is referring to the meeting last week, when they covered all the necessary things for PROJECT7. 
+* PERSON5 is going to dig out the data sets for PERSON8. 
+* PERSON3 will talk to PERSON11 about the progress later this week. 
+  - Fact: in- in person, uh l- l- 
+* PERSON3 and PERSON12 wrote an e-mail to the ORGANIZATION3, but they didn't receive any response yet. 
+  - Fact: Neither did PERSON8, who also didn't get a reply for his e-mails. 
+* They don't need to push ORGANIZATION3 for replying yet. 
+* PERSON5 had a meeting with ORGANIZATION2 on Friday. ORGANIZATION2 will find translators to do the post-editing. 
+  - Disc: The overall budget available is lower than they were hoping for. 
+* PERSON5 wants to ask PERSON6 how to divide documents into the annotation like recipes again. 
+* PERSON6 wrote some e-mails to the company, but got mostly no reply. 
+  - Disc: The company wants to move fast, but they haven't provided the people yet. It's common for companies to fail to provide the people as they want to move too fast 
+  - Fact: and then they don't. 
+* PERSON5 and PERSON6 are waiting for them to tell them the number of people and segments they can afford. Once they have the funding for it, they will propose the set of documents to discuss if they are fine with that. 
+* PERSON6 will look at them today. 
+* PERSON3 is waiting for ORGANIZATION7 to do their part of the work. 
+  - Disc: ORGANIZATION7 has problems to get volunteers. It's a question for ORGANIZATION9. 
+  - Disc: It's mentioned in the document that it's possible to do it yourself, but there are other options. 
+* The experiment is taking too long. 
+  - Fact: There are no native English speakers on the faculty. The foreigners that speak English not natively but with some accent will be used for the 2B experiment, as the best they can do at the moment. 
+  - Disc: The experiment will be suspended. 
+* PERSON6 and PERSON11 are frustrated with ORGANIZATION7's performance on the project. They want to make a formal complaint. They will probably ask PERSON12 about it as he will probably say that he is starting to hire someone to take care of the project as the current one is leaving. 
+* PERSON5 wants to ask someone to forward the e-mails and get the speakers for the company that failed to deliver anything useful. 
+  - Disc: The company is expected to provide the speakers, but they failed to do the evaluation and they are failing to provide useful products. 
+* The advertisement for PROJECT3 wasn't available last week. The website says it's new, but it's not. The issue is that they already agreed to do the writing and so on, but the advertisement is not. 
+  - Disc: It's not clear how old it is. 
+* PERSON6 doesn't know what to write into the paper. 
+  -- Fact: They already had ten people do the experiment, which is five times more than what they already have from ORGANIZATION7. 
+  - Disc: They don't know the other findings to be added to the paper as well. 
+* PERSON5 will write an e-mail to PERSON12 to ask him if he can step in for PERSON3 who is working on the problem. 
+  - Disc: He will try to find someone who has the expertise in the right context to do it quickly. 
+* PERSON5 and PERSON11 are discussing the lack of activity in PROJECT3. They are also discussing the progress of PROJECT5. 
+  - Fact: PERSON11 is running the back translation of monolingual data. He took a week off work to do it. Many people started to do experiments on the project. 
+* PERSON11 should have all the data translated in 2-3 days. 
+  -- Fact: Then he can train the systems with the monolingual or back-translated data included. 
+* If the tempo is the same, he should be able to do that soon. 
+* The deadline for organizing the organization has been shifted to October 7th, so there is still time to finish it. 
+* PERSON11 wants to train a systems with all the monolingual data, just to see whether it helps or not with monolingua data included. 
+* PERSON2's contribution is still lower than that of PERSON3. He will be leaving something for ORGANIZATION7 next week, so he will get more money. PERSON11 and PERSON3 are happy about that. 
+* PERSON3, PERSON5 and PERSON11 want to participate in a system demonstration in ORGANIZATION6. 
+  - Fact: The web page for the call for demos was empty, and it's still empty. 
+  - Disc: The deadline for the submission is unknown, so they don't know the deadline yet. 
+* The presentation should focus on the framework and not on the experiment results. 
+  -- Disc: The paper for PROJECT1 is already enough. 
+* PERSON11 wants to discuss what's going on with PROJECT3. 
+  - Fact: PERSON5 is going to write to PERSON12 to manage things in ORGANIZATION7. 
+    -- Fact: He has already emailed PERSON12 a second ago, so they are going to discuss it now. 
+* PERSON11 and PERSON6 are dissatisfied with the way they are supposed to disseminate the advert for native English speakers. They would like to have this piece of their work published. 
+  - Disc: They don't want to use the same channels as the ones used for finding new employees for PROJECT4. 
+* PERSON5 has sent an email to PERSON12. She asks him to send a reply to it. 
+  - Disc: He is not depressed, because he is on a one-week vacation. He will respond to the email as he feels he needs to help himself. 
+* PERSON3 and PERSON5 have discussed everything they needed. They are going to end it here for today, as they have already done everything they need to talk about. 
+  - Fact: PERSON3 and PERSON5 are going out today. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

@@ -1,0 +1,133 @@
+(PERSON1) Oh I missed that (too) <laugh>, sorry.(PERSON4) Yes, at ten-
+
+(PERSON1) But, [PERSON9] told me that- uh and- yeah [PERSON7], hi.(PERSON1) <laugh> He's in Prague <laugh>.(PERSON1) <laugh>
+
+(PERSON4) So [PERSON1] has forwarded to me also the, uh, the response that you gave to her previously.Is this really zero, or is that-
+
+(PERSON7) I- I can't (this whole month), but it may be <unintelligible> limited to, weekends or something like that, because, weekdays we'll (be), (fully), (taken).(PERSON4) Uh- and then you are moving to Canada, or-
+
+(PERSON7) Yes.(PERSON4) Okay, so uh, yeah, also that- that could be difficult, but <laugh> because we are- we are failing to get our people here.(PERSON9) Ah, I would only say that once the vaccination drive starts, uh, then only uh like I would like, consider of, uh moving to New Delhi for the visa and stuffs, so- yeah-
+
+(PERSON4) Oh.(PERSON9) Yeah, yeah, yeah, yeah, so uh-
+
+(PERSON4) Yeah that is-
+
+(PERSON9) It's not really-
+
+(PERSON4) Yeah, that is- that is too bad.So I think we are, uh, like technically, we are safe for the first few months of the year, but then the way in which we are paying you, the- the substitute way, has probably legal limits, uh which uh, will kind of run out, uh in the middle of the year.So that's my worry that uh- like we- we were able to- since you started in the middle of the, uh of the previous year, we could use like the (full year) limits for the half year or the- less than half year of time.So we should really, uh, like, even if it was for a short time, I think it's- it's very important that you uh- that you actually do come to do the paperwork, which cannot be done remotely.It has- it has been- the problem has been postponed, but there is a limit on, how far we can push, this.(PERSON4) So, that's- that's the- that's the problem-
+
+Yeah- I'm in the corridor, so that's why I took the- the- the face mask <laugh> <unintelligible>-
+
+(PERSON9) Yeah, yeah, yeah ye- I understand.So, so professor [PERSON4], I think- I think um, yeah- uh, let me talk to you regarding this sometime (really) <unintelligible>.So now, I'm- I was kind of hoping that [PERSON2], uh the- the student of mine would- would be able to join, but he didn't respond to my email, I sent him an email uh, three hours ago, if he would be available at this hour so it was, like late notice.He- he's doing it in a short period of time, like by his decision, but I- I- I support uh that, and uh the- uh the goal of the thesis is to develop the tool, uh which will help the annotations, uh but it's not to carry out the annotations, and not to like polish the data uh an- and uh like uh, manage the- the process uh of uh, de-identification.So we can only benefit in the way, that, his tool can be tweaked as- as we would like it to be, we can ask him for features, he will probably include these features and, and uh that would save our processes, then, but he is uh not going to uh- to handle our data, because that would be- like uh I'm- I'm not paying him on the project and, he is already being payed from, a company who also wants, uh, who also want this tool, uh so, uh I- I don't think it would be a- a good idea, if we employed him on the project, because he uh would be effectively, uh, he wouldn't have the time, effectively.So, uh, we are really short of a person, who would do uh, the thing that [PERSON7] was- uh- uh- was, that I was hoping that [PERSON7] would do.And that's the uh, preparation of the uh, files for annotators and then, the insertion of the annotations into the data set, and then, um like polishing, uh c- cleaning up the- the data, so that it is all valid XML and- and all that, and doing the annotation preparation and annotation injection, uh or insertion, uh at the type level, as well as the token level, and then the final removal of the original content so that uh, we have um, only the placeholders there and no longer the- the named entities.So this is what we need, and, um, like- the- you can s- spend the rest of the- the call talking about the, the procedure that we discussed yesterday, uh but I- I don't think there's any- any new input from me at this point.Do you think that it would be, uh possible to- to do this, over the weekends, and uh, [PERSON7] when you say this semester, does the semester start now, has the semester just started, or- started- or do you still have, two months, for example, to go?So what I can do is, uh I can try uh, reaching out to, one uh, like, CS student uh, who is also remote and busy, that would be also difficult, and I can try to reach out to another faculty, where they also have uh, like student works uh and, maybe- maybe they would have someone available for- uh for this exercise.(PERSON4) Uh, there is another phase, so this is the ty- type level phase, so <unintelligible>, uh that some of these um, words are not named entities in any of the contexts, some are, named entities in all the contexts, and some of them, uh have to be decided by the- by instances.So what we need to do is to, put this annotation into all the files, uh at the appropriate places and then we need to do the second round, which will be the same thing at the token level.So we have to- the XML has to be absolutely clear, uh- in uh, the information, whether someone has looked at this or not, uh whether it has been processed at the type level, at the token level, or perhaps we will have some uh, other- other levels as well, uh as we- as we browse through the data it- it is possible that, for example, the- the (months), will be also like a special, uh level there.And uh, it is not to- uh, like, if- I said yesterday- like, if I was the person to do this, uh then I would spend a, a week uh like, 40 hours uh working on this and I think it's- it's doable in those 40 hours, if you are er- skilled, (VI) user and pro- programmer, um.And uh, then we are at the problem, that you are, [PERSON7], s- skilled in- in these processing tools, but you don't have the time capacity, and the annotators, uh don't have the programming skills, uh, so they cannot automate their work.I mean the-
+
+I mean some- for example, making them bold, make them- making them bold or, add a (parenthesis) at- after them, or something like that, or we need (the) graphical-
+
+(PERSON4) Yeah, this is entirely up to us.So they will bold whatever is a named entity and they would, uh italicise uh, what is not, and they would uh, for example, get the page or the- the document as HTML, uh where the things to annotate would be, uh highlighted in- in yellow.So this is quick uh, to do, and uh, then someone would uh, again have to, uh take these, uh saved files back, and uh re-insert the annotation into, nice uh, XML, uh.So that we do not- we don't want to have- we- we need to formalize it in our way of- of course and not- not in- in bold facing and- uh, italicisation.So, uh-
+
+It is possibly doable over the few weekends, uh like conversion of, the plain text files, uh, uh- search for the, (type) (level) annotation, um, items, uh, uh, marking those uh, the- the-
+
+Like- tho- those- um-
+
+Ah, it would be good if people already are looking at the documents, uh, if they, actually saw, uh the type level annotation, because there could be errors, and they could notice there are errors in that type level annotation.Uh, so, uh, maybe, maybe we- so without <other_yawn> any person at hand uh, at the moment, except- uh except you, [PERSON7], I suggest that, you actually try, uh taking the list from [PERSON1]-
+
+Uh, [PERSON1], is the list finished or is anything missing?And <other_yawn>, and, uh you would um, uh then, apply this list, to all the documents, uh that includes the transcripts as well as the, um, ah the- the minutes, actually, and uh, you would use color-coding.So uh, you would, highlight with a light yellow, uh, all the, uh, items, uh, uh- it- like when they were f- where they were found, uh and with shiny yellow, items that, uh are uh, unclear at the type level.And people would open that HTML in, uh- Microsoft Word, uh they would see the uh, the sl- like uh- s- l- light yellow uh, items, and they would- uh, they could uh, somehow mark them red or whatever if there is some problem, or they could s- send us some, maybe it should have also sentence numbers.That's probably a good idea, uh- to- to introduce like sentence IDs, uh, uh, uh and they would ignore those, so maybe they could be in smaller, ah, mu- much smaller font, so that they would not be distracting when reading the text, but it would be, there for synchronization.So the annotators would open that, uh they- they could report, uh, unexpected problems with the, uh with the light yellow uh, areas, and they would always uh like- select by double clicking the words and, um, uh, um, and bold face uh, for yes, and italicise for no, uh the individual, uh, ah, uh- s- named entity occurrences.So the final XML would be, again, like plain text, uh with the text, and the text would say, something which is written in the- in the notes, so-
+
+Do you have that- uh, a document-
+
+Are you- are you looking at the text from, minuting?(PERSON9) I guess I sent uh <unintelligible>-
+
+(PERSON4) Yes, so did I, so uh, uh-
+
+So [PERSON7] surely has the link- uh- the (automatic), uh yeah, yeah, yeah.(PERSON4) It's uh, this one, let me paste the link <unintelligible>-
+
+(PERSON9) The de-identification (procedure).Okay, but uh, one thing is that uh, (if I prepare), eh, those HTML files, uh, the annotators cannot edit them without uh, opening them, in an editor.(PERSON4) They should open the HTML in Word, in Microsoft Word, or whatever, uh an open off- uh, in LibreOffice.Like uh, uh create an HTML, uh make a span, which is l- like a light yellow, or span which is shining yellow, uh, open it in uh, in uh, in LibreOffice, or Microsoft Word, and uh do the bolding, do the italicisation, uh, and, save it.And your goal, or the programmer (skull) if you cannot do it yourself, uh, would be to extract the, uh, uh- uh s- the indicators, this is essentially indicators, uh, a- and put them into the, uh- the clean XML format.There will be a lot of, like, mess around, because whenever you open HTML in these editors, they- they will add a lot of, uh- useless stuff, but it should be, fairly easy, to extract that information, uh, back.(PERSON4) Yeah, yeah, okay, yeah, yeah, so let's-
+
+Uh, uh while you're here, let's discuss, uh the markup, and then I'll try to find another person as well, uh if I find, uh, then, uh like you- you- you wouldn't have to do it if uh, if I won't, then, but it's still up- up to you, or, [PERSON9] at the la- as the last resort, but he is pretty busy with the, preparation of the workshop itself, so, that's also- like uh, that would be increasing the risk.<parallel_talk> So, uh, I've copied from the, uh- this is strange, like I made a copy, and then now the, hm.<\parallel_talk>
+
+[PERSON1] please, can you put this remark of mine, about the timeline, somewhere, outside of that comment, so that we do not lose it?Uh, and that would be, um-
+
+So NE, uh then the questions whether we uh want to have the type as well, that would be, uh, um yeah.Another option would be that we would have <parallel_talk> NE, um, status equals, suspected.And then the next stage would be NE status, equal, ah, confirmed uh, at type level, NE status, um-
+
+S- this- what- what would be the negative, uh uh to disproved, or, disproved at, token level.Confirmed uh, at token level, annotator, someone's name, ah, anno- uh, actually for the type level, uh it's, uh always [PERSON1] now, or the other person, so like, [PERSON1], and the other person, wha- yeah.So um, maybe, uh like uh, <parallel_talk> suggested presentation to the uh, annotators, uh, ah, HTML uh, loaded or imported, to MS Word.And then this would be, uh, the shining uh yellow and what they would do, and maybe this we could make this red so that they could also, uh, so that they would like uh have a visual, a clear, visual way.<\parallel_talk>
+
+And they could search for NE question mark, so they would just type control F, control F, that would jump there, and they would double click, uh.Sometimes you have just this short (SAO), or as a sentence, and we don't want to, er, filter all of that as it- if it is- so if it's not so complicated, I would vote for showing more.So if the, is it best for you that you really would individually send them the files, and tell them, open this in Microsoft Word, and do the bold facing and italicisation, uh of all the-
+
+(PERSON1) Eh, it- so what kind of program, will, they work in, uh, in, just, text (program)?(PERSON1) It's easier just to send the files, so [PERSON9] has invented- well invented, has begun a very nice way using Google Forms for that, so that they, uh- s-
+
+(PERSON4) Actually upload the files, right?(PERSON4) Yeah, another option is to go for Google Docs, uh, if- if that would, uh-
+
+(PERSON1) But then we have to do, open, make open kind of, open access to Google Docs, uh, to our (transcripts) <unintelligible>, from ethical point of view <unintelligible>.(PERSON4) Yes, that's right, yeah so that would- we would have to like, Google Docs obviously they have the permissions uh system, so we could somehow like divide it and, and like make it accessible only to specific people, and so on.But, uh, it's- I'll leave up to you what is- what is easier for you, if you are used, uh and if people are used for this uploading of documents, uh then perhaps that is, uh that is the easiest option.(PERSON9) Um, I think, by that way, we can also, uh keep track, we- when they are submitting, and it gets, uh like submitted to a specific folder, so it's easier, for us to-
+
+(PERSON4) Yeah.(PERSON4) <parallel_talk> I'll do one more thing I'll do to the yellow, the light yellow highlight here, and maybe this is too- too light, so we'll have to come up with some, uh, so that they would actually- yeah this is probably the right, thing.<\parallel_talk>
+
+So this is also, like this is the suspected entity, and uh, um, now the question is how do we, uh say that we do not think that our type based annotation, does not indicate that this is a named entity, so, uh-
+
+(PERSON7) So this light yellow is for words that are, maybe (form) in the-
+
+(PERSON4) No, no, no, no.<parallel_talk> So maybe, uh, maybe uh, let's do it like uh green, the- this is not a name, uh, (with the) [PERSON8]'s name and, uh, [PERSON3]'s name.<\parallel_talk>
+
+And let's say that for some reason, at the type level, we have already dif- uh like decided, that [PERSON3] is a person, whereas this was decided as not a person.(PERSON4) Uh, I think that they, so- th- they- they- definitely have to, make the decision for the undecided ones, for the maybe ones, that's the, bright yellow, and, I think that they should just occasionally look at the green and red ones.And if the, if there is a name which is, uh which is not red, or if there is a non-name, uh, which is-
+
+(PERSON1) Yeah, but, so, you, <?another language?> you ca- just imagine how colorful it's going to be, just-
+
+(PERSON4) Yes, yes-
+
+(PERSON7) Yes, <unintelligible>
+
+(PERSON1) This (is) green sentence is also going to be green, one name is green and another name is green, so it will be extremely colorful <unintelligible>, and really, a lo- a lot of (work), really lot of (work).(PERSON7) An- an- and those words that we are saying that they are not names are, very, common in the (whole) text, so it would be a very green text.So, like normally, they wouldn't be touching these green things, they would only be sometimes touching it and saying, well, this is actually not a name, and they would i- italicise it.(PERSON4) Yeah, so I think that like I'll- I'll- I need to prepare for another, uh call.And I also want to- uh, want to talk to, uh to- to- the send, the email to- to the two other, uh prospective sources of- of programmers.And uh, uh, please do a test- uh test document, uh, so that, uh well, [PERSON7] will prepare it uh and [PERSON1] will do the bolding, and, uh and [PERSON7] will try to get the information back, right?(PERSON4) So- so there are two things, ah to- to do, so-
+
+<parallel_talk> Um, to dos, one to do is to, um, uh double check, uh, the stages, uh, and whether they are uh clearly, uh, reflected, in XML markup uh options, uh and then uh, test the HTML, uh Word, HTML, and then extraction.And, uh [PERSON9], I agree with you that we uh, have to go for the Scientific Committee, uh so, we'll do a challenge, with the Scientific Committee, so we now need the web page to be completed, so that we can uh put that into that email and ask the people, right?(PERSON1) Ah, [PERSON4], did you uh-
+
+(PERSON9) Yes, so I will-
+
+(PERSON1) Sorry, okay, continue.(PERSON9) Yeah, so I will- I will make the website ready within maybe one or two hours, and uh, let you know that it's ready, you can go ahead, so whatever suggestion <unintelligible>.And I also (ported) the website in the ([PROJECT1]) uh, GitHub.And- and the way to roll it out to the web, if you, if I- if I- made any changes on the GitHub, will they automatically appear on- in the web or, will you, uh, you have to push a button?(PERSON9) Uh, you can- you can directly (commit), you can directly (commit) and it will directly, <unintelligible> (reflect) the way.(PERSON9) Uh, and- and another thing [PERSON4], like, while we are still waiting for the Scientific Committee to get (developed), uh we- uh I think, like we are running short on time, for [PROJECT2].Let's subm-
+
+(PERSON9) Let's submit it, yeah, yeah, that's what I'm saying.So I'll- I'll review that in that, uh document uh, that you have- you have already notifi- like marked, that part for me.(PERSON4) And- and- I wa- actually, [PERSON5] is not on this call.Okay, so I tha- think-
+
+(PERSON9) I can also- I can also put the names, uh so, because I have also, ah, (done) a bit of review- uh surveying for those (papers), so, I can do that.(PERSON7) Uh, [PERSON4], uh, I sent you a, I mean uh, I needed a, a reference letter, (before) two weeks ago, I sent you a link, I mean they sent you a link.I've seen your request, uh the regular email, but the link is buried somewhere in my inbox, so I'll try to locate it and may- like, please help me locating it.I'll- I'll- I'll try, if I don't- uh if you don't hear from me a confirmation, then please, ask again, uh because it's-
+
+(PERSON7) Okay, <unintelligible>.(PERSON9) And final- finally yeah, [PERSON4], so yeah, so co- like during this week, could you fix up a meeting with Tea?So I need to, make someone host now, and uh, whoever, I- I'll make [PERSON9] the host, of this meeting?(PERSON7) Are we in the, process of submitting a paper, or, I'm just uh-
+
+(PERSON9) <unintelligible> uh, we are in the process of submitting the, [PROJECT3] proposal.So, uh we would want to host the [PROJECT3] in some conference, which is probably, [PROJECT2] or [ORGANIZATION2], so we are submitting to, two places currently, that proposed (file), [PROJECT3].(PERSON9) So, yeah, uh, so [PERSON7], so uh, it would be really great that if we can also, <unintelligible> quickly prepare a demo of the, like just- just one document and see how it looks like, uh for the an- for the annotators.So <unintelligible> very quick person, who is getting- givin- giving me back the meeting in <unintelligible> in two hours after I give him, it's shorter than the meeting- than the meeting duration.Okay, so, uh, so uh, [PERSON7], um, like, where do you think for the, like, maybe the first, uh, sample uh should be ready, like when we should look for that?Because I really uh, want to see the sample, so that I can also like uh help you, in some, in some respect, so that it- it uh, we can do it very quickly.And [PERSON4] is really, wa- like he wants to have the sample data, at least uh, some files, to be uploaded on the- on the website as soon as possible.And uh, yeah, I, I- I may want to talk a bit uh, a few more minutes with [PERSON1], uh regarding the, pr- proposal.So you are welcome to stay, or if you have uh other work, you can like- <unintelligible>
+
+(PERSON7) Uh, no, I- I prefer to <unintelligible>.(PERSON1) Uh-
+
+(PERSON9) Okay, uh, so uh, like, yesterday, there were ano- ano- there were almost another ten emails from [PERSON4], uh regarding the, proposal and the- and the website.(PERSON9) It's a Google Doc, uh let me, send you, uh-
+
+(PERSON1) Mhm.(PERSON9) Uh, I should rename it as Master document, the [PROJECT3] components.(PERSON9) Yeah, [PERSON1], but uh, I'm still not, very, uh confident towards flying now, because you know that, there is a new variant and uh, it has the potential to (disload) all the-
+
+(PERSON1) But it's-
+
+(PERSON9) All the <unintelligible> (forms).Like, as always, any person who is h- having a comorbidity, is susceptible, towards that.So this is- this is one of the reason, yeah why I'm not, (prefering) to-
+
+(PERSON1) Yes, it is one of the factors.Yeah, my father is also a diabetic, so- that- that's why I didn't go to Russia on this Christmas.(PERSON1) Really <unintelligible>, and I'm really sad about that, but I had to stay here.So, this is- this is that I know like [PERSON4] is saying, like, you should come, maybe for a month, do all the paperworks, but-
+
+I- I- I think i- if there's option, I will just go there and stay, but why?(PERSON1) But maybe- maybe <unintelligible>, so if we- if y- if you wait for half a year, uh, uh it will turn out- turn out really better.Yeah
+
+(PERSON9) So, to be absolutely- absolutely <unintelligible>-
+
+(PERSON1) Yeah, actually it's very rational <laugh>.So once, once there is a downward train to that, uh okay, uh the vaccines, are working and definitely, like no vaccine is 100 percent correct, right?So there is a (margin) of error, for all of them, but it has the ability, to stop the spread.Yeah, yeah, yeah
+
+Uh I think- I think it's positive, because, ah, you know, like the various, uh, uh the various pharmaceutical companies that have come up with the vaccines, so, they have, done some ri- rigorous trials, and, uh like [ORGANIZATION5] and [ORGANIZATION3] they are more than 90 percent, accurate, so.(PERSON9) It's a quite- quite a good <unintelligible>.Well-
+
+(PERSON9) But obviously, we have to be careful, like we can't <laugh>, like <unintelligible>-
+
+(PERSON1) We have to submit a [PROJECT3] proposal, we have to be careful, right <laugh>?Okay, [PERSON1], so, uh-
+
+(PERSON1) Let me open- I'm just trying to find, the documents you sent me yesterday.(Call) for participation, and now (I see some) Google Doc, [PROJECT3], first [PROJECT3] on automatic minuting and then a lot of task.Uh-
+
+(PERSON9) Uh, so I think, it- it starts with [PROJECT2] and <unintelligible>, twenty-twenty-one.(PERSON1) (Will you) send me the- the link again-
+
+Aha, [PROJECT2]!(PERSON9) Uh, oh- oh- oh, okay, so this is actually for the website, in the website, you won't, find this link.(PERSON9) Uh I-
+
+(PERSON1) Yes, I- <other_noise>, I can see it.<parallel_talk> Submission (try)- <\parallel_talk>
+
+Yes, so the, I see that these are requirements, but- um.(PERSON9) Uh, so, uh [PERSON1], you can also put your web page, and uh, I'll- I- i will just check it out and put your uh, website.It's- even has quite a (short)-
+
+<unintelligible>, chat.(PERSON9) <laugh> Yeah, it's okay.(PERSON1) I just, somehow didn't- <laugh> didn't <unintelligible> so I just thought, I should found somewhere the XML uh, source.And, uh, another thing is, like uh, I will now, like [PERSON4] has some (suggestion) on the website, so, I will make it quickly and send it to him, so that he can send it to the Scientific Commu- Committee, uh, very quickly.I really want to get all this, proposal submission stuffs done by, January tenth, maybe, so that we can like, again, focus back to our, research part.(PERSON1) <laugh>
+
+(PERSON9) Uh, do- do- don't worry, we'll take care of it, yeah.(PERSON9) Actually, like I- I too, like one or one and half year back, I was also, uh not, I was also new to- all- new to this.(PERSON9) Uh, no, I thought uh, she might be joining, uh because she knows, she's getting the- our emails maybe, I'm not sure.Maybe she is also, somewhere on Christmas holid- so we are kind of, still having Christmas holidays.Well, uh o- only- the only thing is that uh- it's absolutely okay, uh, yeah, but uh, the sit-
+
+(PERSON1) We have to submit, yes.(PERSON9) Yeah, yeah, but it's absolutely, but uh I- I'm just worried that if the situation is not good and, hope everything is okay with her, so, yeah.(PERSON9) Okay, okay then, [PERSON1], so maybe we can, catch up tomorrow?And, by then, uh, by then uh, let me finish the pending task- uh-
+
+(PERSON1) Yes, yes, and uh, [PERSON9], I'm having another call at half past one, tomorrow.(PERSON1) And also, uh I will also (ask) [PERSON5] how <unintelligible>, and uh, we can soon <unintelligible>.

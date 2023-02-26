@@ -1,0 +1,39 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON10, PERSON3, PERSON7, PERSON12, PERSON6, PERSON4
+
+
+SUMMARY-
+ -PERSON7 and PERSON6 will meet on Monday the 20th of May at 10 am to discuss the development of the presentation platform.
+  The first prototype should be ready on the 7th of June.
+ -PERSON4 is going to start coding next week and hopes to have a prototype within a couple of weeks.
+ -PERSON7 is continuing translation of sentence level transformer for the incomplete sentences.
+  The training diverged once, so they need to try a few more times.
+  The ASR does not PERSON6 explains to PERSON7 how the ASR system works.
+ -PERSON7, PERSON6, PERSON4, PERSON3 and PERSON2 are working on a project.
+  They need to change the training data for the MT systems to deal with strange segmented inputs.
+  The first segmentation is fine, but later on it gets crazy.
+  The segmentation PERSON7 and PERSON6 are working on the translation of a sentence.
+  They need to validate the locks from the ASR workers.
+  If the timestamps of the beginning and the end of the sentence are not zeros, then they don't know PERSON4 and PERSON3 are working on the cruise control.
+  They need to synchronize and make sure that the relevant code is available.
+  They also need to train the models to be ready to accept partial sentences, and even inputs that started at the middle of the sentence.
+  As a PERSON7 and PERSON3 want to know next week what will be supported at PROJECT3 workshop.
+ -PERSON7 and PERSON6 are working on a project.
+  They need to fine tune the models and collect data for MT fine tuning.
+ -PERSON7, PERSON12, PERSON10, PERSON3 and PERSON6 are working on a project.
+  They have a corpus of two million words, about one thousand documents and soon they will have audias of these documents.
+ -PERSON7, PERSON3, PERSON6, PERSON10 and PERSON4 are planning a workshop at the end of June.
+  They are going to train on ASR from docks.
+  They need to run ORGANIZATION6 ASR on the docks, record the locks, including tim PERSON7 is in LOCATION1.
+ -PERSON5 is planning to come in person to see the presentation live.
+ -PERSON12 has a question about the presentation platform.
+  Some of the ASR clients are not working.
+  The session starts, stops and ends four to six times a day and the worker is still working.
+ -PERSON3, PERSON7 and PERSON9 are having problems with the worker.
+  The worker connects but doesn't emit any output after a week of trying.
+ -PERSON3 and PERSON7 want to investigate the problem.
+ -PERSON7 will let them know if there's a mechanism to fix it.
+ -PERSON3, PERSON2, PERSON7 and PERSON6 want to have a general PROJECT2 call in 5 minutes.
+
+
+Minuted by: Team ABC

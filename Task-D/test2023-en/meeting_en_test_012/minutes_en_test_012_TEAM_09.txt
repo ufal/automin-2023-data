@@ -1,0 +1,117 @@
+(PERSON12) Eh, uh, not always, when I open the link I am never the host.So when we will be going -
+(PERSON12) <laugh>
+(PERSON20) to [LOCATION1] -
+(PERSON12) Yes.(PERSON20) <laugh>
+(PERSON12) <laugh>
+(PERSON20) Wonderful.You and [PERSON8] that's really -
+Eh well, ehm at ehm at this moment it doesn't have even any sense, because we also don't go to to the office.But as far as it will be over, hopefully, I 'm really - 
+(PERSON20) How is the situation looking, [PERSON12], out there?(PERSON20) I guess the winter is coming and people are talking about some like eh, the intensity of the pandemic may rise during the winter.Yeah, it's already rising in Czech Republic.Well, so maybe in Czech Republic you can kind of trust the statistics.(PERSON20) They don't report because -
+Like there is a panic among the people like eh, the die solution centers are like not very much eh of good qualit.And people are fearing that a healthy person would get <unintelligible> if - 
+(PERSON12) Yes, aha.(PERSON20) And there is a very unfortunate event like eh there was eh -
+There was a marriage that was supposed to be scheduled and and the groom, he suddenly eh was not doing well.Immediately after the day of the marriage the groom died and -
+(PERSON12) Ooh.(PERSON20) There was further event and like eh, almost almost three hundred people got infected in one single event from there.(PERSON20) And even the family members did not report of authorities and that the did the last rights.(PERSON12) Are they afraid of panics or what they -
+(PERSON20) Yes, yes, yes, yes.(PERSON20) <unintelligible>
+(PERSON12) So if if their family member dies, they are already in the in panic.(PERSON12) Hm
+(PERSON20) It's terrible <unintelligible>
+(PERSON12) Mhm.(PERSON20) Anyway eh -
+I think we all are here.So [PERSON12], will would [PERSON9] -
+(PERSON12) Yeah, [PERSON9] is here, [PERSON9] is here.<laugh>
+(PERSON9) Yeah that's good.(PERSON9) My idea was to eh, eh, run named entity recognition model on the English meetings.Find the proper nouns the names that we want to change, and then we replace them in both English and and Czech meetings.I want to know your opinion and also I eh run eh named entity recognition on English meetings.And I have a few parts but they need kind eh, they are not very structured.Because 'cause there meetings, and there are mistakes for the model to eh -
+(PERSON12) Mistakes for what?I think it should be possible at least for the common nouns, fo the common names that are repeating from English meetings to Czech ones.Eh, so if we identify, if we eh, eh would if we use a name entity recognition model for English meetings, we will get the names for the Czech part of of MSD meetings and for [PROJECT1] meetings.(PERSON9) So maybe we need to use another named entity recognition model for Czech.(PERSON12) So we we had at our institute we developed quite good named entity recognition models.Eh, and probably we should ask [PERSON3] about that.For English models I use LNTJ eh, model which I guess is a good model.(PERSON9) So it's like, mm, let me say eh, we had seventy nine meetings at all.So we can for example, an annotator should - 
+(PERSON12) <unintelligible> <parallel_speech>
+(PERSON9) to remove these words.(PERSON12) Yes , I can tell the annontators to -
+(PERSON9) Yes, and something else -
+The total number of names is (wrap??)Yes, okay -
+Eh, something is that in the meetings as you can see here, eh the name of the speeker is defind here.Maybe just -
+So these in brackets eh, are the name of the speaker, may- not always the names of the speaker, but markers of speakers, and they show diarization.(PERSON12) So much better would be eh, get to some kin- kind of agreement what we put like this eh, to these brackets.(PERSON12) This is very important, otherwise you can't read the transcript when you don't see eh, that there is already another person.(PERSON12) So at the beginning of the line if we have brackets and something inside of brackets -
+(PERSON9) Uhm hm.(PERSON12) It should be unified somehow eh, to keep the information that the speakers changed.(PERSON9) Yes, we have to remai- rename the to A, B, C and -
+(PERSON12) Uhm hm.Okay, and I am not sure, should the letters correspond with the names that we are going to replace with real names for example -
+(PERSON12) Hm, yes.(PERSON12) Here in brackets you have MI for example or KA and inside the transcript we will have Karen.(PERSON9) Yeah, if you want to do that, we have to create a map that maps these letters -
+(PERSON12) <parallel_speech>
+(PERSON9) to the real names
+(PERSON12) Yes, yes, it's eh very hard because the transcripts are done by different annotators and the different abbreviations.(PERSON12) The only thing that could be re- re- eh, possibly kept is [PERSON3], because as you had you own experience everybody here, he is talking about eighty percent of the meeting.Eh, so [PERSON3] -
+When when acti- when being at the meeting he is extremely active so uh, we can give him a mark.And eh maybe we can correspond O and OB to [PERSON3] within the transcript.<laugh>
+(PERSON9) <laugh>
+Okay.(PERSON9) Yes, if you ask if you <unintelligible> it will be good.(PERSON12) Eh, I think I will call him now.And something else is that some words you can see that they end with this I don't know what you call it.(PERSON12) Yes, this it means -
+(PERSON9) Dash.So it could be the beginning of somewhere in <unintelligible>
+And then the person began to say it and didn't finish.(PERSON9)  Yes, it's exactly that in the meetings.(PERSON9) I just wanna make s-
+(PERSON12) <parallel_speech>
+Pardon, sorry, sorry sorry.Jo, resime proste resime s [PERSON9] a s nasima, s [PERSON20] a tak dal, jak budeme anonymizovat meetingy.Je to je to na zoomu eh, a uz jsem te pocitala, tak ti poslu na mail odkaz hned .(PERSON12) So [PERSON3] told that he will join us.(PERSON12) I will just send him eh e-mail with eh, the link to the meeting.(PERSON12) Actually I will forward what I have sent you in a moment.[PERSON3] eh, <typing>
+I have sent him the invitation.(PERSON12) Eh, so are you still sharing your screen?(PERSON9) I have the same oh same idea about the words that end with dash, but I just wanted to make sure that -
+(PERSON12) Yes.(PERSON12) Hm, uf, uh, why not when you have [PERSON17] here stop stop stop fifty five.Eh as you see, there [PERSON17] it's very possible that this [PERSON17] and he is uh, the person who eh was attending the meeting.(PERSON9) Mm, okay, that is -
+(PERSON12) Eh, eh it's not excluded.(PERSON9) Okay, so let us -
+(PERSON12) And also there are a lot of cases that annotators should not really understand the name.(PERSON12) And it could be also eh eh eh  a mistake.From [PERSON17] [PERSON17]
+Yes, this is the case.(PERSON12) Eh, in this case, it could be just removed from you is usually -
+(PERSON9) But -
+(PERSON12) I'm not sure -
+So from the point of view of GDPR I could suppose if the word is not finished, it is not the name.I stop my video just the the reduce the band width again, but I'm also already listening.(PERSON3) I eh, agree with [PERSON12] that technically we're probably good with like ignoring this.But uh, [PERSON11] is probably name, eh then [ORGANIZATION2] is already something that we want to  replace.So it's eeh, we can little bit improve the way we're collecting this list so that we also know the surrounding three, four words on each side.Yes, Polak is eh named entity named entity that should be replaced.So I would not eh go for any decision like all the dashes are word boundaries.All the dashes are no word  boundaries, I would I wouldn't go into, eh this this word type decision.(PERSON9) And first we remove some words from this one, for example, eh, we can be sure that
+(PERSON3) <parallel_speech>.(PERSON3) Yes, exactly we're sure that <unintelligible>  is not a proper noun, yes.(PERSON9) Yes, so we can remove them and then the words that are kind of gray boxes we can we can just indicate them in the meetings and then let the annotators -
+(PERSON3) Yes.(PERSON9) to choose if they are need to be removed or -
+(PERSON3) Yes, I fully agree with this two step manual eh annotation.So that's the eh, that's a safe way, uh, so that eh if you use Mt five sum and then first five, uh, characters of that, or something like that.As this is eh, here was a named entity, which has been labeled as such at the type level, at the word type level.And for these um, you would say in in the data automatically would do that replacement.And in the data it would say: this word was suspected to be a named entity but it was  decided it's not one at the type level.And then that will also allow you to resolve all these cases like [PERSON4] full stop <unintelligible>
+(PERSON9) Yeah.(PERSON3) Well, give it to the annotators, because they are they have read, ideally to one of those who has worked with these eh with these transcripts for these meetings.(PERSON12) Yeah but annotators should have something like interface.(PERSON3) They can do -
+Here they will just add A, B, C <laugh> to this line.They should add a letter at the beginning, which says, like name, not a name, eh so name, word, and question mark.So capital N, small W and a question mark as as the first character, and that is  -
+(PERSON12) So you think they will get a list without context.(PERSON3) And then that means that what they label with the question mark that will come on to them in the Xml format, or in the more complicated format for the individual instances.(PERSON3) Well, eh what we could do we could say country ID and then two first letters of MT five sum of Switzerland.(PERSON3) So if you take the MT five sum of of the word Switzerland -
+(PERSON12) Mhm.(PERSON3) which, should I share the screen with you-
+You know what I'm talking about.Eh, just annotators get the task to eh, mark all proper names the eh eh treat as proper names.(PERSON3) Yes, we do not exclude any proper names, yes.So this can this could be -
+(PERSON12) And eh [PERSON9] doesn't know about our name tag, so he asked about Czech and eh named entity recognition eh.(PERSON12) Tell -
+(PERSON3) <parallel_speech> at [ORGANIZATION1] mmc slash name tag.The latest version for <unintelligible>
+(PERSON3) It's it actually works on the web as well.(PERSON12) Eh, you can chat -
+(PERSON3) My chat -
+(PERSON12) You can chat -
+(PERSON3) My chat said that I can only privately send something to the host.(PERSON12) Yes, eh, they -
+Eh so but eh, if we use eh, these distribution, these markers.So this if if eh it appears to be quite eh, serious task for annotators, who should learn a little bit the system of abbreviation of named tag and use them.Or at least some maybe easier -
+(PERSON3) I think that's -
+Well, I think that name tags is too fine grained for our purpose.So we can us that as a geographic this G, but -
+(PERSON3) Well -
+(PERSON12) but use this -
+(PERSON3) Yeah.Uh, you could spend eh like unlimited time on doing this eh properly.That's why I'm -
+(PERSON3) So instead of reading -
+(PERSON12) Yes.(PERSON3) Instead of careful reading of eh of name tag manual and and the named entities eh, yes, if you find a table which list the named entity types, send it to these annotators.(PERSON3) Oh, you okay, yes.So just provide this table and say, and if you do it wrongly that's not eh , uh, uh, if you decide wrongly that's not -
+(PERSON12) Yes.(PERSON3) But you're definitely right that this list, uh, should be first, and you can already [PERSON9] who has just received the link from [PERSON12] as well.Eeeh, you can copy eh, a few lines from this, paste it to the name tag web user interface, and it will immediately label it for you.So line is Javascript, catch NLPD, eh, eh catch proffesor, parliament, rainbow, eh, eh whatever that will immediately and [PERSON5] up to [PERSON5].That will immediately indicate that some of these words are names, uh, and uh, there is actually no, no, <unintelligible> but it would find them as well.(PERSON9) Is it a source word or is it online version?(PERSON3) I I would just paste it through the web interface <laugh>
+(PERSON9) Uhm, okay.Okay and -
+(PERSON3) That's the fastest, so you need -
+(PERSON9) Yeah.(PERSON3) You need to do this once eh or -
+(PERSON9) So there don't need to be sentences, I can just copy paste eh like twenty nine words in each line and it will give a -
+(PERSON3) Give it a try.You will see I.
+I I assume that it would work even as on list.So for now, I will eh I will do that and after that I will eh use named entity recognition for Czech meetings .(PERSON9) And  we do the same thing for Czech meetings?Uh, if it's uh a person 's name that will immediately make me make all occurrences of this in the data as the confirmed eh eh anonymized person's name.If it's geographically entity, again.All these occurrences will be automatically confirmed in the training data.Question mark if they don't know, and a small W or something like that, which means this cannot be a named entity in any case.What is not a named entity that will, uh, be labeled in the whole corpus as a not a named entity like, uh, as I said: this word was suspected to be a named entity.But we have decided at the token, uh, at that type level that it is not.So that next time, when we when we do the same thing eh, the this annotation is <unintelligible>So you like without any effort.You get eh, you you don't touch these anymore.So u- so for the second step I guess we need to provide the interface for the annotators.(PERSON3) You would create a line, which provides the context, so the same named entity would appear many times in this list in different contexts.And again, they would label these lines with the the decisions.And then you would have a way of finding bank in the data where this line was, where this line is coming from, and in putting their uh, the uh, the the the uh, correct decision.You are extracting these lines, and while you are doing so you are immediately eh replacing them in the in the corpus with like suspected named entity number fourty three, fourty four, fourty five and and and so on.And this would be the number of li- the the line number in this in this list.So then you would uh, simply know that line fourty four or entity occurrence fourty four was labeled as a not a named entity and you would rip like search for that ID in the data, and you would eh label that like this was suspected to be a named entity.(PERSON9) Should we yeah, should we just eh should we indicate it in every meeting as a suspicious word, or -
+(PERSON3) Yes.(PERSON3) I don't understand eh eh like -
+(PERSON9) For example this marked happens in two meetings.(PERSON9) Yes, I guess for the names that are um kind of question marks that will that would happen based on the -
+(PERSON3) So I was assuming that you will be running the named entity recognizer only at this list, not at the full text.(PERSON3) So eh so when talking about this word type.Uh, it's eh, if the named entity recognizer make guess it's right.So the annotator will look at it and the annotator should think or MOG, can that be a name yes or no.If the annotator did decide that MOG can not be a name, which I don't agree with, right, eh eh if he decide it cannot be a name, then MOG will survive in the in the transcripts and ....
+(PERSON12) Uhm hm.(PERSON3) If the annotator says well MOG that could be a name in some some cases.Eh, so in that case it goes up to the token level annotation.(PERSON12) Just technical less than a minute remains at least after when we are got out please eh eh click on the same link again.(PERSON3) That's a good question.The name of the  -
+(PERSON3) <parallel_speech>
+Mhm.(PERSON12) So in in brackets OB in brackets KI and OB is mostly you.And if to -
+Eh, eh how to anonymize it means A, B, C, D unify all of them.I think that the ideal situation is that we would know what is the full name of that person, because that name can also appear in the transcript.In that case, we would like fail to preserve the link, and uh, we -
+So I I suggest to use to rely on one or a pair of of special characters.And it would be something like speaker, ID equals and then in eh quotes the the anonymized version of [PERSON3].(PERSON12) And -
+(PERSON9) We must provide a table for the speakers.So when doing the anonymization, I think that you should, uh, preserve the full name like [PERSON10] here on line one.So what what what should change here is that instead of [PERSON10], you would see opening angle bracket named entity, person, ID equals and now the hashtag of the the so the hidden value that would be used instead of [PERSON10].And with this eh, someone should uh, look at the meeting, and see the list of speakers that are here now with the O, C, N and and so on.And uh, they should say that O equals [PERSON10], sorry [PERSON3], C equals [PERSON10], D equals [PERSON18], and and so on.And uh, then, uh, final post-processing, will eh eh replace this square, this round brackets letter with the eh whatever we decide eh again angle bracket convention.Uh, like this is speaker, eh speaker 's talking, uh, and the ID would be the same ID as [PERSON10] had in the anonymized version.Eh, the hash include should it be something sophisticated, or we just can use the <unintelligible> hash for <unintelligible> or something like that?(PERSON3) So it's eh very important that this is a hash, so that you cannot reverse the value.You would have to guess what the value is that you would have to get the string [PERSON10], in order to be able to come up to uh, to that.(PERSON3) Uuh, well, it depends what hashes, what type of hashes there is.And I just, I 'm done, I don't have any other questions, if you have anything, this -
+(PERSON3) Yeah, this is, and I saw these -
+I saw these partial names like [PERSON17] and [PERSON17]-.(PERSON9) Mhm
+(PERSON3) I think that the annotator should perhaps say, but this is what we know.If we if we label this [PERSON17] as a different person.Then I don't think there is a big problem, too big of a problem.It's not too common that the uh, well there is also this Chang but that's a misunderstanding actually.(PERSON3) So this is like w- we should not worry too much about this, because this is something which which can go for ever.(PERSON3) Even if it's instead of a corpus there will be some person's name.And if you need anything else ,then -
+(PERSON3) Yeah, okay,
+Yeah.(PERSON9) Okay, thank you, I'll do
+(PERSON3) Yeah, yeah.So uh, is there anything that I should should the comment on or -
+(PERSON12) Eh, maybe I would like to ask you about [PERSON15].(PERSON3) Yeah, I'll I'll say it aloud for for others as well.And I would like to very much limit his involvement in the minuting and the tool for that, because it's like eh disturbing him from from the topic.Uh, he is in Slovakia, and and working, uh, and he is hoping to come to [LOCATION1] soon, because he still has the option.And he can also stay in the student dormes, and uh, and eh if he'll have more like focus for for his studies in [LOCATION1] then eh in Slovakia.Ehm and he uh, uh, I've asked him and I would like him to transfer the tool to [PERSON20] probably.So that [PERSON20] would be the technical support person who would be doing the the changes.So, yes, [PERSON15] should find the time to uh, to help a little, but mainly to transfer that to [PERSON20], right?(PERSON20) And then I can <unintelligible>
+(PERSON3) Yes.And I know that he -
+There is some ground deadline may be today, so he's probably -
+(PERSON12) Mhm.(PERSON3) Or tomorrow, I I'm not sure, it's like some internal deadline soonish, very soon and then some other like more serious deadlines for this proposal in the coming days.But he should be responsive enough to make the call with you [PERSON20] and eh, and tell you what everything is is where and how to how to run it and what what to modify and so on.I've also talked to [PERSON19] today about the uh, the the like test annotation, the mock annotation.So [PERSON19] knows everything I I wanted to say, and it would be better, if he said it so that I can do other things, right, [PERSON19]?(PERSON3) So this is this is what I was discussing with [PERSON12] eeh so that you in pairs eh, like two people will do some test annotation.And and uh, everybody who is participating will learn so much about the task that we want to do, that then they will be in much better position to actually do the task.(PERSON12) Okay think I think [PERSON3] thank you, you can also finish it.Okay thank you and I'm I'm leaving for today, right?(PERSON9) Okay [PERSON12] if you don't have anything to do with me, I just -
+(PERSON12) Yeah,
+(PERSON9) I'll  do it as well.And then we have to -
+Two of us will work as annotators in a sense that we'll read the meetings.(PERSON12) Could you -
+(PERSON19) For example -
+(PERSON12) write it down, so if you speak with [PERSON3] and you have this fresh understanding of what should be done, could you ehh just I don't know in the agenda at least write it down.And then the annotators, the two annotators will take let's say twenty or fourty like twenty minutes, twenty meetings each.So I will take twenty meetings and [PERSON20] will take twenty other meetings.And then the evaluators will evaluate them like using the procedure the manual procedure and will produce the eh the scores.Eh should I -
+Or should I select twenty meetings, fourty meetings, or you you -
+(PERSON19) No no.But this is the idea, so we select some of the meetings and we work as both summarizers like we imitate the the model, automatic model.[PERSON8] has already prepared some evaluation form, we will discuss it and we will eh evaluate them.(PERSON12) Yes, so could you could you choose these meetings and send them to you and [PERSON20]?So you should choose -
+(PERSON12) Okay, how many meetings would you like to get?Eh, so one meeting is one hour long and to read the transcript and to create minutes it's a really big work.(PERSON12) And not about creating annotations but about getting, about taking ready minutes and evaluating them on different ways.(PERSON20) Yeah, so I want to ask [PERSON12], so why do we like again do the minutes since the minutes are already there?So this is
+(PERSON19) <parallel_speech>
+(PERSON12) [PERSON3] told to [PERSON20] and eh eh what [PERSON3] told [PERSON19] and what [PERSON19] told <unintelligible> now.(PERSON20) <laugh>
+Exactly.(PERSON12) <laugh>
+(PERSON20) Then <unintelligible>
+(PERSON12) <laugh>
+So annotators already created them.So [PERSON3] now gave task -
+(PERSON20) Yeah
+(PERSON12) to [PERSON19], so [PERSON19] ...
+(PERSON20) with [PERSON3] I think like I don't know like creating minutes again or as I don't know if I will find time for that or not, but  -
+(PERSON20) No no no.(PERSON12) Let's not create minutes, let's do evaluation.(PERSON12) [PERSON19] please -
+(PERSON20) <parallel_speech>
+(PERSON12) specify it, because we didn't understand the task.(PERSON12) Okay I give one meeting for two annotator and he mostly needs a week to prepare a transcript and a minu- nad minutes.Ask him how -
+(PERSON19) In the office now, okay, I <unintelligible>
+(PERSON12) How many minu- how may meetings.(PERSON12) How many transcripts eh he wants from us to read and to create minutes from and actually why.But least somehow finish it and write it down somewhere, because otherwise we would we would not do that.

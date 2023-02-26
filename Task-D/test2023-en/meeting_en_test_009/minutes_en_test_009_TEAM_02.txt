@@ -1,0 +1,66 @@
+i don't want to create twenty minutes myself even two, i think we should just evaluate.
+i'm afraid i have to leave now already.
+i'm going to propose [PERSON4].
+parallel_talk> password unintelligible> 2019..
+the same asr worker type is launched as many times as there is the target languages.
+there is nothing in the protocol unintelligible> will help us problems solution.
+if you could just.
+quickly share the screen where you had the the launch of ten workers at the same time like underneath of each other..
+the eb client has a problem with unintelligible> of the asr workers.
+i killed the eb client, but i just unintelligible> its return, and it works sometimes.
+i'm going to run it on one, two, three, four, five, six, seven, eight, nine, ten on on one 30 second audio..
+the machine translation workers seem to be working well, right? the only thing that comes to my mind would be.
+the multiplexing worker, or other actually the ultiplexing client.
+the problem is that when when we see we send to whole text file at once.
+and we have to wait for the segmenter to process it but in this this case unintelligible> not at once..
+i'm afraid that you have low availability because [PERSON12] is away.
+or will be.
+i'm trying to upload different.
+yet another update, but its very slow.
+i'm not sure if you can hear us.
+so pleased wait a bit..
+i'm going to run six publishers, but they are not actually operation.
+i haven't seen any of the subtitles in my view of of the presentation platform.
+i guess it should not be related to the new authentication that is in the presentation platform..
+i can run the exact configuration i've been posting, i can run it on the local network.
+i'm still trying to figure out what can, what can possibly interfere with that.
+i am in the middle of pushing that the very same file in some additional instructions on on cruise control..
+it is pretty been impossible to the debug problems in these environments.
+we strongly suggest to select our preffered path at the beggining.
+and the performer translation only of eternal tone of all the possible combinations..
+"PERSON9" is capable of choosing the english sound.
+it is possible to have the english subtitles presented from the main round table.
+it has no way to to see which the english is which it will simply anyone who connects as little as a worker providing english will be displayed there..
+cnn's john sutter looks at what could be causing the problem.
+sutter says the problem is the partial hypothesis output.
+he suggests performing as much as possible test today and tomorrow..
+cnn's carl safina says he was not able to read the message at all.
+safina: it could happen that you receive two long strings from the asr output.
+he says the segmenter worker is preparing phrases for the machine translation.
+safina: i'm afraid if there is like a logic implemented in two separate the components..
+i'm adding that to the next call that i would like to make would be actually tomorrow.
+i'm adding that to the next call that i would like to make would be actually tomorrow.
+i'm adding that to the next call that i would like to make would be actually tomorrow..
+on the admin web, it says that all all not available at the moment.
+PERSON1 is concerned about empty workers not being used, while the they should be.
+could there be a delay in the mediator in the admin interface?.
+[PERSON11] tried to connect the unintelligible>, but he failed.
+we will configure te presenation platform, english as the top priority source language.
+but please if you change the test, tell us so that we can put german as top priority and so on..
+i want to be there as much as possible and restart the workers unintelligible> as possible, but i can't guarantee that unintelligible> here at every minute.
+i've asked [PERSON12] in the slack today, maybe you could setup very simple cgi script or php script or whatever, so that we could ping fixed url and tell it the session id of a worker, asr worker which is not functioning..
+cnn's john defterios looks at the logs of a web server.
+he thinks it would be very useful to have a web server that could kill workers.
+defterios says he has no experience in coding in any web server package..
+i would prefer to find unintelligible> the workers not resetting this so much more.
+i don't have the asr workers unintelligible> running in an screen session right now, normally we dont have ten of them.
+i would like to see how do you tell a dead worker from a working worker, because i really do not like the idea of you restarting all of them..
+in theory this log output will indicate if this worker is in fact idle.
+in the protocol.
+when there is this connected to server medi- mediator, its like one third of the page.
+and before the first message waiting for the client.
+(PERSON3) yeah, i have not tried recompiling..
+i'm unintelligible> able to access the source code of my workers.
+i'm also unintelligible> more complicated with the workers because they are running on different services.
+if you launch something simple on your side then we should be able to reach it..
+can you run can you run this? can you run can you run this? can you run can you run this? can you run can you run this?.

@@ -1,0 +1,21 @@
+Attendees: PERSON15, PERSON12, PERSON24, PERSON3, PERSON18, PERSON1, PERSON7, PERSON16, PERSON14, PERSON10, PERSON6
+
+ * Ah, and but we have [PERSON7].
+ * We don't have numbers for that.
+ * Ah, and, ah, the one of the biggest thing is that [PERSON10] is leaving, which is listed at the end of the, at the end of the notes for today's call uh.
+ * [PERSON3]: Ah, so, ah, I don't think we need to fold proprietors spasm removal, because if we remove the one from the ASR itself.
+ * Ah, so, ah, that would be on the dashboard and the monitor.
+ * He will do this across different speakers.
+ * Ah, so the ASR system has to see the largest possible set of sentences.
+ * Ah, we are going to create new sentences by from text only language model by adding the sound part to that.
+ * That's, ah, the language model will be better by that.
+ * For the ASR and the robustness to different speakers would be also better.
+ * [PERSON15]: I would really like to ask everybody to record the experience from the [ORGANIZATION7], and as the one sessions.
+ * The devel, is or another option is to use.
+ * He'll be running into the same issues, and he has successfully fight it with [PROJECT3] in the summer.
+ * [PERSON16]: When I'm happy with this, then I will get to the second phase, where I will basically translate and creating to dig data from the rest of the and the end dataset, and then I will build like the final shortening model.
+ * Write it into the document.
+ * Once we have secured the dictionary of terms and whatever the word pronunciations.
+ * [PERSON15]: Please convince me idealy with outputs and also numbers that it's doing, ah, the job.
+ * Even the word disgusting, which is not a bad word on his own, is very risky.
+ * The bad words arise only as errors of ASR and errors of translation.

@@ -1,0 +1,59 @@
+Summary:
+
+* PERSON3 nemá co dát PERSON1.
+  -- Disc: Směje se, že to dá někomu jinému.
+  - Disc: Nechce někomu nic dát. PERSON1 někomu něco dá, ale neví, co.
+* PERSON3, PERSON1 a PERSON9 mají termín příštího pátku na Pi Day. Neví, kdy je Pi Day. Je to v sobotu, 14. Nepůjdou na Pi Day. Musí udělat něco jiného.
+* PERSON3 si není jistá, jestli může zavolat v úterý, ale ještě neví, kdy.
+  - Fact: Můžou přejít na středu nebo jindy, pokud to nebude moci udělat příští úterý ráno.
+  - Disc: PERSON1 to navrhuje.
+* PERSON1 a PERSON8 nemají nic nového.
+* Příště by to měli mít v úterý nebo ve středu, v závislosti na počasí.
+  -- Disc: Poskytnou PERSON3 vědět, až zjistí, kdy mají něco nového.
+  - Disc: PERSON3 jim to řekne, až to bude vědět.
+* PERSON9 chce zaznamenávat svou literaturu v posledním deníku, aby tam mohli jít a udělat náznaky a vyřešit konflikty.
+  -- Fact: Jestli někdo něco napsal příští pondělí, tak to přečte v pondělí.
+  - Disc: Jsou to všechny ty věci, s nimiž se zabývali, kromě toho, že nikdo nic neudělal.
+* PERSON3 a PERSON8 musí vypracovat dokument z článku mBERT v pátek jako anonymní lhůta pro volání začíná v pátek.
+  - Fact: Termín pro ACL a EAMT je pátek. Jestliže novina není tam včas, nebude v archivech do pondělí.
+* PERSON3 chce dát zpět do archivu nový článek, i když už jeden mají. PERSON8 chce jej nahrát do archivu, ale on ho neprovozuje, takže tam nechají ten starý a za měsíc odesílá nový.
+* PERSON1 bude dělat článek z Helsinku a vymazat ho z ACL. Dá ho do archivu a přenese ho na hovor.
+  - Disc: Pravděpodobně bude čekat, až ji za měsíc odmítnou a pak ji položí na Černou skříňku.
+* PERSON3 a PERSON1 budou zaměřit Černou skříňku.
+  - Fact: Black Box je v Dominikánské republice. Dosud mají dobré míry přijetí, podle PERSON3. Společnost je založena ve městě Santo Domingo, který se nachází v Karibském moři.
+* PERSON1 a PERSON3 dnes v poledne čekají na dodávku a pozdravili ho.
+  - Disc: Nevíme, kde teď sedí, protože se teď asi učí.
+  - Fact: Přijde v poledne.
+* Van měl rodičovskou do konce února, ale není to pochopitelné, že se vrátí navždy, podle PERSON1 a PERSON3, ale neví, jestli jeho rodičovství skončilo.
+  - Disc: PERSON3 o tom neví.
+* PERSON1 a PERSON3 si myslí, že to bude dubna, protože řekl, že to udělal, když absolvoval. Bude to někdy v dubnu nejpozději. Není to dubna. Bude to v dubnu, jak říká PERSON1.
+* PERSON1 chce přečíst článek o EMNLPA a článek o EMNL.
+  -- Disc: PERSON3 se na to už nedíval.
+  - Disc: "Nečetl jsem to znovu."
+* PERSON3, PERSON9 a PERSON1 budou poslat článek z časopisu do PBML.
+  - Fact: Napíše o tom zajímavý článek a pak ho zveřejní v PBML, protože stále chybí ten jeden článek.
+  - Disc: Článek bude pravděpodobně přijat.
+* PERSON9 musí vytvořit ústavu a udělat nový článek.
+  - Disc: PERSON3 musí napsat knihu, kterou napíše do února Victory.
+* Musí psát debizace jako převrat v knize, takže musí hledat to, co hledá.
+* PERSON1 chce sdílet některé z příběhů, které jsou tady. PERSON3 a PERSON9 si mysleli, že už to rozdělili, ale není to tak. Mluví o kontextu začlenění a o rozmezí pozornosti. Rozmezí pozornosti PERSON4 je omezeno a PERSON9 není.
+* PERSON9 má Word2vec, GPT, debiasing a jak vyhledávat a nevidět jako začátek hustých vlastností. On bude pravděpodobně rozdělit s PERSON3 nějakým způsobem.
+  - Fact: Mají to už rok.
+* PERSON9 bude psát článek o ACL SRV pro PERSON1, který má spoustu času na to.
+  - Disc: na konci.
+    -- Fact: v němž bude psát o ACL SRv.
+* PERSON8 nedávno pil hodně alkoholu.
+  - Disc: Byl nemocný, ale teď se začíná cítit lépe.
+  - Fact: Von před chvílí kašlal a byl nakažen PERSON4.
+  - Disc: PERSON3, PERSON9 a PERSON1 zvýšily příjem tekutin a cítí se lépe.
+* PERSON1 neví, jestli jde na koncert.
+  - Disc: O prodeji vstupenek se diskutuje na Facebooku, ale není si jistý, jestli to někdo přečítá.
+  - Fact: Pokud ano, může napsat organizační ORGANIZATION1. Pokud ne, napíše ORGANIZATION1.
+* PERSON1 hledá lístky na zítřejší den. Zeptne se PERSON12, jestli je může koupit, protože vůně listů je pryč. Mohl by je koupit sám, ale neví, jestli ano.
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

@@ -1,0 +1,42 @@
+Summary:
+
+* PERSON6 and PERSON2 are going to a meeting on Thursday. They want to invite anyone who wants to join them. 
+  - Disc: PERSON10 will check if he has received the e-mail from PERSON4 and if he's been added to the mailing list yet. 
+* PERSON6 and PERSON10 are having dinner at 1 P.M. of their location. It's 1 hour from now and 4 days and 1 hour away from their location, which is called LOCATION1. 
+  - Disc: It's different from the LOCATION2 time. 
+* PERSON6 wants PERSON1 and PERSON10 to come visit them at least for a limited time when the travel restrictions are going to go down. 
+  - Disc: He doesn't know how to handle the cost of the visit, so he doesn't want it to be a mandatory visit. 
+* PERSON1 wants to stay in person to enter a proper work contract and prepare the hosting agreement and other paperwork. 
+  - Fact: He would prefer her to stay remote, but she will have to come in person for the paperwork 
+  - Disc: and then she can return and work remotely. 
+* PERSON10 didn't receive the letter from PERSON1 about applying for a visa. The paperwork will come from PERSON8. The ORGANIZATION4 is still closed. 
+  - Disc: Other people who want to come from India can't, because the organization is closed. The situation is the same for LOCATION1. 
+* PERSON6 and PERSON2 are waiting for progress on PROJECT3. They are also waiting for updates on ORGANIZATION3. 
+  - Disc: The communication is not completely perfect. There is also a problem with the quality estimation. They will discuss it on the Thursday call. 
+* The certificate on the server of the plane has expired and the transfixed it. Now the state is that the leaflets are being prepared and handed out. 
+  - Disc: The leaflets could have been prepared 3 weeks ago or 3 months ago. Next year, the paper will be published. 
+* PERSON6 and PERSON2 are trying to understand PROJECT1's progress. 
+  - Fact: There are 40 jobs on the cluster. They are minus one hundred priorities, so you can skip them. Every job takes two hours. If you secure your own job in two hours, it will be on. 
+* PERSON6 and PERSON2 are working on a project. 
+* They need to discuss it with PERSON7 in the next week. 
+  - Fact: They are going to run the translation on CPUs to make it quicker. 
+  - Disc: The project will be called PROJECT4. 
+* PERSON6 is sceptical about machine-learned evaluation methods, because they might be sensitive to domain shift and such. 
+  -- Disc: The paper on the (BLUE) suggests training a model to do the evaluation using the metric, but it's not clear if it can be used for the evaluation itself. 
+  - Disc: The argument is that the project is creating semantically rich representations. 
+* PERSON2 wants to know why they need a new evaluation for MT. 
+  -- Disc: PERSON6 explains it's to guarantee a semantic similarity, which BLEU doesn't capture. 
+  - Fact: It's also to force the system to choose different wordings and different phrases. 
+* PERSON10, PERSON2 and PERSON6 are going to work on an addition to their project until they have new ideas. They will check the point where it changes and add as many constraints as possible until it no longer makes sense. 
+* PERSON6 and PERSON2 want to write a paper on the constraint decoding. They want to generate a subset of the paper and then evaluate it manually. 
+  - Disc: They will talk more about it later when they are ready to publish the paper, but they want to talk about it. 
+* PERSON6 and PERSON10 are going to have a longer meeting about the PROJECT4 today. They will discuss the matter after the meeting. If they don't have anything to discuss, they will leave it at the meeting and discuss it later. 
+* PERSON6, PERSON10 and PERSON1 will try to have a meeting for the task next week together with him. They will see how much time it will take and if they need to shift to another research direction, which might be a good approach to the task. 
+* PERSON2, PERSON10 and PERSON6 don't have anything else to discuss with each other, so they don't want to talk about anything else. PERSON6 wants to know if there's anything else they should talk about. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

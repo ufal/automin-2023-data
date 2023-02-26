@@ -1,0 +1,93 @@
+There is nothing that I would know about that we need to discuss uh, like in in in a very big detail,ehm.(PERSON10) Yeah, I'm here,I'm here with <unintelligible>
+
+(PERSON8) Yep.So [PERSON10] ehm what is the status of the [PROJECT3] worker?So the plan is will be [ORGANIZATION1] welcome, will be Mary Sorrow, and in-between will be (Python Sorrow) that's excepts sentences for translation from the [ORGANIZATION1] worker.So this Python based <unintelligible> which would I do preproccessing and he can handly many, yeah, not so well the logic, where need to be dealing with partial sentences, but - 
+
+(PERSON8) Yeah.(PERSON10)  with partial sentences and then will forward the requester onto the [PROJECT3] server yourself.So a very basic Python based, so to do the preprocessing and received request so yet - for translations forward <unintelligible> and post him back.Because I think they probably even have something like that in the SLT [ORGANIZATION3] repository.(PERSON10) Okay, yes and also the <unintelligible> empty worker ehm.(PERSON10) Probably I need to be some little bit adaptation for what I'm doing anyway.(PERSON8) Yeah, so for partial sentences, I think that they should be treated from the [PROJECT3] prospective as simple simply a different sentences, other sentences that we expected to process.Uh, assuming that the [PROJECT3] model would be trained to work reasonably well.and [PERSON8]'s guess uh is that the <unintelligible> worker should work well with timestamps and totaly hide them from the (Python) and [PROJECT3].So I think that to- like the timestamps should not go to the (Python) server at all, 
+
+(PERSON10) Okay.and the the limitation with this approach is that we can handle only like one single timestamp at the beginning and would be the end of the segment.So the only timestamps that we have are the beginnig and end of the sentence or <unintelligible>.[ORGANIZATION1]-
+
+(PERSON6) Sorry, [PERSON8], 
+
+I didn't get the point.(PERSON8)  Yeah.And at that point the presentation platform would like scroll it up, and it would again start displaying whatever comes as as full textfield.And and another set of updates would be coming
+
+(PERSON6) No no no, the presentation platforms is just presentation <unintelligible> here.(PERSON8) But the the scrolling the history of previous texts fields would that be supported?A new message is a new subtitle to be displayed and it can subtitute the biggest one or update the let's say the button of the textfield in order to let <unintelligible>.(PERSON8) Yes, 
+
+so in other words yes part of the message that the presentation of platform is receiving is an indicator, whether this is an update.so replace the current field, or this is a new text field move the history up and populate the field with with this new content, right?That' -
+
+(PERSON6) That's just whether of presentation if we want to completly replace and use the history,
+
+or that we history scroll up.(PERSON8) Yeah, I still hm we we-
+
+I think we need to discuss this again a <laugh> fresh call.So, so [PERSON8] ehm needs to discuss with [PERSON6] the updates versus history of text uhm text fields.So [PERSON6] when you were fighting with your network connection,
+
+I had one question on you.And that was the development schedule for the presentation platform after we have discuss it on Monday.(PERSON6) There's no prototype available at the moment,
+
+I'm sorry.(PERSON8) Yes, that's expected.(PERSON6) Last time I discuss about it the first prototype presentable should be at the 15th of June.I know it's realy uhm <laugh> close to our deadline, but this is the only information I have that <unintelligible>.(PERSON8) Yes, yes, so
+
+(PERSON6) Probably the development team <unintelligible> have something close to be fine advertial to use as prototype, but we can have some working maybe for <unintelligible>.So yes, 
+
+I would really like to see let's finish prototype sooner.Do we plan to run any [ORGANIZATION2] workers in [LOCATION1], so especially the ASR the ASRs of English and other things as a fall back solution.So they are able to connect to the [ORGANIZATION1] platform and then the whole chat window is flooded with the messages not enough workers available.So I thought that it would be interesting, uh maybe good idea to start as many workers as possible at uh in [ORGANIZATION3].(Ty) I only <unintelligible> more worker and now is sexteen or fifteen worker ASR, who are close connected <unintelligible>.I will have the <unintelligible> and whether we can start I think it maybe ok.
+
+And (it be) can view some no <unintelligible> voice and <unintelligible> somewhere I think it is okay we also <unintelligible> other things.This part of the call to switch to the [ORGANIZATION2] platform, at least with some of us those who are interested, 
+
+and we could see how that works with the workers available.ok, but-
+
+But since you are able to provide sixteen workers, and it is not too big burden for you, right?(Ty) Now I think we need to sets worker with-
+
+also I have the things I'm <unintelligible> and ehm the things running on the same <unintelligible> 
+
+so, yeah, some <unintelligible> we stand when we need more worker I think we have to stop limit number workers.(Ty) I have been check it carefully I- 
+
+yeah because we have the limit number<unintelligible> 
+
+and maybe that it the same time <unintelligible>  
+
+working at the same time maybe <unintelligible> 
+
+like we have the.I mean it is one list <unintelligible> internet <unintelligible> with,
+
+<unintelligible> and the also from memory or <unintelligible> 
+
+limit number to memory also <unintelligible>.So in in the long-term, it would be useful to have this image spread out for the various reasons that you mentioned, for the uh workshop itself we should be good.So I think that we we should be fine relying on, but that's please talk to [PERSON3], what he thinks, because in some early stage we discuss that for just for a backup purposes.So ask [PERSON3] agrees that backup sides of ASR workers is very-
+
+<laugh> 
+
+well sensible thing to do.So whoever is curious on the presentation,
+
+please use the [ORGANIZATION2] link, well
+
+[PERSON5] if you could find this [ORGANIZATION2] link and aaa- and posted here.Hopefully we will learn where when we will be getting the files for domain adaptation and so on.Yes, [PERSON2], was that you?I know that in the call yesterday, with [ORGANIZATION2] the workers worked at the beginning.I didn't attend the yesterday meeting, but the bug that I mentioning is that sometimes the work, one worker can handle several sessions, but then it's, but then it stocks and it doesn't return any output.(PERSON8) So, and when you see say several session you mean consecutive ones like one after another.I will <unintelligible> us, but yesterday so yeah I don't know what is happening there, because we <unintelligible> when I do know what <unintelligible>prophones it was able to handling several sessions.And that <unintelligible> I think it in one sentence it ehm it yeah output <unintelligible> and  I can't <unintelligible>  fancy <unintelligible> call but it <unintelligible> it was in call,
+
+So I have no idea,
+
+I think I--
+
+this is a <unintelligible> I think I had to <unintelligible> information and then <unintelligible> maybe I can hopefully I can see the one simply wrong come from-
+
+(PERSON8) Yeah.So I think it's-
+
+it's very important [PERSON11] that you create a script that will like replicate it this bug.So that you will maybe set up, maybe maybe there could be a set up support [ORGANIZATION1] mediator, and you would connect only one worker to this mediator <another_yawn> and and
+
+(PERSON4) Our only (support) input fingerprint.So, so this script is should be like a stress test, and you can put it to the cruise control repository.And then mo- most importantly you need to run it and figure out where the problem is and then the bucket, but-
+
+Yeah.If there is anything we can do in order to help you the publing the problem, we stand us careful <unintelligible> the mediator <unintelligible> to test just your worker for some-
+
+Or anything else we are avalaible.(PERSON8) And a single worker and ehm stress test it yeah.The production client-
+
+Yeah, so this is from [PERSON4].That this point the production client is different from the simple one only by a by-
+
+I change only the default parameters and comment send documentations, and I removed to Windows version.Also Linux based the-
+
+(PERSON4) Yeah.(PERSON8) Yeah,
+
+okay, yes,
+
+and then the text text client.(PERSON6) May I ask you to for one it's to be?(PERSON4) But  I'm not sure if [PERSON9] is the rigt persons for it.(Ty) [PERSON9] is working for the MT-
+
+(PERSON4) Yeah, okay.And then we already have the the workshop, so is anybody, does anybody know that they are not able to make it to the the uh, since uh, the same time, an hour earlier than today on Fridays?and if there is more people who though problem, please put it in the in the document here, and we will find a slightly different hour.(PERSON6) I will not be there, sorry, I I hope be more useful here in Trento checking blogs and everything.<laugh>
+
+(PERSON8) Okay.Okay, so, I think it's still too early to solid final lists are in the MT models.Uh, I don't have any other comments or questions now,
+
+so I 'm going to reboot
+
+and I'll try to lodge the [ORGANIZATION2].You can try launching it in the meantime yourself, if it works for you, if you are all Windows already.

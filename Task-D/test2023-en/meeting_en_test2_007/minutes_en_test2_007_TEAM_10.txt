@@ -1,0 +1,17 @@
+Attendees: PERSON13, PERSON3, PERSON16, PERSON8, PERSON15, PERSON6, PERSON7, PERSON2
+
+ * This is mainly for the preparation for the domain adaptation, right?
+ * English training data we need.
+ * whereas we need English in, like on the 25th like in 10 days.
+ * [PERSON7]: ,uh, I'm writing a tool that will allow an operator to define the part, of the pipeline and how they are connected.
+ * [PERSON13]: I've asked [PERSON18] to like handle the soft things with the participants and also with the organisers.
+ * The problem is with the big corpora the be the big textural corpora like Czech.
+ * [PERSON13]: This should be discussed with [PERSON19] as well, because I'm not sure if she would if her [PROJECT5] will be active now when she is on maternity leave.
+ * [PERSON6]: Ah, I think even in the at the beginning, we decided first to calculate C without any alignment.
+ * [PERSON13]: My proposal is to maximize not only with the value from the proportional alignment as you are doing at the moment.
+ * If we are doing the alignment based thing, then we should follow the alignment and this like maxing of the linear order progress of the maximisation.
+ * Maxing it with the, like proportional alignment, doesn't make sense to me.
+ * That we simply equidistantly split this time into the words based on their length. And full stop.
+ * The there should be just a number of characters, and the time stamp of O and the time stamp of T-shirt.
+ * To really based it on C and have this h, and put here at the end of the world.
+ * First ot finds the place, for example, is between the word of, for example, the first and the second word.

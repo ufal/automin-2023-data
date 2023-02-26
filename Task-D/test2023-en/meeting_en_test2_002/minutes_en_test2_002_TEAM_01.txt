@@ -1,0 +1,43 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON24, PERSON18, PERSON15, PERSON12, PERSON1, PERSON3, PERSON16, PERSON7
+
+
+SUMMARY-
+ -PERSON24 started running experiments on the same set up PERSON12 ran on other parts of PROJECT3.
+  He had some problems with it at first, but he managed to complete the GPU test and to know that one version of PROJECT3 really works.
+ -PERSON15 and PERSON12 want to do some experiments with multisource text.
+ -PERSON24 and PERSON3 want to have a separate call with them tomorrow afternoon at 2 pm.
+ -PERSON3 will probably be in touch with PERSON10 on Tuesday or Wednesday.
+  The profanity filtering is not integrated yet.
+  It was tested on locks, but now it's time to test it on the life pipelines.
+ -PERSON3 has a call with PERSON6 later today.
+  They will discuss the profanity filtering and especially the spasm detection and and removal.
+  The new ASR suffers from the same issues as the E2E ASR.
+ -PERSON10 has already started preparing for the upcoming Monday seminar that's going to be given by an Italian guy, the author of PROJECT1.
+ -PERSON10 will be leaving, so there will be a lot of work.
+ -PERSON8 and PERSON10 failed to properly start the training pipeline yesterday, so the pipeline was restarted by PERSON14 Williams in Edinburgh.
+ -PERSON15 wants PERSON8, PERSON18 and PERSON3 to have a call and provide the first specification of requirements for a pipeline set ups.
+ -PERSON16 wants to limit the number of languages that can be broadcast on the subtitling platform.
+ -PERSON18, PERSON16, PERSON15, PERSON24, PERSON3 and PERSON18 are discussing the fall back solution for the PROJECT3 model.
+  The model was trained using tensor to tensor, which makes it slow.
+  It is good for creating the syntethic data PERSON16 is using the newest version of PROJECT3 to train the shortening models.
+ -PERSON16 is working on the shortening and extending models.
+  He's running out of storage quota on levá strana.
+  On Troja he has 50 gigabytes, which is too little.
+ -PERSON19 wants to apply for PHD one at the end of the year.
+ -PERSON16 wants to write to him tomorrow afternoon before the call with PERSON24 and PERSON12 at 2.
+ -PERSON3 was raised very late in the night.
+  He has a call at two thirty Prague time with PERSON6 to discuss the SLTS capability of downloading files.
+  He will be done with it by the end of the day and will have a call with PERSON7 to discuss all the PERSON3 will have a meeting with PERSON7 next week to discuss the lessons learned from the last week sessions.
+ -PERSON15, PERSON10, PERSON3 and PERSON1 are working on a project called PROJECT2.
+  The project is going to be similar to PROJECT5, but there are some differences between the two.
+  The domain adaptation is not visible in the output.
+  It is impossible to PERSON16 proposes to steal data from ORGANIZATION3 and make a training set out of it to improve string stringing.
+ -PERSON1 suggests using sentiment analysis to remove bad words from the social media.
+ -PERSON3 and PERSON15 agree it could work, but it's very subjective and requires a lot of work.
+ -PERSON3, PERSON16, PERSON11, PERSON21, PERSON15, and PERSON1 are working on the task of shortening MT.
+ -PERSON15 wants to read the experience of others, record their experience from the most recent sessions, if they are short of ideas read the problems in the Monday tests document and if they spot any other ideas put them here.
+ -PERSON3 wants to go to Prague in January.
+
+
+Minuted by: Team ABC

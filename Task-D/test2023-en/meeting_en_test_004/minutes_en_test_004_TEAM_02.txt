@@ -1,0 +1,54 @@
+i've emailed [PERSON8], if [PERSON8] would be joining as well.
+i don't think there is any way to switch off your webcams in the alfa view, unless you simply put a ducktape over ovet them.
+i see the presentation platform slowly taking its form..
+in some cases and also, there is a chance of having the real video mixers.
+having a text client would be useful also for debugging.
+if anything comes out that is also as a side effect that is also text client, it would be very useful..
+czech czech machine translation still has some bugs.
+kt translation platform does not handle batch eh the batch example very well.
+ehm some checks unintelligible> that relate to partial sentences.
+if one sentence in your chat testing data does not end in the period or a full stop, it will pend the next sentence because it thinks that them those two together make a full sentence..
+don't see any big benefit from fixing the batch processing mode.
+instead, send unintelligible> audio files to [PERSON5] and [PERSON5] did the asr offline.
+if [PERSON14] sends unintelligible> audio files to [PERSON5] and [PERSON5] did the asr offline, that would be like the way to get the transcriptions..
+cnn's john sutter talks to sutter about the offline asr.
+sutter wants to test the mission translation.
+sutter wants to use a text only client..
+i believe what happens is for the dutch people unintelligible> so you already have segment unintelligible>.
+the offline asr does that in a different process.
+there is even maybe no segmentation happening in word..
+the chat is filling up with these messages but no asr worker being available.
+i think our main concern is not the quality of the translation, but the mismatch of the segmentations.
+i would like to ask [PERSON14] to send the ted files, which do have their translations..
+i think that we are just seeing again, the same bug.
+but we do not know what exactly the bug is that [PERSON5] will be fixing sooner or later.
+at some point, they will both be redone, but i can't promise that will be next week..
+mt clients in- and the workers, including the [PROJECT1] one, expect already the text.
+but but the asr workers are not reliable to to to debug it or unintelligible> to debug.
+there is no immediate plan to to have such client, that would be able to digest ctm..
+cnn's john sutter looks at the asr output to see if there is a bug.
+the asr workers are registered as non-ideal even when they have finished their jobs.
+sutter says the bug is still triggered..
+slt [ORGANIZATION5] is the sort of everything except the actual neural networks part that is doing the work.
+the segmentation worker is a sequence labeling-other_noise>labels each word with either opf insert coma or insert the full stop.
+slt [ORGANIZATION5] is connected to the mediator, doing some preprocessing for mt, for example, like ppe, and that sort of thing..
+if the mediator dies, their worker should survive and reconnect again.
+if there are other things, the output of the asr which will get from you offline, will be different from the output that will get from this improved pipeline that you maybe using.
+if there are other things, than the output of the asr which will get from you offline, will be different from the output that will get from this improved pipeline that you maybe using..
+the presentation platform will receive all those streams.
+we can choose the main stream for each language.
+the actual solution is to have a kind of combinatory explosion of all the possible match matching path..
+ehm is proposing that all audio inputs are translated into all target languages at all times.
+if the output from one of the re-speaking cabins or the floor is bad, this operator should kill the client that is unavailable.
+killing the client is useful only to ehm in computational power on servers which was the workers..
+for june it will not be available the preview of the subtitle.
+but the selection of the stream should be available.
+i can make a blind choice, within the presentation platform control, i can make a blind choice..
+the final user will be the client of the subtitle solution.
+the client will connect to a particular stream of publishing subtitles.
+it's possible that this will happen more often than normal..
+cnn's jarrett bellini talks with cnn's mike downey.
+he says he's unsure if 400 can receive the signal from his wifi.
+downey: "we have a year to to find better one.
+we could also add wires" downey: "i think that's everything for today.
+i think that's everything for today".

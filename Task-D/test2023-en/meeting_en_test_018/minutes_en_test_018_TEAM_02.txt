@@ -1,0 +1,64 @@
+i'm not depressed, because i'm after a one week vacation, so i guess we've covered everything so we can uhm, like end it here right, for today? (PERSON1) so, thanks to all.
+(PERSON10) okay, bye.
+(PERSON3) thank you, bye.
+(PERSON1) see you in a week, bye..
+i refuse the [ORGANIZATION2] tutorial, i have taking a look at the some work unintelligible>.
+so i'm gonna start coding next week.
+i'm very optimistic.
+i can have a prototype soon like within a couple of weeks unintelligible>..
+the main reason is that the cashing client makes the latency too big for the final users.
+so what we really want to have is ehm to translation of incomplete sentences for the user experience..
+if you look at the individual segmen-, individual tokens from the if you if you look at the unsegmented output it would suddenly see the same timestamp that you already saw before.
+but with the same timestamp there would be new hypoteses within intermediate work changed.
+and it can- maybe also happen that the segmentation worker has already closed the sentence.
+but still the asr worker decides to fix word before this end of the sentence is unintelligible>.
+segmenta- english segmentatiton worker is getting outputs like this.
+it's starting in the middle of a sentence, having full sentence.
+and then continuing with the third one for example.
+and suddenly we see such eee such a message like wanted to do more later on..
+the segmentation worker is not emitting timestamps.
+it receives timestamps with the individual tokens from the asr, but it doesn't emit them.
+the problem is that if we have from these.
+even if if they are not zeros, we don't wanna be translating again and complainig about unintelligible> time..
+sanjay gupta: we do not know the timestamps for the beginning and the end of this later.
+gupta: we need to ask [PERSON3], or someone from [ORGANIZATION6] to validate these locks.
+he says the baseline would be to follow the segmentation coming from the segmentation worker.
+gupta: i would prefer that uh,over like- over translate over waiting for full sentences..
+the goal probably not for this workshop would be to preserve the good part, as it was translated already, and then update the next part.
+i don't want to unintelligible> and the risk of false information for for the most part i think the empty empty worker does these things.
+if you and [PERSON4] can like synchronize and make sure that [PERSON4] will know where the relevant code is, then [PERSON4] can decide whether in his re-implementation for.
+eb client will now unintelligible> in a different connector.
+the idea is that we are working on this cruise control.
+and we are testing it in the in the dry runs..
+asr working fine, but there's still a lot of work to be done.
+we can have plain text files with relevant well slide- from related documents.
+it's possible that models system don't need adaptation any more..
+we are still in the face of creating the asr models ourselves.
+we will see in practice whether we like- which output we like best.
+we can skip asr if we don't have it..
+we're, we don't have the daily test yet, but we have the install and test scripts, and we run them every now and then.
+and then the machine translation systems, multilingual english tool any is currently training, because the student i have for this is not delivering anything.
+so if we can get the models from [PERSON4], that's more- is much safer, yeah..
+cnn's john defterios has a long pipeline of data for mt fine tuning.
+he says we need the english to english empty system and english to multilingual empty system.
+defterios: i can say that english to english is probably our best translations systems unintelligible> transform model so would get better..
+test this pipeline and let us know if it works next week.
+we will be replacing this part was the [PROJECT4] worker that [PERSON4] will be developing, but we need to know that the rest works.
+(PERSON7) yes, and it was in the at the level of partial sentences? so there was no cashing, cashing worker involved? (PERSON7) yeah, okay, right..
+publick- now i have new idea that we can take paralel big paralel text only corpus, then we are text to speech on it, and then asr, and train on the output from asr with errors against the original targets.
+but i don't think that it would be unintelligible> data at all.
+so let's us keep this idea in mind, but i don't think that it's good to for suite for this workshop at the end of june..
+the first one to train on real asr from unintelligible> docks is a realistic test.
+we need to run [ORGANIZATION6] asr on the unintelligible> docks, record the locks, ah including timestamps.
+and then we can use this segmentation with uh the paralel data to change the paralel data.
+it's not a priority at the moment because we are planning to rely on the on PROJECT4..
+there is a way to avoid broken workers while starting a client.
+if we run the same client, the same pipeline concurrently six times, we will end up with four lines four pipelines four sessions ineffective.
+if we run the same client, the same pipeline concurrently six times, we will end up with four lines four pipelines four sessions ineffective..
+if the worker fails, the platform would know which worker is it.
+and they would kill it on their side, and then it would not be available anymore in the platform.
+so another option would be to force the platform to use particular worker for pipeline or for session, use quick test session as their side of ag [ORGANIZATION6] for each of their workers and if they do not pass their test, [ORGANIZATION6] could kill them.
+(PERSON12) yes, in the mean by if you want to share.
+doodle says he's not able to see if there's a unintelligible> mechanism.
+it connects but it doesn't emit any output at all.
+doodle says he's not able to see if there's a unintelligible> mechanism..

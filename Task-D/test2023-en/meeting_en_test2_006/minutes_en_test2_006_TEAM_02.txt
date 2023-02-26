@@ -1,0 +1,50 @@
+the goal is to synchronize the group, and the date and time of the week is chosen.
+if randomly you can not attend a particular week, that's not a problem at all.
+(PERSON2) yes, unfortunately, it is double work.
+(PERSON7) yes, it works.
+(PERSON3) hello unintelligible>.
+(PERSON3) i will be glad to read the proposal and to write some chapters to the proposal..
+we ll be removing names, replacing names with placeholders and replacing project names with placeholders.
+if the [ORGANIZATION16] congress is not happening, then we will use the next year's [ORGANIZATION7] conference as our main eh, demo event.
+if the [ORGANIZATION16] congress is not happening, then we will use the [ORGANIZATION7] as our main eh, demo event for for the [PROJECT5] project..
+i have been trying to collect the data that we can use for this rainbow models.
+for this i have actually found that that it is actually quite a problem to to find spoken data there.
+i will write to [PERSON13] as soon as possible..
+eh is an algorithm for mining parallel data in one hundred l- languages.
+only a third of it is english-centric.
+but eh has also released the trained models..
+eh, [PERSON6] who has worked on the [PROJECT5]test set will join us only from december.
+eh, [PERSON6] who has worked on the [PROJECT5]test set will rejoin us only from december..
+the [PROJECT5] test set contains the input texts and references and also input sounds and reference transcripts.
+[PROJECT2] eh is the tool, which uses eh, but it is also directly capable of downloading what eh, files you want to evaluate on from [PROJECT5] test set.
+[PERSON14] can help with that eh, to evaluate all the workers that are in the [PROJECT5] pipeline..
+peter polak wants to evaluate [PROJECT4] systems on [PROJECT5] test set.
+he wants to get numbers and repeated measurements so that the number stabilizes.
+he prefers to talk with you around half an hour to an hour to finalize it..
+the most urgent thing to do is getting the evaluation of all the systems, of all the components from the eh, mediator, all the connected workers, running through elitr test set.
+i don t want you to skip any of your school duties and that implies to everybody of course.
+if you have any answer for him i can tell him or you can send e-mail about it later..
+[PERSON4] has worked on multi-target machine translation for his master thesis.
+he is also partly part-time employed on [PROJECT5] to develop multi source eh, models.
+the goal of this censorship tool is to allow to immediately hide the outputs and then show them again..
+i have asked eh - my task were so far to generate synthetic multi-source train set.
+and for this purpose, i asked [PERSON11] for model and he sent me the - (PERSON3) great.
+(PERSON4) but when i will receive the cluster access i will check this out.
+(PERSON10) yeah, so so the models have to be of comparable quality, so that the uh, the multi-source has a chance to be useful, right?.
+cnn's john sutter talks with cnn's mike sutter on the development of a multilingual model.
+sutter says he is working on the chopped data set for [PROJECT4] and [PERSON15].
+sutter: if your model eh, behaves well, we would like to have that integrated..
+the purpose of this call was eh, very greatly fulfilled.
+eh, who was supposed to keep talking on this call, feel free to do that.
+eh, who is supposed to keep talking on this call, feel free to do that..
+eh, we can leverage more eh, non-native dat- non-native speakers.
+we can eh, create wholly new sentences using eh using the words itself.
+eh, we can reuse more frequently the words eh, spoken by non-natives.
+and that's why the models which are trained only on on common voice are quite bad..
+the main objective is to train a robust english [PROJECT4].
+(PERSON7) eeeeh, the main objective is to train a robust english [PROJECT4].
+(PERSON3) eeeeh, i m still at home and i m i m unable to work on multi-lingual [PROJECT4] because i m still at home and i eh, do not have much time to work on this.
+(PERSON11) eeee.
+i m afraid that these data are just eh, private and we cannot use them.
+i ll have to use the common voice and maybe i ll check fo another multilingual data set.
+if that was that requirement, then please share the unintelligible> data set with me of the unintelligible> data set..

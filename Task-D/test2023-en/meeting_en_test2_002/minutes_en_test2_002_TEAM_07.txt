@@ -1,0 +1,159 @@
+Summary:
+
+* PERSON15 would like to hear from the people that he hasn't talked to for a while. 
+  -- Fact: He doesn't have PERSON3, but he does have people from the following groups: PERSON15, PERSON12, PERSON24, PERSON3, PERSON7, PERSON16, and PERSON10. 
+* PERSON15 and PERSON12 want to know which version of PROJECT3 will be used for the GPU test. 
+  - Fact: They are doing it in FP 16, in the half precision, and it trains on floating point FP 16. 
+  - Disc: After they done this, then they will know what version they will use for the test. 
+* PERSON15 is worried about the multi source status for the deliverable. He also wants to know if anyone has contributed to it in any way. 
+  - Fact: He is waiting for the input from ORGANIZATION1, who promised to do it by Thursday, but he's not there yet. 
+* PERSON15 and PERSON12 discuss the paper on which they are working on. 
+  - Disc: They want to combine the document level aspect with the multilingual aspect of the research. 
+    -- Disc: They could have done the multi-source research also in the text domain, but they need to collect document level corpora. 
+* PERSON15 and PERSON12 want to do some experiments with multi-source text based data. They will use the text from ORGANIZATION6. 
+  - Disc: They don't expect any gains from this approach, because the text is disambiguate and only one source will be better than two. 
+* PERSON15, PERSON24 and PERSON12 will have a separate call tomorrow at 3:30 pm. 
+  - Disc: They will talk about what they are working on and what else they could start to experiment with the multi-source. 
+  - Fact: PERSON15 will send a link to the calendar for the separate call. 
+* PERSON15 explains some of the tasks that will be done by PERSON10 once he finishes the language model checking of ASR outputs. 
+  - Disc: The integration will probably be more on the part of PERSON8,  and   PERSON3. 
+* PERSON15 and PERSON3 are going to meet on Tuesday or Wednesday. They will probably be in touch with someone else later this week or early next week to set up the date. 
+  - Disc: The sooner the better, says PERSON15. 
+* PERSON15 was confused as to whether the person on the call is the same person as the person who said that he could be late for the call and that's probably happening. 
+  - Fact: The other person is the other person, who is on the phone. The call is being carried out by the other one. 
+* PERSON15 reminds PERSON3 that his profanity filtering is not yet integrated. 
+* He suggests a do it yourself integration so that it can be tested by colleagues and tested by the author of the component. 
+  -- Disc: He also suggests that it's better for the author to explain to others how to do it himself. 
+* PERSON3 has a call with PERSON6 later today. They will discuss how to deal with him downloading files to his local machine. He also has a chance to use X2Go, but his bandwidth is limited and he prefers to download things. 
+* The profanity filtering should be employed twice after the ASR and second after the MT. 
+  - Disc: The new ASR, E2E ASR also suffers from the spasm issues. 
+  - Disc: The MT worker can create its own spasm for good ASR. 
+* The proprietors spasm removal should not be folded into the ASRs. 
+* PERSON15 wants to integrate the self or to do it yourself integration with the call with PERSON3 later today. He wants it to be displayed on the dashboard and the monitor. 
+  - Disc: He also wants to have a call with PERSON10 and hopes that PERSON8 will join them. 
+* PERSON15 explains to PERSON3, PERSON10, PERSON1 and PERSON6 what they need to discuss today. 
+* They need to prepare for the upcoming Monday seminar that's going to be given by an Italian guy, the author of PROJECT1, and get ready for the domain adaptation. 
+* On Monday they will hear the Italian English and yesterday they had a chance to hear the Japanese English and the ASR was struggling with that. The multi-accent English is mainly on on PERSON1. The accented English is on on PERSON3. 
+* PERSON15 and PERSON3 are working on the recording segmentation for the multi-accent English. 
+  - Disc: The current idea is to create new sentences by concatenating words that were spoken in other sentences. The new sentences will solve two problems with one experiment. 
+* PERSON15 reports that the training on disruptive inputs greatly improved the robustness of the system. 
+  - Fact: The training pipeline used for training of the <unintelligible> uses the same technique. It's already there, so the training pipeline is already there. 
+* PERSON15 asks everybody to record the experience from the organizing session and the one one session. 
+  - Disc: He wants to make sure that the whole set up is understandable and regularly tested by others in the team. 
+    -- Disc: The system needs diverse users, and the more diverse users the better. 
+* PERSON15 wants to use language coats instead of the output for agile. 
+  - Disc: PERSON15 wants PERSON3, PERSON18 and PERSON8 to propose a solution to this problem. 
+  - Fact: PERSON18 has a call and is not available, so they are not sending the messages in the mediator. 
+* PERSON8 didn't know where to look and what to check. It was the first time he had seen the pipeline and it was complicated for him. 
+  - Disc: He didn't understand how to debugg what section is the hair issue with so first tribe with the ASR, then try with the <unintelligible> itself and then individual ASR. 
+* PERSON15 doesn't understand why the workers didn't work. The common addresses file doesn't include army worker. 
+  - Fact: There is a separate directory for that. 
+* If they want to implement army worker, they need to have a separate separate descript. 
+* PERSON15 wants to set up a call with PERSON8. 
+  - Disc: He wants to discuss how to make the configuration cleaner. 
+    -- Disc: Next week, he wants to hear from them how far they got in the specifications of the requirements and how they can improve it. 
+* PERSON15 wants to have a call with PERSON8, PERSON18, and PERSON3 to discuss the first specification of requirements for a pipeline set-up. 
+  -- Disc: He will put it on the conversation. 
+* PERSON15 and PERSON16 will remove some scripts that are confusing for the new people and will only leave the ones that are usable for the life sessions, as requested by PERSON18. 
+  - Fact: The new scripts are Avanti, Rainbow worker and so on. 
+* PERSON16 wants to add some parameters to limit the number of languages to the subtitling platform. 
+  -- Fact: It's up to the user to control how many languages they want to see the platform. 
+  - Fact: The structure for the workers for the English to Czech model also uses the same structure. 
+* PERSON15 and PERSON18 think it's better to run the multi-lingual moral with fewer languages enabled. 
+  - Fact: They did it when they were testing it with with PERSON12. It was not the case with the reef they tested it on. 
+* PERSON18 compares the performance stable constructed with the rainbow worker and the other one. 
+  -- Disc: The rainbow worker was better in speed, but was it better in bless of the course than the other worker. 
+  - Disc: The difference between the two was due to differences in performance. 
+* PERSON15, PERSON18 and PERSON16 think there's no point in having a rainbow worker in the pipeline at the moment as the course was better for fulfills and there is no need to have one. but it's good for the course. 
+* PERSON18 and PERSON16 discuss the problems with the training of the model. 
+  - Fact: It wasn't trained with the fine tunings that feel used, and it was trained using tensor to tensor, which made it slow. It took 2 seconds to translate something. 
+* PERSON15 and PERSON16 find it strange that PROJECT3 is slower with more languages. 
+* They suggest using PROJECT3 instead of PROJECT8's tensor to tensor worker as a fall back solution for live sessions. They should launch rainbow worker from PERSON14. 
+* PERSON3 is going to look into the directory of the devel at the ORGANIZATION5 mailing list to see if he copied from someone else's file. 
+  -- Disc: He doesn't know if he's on the list, but he will get in touch with others who are. 
+* PERSON15 is looking for someone to help him with learning the path configs for the models of PROJECT3, PROJECT5, PROJECT2, PROJECT3 and PROJECT1. 
+* He will ask PERSON9 to add PERSON24 to the list. 
+* PERSON15 wants to hear from PERSON16 quick report about his project. 
+  - Fact: He is working on the shortening and extending models. 
+* He's running out of storage quota and needs to dig data from the rest of the dataset to build the final model. 
+* PERSON15 advises to have an estimate, ask for more and then give an estimate again. 
+  - Disc: PERSON16 wants to know what to do with the information he has already. 
+  - Fact: He asks for more information from PERSON15. 
+  - Disc: It's not enough. 
+* PERSON15 explains to PERSON16 that the organization has space, but they give it away only after people have used it. Organizers take a lot of space, because they take like fifty gigabytes of data themselves. 
+  - Disc: The only way to avoid exponential growth is to make the growth modest and moderated. 
+* PERSON16 needs to know how much space is available on Troja and how much data he needs to save. 
+  - Disc: He will ask IT EDU about it. The data will be saved in Troja as the better graphics card is on there than on the PC. 
+* PERSON16 has 50 gigabytes of data on Troja, which is too little for him. He will have to ask for more space. 
+  - Fact: He has an alliance for this. 
+* He needs to use Command DF to check the quota, which he will do in the document. 
+* PERSON16 wants to report some progress to PERSON15. 
+  - Disc: PERSON19 would like to do the same, but they have forgotten about him, so PERSON15 is looking for someone who can do it for him. He would like someone to tell him what he should do. 
+* PERSON15 will write to an Indian man who is interested in joining her team. She will call him tomorrow at 2 pm before the call with Dominic and and PERSON24. There is a guy in Zabrican who is almost done with his masters and wants to join the team. 
+  - Disc: The deadline to apply for PHD is very soon. 
+* PERSON18 and PERSON15 are sending a brief email to PHD at ORGANIZATION5. 
+* The email is something like ORGANIZATION5 slash PHD - and he should email that he is interested to send to ORGANIZATION5. 
+* Buffalo's master thesis is based on modern machine translation. 
+  - Fact: He expressed his interest to join your group and he had a discussion with you. 
+* For PHD application, he should email that email PHD at ORGANIZATION5. 
+  -- Disc: PERSON15 is beyond his capacity, but others may have the capacity. 
+* PERSON15 is trying to send an invite to the organizing meeting tomorrow at 2 pm. They are way beyond planned time because they haven't had the call last week. 
+* They need the evaluation of all systems and files in the test set automated. 
+  - Disc: The last week, PERSON3 couldn't work because of the covid. 
+* PERSON3 was raised around 9:30 pm Indian time. He was not aware of this time difference. 
+  - Disc: He is now aware of it now. 
+  - Fact: He was raised very late in the night around 9.30 pm. He does not remember this time. 
+* PERSON3 has a call with PERSON6 at 2:30 pm Prague time to discuss the SLTS capability of downloading files. 
+  - Disc: The code is almost finished with that discussion and he thinks he'll be able to wrap it up today itself. 
+  - Fact: There is also a call between PERSON15, PERSON7 and PERSON3. 
+* PERSON3 will have a call with PERSON7 later to discuss automating the ASR evaluation. After that, he will call with PERSON15 to discuss all the things that he put in the script and he will take it up from that. 
+* The recording of the results will be managed by PERSON7. 
+* PERSON3, PERSON7, PERSON15 and PERSON15 will have a phone call with each other next week on PERSON7's request. 
+  - Disc: PERSON3 will call PERSON3 next week as well, if he's free. 
+* PERSON15 wants to make sure that important people are available when there is a meeting. 
+  - Fact: Yesterday, during the call at 3 pm Prague time, PERSON14 wasn't available, so he didn't take part in the meeting, which is a problem for the management. 
+* PERSON15 needs to know which components they are using and who are the people behind them. For important sessions they need to make sure they have the right people available. 
+* They need to know what is their fallback solution if the party is not not present. 
+* PERSON15 wants to put names next to those for the people who are working on the non native accent in the Monday test document. 
+  - Fact: It is highlighted in four times highlighted. It's called Gazette years. 
+* When some session is happening, they need to collect the names and terminology for that session. 
+* PERSON15 is looking for someone to help with the data crunching. He would like to see the benefit of domain adaptation in in the PROJECT2 set up. 
+  - Disc: The domain adaptation is for the PERSON17 toolkit. 
+    -- Fact: It's not for PROJECT2, but for PROJECT20. 
+* PERSON15 wants to know if the domain adapted ones are capturing the domain related words better than non-adapted ones. 
+  - Disc: He also wants to have an independent keyword spotting from sound. 
+    -- Disc: It is impossible to do any domain adaptation for the fully neural ASR. 
+* PERSON15 suggests to have two ASRs running at the same time. 
+  - Disc: The end-to-end ASR is better in general. The domain adapted version is used only to spot keywords. 
+  - Fact: The new ASR will have its own arm and do experiments on fine tuning. 
+* PERSON15 and PERSON16 want to create a tool to download filter and videos from ORGANIZATION3 and make a training set out of them for string-stringing. 
+  - Disc: They want to steal the data from them and create an automatic training set. 
+* PERSON15 is looking for colleagues to help with the discussion on African languages in the project. He has recorded examples from the discussion in the Monday seminar document or in the organization's website. 
+  - Disc: He is looking to find people who are in touch with someone who can help him. 
+* PERSON1 suggests that profanity filtering should be more aggressive about about slightly negative words. He suggests using neural networks based on the movie review and sentiment analysis to remove sentences or groups of words with a negative sentiment from the content of the text. 
+* PERSON3 has some experience with sentiment analysis. It's a difficult task to train a neural network model to spot some things that might be disrespectful or demeaning to someone. 
+  - Disc: It takes a lot of work and will probably take a lot more work. 
+* ORGANIZATION8 and ORGANIZATION4 filter the posts on social media. There was a cable competition where people had to make models to detect tweets or sentences which were harmful in some ways. People can download some models from the competition to help them filter the content. 
+* PERSON16 sends a link to a tool that can be used for the task. 
+  - Disc: The setting is slightly different from these competitions. 
+  - Fact: In this setting, the bad words arise only as errors of ASR and errors of translation. 
+  - Disc: The subjectivity is important, but it may be less severe in this setting. 
+* PERSON3 suggests to create a profanity filter to prevent hateful comments and remove them. 
+  -- Disc: PERSON16 has some students who might be interested in supervising a student. 
+  - Disc: They will be Czech citizens. 
+* PERSON15 suggests that the student should stay with the non native English accent. 
+* The last item on PERSON15's list was shortening MT. The list included PERSON16, PERSON11, PERSON21, and one more person related to shortening the MT. It was in the list of tasks. 
+* PERSON3 will ask one of the elderly students who are studying in Prague for the first or second year if they would be interested in doing the task for the positive speak and for the profanity filtering. 
+  - Disc: They will be able to do it because they were studying there. 
+* PERSON15 asks people to read the experience of others and record their experience from the most recent sessions. 
+  - Disc: If they are short of ideas read the problems in the Monday tests document and if they spot any other ideas that could be fruitful, put them here. 
+* They will discuss them next week. 
+* PERSON3 will probably be in Prague in January. If he makes it, he will be the first one who makes it to Prague. 
+  - Fact: They will have one more Thursday call next week and then they will have a break for two weeks. On the 7th of January they will meet again and then again next week. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

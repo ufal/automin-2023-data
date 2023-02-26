@@ -1,0 +1,31 @@
+Zápis ze schůzky
+
+Datum schůzky: 13.5.2020
+
+Téma: Porada [ORGANIZATION21]
+Vedoucí schůzky: [PERSON11]
+Účastníci: [PERSON20], [PERSON18], [PERSON40], [PERSON23], [PERSON38], [PERSON1], [PERSON29], [PERSON10], [PERSON13], [PERSON24], [PERSON5], [PERSON26], [PERSON27], [PERSON9], [PERSON7], [PERSON31]
+
+Zápis:
+
+- [ORGANIZATION2]: jednání 20.5.;
+- [ORGANIZATION16]: téma: [ORGANIZATION33] a památková péče: 22.5.;
+- [PROJECT23]: proběhne soutěž na vzhled celého mostu: možnost vyjádřit se k podmínkám;
+- ÚAP: dvě úrovně: obecní a krajská: budou projednávána pořizovatelem;
+- [PROJECT15]: odmítnout studii;
+- [PROJECT13] ulice: připravováno zadání pro externího zpracovatele;
+- [PROJECT14]: po obdržení zadání proběhne schůzka ohledně možností zadání;
+- [PROJECT27]: do týdne bude dodána studie;
+- Návrh systémově přenastavit způsob podání: preferována elektronická podání;
+- [PROJECT3]: rozhodnutí bude vydáno 25.5.: poté vyhotovit  vzdání se práva odvolání;
+- [PROJECT26] ulice: doručena dokumentace;
+- [PROJECT20]: žádost o konzultaci ke změně územního plánu;
+- [PROJECT19]: řešeno koncepční zadání;
+- [PROJECT22]: zadání do konce června.
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

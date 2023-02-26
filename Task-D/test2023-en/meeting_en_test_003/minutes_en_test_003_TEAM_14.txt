@@ -1,0 +1,41 @@
+There is nothing that (PERSON11) would know about that the participants of meeting need to discuss like in a very big detail
+[PERSON10] what is the status of [PROJECT3] worker?
+[ORGANIZATION1] worker will probably just be forwarding requests.
+[PROJECT3] server (PERSON11) rself.
+Because (PERSON11) think they probably even have something like that in SLT [ORGANIZATION3] repository.
+[PERSON5] need to be some little bit adaptation for what (PERSON5) is doing anyway.
+[ORGANIZATION1] worker send every segment to [PROJECT3] for translation and that's it.
+[PERSON8] does not see any difference.
+One thing that (PERSON2) would still like to know [PERSON10], is the handling of timestamps.
+and the limitation with this approach is that the participants of the meeting can handle only like one single timestamp at beginning and would be the end of the segment.
+And how do participants of the meeting make sure that the updates are reasonably well displayed.
+Sorry at the presentation platforms must arrived only what the participants the meeting want to publish.
+And at that point the presentation platform would like scroll, up, and it would again start displaying whatever comes as full textfield.
+The presentation platforms is just presentation here.
+(PERSON11) decides whether the textfield should be replaced or scrolled up.
+Presentation platform is receiving an update message.
+That' - That's just whether presentation if the participants of meeting want to completly replace and use the history or that the participants, of meeting history scroll up.
+[PERSON8] thinks that we'll arrive at the solution where the timestamp of the beginning would be the critical information.
+[PERSON10] (PERSON11) don't think there is anything changes.
+(PERSON5) would not expect any prototype today.
+Last time (PERSON5) discuss about it the first prototype presentable should be at 15th of June.
+(PERSON11) don't have any other information.
+[PERSON11] is asking the participants of meeting to run any [ORGANIZATION2] workers in [LOCATION1].
+(Ty) (PERSON11) only more worker and now is sexteen or fifteen worker ASR, who are close connected.
+[ORGANIZATION4] will try to get that running, and [PERSON5] will spend some time to run them.
+(Ty) (PERSON5) have been check it carefully because participants of the meeting have the limit number and maybe that it the same time working at same time maybe like participants of meeting have.
+[ORGANIZATION2]: [PERSON5] is not sure that the participants of meeting the should be fine relying on this image, because in some early stage the participants discuss that for just for a backup purposes.
+[PERSON4] said that [ORGANIZATION2] is ready.
+[ORGANIZATION2] workers have one by one died out.
+(PERSON5) didn't attend the yesterday meeting, but bug that [PERSON5] mentioning is that sometimes the work, one worker can handle several sessions, but then it stocks and it doesn't return any output.
+(PERSON11) will us, but yesterday [PERSON11] don't know what is happening there, because participants of the meeting when (PERSON11) do know what prophones it was able to handling several sessions.
+(PERSON11) think it's very important [PERSON11] that (PERSON11) create a script that will like replicate this bug.
+Do it with offline it participants meeting have the same problem with offline ASR.
+If there is anything of the participants of the meeting can do in order to help (PERSON5) the publing the problem, the participants meeting stand us careful the mediator to test just [PERSON5 r worker] and the participants the meeting are avalaible.
+That this point production client is different from the simple one only by a b (PERSON11) change only the default parameters and comment send documentations, and [PERSON11] removed to Windows version.
+Also Linux based th
+It's the same as in the sample and it didn't get any replies.
+[PERSON4] will resend the email.
+And then the participants the meeting already have the workshop since the same time an hour earlier than today on Fridays?
+laugh> But (PERSON5) can be with [PERSON5] with (PASTER9)'s heart.
+[PERSON6] to [ORGANIZATION2] to support us remotly.

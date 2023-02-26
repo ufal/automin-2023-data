@@ -1,0 +1,23 @@
+(PERSON6) Oh, uh, uh, we're waiting for someone, maybe, uh, that is going to join us, but I'm not sure. (PERSON10) Uh, not sure, I'll check this, because, uh, I didn't see it at first. <laugh>
+
+(PERSON6) Oh, you actually call it [LOCATION1] time? (PERSON2) Like simply said, it's 1 hour from now and 4 days –
+
+<laugh>
+
+From –
+
+<laugh>
+
+4 days and 1 hour from now. And also, uh, [PERSON1]asked me, uh, to tell you [PERSON10] that you s– you should think about the possibility that –
+
+Basically, the moment the travel restrictions are, uh, going d– go down. And, uh, the way they employed you, uh, is really, like, they, they had to close both of their eyes. Uh, and, uh, it is important for you to come in person to, uh, enter a proper work contract. And, uh, it would be better for us and better for the project if you decided to take it as an opportunity and not as a, as a negative must. Or I'm looking at it, at we are still waiting for –
+
+How, how is it with [ORGANIZATION3]? So, I again, the same situation, I don't know whether they started it or not. (PERSON6) We can definitely raise that on the Thursday call, maybe it ne–
+
+The thing that the communication is not completely perfect and, uh. It, it's sort of like a –
+
+(PERSON2) Like it i– like it is fine, but, uh, yeah, uhm. I think that, uh, the, the bullet point is quite explanati–
+
+Like, what's the term. Like, uh, is there any, was there any issue, something that needs to be discussed? Because they might be sensitive to domain shift and, and such, right? So, can try do both and check the differences and, and stuff. Like, right, uh, I guess with paraphrasing or if we use it for example for paraphrasing, we might use the metric to, uh, estimate the sim– sim– simil– like semantic similarity, but still have the constraints to enforce some, some like surc– surface form. (PERSON2) Uh, maybe just like my stupid question, why do we need this eva– new evaluation for MT? (PERSON6) No, so, I, I can –
+
+(PERSON2) Why do we need like another like non–standard metric? And the thing is that we want to kinda guarantee a semantic similarity, right, which BLEU doesn't capture, because it's just using the surface forms during evaluation. (PERSON6) Yeah, this is –  this definitely sounds interesting, because again, I think that the papers that do focus on the constraint decoding, they, they really don't evaluate it from this perspective, right? Ye–, uh, well but then I think like this, this might be a good, good approach to the, to the task. But yeah, we can, we can wrap it up, and I guess see you, see you next week, right?

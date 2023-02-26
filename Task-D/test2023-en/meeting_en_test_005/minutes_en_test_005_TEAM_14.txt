@@ -1,0 +1,45 @@
+Yes, [PERSON12], now the participants of meeting can hear (PERSON12).
+This i this is what (PERSON11) should be seeing now it's [PERSON11]'s screen that runs, client for connecting together one ASR worker, and then the translation into Czech.
+(PERSON11) did, some of them have just going down i tried to modify  Czech is running.
+One the command is running only the ASR worker and the other command lower window is running both, the ASR Worker and the machine translation into Czech.
+The participants of the meeting have only one English segmenter.
+[PERSON4] is the output from the meeting tests.
+Sorry the participants meeting don't have machine system, but the of participants meeting could try the test ASR if (PERSON12) want.
+(PERSON12) will try to get the batteries, and (PERSON12)'re right tha good thing about German ASR is that the participants the meeting don't rely on the German mike, on English segmentation worker as well.
+(PERSON12) launched German empty English to German.
+(PERSON12) is sorry for [PERSON12]'s lateness.
+[ORGANIZATION4], (PERSON11),,, [PERSON11] r empty right?
+[PERSON12] is starting another mike right now This is all right it's set up.
+One two, three, four, one two, two three, three.
+But (PERSON11)'m following German words that (PERSON11) spot.
+The segmentation is getting the end of one sentence in the beginning of next, and the participants of the meeting not read it preparefull that, participants and (PERSON11) think that's something that the meeting need to talk to [ORGANIZATION3] they can fix that and make sure that they're not getting these overlapped to two sentences but that a tranlastions starts.
+That's a lot of repetitions, that (PERSON12) hear that.
+Participants the meeting are solving another issue, of wit with presentation right now.
+Participants meeting also noticed that (PERSON11) don't know how to share it,how to do it.
+No no participants of meeting hit the screenshot.czech language=""> [PERSON11]'s screen, list of icons that (PERSON11) wa The, issue that participants the the meeting are trying to help (PASTER1) solve now is that when (PPERERSON1) are following the screen presented by [PASTER1] are (PEXPERSON11) still presenting the screen?
+The participants of the meeting had to click it before now it's broken apparently.
+And the participants of meeting have [PERSON3] on the call as well right [PION7], can (PERSON11) hear us?
+Yes (PERSON11), is here good morning.
+[PERSON11] can not hear what the participants of the meeting are saying.
+(PERSON11) do the participants of the meeting still have another headset?
+[PERSON11]'s notebook is sending three English, three audios?
+(PERSON12) sent two audios for each output language.
+(PERSON12) believe that it's still working.
+It could work also asking for example for multiple translations that's giving the input audio file, and they want for example the germ-German audio file and that want in to receive the English translation and the French translation.
+Then, this is this is observation by [ORGANIZATION4].
+One thing is efficiency thing, like participants of the meeting are getting same request multiple times sometimes four five times the same input.
+If it doesn't change just don't resend it.
+(PERSON12) have, probably some update, because [PERSON5] talked about this behavior yesterday, with [PASTER10] and [PONT2]. And not the [ORGANIZATION6] one they manage these behavioral directly in the server.
+(PERSON12) started some workers.
+And what comes out was that the (PERSON12) is trying to investigate this behavior.
+It works on- beginning and not on offset and thus also get confused, but participants of the meeting are reason about this topic and we'll update (PERSON11), of course or if [PERSON11] discover something please update myself.
+[PERSON12]'m not sure if (PERSON11) totally understood.
+[ORGANIZATION4] think the empty worker cannot distinguish between January repetition.
+(PERSON12) still wants us to return something even if it can say the participants of the meeting could repeat it.
+(PERSON11) think it's what the participants of the meeting want, because like it is very same string then the empty worker should not have been called.
+Participants of [ORGANIZATION3] do not have anyone from the call.
+The ASR worker will check it's output and never send the same string ehm-If-Well (PERSON12) should very different list still.
+(PERSON12) don't know [PERSON12 worry it's only-czech language=""> Sorry guys [PASTER1] run a test with the English ASR, maybe it' sme [PION1] wrack now finish.
+[PERSON11]'s notebook not recording anything yet but the beringer of participants of meeting have, sound in the sound card but the participants the meeting do not have the sound in system, and it's stopped by itself, or have (PERSON11) been changing any of the sound settings?
+Unfortunately, (PERSON12) prepared the which uses the German ASR.
+The German ASR was working while ago, and [PERSON11] has one of workers for himself.

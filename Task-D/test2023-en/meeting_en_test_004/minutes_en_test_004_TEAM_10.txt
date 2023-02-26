@@ -1,0 +1,5 @@
+Attendees: PERSON3, PERSON7, PERSON14, PERSON13, PERSON10
+
+ * [PERSON10]: Actually I I've seen something which stopped working.
+ * Actually, kind of, we can only see the selected one and not all the others. This is the preview functionality that will be for June.
+ * That's for, that's not for the June.

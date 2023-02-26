@@ -1,0 +1,9 @@
+Attendees: PERSON4, PERSON3, PERSON7, PERSON6, PERSON1, PERSON10, PERSON12, PERSON9
+
+ * [PERSON7]: Actually I have noticed if [PERSON4] is on the call.
+ * What we really want to have is to translation of incomplete sentences for the user experience.
+ * Still the ASR worker decides to fix word before this end of the sentence is that possible?
+ * Have to check in details to logs.
+ * [PERSON7]: I think we should go for this baseline for the workshop.
+ * Will get the data from the [ORGANIZATION7].
+ * English to anything machine translation and the presentation platform at the end.

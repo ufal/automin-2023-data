@@ -1,0 +1,32 @@
+Attendees: [PERSON2], [PERSON10], [PERSON4], [PERSON9]
+
+Summary:
+was about to join because he told [PERSON10] that he wants to be in the meeting . Also , [PERSON4] have also got around three or four . can [PERSON9] , can [PERSON9] drop [PERSON10] [PERSON9]'s  message over the phone that we are already online . and [PERSON10] do not know if [PERSON9] have highlighted the portions of the document with the colourful papers . , [PERSON10] think he might have started some PhD somewhere or whatever . 
+
+[PERSON4] have partly did it myself and partly the annotator . Annotator stopped , if [PERSON10] , see , if it is an online . this annotation was done at the type level , like word types . The agenda is in the master documentif [PERSON4] can check the Coffee Meetings . the documents will , contain information like , this word was once , was suspected to be an NE , but at the words type , annotation it was , marked , as a regular word . Like the word copy is good but this copy od is just automatic what that happens if [PERSON4] make a copy . , the idea , is , at the end we need to have the full collection of all our documents with all named entities replaced by place holders . And we need this process to be like as fast as possible . To do like the bulk processing of the documents and the insertion of the annotations into the Xml and things like that . And new documents are still coming , [PERSON10] guess . this is , the typos in named entities are mainly because the people do , the annotators not knowing the correct spelling . 
+
+[PERSON10] think that [PERSON7] did not use name tag because he needed to collect this list quicker . 
+
+[PERSON4] is not really sure that he has included all the all this stuff in . For projects and other things we can say like: . 
+
+[PERSON4] asked  How do we know if this is the speaker or not . but it has to be a skilled person in this , like text processing . 
+
+[PERSON10] told her yesterday that she should start . 
+
+[PERSON4] would be very happy if we leave it . 
+
+[PERSON10] mean , either the transcript or any version of the minutes . 
+
+[PERSON10] is waiting for [PERSON4] to finish . The key word indeed is the personal data . She needs to tell us what exactly is persons data . 
+
+[PERSON10] think that the annotation can go independently . And there are two types to , like , two stages of the content forms . but they are not , but they are not perfect . 
+
+[PERSON10] would now , with [PERSON14] , [PERSON10] would focus on the second form which is the consent to publish the data . , [PERSON4] is just thinking about this , samples . Access to the full data set like brows this . As a simple directory with documents which people could browse . If [PERSON4] know that the meeting participants information could be improved , corrected by someone . And then we will do like a second pass of the data . End of February would be a good date for the participants , for the meeting participants , to get their consents , right ? [PERSON9] think [PERSON9] think two months would be great . we write the data deidentification from the participants by February end . 
+
+[PERSON10] think that we will have the data at the end of February , and they should then do the consent . 
+
+[PERSON4] is kind of unsure of if we should invite all of these people to the Scientific Committee . for this work better , the more personal we write it , the better . Can [PERSON9] put their names in the , in the [ORGANIZATION9]sheet . For example , this [PERSON5] and others . 
+
+[PERSON10] will propose that at least if we can have fifteen people , fifteen people , that would be great . 
+
+[PERSON10] did not really transfer it to the [PERSON9] .

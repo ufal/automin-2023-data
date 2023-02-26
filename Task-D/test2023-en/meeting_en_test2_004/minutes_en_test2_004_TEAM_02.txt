@@ -1,0 +1,42 @@
+i'm not really sure that if one has a income membership, they will get reduced three restrictions.
+so i would ask [PERSON96] at [ORGANIZATION5] how many people potentially could take part in their speech.
+i wasted my holidays by being ill, but that was not not covid related.
+now i'm actually back to work and that actually improved my mood..
+i'm sending a question to [PERSON14] now.
+i'm going to the [PROJECT6] tomorrow for a technical meeting.
+i'm going to see where can we plug our bear ringers and actually record the sound..
+cnn's john sutter has been asked to explain the web-based weights and biases solution.
+sutter is working on updating the demo paper submission.
+he's also gathering documents, ah, not the documents themselves, for the two sessions..
+ah, probably no progress over the christmas.
+profanity filtering should be added to complimentary metric, uh, actually it is more.
+(PERSON7) i think of the one point five, uh, and what you were unhappy about..
+cnn's john sutter has compiled a dictionary of rare words.
+it could be used as part of the second thing of the railroad.
+sutter: we need to improve our segmenter..
+cnn's john sutter asks loud if he can get some delay scores for a single document.
+sutter: "i'm i'm happy with the tables that we put into the deliverables" "i really do want to have tha observations being gathered throughout the weeks and not for the deadline".
+mhm is trying to train the a model on common voice.
+mhm's answer is definitely more datasets.
+mhm has sent an email to people asking about links to the data..
+cnn's john sutter wants to use the common voice for a baseline.
+but he thinks it would be too small for comparison purposes.
+sutter also wants to use some more frequently used datasets..
+i think the sooner i get started working on it the sooner i will be able to build the system.
+i'm actually also like to work on the non native speakers, uh, uh, of my thesis.
+i'm also thinking to do some non native speech, uh, as a part of the masters thesis..
+i'm more fan of the of the of the of the unintelligible> models.
+i will probably talk to [PERSON10] on monday or tuesday.
+i have a model for czech, german and english which works on youtube videos..
+i'm going to integrate it into the mediator and create one s simple start up script to increase control so anyone can use it.
+and then i'm going to analyze the asi dev unintelligible> data and then probably [PROJECT12] training or anything else.
+and one topic is missing.
+and that is the, uh, study.
+subtitler study where we are aiming towards [ORGANIZATION8] deadline..
+cnn's jarrett bellini looks at how to integrate multilingual models.
+he says it's not necessary to have multiple concurrent inputs.
+if it is a [PROJECT12]- uh, it is not [PROJECT12], uh, by having multiple concurrent inputs.
+bellini: if it's a [PROJECT9]- uh, it's not [PROJECT12], uh, by having multiple concurrent inputs .
+mhm: i don't think, it should deteriorate too much if it's uh, three languages.
+if you have good data for the language pair, then yes, it is better to go directly.
+but if your data is more available through english then it's better to go through english..

@@ -1,0 +1,32 @@
+cnn's john sutter talks with the head of particle division of the ORGANIZATION1.
+sutter: the technology is now only working technically.
+he says the critical required the video and subtitles or the slides to be on the same screen.
+sutter: if you don't speak [other2], then you probably prefer longer delay..
+cnn's john sutter talks with cnn's mike sutter about the surge project.
+sutter: "it's not good for videos obviously, but it's good for static slides" sutter: "we still need to organize the layout to provide subtitles next to either subtitles or the paragraph you next to the slides".
+cnn's john sutter asks if anyone can help with domain adaptation.
+sutter: "we need to provide all the forms of the same word, the same probability" sutter: "i would for simplicity assign all the words all these forms of the same word" sutter: "i'm unintelligible>, i'll double check".
+i'm not sure if you would have some files ready for the monday talk.
+i have unintelligible> mostly the work and the unintelligible> for LOCATION3.
+i'll get in touch with [PERSON5] and make sure that you can feed those files to him..
+voj worked on three different things this week.
+the first is a visualization of the sound from the microphone.
+the second is a javascript piece of code that can be included in any webpage even on a remote machine..
+cnn's jarrett bellini has been working on a machine translation model.
+he's working on a number that could be used to mark down loudness.
+he's also working on a number that could be used to mark down a number..
+i'm going to get it training today, and hopefully i will have some results.
+the problem is that this wasn't trained on [PROJECT5], so i had to do it just in unintelligible>, because of the tpu support.
+there is one for unintelligible> actually, that i could use it's called open neural network exchange format..
+PERSON10: we haven't collected, obtained any single number from our models.
+but we should get to that in two weeks of february at the latest.
+(PERSON10): it is, but it is trained like in [other4] centric way..
+PERSON8 is collecting monolingual data, and that means that we need to translate this to create synthetic parallel data.
+right now it isn't modeling unintelligible> some documentsunintelligible> available on parallel.
+if you have additional time, i will look at this, unintelligible>..
+cnn's john sutter talks with cnn's john sutter about his work this week.
+sutter is working on a segmenter worker for unintelligible> segmenter.
+sutter says he's not able to run the script to deploy their worker on the mediator..
+cnn's mike downey says he doesn't know what is more important.
+downey says he has a data ambassador who knows unintelligible> the most.
+downey says he's not sure if he's coming this week..

@@ -1,0 +1,7 @@
+Attendees: PERSON8, PERSON6, PERSON3, PERSON11, PERSON5
+
+ * we have a data set of very many Czech reference translations.
+ * Without [PERSON11], we cannot really proceed that much with other tasks, can we talk about the possible weekly meetings for the task?
+ * Let's leave it to [PERSON5], because he's the most busy person.
+ * [PERSON3]: I think, yeah, if I'm correct like we got the response or [PERSON12] already wrote an e-mail to the [ORGANIZATION3] people but they, didn't reply yet, right?
+ * Still we are waiting for the, [ORGANIZATION7] to actually do their part of the work and they have problems obviously to get, volunteers.

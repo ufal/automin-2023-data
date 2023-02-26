@@ -1,0 +1,29 @@
+
+účastníci: [PERSON9], [PERSON2], [PERSON8], [PERSON15]
+účel schůzky: udělat plán a stanovit deadliny na článek
+
+Shrnutí schůzky:
+-  hlavní cíl v tomto roce je splnění grantu
+-  je potřeba mít dva články v časopise, může být i PBML, aby byl splněný grant
+-  do konce roku musí být článek otištěný
+-  PBML je do 24. června
+-  jeden článek musí být v Tomsnu 
+-  TSD je termín 10. dubna, Itad termín květen, červen
+-  zatím je jeden TSD a jeden Itad a slíbené jsou tři
+-  jeden článek musí byt ve Skopusu
+-  rozbor článku EMNLP z minulého roku. Rozbor metod. Možnost napsání dvou článků. Jeden survey a druhý pokus. Víc by se to popsalo a vyhodnotilo
+ 
+-  bude se cílit na TSD na 10. dubna a Calling, který je 8. dubna
+-  EMNLP je 11. května
+-  Black box je 15. června
+-  knihu udělat nejlépe do května a pak upravovat
+-  rozdělení článků podlě kritérií do knihy. Každý si vezme svoji část. 
+-  seznam literatury rozdělit na embeddingy, kontextový embeddingy, attentiony
+-  minimálně by kniha měla mít 150 stránek, bude rozdělena na tři sekce
+-  knihu pojmout jako survey a přidat tam výsledky
+-  kniha se bude psát v angličtině a bude psáná trochu populárněji
+-  na úvod bude jedna sekce, co jsou neuronky, druhá sekce co je jazyk, a pak lingvistická část
+-  každý napíše osnovu
+-  kniha je na GitHubu, který je neveřejný
+-  instrukce na knihu: černobílá kniha, 200 stran, 100 výtisků 
+

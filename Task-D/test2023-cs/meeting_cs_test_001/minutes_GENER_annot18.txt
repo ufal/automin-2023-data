@@ -1,0 +1,31 @@
+Schůzka [OTHER1], 2020-03-03
+
+Přítomni: [PERSON1], [PERSON3], [PERSON9], [PERSON8]
+
+Na schůzce bylo probráno následující:
+• Deadline na kapitoly, podkapitoly, co tam bude a příp. odkazy na literaturu je 14. 3.
+• Příští meeting je v úterý 10. března v 11 hodin
+• Po nahrání literatury z dizertace překlopení literatury do Zotera
+• Long paper z mBERTového článku nebude, protože se nestihne, pošle se tedy až za měsíc na calling
+• [PERSON3] počká, až mu článek zamítnou na ACL, a pak ho pošle na calling, nebo se dá na Archive či na Black box
+• Rozpracovaný článek na EMNLP se dopíše, pak se rozhodne, kam se článek pošle, případně se může zapracovat do knihy
+• Příběhy do knihy už byly rozděleny na minulé schůzce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zápis sepsala: [ANNOTATOR1]

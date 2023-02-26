@@ -1,0 +1,28 @@
+Attendees: [PERSON4], [PERSON1], [PERSON9], [PERSON7], [Too]
+
+Summary:
+[PERSON4] have not heard from was his name , [PERSON2] yet . good to see [PERSON4] again , even , now moving as well . [Too] asked  bad for usit's like how much time do [PERSON7] have ? and then [PERSON4] are moving to Canada ,[PERSON9] would only say that once the vaccination drive starts , then only like [PERSON9] would like , consider of , moving to New Delhi for the visa and stuffs ,[PERSON4] asked  [PERSON4] are an afraid to go to New Delhi , right ? , , do not think that the matter has been solved by [PERSON9] still , getting the money . professor [PERSON4] , [PERSON9] think let [PERSON9] talk to [PERSON4] regarding this sometime [really] . he has doing it in a short period of time , like by his decision , but [PERSON4] support that , and the goal of the thesis is to develop the tool , which will help the annotations , but it is not to carry out the annotations , and not to polish the data and manage the process of deidentification . that's , that is the only thing that [PERSON4] can , think of . it is ok to know that , this word is possibly a named entity and no person has looked at it yet . and , people would and [PERSON7] would save this as HTML . it is this one , let [PERSON4] paste the link . but one thing is that [if [PERSON7] prepare] , , those HTML files , the annotators cannot edit them without opening them , in an editor . 
+
+[PERSON4] is open for [PERSON1]'s  suggestions . and that would be , this is a sentence with , [PERSON8]'s name . And [PERSON4] think that we have to present the full documents . 
+
+[PERSON1] think that uf , individual sentences does are not sufficient , because sometimes they are very short . 
+
+[PERSON1] asked  , do [PERSON7] think that , individual sentences would be sufficient ? [PERSON4] think that the bright yellow is for the maybe ones , that [PERSON7] have to decide . maybe let us do it like green , this is not a name , [with the] [PERSON8]'s name and , [PERSON3]'s name . 
+
+[PERSON4] very often come up with some overkill , . but [PERSON4] would like [PERSON7] to , continue with this , with this markup . And , [PERSON9] , [PERSON4] agree with [PERSON7] that we have to go for the Scientific Committee , do a challenge , with the Scientific Committee , we now need the web page to be completed , that we can put that into that email and ask the people , right ? And [PERSON9] also [ported] the website in the [[PROJECT1]] GitHub . 
+
+[PERSON4] have another call in 20 minutes . let us submit it , that is what [PERSON9] is saying . 
+
+[PERSON4] actually , [PERSON5] is not on this call . Whenever [PERSON9] will , get some time out of this [studios] , . 
+
+[PERSON1] will of how good , the annotation tool will look like . 
+
+[PERSON7] guess end of this week is good . And [PERSON4] is really , like he wants to have the sample data , at least some files , to be uploaded on the website as soon as possible . And [PERSON9] may want to talk a bit a few more minutes with [PERSON1] , regarding the , proposal . Maybe [PERSON1] [PERSON7] can also take a look . , as always , any person who is having a comorbidity , is susceptible , towards that . this is one of the reason , why [PERSON9] is not , [prefering] . 
+
+[PERSON9] is just waiting for that time . this is actually for the website , in the website , [PERSON9] won't , find this link . 
+
+[PERSON1] can , [PERSON9] should paste the new website link , and [PERSON9] think it is there . the , [PERSON1] see that these are requirements ,[PERSON1] have it already , almost . 
+
+[PERSON1] actually could put it there myself , sorry for that . and [PERSON9] replied  And , another thing is , like [PERSON9] will now , like [PERSON4] has some [suggestion] on the website , [PERSON9] will make it quickly and send it to him , that he can send it to the Scientific Committee , very quickly . 
+
+[PERSON1] a looking forward for that , [PERSON1] is really bad at this , organisational things . , [PERSON1] miss this actually normal English words . But [PERSON1] did not write [PERSON1] did not write here . then , [PERSON1] , maybe we can , catch up tomorrow ? And , by then , by then let [PERSON9] finish the pending . But , let us contact anytime if [PERSON1] need something .

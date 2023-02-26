@@ -1,0 +1,31 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON12, PERSON20, PERSON9, PERSON3, PERSON3, PERSON19
+
+
+SUMMARY-
+ -PERSON20 and PERSON8 are worried about the pandemic in India and the Czech Republic.
+  There are many cases of people not reporting their illness.
+  They are going to talk about the data set and the consents today.
+ -PERSON9 and PERSON12 discuss named entity recognition model for Czech.
+ -PERSON12 and PERSON9 discuss how to change the names of the speakers to keep the information that they changed.
+ -PERSON12 will send a link to the meeting to PERSON3, who will join the meeting.
+ -PERSON12 is unsure about the grey cases for named entities.
+ -PERSON3 and PERSON9 agree on the two step manual annotation.
+ -PERSON12, PERSON3 and PERSON20 are discussing how to improve the interface for annotators.
+ -PERSON12 and PERSON3 are discussing the naming of named entities.
+  They agree that name tags is too fine grained for their purpose.
+ -PERSON9 will use named entity recognition for English meetings and the same thing for Czech meetings.
+ -PERSON9 and PERSON3 are discussing what to do about the unique words.
+ -PERSON12, PERSON9, PERSON3 and PERSON18 are discussing how to anonymize transcripts.
+ -PERSON9 is going to use python hashing to create a hash.
+ -PERSON3 advises him to use MT five sum.
+ -PERSON20 wants him to transfer the tool for that to PERSON20.
+ -PERSON15 is in Slovakia, but he can come to LOCATION1 soon.
+ -PERSON12, PERSON3, PERSON9, PERSON20 and PERSON19 are going to take a leave today.
+  They will work as annotators and evaluators.
+ -PERSON12 wants PERSON19 and PERSON20 to choose the meetings and send them to PERSON3, who wants it done within this week.
+  The task is to annotate and then evaluate the minutes of the meetings.
+ -PERSON12 wants PERSON3 to explain to him how many transcripts he wants them to read and to create minutes from.
+
+
+Minuted by: Team ABC

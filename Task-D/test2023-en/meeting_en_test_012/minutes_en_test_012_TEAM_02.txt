@@ -1,0 +1,81 @@
+czech republic has almost one hundred thousand new cases of pandemic every day.
+it's already rising in czech republic.
+it's - the situation is very bad.
+people are afraid that a healthy person would get unintelligible> if - (PERSON12) the next day the groom died..
+immediately after the day of the marriage the groom died and there was further event and almost three hundred people got infected in one single event.
+(PERSON20) and even the family members did not report of authorities and that the did the last rights.
+(PERSON20) yes, yes.
+(PERSON20) yes.
+(PERSON20) yes.
+(PERSON20) yes.
+(PERSON20) yes.
+(PERSON20) yes.
+(PERSON20) yes.
+(PERSON20) yes.
+(PERSON20) yes.
+(PERSON20) yes.
+(PERSON20) yes.
+(PERSON20) yes.
+czech people use the same common nouns as english people.
+they are not repeating and not all of them are repeating.
+if we use a name entity recognition model for english meetings, we will get the names for the czech part of msd meetings and for [PROJECT1] meetings.
+but these are only czech ones and eh and these are very qualitative meetings that is very good to use..
+i can do this myself, but if there's annotators they can do it as well.
+we can remove some of them automatically.
+i actually see that some of them are just - (PERSON12) unrecognized.
+unrecognized.
+but still it is recognized that the speaker is has changed..
+the only thing that could be re- re- eh, possibly kept is [PERSON3] because he is talking about eighty percent of the meeting.
+if you ask if you unintelligible> it will be good.
+(PERSON9) yes, it's exactly that in the meetings..
+there is not possible that any proper noun end with dash.
+if the word didn't finish.
+it means that it appeals no information.
+if the word didn't finish.
+it means that it appeals no information..
+gdpr has been struggling with the eh grey cases for named entities.
+i think that all the named entities have to be located automatically.
+i would go for eh word, eh token eh, decision for these cases..
+there are things where you know, they are clear names.
+if you use mt five sum and then first five, uh, characters of that, or something like that, you will have eh id which doesn't allow you to reconstruct the name entity.
+if you use mt five sum and then first five, uh, characters of that, or something like that, you will have id which doesn't allow you to reconstruct the name entity..
+annotators should be able to recognize names and know what are not names.
+they should add a letter at the beginning, which says, like name, not a name, eh so name, word, and question mark.
+switzerland will also be anonymized.
+if we have one country in transcript and another in minutes? so it should be standard..
+just annotators get the task to eh, mark all proper names the eh eh treat as proper names.
+so uh, we do not we do not exclude any proper names, uh.
+is tuesday named entity? so should we also change that?.
+if eh it appears to be quite eh, serious task for annotators.
+they should learn a little bit the system of abbreviation of named tag and use them.
+if you find a table which lists the named entity types, send it to these annotators..
+i will eh use named entity recognition for czech meetings.
+this in the first phase separately name tag will pre-annotate this list.
+if it's a person's name that will immediately make me make all occurrences as the confirmed eh eh anonymized person's name.
+what is not a named entity that will again be labeled in the whole corpus as a not a named entity..
+the easiest way of doing this is that you are extracting these lines, and while you are doing so you are immediately eh replacing them with like suspected named entity number fourty three, fourty four, fourty five and and and so on.
+and this would be the number of li- the the line number in this in this corpus.
+and at the word token level it was decided it is not a named entity..
+if the named entity recognizer make guess it's right, it becomes actually a grey thing.
+if the annotator did decide that mog can not be a name, then mog will survive in the in the transcripts and.
+if he decide it cannot be a name, then mog will survive in the in the in the transcripts and.
+if he decides it cannot be a name, then mog will survive in the in the token level annotation..
+ideally, we would anonymize it the same way, as the name was anonymized in transcript sometimes we don't know this.
+so i suggest that we use angle brackets.
+and it would be something like speaker, id equals and then in eh quotes the the anonymized version of [PERSON3] we must provide a table for the speakers.
+and then for each one we must map them to specific eh name.
+and then we use abbreviation for that name..
+it's okay to use python hashing, but if we use python hashing it would be reversable.
+all these changs are misunderstandings in the transcript.
+it's not too common that the uh, well there is also this chang but that's a misunderstanding actually..
+i think that he should be more responsive to emails.
+[PERSON15] is starting his phd.
+which is on speech recognition.
+i would like to very much limit his involvement in the minuting and the tool..
+two people will do some test annotation two people will do a test evauation of these summaries.
+everybody will take notes and write down what was the most problematic thing.
+everybody who is participating will learn so much about the task that we want to do, that then they will be in much better position to actually do the task..
+i think you already did it.
+i think you already did it.
+but also choose the number of meetings and eh send us the minutes.
+i don't understand why do we like again do the minutes since the minutes are already there?.

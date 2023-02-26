@@ -1,0 +1,99 @@
+Summary:
+
+* PERSON5 is collecting various meetings. 
+  - Fact: The call is being recorded and they would like to release it publicly. 
+  - Disc: They will send a link to google form, where people will fill in what they agree to be used and specify the limit, which they require to be. 
+* PERSON5 wants to collect credits for the Surge 2020 organization. He wants to organize weekly meetings on Thursday until the end of exam period. 
+  - Disc: The purpose of the meetings is for everybody to say what they are working on, and what they have in mind for the upcoming weeks. 
+  - Disc: The most important document is the PROJECT2 <unintelligible> topics. 
+    -- Fact: The second document is a google sheet with all the things that that you have done. 
+* PERSON8 has been transcribing YouTube videos since last week. The English transcriptions are done and he can confirm that the people remotely present have understood at least something. 
+  - Disc: He plans to do it again next week as well. 
+  - Fact: PERSON5 and PERSON10 have already done it. 
+* PERSON8 spent the weekend preparing the transcript for the Monday seminar and getting the ASR. He also did a voice domain adaptation and a talk adaptation and substituting the common words in the dictionary. The text adaptation was not done properly. 
+* He needs to recollect again. 
+* The next task is to prepare the EnglishEnglish segmenter. 
+* PERSON8 observed some terrible scores on one form, which is the period, so he needs to focus on the next task first. 
+* PERSON8 needs to integrate the audio compression on YouTube videos and progress more on the 36 36 empty models and doc translation. He also needs to spend more time on integrating office additions from PERSON4 and text additions from person #23 and work on the work of person #15. 
+* PERSON5 wants to know what to do with the English 36 models. 
+  - Fact: There was no documentation for the models and it's been hard to use them. 
+  - Fact: He's been given instructions and he's been following them. 
+* The work is not duplicated, so he needs to be careful. 
+* PERSON5 and PERSON8 need to synchronize on the launching of the models. 
+  -- Fact: PERSON3 successfully managed to run the models and he is developing. 
+  - Disc: He is using the models for the paraphrasing. 
+* PERSON8 should pick up his hand to give them one medium. 
+* PERSON4 downloaded 1.7 terabytes of audios and videos interpreting in 22 languages from parliament since July 2018. He is not doing any further work from this material. He asked the webmasters to create a feature for mass mass downloading. They haven't responded yet. 
+* PERSON4 is starting the meetings for the ORGANIZATION1 event. 
+  - Disc: The data that he has gathered would be used to retrain the ASR models, which is important for the event. The data collected by PERSON4 will be used for the training the models. 
+* PERSON6 is on the call, but he has some problems with hear-to-hear issues. 
+  - Fact: The data from the training of the models can be used for all the models, that we are training ourselves and to talk to others to train their models better. 
+* They need to be included in the surge. 
+* PERSON5's and PERSON4's main goal until the Feb 6th deadline is to experiment with multiple <other_noise> translation. If it works, it will be used directly in the surge afterwards. There will be a requirement for PERSON8 to have the pipelines ready. 
+* PERSON4 has started to do the binding worker for automatic speech recognition and mediator. 
+  - Disc: JASPER and Kaldi will be connected to the mediator as well, so they won't need to connect them separately. PERSON5 will do it as well. 
+* PERSON9 was working on the PROJECT1 this week. 
+  - Disc: He doesn't know the efficiency of the project. He is waiting for the data from the project to be tested. The project has not been updated yet. 
+  - Fact: The project is called PROJECT1. 
+* PERSON5 wants to know how much audio compression is possible. PERSON8 didn't have time to test the compression, because he was busy preparing for the Monday seminar. 
+* He will probably come to the seminar in 1 or 2 days and share the statistics with the others. 
+* PERSON5 suggests to tell PERSON9 how to run it so that he could connect to the mediator and test it himself. 
+* He also suggests that he should check out the crews control from his laptop and do the set up from there. 
+* PERSON8, PERSON5 and PERSON9 are going to do a compressed pipeline and again check the word error rate. PERSON8 will instruct all these to PERSON9, so that she runs the compressed pipeline for them and they will see how it goes. 
+* PERSON5 wants to have a meeting without a mediator, but it's not possible for PERSON9 because he's not involved in the conversation. 
+  -- Disc: He's not able to do it either, because he doesn't want to be involved at all. 
+* PERSON5 and PERSON8 are going to do it via the mediator. They will start with this one only, because it's more important for the mediators to handle it that way, and they need to start with it this time only. 
+* PERSON5 wants to know if the money from the surge is going to directly help the ORGANIZATION1 Congress. 
+  -- Disc: It's not for not for the Congress, it's for the other purpose, as PERSON5 explains. 
+* There is a list of wanted things in the document of Monday's test. 
+  - Disc: If the compression is not really effecting the ASR output, that should be a good thing. If you don't have any immediate thing to try, then have a look at the list and tell me which topic you would like to work on. 
+* PERSON2 is working on the framework or test set for evaluation of simultaneous translation. There was a problem of segmentation when calculating the delay, BLEU score and <unintelligible> all of them. 
+  - Disc: Now, he proposes a new idea of using a segmenter based on time and a delay based on MWAR. 
+* PERSON5 is running a shared task at IWSLST to help PROJECT2 in the ORGANIZATION1 Congress. 
+* He wants to use the evaluation script of PERSON2 to be used in this surge. 
+  -- Fact: He also wants regular measurements of the ASR, end-to-end, quality, delay, delay and flicker in the systems integrated. 
+* He needs help from three people, one of whom is in India until the end of January, and one who is arriving in early February. 
+* PERSON12 worked on data collection to find the data of 42 languages especially for monolingual languages. He has already shared with with PERSON5,   PERSON10, and  PERSON9, and has sent it to <unintelligible>. 
+* There are 22 languages data available in the one link, but one of them is not recognisable to the human ear. 
+  - Disc: It's like a monolingual speech. 
+  - Fact: The other one is recognisable, but not the other one. 
+* PERSON12 sent a link to an auditors web site in 42 different languages. It's a European version of the auditors' website. 
+  - Disc: He doesn't know the name of the site. 
+  - Fact: He also doesn't understand the link he sent to PERSON5 and PERSON5. 
+* PERSON12 and PERSON5 are looking for someone to edit the data. 
+* They need to download all the PDF documents in 7 languages. They also need to synchronize on the thing tools. 
+* PERSON12, PERSON5 and PERSON12 need to convert all the file formats. 
+* PERSON5 wants to know how to convert files from random file formats to the sentence oriented plain text. 
+  -- Fact: It's not for PERSON5, it's for PERSON12. 
+  - Disc: They use different tools, but the underlying tools would be the same for both of them. 
+* PERSON5 wants to know which of the tools is easy to use and produces good results. 
+* He wants to be in touch with PERSON12 and make sure they use the best tool. 
+  -- Fact: The most of the tool like G- or for German is working fine for PERSON12. 
+* PERSON5 and PERSON12 need information from PERSON10 to help them with their bachelor thesis. 
+  - Disc: PERSON10's job is to have an overview of all the data, we use for for the ORGANIZATION1 Congress, to integrate it and to create test sets. 
+* PERSON5 and PERSON10 are working on the IWSLT test set, that's spoken language translation from English into two languages of their interest only: Czech and German. 
+  - Disc: They would like to run the regular evaluation of the test sets. 
+* PERSON5 wants PERSON10 to collect the numbers and the actual outputs of the system and do sanity check of of the <unintelligible> as well. 
+  -- Fact: PERSON6 has already done the forced alignment on the tool. 
+* PERSON6 is working on onlinezation of his ASR because he has problems with transcribing. 
+  - Fact: He is using Python environment and Pytorch environment to run his models in a cluster. There is a demo and README for running the ASR in this environment. 
+* PERSON5 and PERSON13 are running out of time. They are going to implement a back translation in the next week, so they are running on the same time as they were 5 minutes ago, when they were already 5 minutes late. 
+* PERSON5 is working on English to Czech languages. 
+* He needs to gather better models for all the ASR languages to- to the English. He also needs to find tune systems to be deployed by Wednesday, even if it's not feasible, to to deploy it by Wednesday. 
+* PERSON5 wants to improve the Czech to English system for PROJECT1. The current plan for the current of the system is to use both Czech and English. 
+  - Disc: The solution is to replace the current plan with the one developed by PERSON1 and improve BLEU by one decimal point. 
+* PERSON5 needs to know which data set to use for Czech to English translation is the best. 
+  -- Reference: He asks PERSON8 and PERSON8 to process the dry run of the talk of PERSON1 in preparation for Wednesday and convert it to the correct format. 
+* PERSON5 wants to get in touch with PERSON4 to let him know which model is the transformer and which project is the PROJECT1 by PERSON1 and which one is PROJECT20 with the missing letters in it. 
+  - Fact: PERSON8 has sent a file to PERSON5. 
+* PERSON5 and PERSON4 will fine tune the system on Tuesday. On Wednesday morning, they will decide which one to deploy for the event. The project could be PROJECT1, finetuned on the parallel data, that they will create by back translation or find other parallel data in the domain of competition linguistics. 
+* PERSON8, PERSON4 and PERSON5 are going to listen to a recording of PERSON1's talk. The source audio is from a recording that PERSON5 has done with PERSON1 recently and is called ‘Path’. 
+* PERSON5, PERSON8 and PERSON4 will meet on Thursday and on Wednesday next week. PERSON2 is available next week and wants to use some in-domain data from European data to train the segmenter, like English and Czech segmenter. 
+* PERSON2 and PERSON8 have no further questions and no further comments. They say good night to each other and wish each other good night. The conversation has already ended. PERSON5 and PERSON2 are laughing at something that happened. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

@@ -1,0 +1,16 @@
+-: We have to identify in fact, how the final platform for the delivery of the translation of the text, but the ehmm, text speech.
+-(PERSON3): parallel_talk> Hm hm hm, other_noise> /parallel_speaker> (PERSON3) will create a task package 7 in integration and this task should have some like many more person month by [ORGANIZATION4].
+-(PERSON3): Okay, we have the agenda and the task and (deliverables) of the main (ORGANIZATION9] congress and other related events.
+-(PERSON3): We've understood from your colleagues that there will be four events in total one of them being longer one that will probably be easy to accomplish.
+-(PERSON3): Okay, we have a single task (ORGANIZATION4 events) for this event. : We have a task (or events) to answer.
+-(PERSON3): Okay, let's make this one task for [ORGANIZATION4] events and then in the task description, we will say that we plan have a dry run, main and then two follow ups.
+-(PERSON3): What is the acoustic model for the language?, : What's the point of this model,? - (PERSON3): How much of the model is mandatory?
+-(PERSON3): To have an adaptation model for ehh, we need just the person and a proper device record voice, (PERSON3).
+-: Okay and eeh most important for also for the adaptation is also have transcription of these which - (PERSON3): yes, transcription data for this.
+-Re-speaking sessions: This is the most important part of the adaptation of the speech in order to be able to model not only the voice but also the way it is.
+-: We will have to get all of the emm all of audio from emm equipment and send this audio to the engines decide if remotely or locally in during the [ORGANIZATION9] and conference.
+-(PERSON): What is the hardware for publishing services service : Basically for publishing books and other things like that, of course, there is also the software.
+-(PERSON3): Hello, this is my side of the integration work package, but from my side.
+-(PERSON3): This is where your involvement could also raise in our (submitting) there and the integration with publishing platform, probably something, which will be mainly [ORGANIZATION right?
+-(PERSON3): Do we need to create a report layout in integration work package 1?.
+-: What we pack into the deliverables and we had some reports that we wrote, that we had a prototype a couple of months before the end of the project allow integration of it as well.

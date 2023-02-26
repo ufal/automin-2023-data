@@ -1,0 +1,6 @@
+Attendees: PERSON2, PERSON5, PERSON10, PERSON1, PERSON6
+
+ * [PERSON6]: Right I guess with paraphrasing or if we use it for example for paraphrasing, we might use the metric to estimate the sim– simil– like semantic similarity, but still have the constraints to enforce some like surc– surface form.
+ * [PERSON6]: Still, I guess the metric can be useful during the, let's say, some fine–tuning or development phase.
+ * [PERSON6]: I'll try to ask [PERSON1]and we should try to have a meeting for the task next week together with him.
+ * We'll see, we will see how much time it will take, depending on the time consumption, we can then shift to additional or another research direction.

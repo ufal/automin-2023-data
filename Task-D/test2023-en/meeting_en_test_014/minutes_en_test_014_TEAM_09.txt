@@ -1,0 +1,145 @@
+(PERSON5) Oh, hi [PERSON8] so, yeah.(PERSON5) 1, 2, 3, 4 there was the pin, but it's also your net <unintelligible>.(PERSON8) <laugh> okay, I'll fix that <unintelligible>.(PERSON5) That's okay, I like it, it's fine.(PERSON5) The recording has already started, as I see.(PERSON8) Okay, okay.(PERSON5) And I see [PERSON6] is on the call as well.(PERSON9) I can hear you guys properly, but lower clear, but -
+(PERSON5) Yeah, [PERSON6] is guess I don't know what <unintelligible>
+<another-language>
+(PERSON9) He should be there.(PERSON9) Yeah, I cannot see you, but I can hear you.(PERSON5) So the connection is too slow perhaps because I 'm probably -
+Or maybe I'm not sharing the camera.(PERSON8) Yeah
+(PERSON5) I'll switch off the camera just to save bandwidth, camera off.And there is -
+Okay, there is also [PERSON7].So I hope that all okay with that been recorded and
+and actually we would like to release this publicly,
+but with some delay of like this is a so this is not longer interesting.And there is a good point,
+we will send you a link to google form, where you will fill in, that you agree, what this <unintelligible> to be used and there you can specify the limit,what <unintelligible>would like this-which you require to be,
+em, to be followed before the data is released.Next week it should be on Thursdayand then until the end of exam period it would be Thursdays
+and then we will vote all again, what is the best day.The purpose of these meetings is for everybody to say,what they are working on,
+and what they have in mind for the upcoming weeks,
+and the reason is for me to collect this credits.(PERSON4) Well, I am on the call,but I have a lot of problem understanding you so.(PERSON5) Yes, I'm talking too fast I guessand the microphone is not perfect.So the point of the call is to make sure,that people know, what others are doing,
+and they nicely, well like a collaborate, in the sense that no work is done twice.So we have now, also [PERSON10] here, he is going to -
+(PERSON10) Bring a chair.And so the -
+So, the -
+So right now,I would like everybody to go like one by one and summarize in a minute or 2,
+what you have been working on this week.So after we do this summary of activities,there are being worked on, or finalized,
+then we can spend the rest of the the half hour for planning,
+what is the most important next thingand who would like to pick up for.So there is the again, university open day, next Wednesday,
+for which we are doing domain adaptationand then there will be on the 12th of February a dry run of the workshop,that we are going to give for the [ORGANIZATION1] congress.5 colleagues at least from [ORGANIZATION7], going to the [ORGANIZATION5] officesand presenting these NLP technologies.In the sense -
+so, so after [PERSON1]'s tool,the next occasion to test things is the- is this English given presentations of the tools.And there will be the final session on on the Congress,or at the Congress.Then quickly in the the semester, the Monday seminars will start again.So I don't know, maybe we should just follow in a circle.So t- the important thing is,whether the people remotely present,
+can confirm, that they've understood at least something.(PERSON8) Yes, so, I can confirm, that I've understood everything, what [PERSON5] said and I write them.Okay, So, last week, I started do transcribing the YouTube videos.And the Czech I I'll do like today, or I'll start it tomorrow.And also into getting the [PERSON6]'s ASR, followed by segmenter.And I also did a voice domain adaptation and <unintelligible> domain adaptation
+and talk adaptation and speaking of the words.And the next task, which I need to focus on is the
+Because I observed some terrible <unintelligible> scores onone form, which is the period.So I need to focus more on sentence, boundary detection on both English and Czech segmenter.Things I need to do, is in-coming days, integrate [PERSON9]'s audio compression on these YouTube videos.And progress more on the[PERSON3] 36 36 empty models and doc translation, and basically like <unintelligible> that [PERSON12]
+so that the work is not duplicated again, as more on their size.And, yeah, and spend more time on integrating <unintelligible> office <unintelligible> and text additions from [PERSON4].I've been would hope to going their have been some hard to use the them.So he sent me some instructions and I've been to follow that.Yeah, so,<unintelligible>
+I've to be <unintelligible> that the work is not duplicated.Okay, so, your goal is to get [ORGANIZATION4] models used in our pipelines.(PERSON8) Yeah
+(PERSON5) Yeah, okay.And there is one more person to synchronize on what the launching of these models
+and that's [PERSON3].(PERSON5) [PERSON3] successfully managed to run these models,and he is developing.(PERSON5) Yeah, yeah, yeah.(PERSON8) Or or maybe our <unintelligible>.(PERSON8) Thank you, okay.And I'm trying to do your part, and I'm downloading all of plenary session from your parliament since July 2018.And I I was mailing  with your webmasters, cause they were complaining, that I used there website too much.(PERSON5) <laugh>
+(PERSON4) And they suggested, that they they implement a feature for mass mass downloading.And I I asked them to to enable to create such corpora, together with with transcriptions and interpretations 
+and I don't have any -
+(PERSON5) <unintelligible> response.So I don't feel I even this, but will be <unintelligible>.And I bring it for English and German into Czech.(PERSON5) Yeah, so.(PERSON5) Yeah, so, this meetings are especially for the [ORGANIZATION1] event.(PERSON5) So what you have described, can very much help that
+because all the data that you have gathered, would be used to retrain the ASR models.(PERSON6) Yeah, I somehow managed to get here, but I have some problems with with hear to hear you.(PERSON5) Yes, so, it depends where I am if I 'm on the correct side of the microphone, or not perhaps, as well.So so the the data that [PERSON4] mentioned, these can be used for all the models, that we are training ourselves
+and which also like talk to others, [ORGANIZATION8] to train their models better.But [PERSON4]'s main goal until the Feb 6th deadline is to experiment with multiple <other_noise> translation.And if this is successful, if we see an improvement from the additional sources,
+then this is something, which we would directly use in the surge afterwards.So that -
+We have process multi-source and create English by integrating the many sources.So this is until this  until this until we choose some us- some utility,
+we do not consider it a requirement, or we are not planning to to run multi-source translation at the event.(PERSON4) My last part is that I started to do the binding worker for automatic speech recognition and mediator.So we can connect JASPER and and  Kaldi to mediator.(PERSON9) So I've already collaborate <unintelligible> with [PERSON8] for the compression thing.So I except that I was working on the like the [PROJECT1] thing, trying to clear on with it.So [PERSON8], can you tell us, h- how -
+If you manage to test the compression, that hopefully was somehow proposed by [PERSON9].(PERSON8) So [PERSON9] has differently updated me the <unintelligible> the compression, and but I am -
+I was unable -
+I didn't find time to deal it with the current- my current pipeline.And audio compression was not on me  focus for the Monday.(PERSON8) Come up with <unintelligible> compression.(PERSON5) So another option would be to tell [PERSON9], how to run it.So that [PERSON9] could connect to the mediator and test it test it himself.So if that would be easier for you,
+instead of evaluating it for [PERSON9] to update a review that works for some of the setups
+[PERSON9] [PERSON9] would check out the crews control, do the set up from his laptop and connect to his laptop,
+with his laptop connected to wired connection  and evaluating the the ASR quality with compression, or without compression
+That's another option.So what I am going to do next, is that we can take a- any of the Monday seminar revised transcript 
+and we can to take that as a test set,
+and we can do as uncompressed and check the word error rate,
+and  we can do a compressed pipeline and again check the word error rate
+and let's see, how it goes, so here we got some propose.But what what I'm proposing is, that not you, but [PERSON9] would do this.(PERSON8) Yeah, exactly, [PERSON9] [PERSON9] exactly, yeah.So I I 'm going to instruct all these to [PERSON9], yeah.(PERSON5) Yeah, so that [PERSON9] runs this.That is -
+(PERSON8) Okay, okay.(PERSON5) That is not possible for the - 
+No, no, no it is not possible for [PERSON9] to do because he - 
+(PERSON8) Yeah, exactly <unintelligible> yeah.(PERSON5) <unintelligible> systems.(PERSON5) A thing, that [PERSON9] was talking about -
+(PERSON9) <unintelligible> to collaborate with [PERSON4] and what we did.It's not for not for the [ORGANIZATION1] Congress.(PERSON5) Okay, so it's there anything in your plans from the surge,
+like what is going to directly help the [ORGANIZATION1] Congress?(PERSON9) As of know I'll be ready to interest like  for example, the compression
+because the bandwidth is, an issue there.So for example, if the compression is not really effecting  the ASR output that that should be a really good thing.(PERSON5) I meant in the in the document of Monday test, there is a list of wanted things.(PERSON5) So if you don't have any any immediate thing to try, then have a look
+and tell me, which which topic you would like to work  on.(PERSON2) Okay, so now, I'm working on the framework or for example test set for evaluation of simultaneous translation.I know, into the end yesterday, maybe no one account working on because we had a problem of segmentation.As you know, for example the segmentation in the difference part, could should shouldn't necessary - 
+Is the same as the segmentation.And the shared task, that we are running at IWSLT is directly aimed to help [PROJECT2] in the [ORGANIZATION1] Congress.The evaluation script of [PERSON2] to be used in this surge, in this in this gradual improvement of our systems.I would like [PERSON2] and [PERSON8] to get directly in in contact.And [PERSON8] to provide [PERSON2] with some output files as transcribed <other_unrecognisable speech="">
+And the reference transcripts, so that you can test the tool.And I would like regularly to have like measurements of the ASR, end-to-end, quality, delay, and flicker.In the- on the systems, that are integrated <unintelligible>.So that is that is the immediate help,
+that that your work will will provide to the to the [ORGANIZATION1] Congress.(PERSON2) Okay, it will be -
+(PERSON5) Yeah, so [PERSON8] is [PERSON8] is in India until end of January, is arriving in early February.(PERSON2) Just we have some intermediate data to test our framework, 
+ and it's our papers, so we have it before that.Yes, it's could be caused after start, which and I can have a- <unintelligible> which can I have a meeting with [PERSON8],
+and we can test everything <unintelligible> so.(PERSON5) Yeah, okay.(PERSON8) Can [PERSON2] and all of <unintelligible>?(PERSON12) <laugh> in the la -
+In this weekend, last week, I worked on data collection to find the data,
+where is labeled of <unintelligible> 42 languages especially  for monolingual languages.In the one link is <unintelligible> in the one link 22 languages data available.It's like a monolingual.<other_unrecognisable speech="">
+So neither  do I <unintelligible>.(PERSON12) It' a <unintelligible> the name of this <unintelligible>.(PERSON5) You know something about some excel, that you sent to us?<other_unrecognisable speech=""> 
+<other_noise>
+(PERSON12) <other_unrecognisable speech="">
+So maybe, maybe it's <unintelligible> anyone so we can edit.That so google is not sharing the properly -
+(PERSON12) Okay, so I'm hoping <unintelligible>.(PERSON12) <other_unrecognisable speech="">
+<other_noise>
+So, okay.(PERSON5) Yes so so you are scanning the websites.And maybe others  list it in the Google sheet.I have also searched the parallel data that I ignored the <unintelligible>
+because most of the data is available <unintelligible> of the other six languages.And we had 7 languages so -
+(PERSON5) The Italian is not -
+(PERSON12) Yeah, Italian is not included, so I exclude Italian.So German, French, Spanish, English, Czech.And so it is already mentioned,  but we need to download all the PDF documents.(PERSON5) Yeah, so I think, now it is very important,
+that you and [PERSON12] will synchronize on the thing tools
+because both's you and [PERSON12] need to convert all the many file formats,
+especially PDFs, that are hard to process <unintelligible>.And if it's parallel text, then -
+That's that is not for you [PERSON7], but that would be for [PERSON12] to aline in that <unintelligible> more sentences and so on.You needs it differently, like the way [PERSON7] needs it is for smaller sets of files
+and more or less interactively.The way [PERSON12] needs it is is to have it parallelizable on the on the cluster,
+so that you can process a huge collections of files.[PERSON7] and I don't know, what [PERSON12] use -
+(PERSON12) I use <unintelligible> for this <unintelligible>.(PERSON5)Yeah, I don't I don't -
+So so yes, so simply -
+(PERSON12) I've been- I have already sent two PDF files -
+(PERSON5) Uhm.Which of the tools is  is easy to use and produces good results?(PERSON12) <laugh> 
+Yeah because the most of the tool like G- or for German, <unintelligible> is working fine.(PERSON12) And work the for <unintelligible> gives really bad <unintelligible>.So I think we can use different tool like every word is a word <unintelligible> can works PDF <unintelligible>.(PERSON12) Yes -
+(PERSON5) All they can be run -
+(PERSON12) And anyone -
+(PERSON5) Yeah, yeah, okay, that's good.So [PERSON7], please, confirm again, that the voice was good, that you understood us.(PERSON4) Well, I understood only a part of thing, 
+but I will get in touch with [PERSON12] and whatever is needed.Yeah, it's it's not only needed, it is it's that what [PERSON12] knows, can help you with your bachelor thesis.(PERSON4) <laugh>
+(PERSON5) Okay, thank you.So my job's to to have an overview of all the data, we use for for the [ORGANIZATION1] Congress.<unintelligible> I have list the whole that all things and I will- I have do a store on the cluster.So basically, I've I've done <unintelligible> part cluster overview.And I also worked with with people, which do do the manual work,
+or for example creating transcription, translations, or the stuff.So I am reworking with them giving them tasks to do and <unintelligible> them, hiring them.Not in this thing yet, but later, when -
+So so right now [PERSON10] is mainly working on the IWSLT test set, 
+or test set  and <unintelligible> that we have to released.And these IWSLT, that's spoken language translation from English into two  languages of our interest only.And beyond that, [PERSON10] will be also supervising and knowing,
+where the pits are for the old language pairs and translation directions,
+that we want for the [ORGANIZATION1] Congress.So that's, what I was telling earlier,
+that [PERSON8] should regularly process the test sets with pipelines
+and use the evaluation tool by E- [PERSON2].So by this -
+It - 
+So [PERSON10] should be collecting, not only the numbers, but the actual outputs of the system.And doing sanity check of of of the <unintelligible> as well.(PERSON6) Yeah, hi, <other_throat clearing="">
+I've done I've done the forced alignment.It's the- on the- it's in the repository, in the cruise control, on the -
+<another-language> in the in the folder [ORGANIZATION3] Jasper ASR.So there's a demo and and some README, which you can check and you can run my ASR.And there is- there is also information about- where the - 
+where the actual installation is in the cluster
+because you have- you have to use custom environment,
+Python  environment and Pytorch environment to run my models.And now, I 'm working on on onlinezation of my ASR
+because as as you may know, I have problems with with transcribing,
+the running window, which cuts the words in the middle
+and then the then the language model does strange things,
+to to the all words in the whole trans- transcription.We were we were 5 minutes -
+(PERSON13) <unintelligible> working- I working back translation.(PERSON13) <unintelligible> so we are (running) same -
+We are going to plan and we are going to implement a back translation in the next week.<unintelligible> So after collecting a data, or before, we can run that and -
+Before, like- okay.(PERSON5) So well, back trans - 
+There is multiple occasions, on which we can we can use these systems.Even if it's not feasible, to to deploy it by Wednesday,
+we need to gather these better models, where the weeks for all the languages.So ASR all ASR languages to- to the English.So all the 6, or 7 ASR languages to the English and then from English into all the target languages.So I think, it's to use the the Wednesday opportunity to have better [PROJECT1] systems as as a good thing.So but there -
+Well, I'm telling bet- I'm telling b- saying better [PROJECT1] systems.(PERSON5) So what is the current status of  Czech to English?() I can reshare this in one day to be f- well, fix the missing characters and improves BLEU by one point.(PERSON5)  One decimal point.So so right now, in the pipeline we use Czech to English by [PERSON1].(PERSON5) Yeah, so which did we- which one did we use a last week for, or - ?We have only  the transcript we don't have the translation.(PERSON8) <laugh>
+(PERSON5) So well, I think, that simply obtain that.Lets lets do it, lets do just -
+(PERSON8) Or <unintelligible> just thing convert to <unintelligible> systems.So please, [PERSON8], in preparation for Wednesday, 
+please, process  [PERSON1]'s dry run of the talk.On Monday, we'll interest in in like models, that do text translation, 
+we will interested in, what is integrated in our speech processing pipeline.It will be the transformer by [PERSON1], it will be the [PROJECT1] by [PERSON4].It could be [PROJECT1] by [PERSON4], finetuned on the parallel data, that we will create by back translation, 
+or maybe we find other parallel data in the domain of competition linguistics.So I think, that on for example for example on Monday, 
+[PERSON8], you could evaluate the existing systems 
+and well, I evaluate, I mean, you run them and have the outputs.And on Tuesday, [PERSON4] could <other_noise> fine tune the system.And on Wednesday morning, we will decide, whether to d - 
+which one to deploy for for the event.So one question, do we have some own data on [PERSON1]'s talk?(PERSON5) We have a source audio, that's the one, that that's [PERSON11] -
+It's it's -
+I can say you'd path, but I think you you must have the path.It's the recording, that I have done with [PERSON1] recently.There is in the domain adaptation 2020 January 29, 
+[PERSON1] <other_noise> there should be there, there is the audio,
+and there is the transcript, and [PERSON11] has corrected the transcript manually.<other_unrecognisable speech="">
+(PERSON8) Okay, okay, okay.(PERSON8) No, I - 
+I I I I haven't I actually have have I haven't open the access <unintelligible>.(PERSON5) Yes, okay.(PERSON8) So far I- I followed this so and I'm I'm <unintelligible> probably something to progress so.So I 'm the a -
+At least, and maybe it is not totally <unintelligible> of you, but it's clearing my head,
+what we should should try with the -
+<unintelligible> translation before this Wednesday.<parallel_talk>
+Okay, So I think, that's- we are 12 minutes beyond out time, let's stop it now.(PERSON8) So- Sorry, to interrupt to you [PERSON5].I I want thing to say to  maybe [PERSON2] and [PERSON4].I would like to use some in-domain data from -
+Like European data to train the segmenter, like English and Czech segmenter
+and use [PERSON2]'s evaluation tool to see, how they are doing.The  the -
+In <unintelligible>  to the models, we have <unintelligible> from Czech <unintelligible>.<other_noise>
+(PERSON2) Okay, So.But I think I thnik, that <other_noise> should be ready -
+Okay, I think, the tool should be ready next week.No, no, I  think because it's ready, but every time we have some new assumption.And if I can get the first amount of data and after that, after the some is more test,
+I think, that the tool is ready and you can use it.Then I I'll use this week maybe to train -
+To get in touch with [PERSON4] and get European data to train a new segmenter, without like <other_unrecognisable speech="">.(PERSON2) And I think I'm available next week and whenever you want, we can we can have a meeting together.And we can -
+(PERSON8) Sure, sure, sure, sure.<laugh>
+(PERSON4) Okay, the next week, I'm not available on Thursday and Friday because -
+(PERSON8) Sure, sure, sure.(PERSON4) I am -
+(PERSON8) Okay, okay, okay.So whoever is available, we'll meet on Thursday
+and we have the the session on on Wednesday.If there no further questions and no further comments then -
+(PERSON2) Thank you.

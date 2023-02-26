@@ -1,0 +1,33 @@
+We have all partners present show I- 
+
+If people so- 
+
+Thanks for coming. And when there could be some preliminary some prototype implementation that we could test. So the plan is will be [ORGANIZATION1] welcome, will be Mary Sorrow, and in-between will be (Python Sorrow) that's excepts sentences for translation from the [ORGANIZATION1] worker. So a very basic Python based, so to do the preprocessing and received request so yet - for translations forward <unintelligible> and post him back. So, I think the the there should be almost ready [ORGANIZATION1] worker available. (PERSON10) Okay, yes and also the <unintelligible> empty worker ehm. Uh, assuming that the [PROJECT3] model would be trained to work reasonably well. One thing that I would still like to know [PERSON10], is the handling of timestamps. So this is something that needs to be carefully checked, because timestamps will be later on important for the presentation platform. And that the basic unit that you send to the presentation platform is called a textfield content. And then at some point somehow there will be made a decision that let's move on to the next textfield. (PERSON8) Yes, 
+
+so in other words yes part of the message that the presentation of platform is receiving is an indicator, whether this is an update. So, so [PERSON8] ehm needs to discuss with [PERSON6] the updates versus history of text uhm text fields. And if the timestamp is higher than the current the last text field should be like move to the history and and closed. And we would be displaying the the contents from this timestamp on. So, would there be any prototype available uhm-
+
+at a work point would would there be any prototype avalaible? And second thing are not sure about that wayteh-
+
+It will we have the platform. This part of the call to switch to the [ORGANIZATION2] platform, at least with some of us those who are interested, 
+
+and we could see how that works with the workers available. So I would like to make use of that you spend some time to run them. (Ty) I have been check it carefully I- 
+
+yeah because we have the limit number<unintelligible> 
+
+and maybe that it the same time <unintelligible>  
+
+working at the same time maybe <unintelligible> 
+
+like we have the. So I think that we we should be fine relying on, but that's please talk to [PERSON3], what he thinks, because in some early stage we discuss that for just for a backup purposes. So ask [PERSON3] agrees that backup sides of ASR workers is very-
+
+<laugh> 
+
+well sensible thing to do. And that <unintelligible> I think it in one sentence it ehm it yeah output <unintelligible> and  I can't <unintelligible>  fancy <unintelligible> call but it <unintelligible> it was in call,
+
+So I have no idea,
+
+I think I--
+
+this is a <unintelligible> I think I had to <unintelligible> information and then <unintelligible> maybe I can hopefully I can see the one simply wrong come from-
+
+(PERSON8) Yeah. Okay, so, I think it's still too early to solid final lists are in the MT models. You can try launching it in the meantime yourself, if it works for you, if you are all Windows already.

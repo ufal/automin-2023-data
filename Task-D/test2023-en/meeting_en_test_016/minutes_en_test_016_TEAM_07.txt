@@ -1,0 +1,61 @@
+Summary:
+
+* PERSON3 had a live workshop dry run at the LOCATION2 on Wednesday. 
+  - Disc: The presentations went well for the people who could understand OTHER3. People who had to rely on subtitling were totally lost. The head of the particle division of the ORGANIZATION1 was angry. The technology is only working technically. The next planned session with PERSON5 is to watch some video that they don't speak. 
+* PERSON3 and PERSON10 discuss a solution for the presentation of slides. 
+  -- Fact: The server takes screenshots regularly and sends them to the browser, so the client displays the most recent screenshot. 
+  - Disc: It's not good for videos, but it's good for static slides, like on Monday seminars. 
+* PERSON10 is studying at ORGANIZATION3 and studying also computer science. PERSON7 is visiting master students for the semester and is going to leave back for another location. PERSON6 is living in LOCATION2 whole time and studying in ORGANIZATION4 also. 
+* PERSON3 is giving a talk on the Monday seminar at 2 pm. 
+  - Disc: He is looking for people to help him prepare the surge documents. He wants to know if PERSON9 was successful with his exams and if he can now work on domain adaptation. 
+* PERSON3 will double check the information that PERSON9 has sent to the <unintelligible> to see if anyone can help him with the processing of the file. 
+* The file has almost been translated into a bigger script, so the processing should be faster. 
+* PERSON3 has to provide all the forms of the same word in all its forms. He would choose a replacement word and use the corresponding forms. The replacement word should be some random feminine noun with similar declaration pattern. Then he would replace it with the corresponding form. 
+* PERSON9 wants to process the technical process for using the dictionary, but from his findings, he doesn't think it's necessary. PERSON3 will have a look at it. " PERSON3 will look at that". 
+* There will be a technical talk in OTHER3 on Monday. As soon as they have domain adaptation data, they can plug them in and that would be good. 
+* PERSON3 needs to get in touch with PERSON5 and make sure that he can feed the files to him. 
+* PERSON3 needs to synchronize with PERSON9 to use the files that they like find for the speaker. 
+  - Disc: The files will be available as soon as they have the talk specific corpus. 
+  - Disc: The corpus is papers related to what the authors are going to talk about. 
+* PERSON6 and PERSON3 need to synchronize with PERSON9 in order to find something related to this Monday seminar. 
+  -- Disc: It depends on the domain so if you are searching for <unintelligible, the chances of finding it are zero. 
+* PERSON10 worked on three different things this week. The first thing he worked on was a real time audio visualization tool on the old realization tool. The back end is a C++ server that reads the microphone signal and sends it over a web socket to the client. The client is a JavaScript piece of code that can be included in any webpage even on a remote machine. He also made it so that it colors in different colors depending on the volume. 
+  - Disc: The last problem is how to stand the thresholds. 
+* PERSON3 wants to set up a tool to test the ASR. 
+  - Disc: It's only for indication so far, so they need to polish the the indicators. Once it's set up, it will be a useful tool for the developer. It will be played at various loudness levels and set to threshold. 
+* PERSON10 is working on a machine translation model and a paraphrasing model. 
+  - Fact: He used a data set of 300 million open subtitles from various languages. He hasn't been able to export the data yet, because it was trained with TPU. He received new data from ORGANIZATION2. He's going to get it training today. 
+* PERSON10 will probably have to export the project to another language as it wasn't trained on PROJECT5. 
+  -- Fact: He had to do it just in <unintelligible because of the TPU support, but he will probably need to export it as well. 
+* There is an open neural network exchange format called PROJECT4, but it's not the same as PROJECT4. The critical thing is that you have to know the architecture of the network and in the architecture. There is probably not a high chance that the architecture is precisely the same. 
+  - Disc: It can be safely used if served from a different server. 
+* PERSON10 thinks that it can still be deployed for paraphrasing, but there is no way in which they could benefit from that for PROJECT2. 
+  - Fact: They are running PROJECT5 models, which are trained in a similar way. 
+  - Disc: They don't have the connection to the integration of the other models. 
+* PERSON3 wants to use the best file in the <unintelligible> file which has been translated into OTHER2 for PROJECT2. 
+* The best corpus is the one in the file in which PERSON11 has also translated the file into another language. 
+* PERSON3 is collecting monolingual data and needs to translate it to create synthetic parallel data. 
+  - Fact: The data collection is in four five languages. It's the big ones: OTHER3, OTHER6, OTHER2,  OTHER4 and 
+* The parallel data extraction will be done by ORGANIZATION2. The source files will be left for ORGANIZATION2 and ORGANIZATION5. ORGANIZATION2 will apply the models. 
+* They will get the first follow synthetic, very much in domain corpus, across these six main languages and then redo this with all the OTHER30 something languages. 
+  - Disc: The model will be created during the next week. 
+* PERSON6 is going back to work next week, so he has limited time for this project. 
+  -- Disc: If he has additional time, he will look at this, if he has any more time. 
+* He will work on the translations from OTHER3 to OTHER2. 
+* PERSON5 was unable to run the script to deploy their worker on the mediator. The installation was succesful. 
+* PERSON12 helped him integrate buffer in the segmenter. 
+  - Fact: There are now more segmented text on the LOCATION3 screen. 
+* PERSON5 and PERSON3 are waiting for the incoming text to keep on increasing the entrance context and it will help the segmenter making more segments. 
+* The buffer must not grow too big to prevent the text from slowing down too much, as they are yet to <unintelligible>. 
+* PERSON5 is looking for a contact to get him some data set with correct transcripts as fluent as the natural speech. 
+  - Fact: He's looking for the contact of PERSON6 to get some data from the Estonian data set and all select auto domain. 
+* PERSON3 wants to know if the sentences are on the same topic or if they are as the influent as in normal speech. The data set for conversations talk should be data for LOCATION3 and domain data. The combinations should be in data <unintelligible>. 
+* PERSON3 will email everybody again at the latest on Wednesday, when are they meeting next week, and there is a Doodle <unintelligible>. 
+  - Disc: The Doodle applies to regular weekly time, and they will find the date which suits most of the people. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

@@ -1,0 +1,22 @@
+-Ask yourself whether there is a difference between English meetings and Czech meetings, or whether there are two different kinds of meetings.
+-My idea is to run named entity recognition model on English meetings and Czech meetings, find proper nouns names that we want to change and replace them in both English and Czech meeting.
+-Use Czech names for MSD meetings and for [PROJECT meetings,], we will get the names for Czech part of MSD meetings, for PROJECT meetings.
+-For English models we had at our institute developed quite good named entity recognition models. laugh> Okay, now we have seventy nine meetings at all.
+-Use Excel to extract the names of meetings from the previous years' meeting documents, and make a table of all of the meetings that it extracted from the document.
+-There are some problems with the manual annotation kind of thing.
+-To summarize, remove all the speaker names from the list of speakers, i.e.
+-Remove the brackets for the speaker part for the data set that is published, for example A, B, C and D for example - Yes that will work.
+-Remove words from manual identification, remove words from this one for example, we can be sure that is not a proper noun, and then let the annotators - choose if they are need be removed or - choose to be removed.
+-The name entity ID is a safe way to reconstruct the name entity value of that instance, which is clearly not named entity ID this one.
+-Give the annotators the names of those who have worked with these with these transcripts for these meetings, because they would immediately recognize some of the names that are not names, and they would also know what is not names.
+-The interface should be something like interface.
+-Check out the web interface laugh> That's the fastest and it will work even for English meetings - Try it once or - Give it a try.
+-One option is that for each occurrence of a named entity from corpus, construct words before that and after the occurrence of the entity from the corpus,
+-Create a line which provides context for the same named entity to appear in different contexts,
+-If the annotator decided that MOG can not be a name, then MOG will survive in the transcripts and will be recognized by the name recognizer.
+-If annotator says well MOG that could be a name in some cases, but in my procedure only expected to be run at token level annotation.
+-If - how to unify it means A B C, D all of them, not just connect them in the transcript itself and letter O in brackets or not.
+-This is for each meeting, proper nouns for each meetings, meeting, that is, correct nouns for meetings, proper verbs for meetings and proper nouns of meetings.
+-The annotator could know only at the token level that his [PERSON17] is actually [PERSON17], not at the type level.
+-[PERSON15] Okay, OK, PERSON15 is not a session with PERSON15 fully understand it's a session, and then we can understand it.
+-How many transcripts he wants from us to read and to create minutes from and actually why.This is the most boring part of all of the transcripts that we have to read.

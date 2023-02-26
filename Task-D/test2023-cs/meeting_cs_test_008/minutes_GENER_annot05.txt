@@ -1,0 +1,43 @@
+ Zápis ze schůzky
+
+Datum schůzky: 10.3.2020
+
+Téma: Schůzka projektu [OTHER8]
+Vedoucí schůzky: [PERSON10]
+Účastníci: [PERSON10], [PERSON3], [PERSON2], [PERSON20]
+
+
+Zápis:
+
+- Makefile: vyřešeno: funguje;
+- Undefined references: třeba vyřešit;
+- Glossaries: nefunguje: chybí seznam zkratek: návrh zrušit celé volání glossaries a na konec dokumentu přidat list glossaries: nutno opravit - zadáno;
+- Návrh rozlišovat formu písma: příklady dávat do uvozovek: názvy parametrů do kurzívy;
+- Makro: třeba nadefinovat příklad a pojem;
+- Title case: plnovýznamová a funkční slova: nenalezen chapter name, ani part name
+        - Psát title case, i v neočíslovaných subsubsubsekcích;
+- Vše bude mít krátký i dlouhý název;
+- Embeddingy článek: pokročeno: sestavena osnova: návrh doplnit do článku i předchozí pokusy o embeddingy: modely chronologicky: interprety přidat k modelům
+        - Zjistit a doplnit informace o word embeddings: návrh zapojit moderní interpretace: jedna subkapitola - historický přehled: další subkapitola - jenom interpretace;
+- Předtrénované embeddingy a sub-wordy: napsat příběh;
+- Beginnings embeddingy: nejsou kontextové;
+- Bilinguální embeddingy: třeba zjistit bližší informace;
+- BERT článek: chytrou věc machine translationu použít na language modeling a vzít z toho reprezentace;
+- GPT: vytvořit zvláštní kapitolu: umístit do koncové části knihy;
+- Zmínit pouze modely, které jsou zajímavé zejména interpretacemi;
+- Multilinguální reprezentace: potenciální kapitola;
+- Úvod: architektury, RNN a transformer, obecná funkce neuronové sítě: přidat sekci neuronové sítě v komputer vision
+        - Návrh přidat BERTa do úvodu: prozatím nedořešeno;
+- Debiassing: eventuální možnost vložit jako subsekci pod embeddingy.
+
+
+
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]
+

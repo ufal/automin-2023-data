@@ -1,0 +1,28 @@
+Attendees: [PERSON6], [PERSON10], [PERSON11], [PERSON12], [PERSON4], [PERSON8], [PERSON5], [Ty]
+
+Summary:
+There is nothing that [PERSON8] would know about that we need to discuss in in a very big detail ,what is [PERSON8]'s  first question is to [PERSON6] . But her camera is disabled and [PERSON8] do not know if she can speak . And we also,do we have [PERSON10] Here are not yet . Because last week , [PERSON10] have said that he [PERSON10] will dust off [PERSON10]'s  . 
+
+[PERSON8] asked  And how promising or problematic does it look now ? and [PERSON10] replied  the plan is will be [ORGANIZATION1] , will be Mary Sorrow , and inbetween will be [Python Sorrow] that is excepts sentences for translation from the [ORGANIZATION1] worker . Because [PERSON8] think they probably even have something like that in the SLT [ORGANIZATION3] repository . Probably [PERSON10] need to be some little bit adaptation for what [PERSON10] is doing anyway . 
+
+[PERSON8] think that next week for example , [PERSON10] should know whether this proof of concept worked , or what do [PERSON10] have running to any issues . for partial sentences , [PERSON8] think that they should be treated from the [PROJECT3] prospective as simple simply a different sentences , other sentences that we expected to process . 
+
+[PERSON6] had some problem with the internet connection . One thing that [PERSON8] would still like to know [PERSON10] , is the handling of timestamps . this is something for [PERSON6] to know about . for updates [PERSON6] do not want to repeat everything . And [PERSON8] think that we had something like the textfiled . 
+
+[PERSON8] asked  Did [PERSON10] call some translation system simply by pipe as well ? [PERSON8] asked  replace the current field , or this is a new text field move the history up and populate the field with this new content , right ? [PERSON8] think we need to discuss this again a fresh call . needs to discuss with [PERSON6] the updates versus history of text fields . 
+
+[PERSON8] think that we will arrive at the solution where the timestamp of the beginning would be the critical information . for [PERSON10] [PERSON8] do not think there is anything changes . But we will let [PERSON6] know if we see something like that . 
+
+[PERSON8] would not expect any prototype today . Last time [PERSON6] discuss about it the first prototype presentable should be at the 15th of June . 
+
+[PERSON6] do not have any other information . that to [PERSON8] find whatever problems are there as soon as possible . who we have from [ORGANIZATION3] , only [PERSON11] . maybe [PERSON11] would not would not have the power to decide this . 
+
+[PERSON8] thought that it would be interesting , maybe good idea to start as many workers as possible at in [ORGANIZATION3] . , would [PERSON6] would [PERSON6] have any idea , if this is easy to do of interest and useful . 
+
+[PERSON8] would like to make use of that [Ty] spend some time to run them . some we stand when we need more worker [Ty] think we have to stop limit number workers . And after the call [PERSON8] shall reboot to windows . this is this is probably something that [PERSON4] added . and when [PERSON8] see say several session [PERSON8] mean consecutive ones like one after another . 
+
+[PERSON5] asked  [PERSON2] , was that [PERSON8] ? And then most importantly [PERSON4] need to run it and figure out where the problem is and then the bucket ,If there is anything we can do in order to help [PERSON8] the publing the problem , we stand us careful the mediator to test just [PERSON8]'s  worker for . 
+
+[PERSON4] change only the default parameters and comment send documentations , and [PERSON4] removed to Windows version . if [PERSON8] click on this on this test that it is different script . it is the same as in the sample and it did not for [PERSON4] this week . [Ty] asked  [PERSON9] is working for the . If [PERSON4] have any problems with these calls . But [PERSON6] can be with [PERSON8] with [PERSON6]'s  heart . 
+
+[PERSON8] think it is still too early to solid final lists are in the MT models . and [PERSON8] shall try to lodge the [ORGANIZATION2] . And will be in touch and speak to [PERSON6] next week .

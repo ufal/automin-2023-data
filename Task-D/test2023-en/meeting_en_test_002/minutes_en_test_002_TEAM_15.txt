@@ -1,0 +1,3 @@
+-Please think about which of these data sets is the most useful for your project, uh the biggest one is the data set of English Czech reference translations, that's English Czech, and then there is the HYTER data set, which is 50 Arabic and 50 Chinese sentences and each of these were translated directly into English again.
+-The problem is that we don't have any native English speakers on our faculty, but we ( already) use those foreigners for the 2B experiment.
+-laugh> Now we'll lik we should have all data translated in two or three days, like if the tempo of the same remains the same.

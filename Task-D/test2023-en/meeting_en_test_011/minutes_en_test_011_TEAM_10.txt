@@ -1,0 +1,6 @@
+Attendees: PERSON5, PERSON1, PERSON6, PERSON7, PERSON4, PERSON9
+
+ * [PERSON7]: Actually, what have you used in the paper with we need?
+ * [PERSON1]: I checked there is a measure, which measure is (out) the attention matrice is a line with particulations and actually I got this from other paper.
+ * [PERSON7]: We should also, [PERSON5] send me the paper where they had two heads which are trained differently.
+ * [PERSON9]: I guess, that's for the meeting.

@@ -1,0 +1,24 @@
+mary sorrow will be on the call on monday to talk about the proposed development schedule.
+in-between will be (python sorrow) that's excepts sentences for translation from the [ORGANIZATION1] worker.
+and in-between will be (python sorrow) that's excepts sentences for translation from the [ORGANIZATION1] worker.
+and in-between will be (python sorrow) that's excepts sentences for translation from the [ORGANIZATION1] worker..
+the only timestamps that we have are the beginnig and end of the sentence or unintelligible>.
+so the only timestamps that we have are the beginnig and end of the sentence or unintelligible>.
+i think that next week for example, you should know whether this proof of concept worked..
+a textfield content can be sent several times as an update.
+at some point the presentation platform would like to scroll it up.
+a new message is a new subtitle to be displayed and it can subtitute the biggest one.
+a new message is a new subtitle to be displayed and it can update the let's say the button of the textfield in order to let unintelligible>..
+ehm needs to discuss updates versus history of text uhm text fields.
+as long as the timestamp is the same, the field should be replaced with with the new content.
+and if the timestamp is higher than the current the last text field should be like move to the history and and close..
+do we plan to run any [ORGANIZATION2] workers in [LOCATION1]? we have not- we have decided not to use the [ORGANIZATION2] platform today.
+essentially [ORGANIZATION2] is very far in the implementation..
+i'm unintelligible> and ehm the things running on the same unintelligible> so, yeah, some we stand when we need more worker i think we have to stop limit number workers.
+in in the long-term, it would be useful to have this image spread out for the various reasons that you mentioned, for the uh workshop itself we should be good..
+asr worker the bug seems to happen when one worker can handle several sessions.
+but then it stocks and it doesn't return any output.
+i think it's very important that you create a script that replicates this bug..
+if you click on this on this test that it's different different script.
+it's the same as in the sample and it didn't for for me this week.
+i wrote email to [PERSON6] and [PERSON11] and [PERSON9] but i'm not sure if [PERSON9] is the rigt persons for it..

@@ -1,0 +1,15 @@
+Attendees: PERSON1, PERSON11, PERSON8, PERSON15, PERSON7, PERSON4, PERSON16, PERSON13
+
+ * The volunteer should be entered in the continues reporting.
+ * [PERSON11]: I'm also doing the dissemination on the web and stuff like that.
+ * [PERSON8]: The previous milestones of talk to [PERSON5] in the e-mail that you seen that of the milestones claiming that we have all the complete set up for [ORGANIZATION4] Congress, which technically we have.
+ * [PERSON8]: With this (fine graph) the result of the set of files that you can test on.
+ * The file list, and that there should be only 3 at most 3 file lists that are interesting for the general public.
+ * We need the text audits versus speech audits domain.
+ * [PERSON8]: The extra thing that I wanted to mention is that the forced alignment, which finds the words in the sound is not reliable for us either.
+ * The last point now, that's the demo.
+ * [PERSON8]: I think the users are afraid of retranslation because we were not able to hide it sufficiently.
+ * The MT only translate will be get from ASR.
+ * If the ASR wait to the end of the sentence before sending his hypothesis.
+ * [PERSON8]: I think the demo should demo both.
+ * The communication about the day should be already like that to start internally immediately.

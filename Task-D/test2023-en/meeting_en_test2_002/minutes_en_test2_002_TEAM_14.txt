@@ -1,0 +1,44 @@
+Participants meeting can hear (PERSON14).
+(PERSON14) is curious, if [PERSON3] is here, the participants of meeting don't have [PERSON3].
+[PERSON12] is running the [PROJECT3] on floating point FP 16.
+[PERSON14] is a little worried about the multi source status for the deliverable.
+(PERSON14) explain that participants of the meeting don't have much progress with multi-source because the participants of meeting first need the data.
+Participants of the meeting could have done multi-source research also in text domain.
+[PERSON14], (PERSON14)'re saying that text multi-source is not a challenge.
+[PERSON24], (PERSON15) think the participants the meeting need to have a separate call with (PASTER9) and [PASTER2].
+[PERSON12] said, "It's okay, right?"
+Ah, and, ah the one of biggest thing is that [PERSON10] is leaving which is listed at the end of, at the beginning the, of notes for today's call...
+[PERSON10] or some sometimes early next week.
+[PERSON6] was confused.
+[PERSON10] said that he could be late for the call and that's probably happening.
+[PERSON14] think (PERSON14) never finished an email to (PERSON15), because (PASTER1) have reminded [PASTER4] that (PONT1) r profanity, profanity filtering is not yet integrated.
+The filtering, has it been tested on locks?
+Ah, ah ah,,, using MPlayer or whatever simply play them, follow the sound output on (PERSON15) r machine and see how that works.
+[PERSON6] that the participants of meeting have that and if he couldn't the local copy on his laptop because.
+He also has a chance to use X2Go.
+The participants of the meeting have seen during the last sessions that the new ASR end to end ASR, E2E ASR, also suffers from the spasm issues.
+[PERSON12] saw that (PERSON15) think for, a second ah, ah the incoming, an ah sentences were like flooded with lots oh, oh, Oh, oh oh oh.
+[PERSON15] don't think the participants of the meeting need to fold spasm proprietors removal, because if participants the meeting remove one from the ASR itself.
+[PERSON8] have the call with, ah, (PERSON15) later today.
+Then another thing that [PERSON10] is passing over to others is [PROJECT2] check ASR.
+[PERSON3] this is another thing that (PERSON14) need to discuss with [POSTER10].
+(PERSON14) have a call with [PERSON6].
+[PERSON10] has already started ah preparing for the upcoming Monday seminar that's going to be given by,,, Italian guy, a famous one, the author of [PROJECT1] actually.
+Ah, (PERSON15) like to see how it plays out.
+[PERSON1] is now mentioning in recording segmentation in his report here.
+[PERSON1] is going to create new sentences by concatenating words that were spoken in other sentences.
+[PERSON14] would like to ask everybody to record the experience from the [ORGANIZATION7], and as the one sessions.
+[PERSON3]: [P]ERSON5] and [PERSON8] should be in touch to propose some solution.
+That he got rolled in the pipe and (PERSON15) kind of had ah talk, ah, call with him right at the moment when (PASTER1) was free.
+He didn't know enough about architectures.
+[PERSON8] was trying to get it running but he didn't know where to look and what to check.
+(PERSON14) was spending him through pipelines that escaped like what does each block, what exactly does and how to debugg?
+[PERSON5]'s ah army worker.
+[PERSON5]'s worker participants need to have a separate descript.
+[PERSON8] is working on like ah, how to make the configuration cleaner.
+[PERSON8], [PION5] and [1PERSON3] to have a call and provide the first specification of requirements for a pipeline set ups.
+[PERSON16], ah, (PERSON15) also like to request (PERSON12).
+(PERSON12) can maybe make it for the participants of meeting maybe?
+(PERSON14) mean it's up to us, of the participants meeting can control how many languages the participants the meeting want to see the subtitling platform.
+[PERSON14] don't think it is any saving?
+Well the participants the of meeting did it actually,, when the participants of meeting were testing it.

@@ -1,0 +1,32 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON7, PERSON8, PERSON5
+
+
+SUMMARY-
+ -PERSON8 is preparing the link into the web interface.
+  He has prepared some guidelines for the evaluation, but they are not fully ready yet.
+ -PERSON7 has uploaded ayeye and the europarl sources.
+  He and PERSON3 are going to skip the meeting later this week.
+  He wants to know more about the europarl website.
+ -PERSON7, PERSON5 and PERSON8 are trying to find the index of the minutes on the organiser's website.
+  The index does not correspond to the index for the transcripts.
+  There is a snapshot of the tool for annotation of the valuation which can be shown at the end of PERSON8 is showing PERSON5 the interface of the web application.
+ -PERSON8 will form an airdraft and send it to PERSON5 and she will finalize it and then he will do the implemetation.
+  He proposed to build a web base interface for manually evaluation of the papers.
+  The annotators would be able to evaluate it in a better way.
+ -PERSON8 and PERSON7 are discussing how to evaluate the generated minutes by the participants.
+  They agree on building an interface and giving them the link of the interface.
+ -PERSON8 will share the draft of each paper with the rest of the group.
+ -PERSON8, PERSON5 and PERSON7 discuss how to improve the evaluation system.
+  They agree it will be very hard work to make the evoluations.
+ -PERSON7, PERSON8 and PERSON5 will all annotate a single minute and then they will judge it based on PERSON8's criteria.
+  They will get transcripts and two different minutes.
+  They are not going to go ahead with the alignment thing.
+ -PERSON8 hasn't made any progress on the automatic part of the paper yet.
+  She did implement all the existing to matrix, didn't do anything new.
+ -PERSON8, PERSON7, PERSON5 and PERSON7 will draft a draft for the 6-year-long project.
+  The project will be finished in two minutes.
+ -PERSON7 and PERSON8 will link the implementation they've done on to the paper they want to discuss offline.
+
+
+Minuted by: Team ABC

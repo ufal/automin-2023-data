@@ -1,0 +1,109 @@
+i'm sort of really bad in english today.
+but i guess we can wrap it up and see you next week.
+(PERSON4) no.
+(PERSON7) no.
+(PERSON12) no.
+(PERSON5) no.
+(PERSON5) no.
+(PERSON5) no.
+(PERSON5) no.
+(PERSON5) no.
+(PERSON5) no.
+(PERSON5) no.
+(PERSON5) no.
+(PERSON5) no.
+(PERSON5) no.
+(PERSON5) no.
+(PERSON5) no.
+(PERSON5) no.
+(PERSON5) no.
+asr worker and machine translation into czech will be run three times.
+we have only one english segmenter, so we can run only two unintelligible> at once.
+we don't rely on the german, on the english segmentation worker so that that could run as well..
+i'm speaking german, now i'm speaking english and i should see german translation.
+i think we might want to try [ORGANIZATION4], you, unintelligible>, the [ORGANIZATION4] as well.
+(PERSON12) i'm following the german words that i spot.
+occasionally they are related, but i cannot acess the sentence quality.
+that's too hard for me to to process..
+i don't know how to share it,how to do it.
+so i'm sharing my screen, entire screen.
+allow.
+so i'm sharing my whole screen but the full motion icon has hidden away.
+so i don't know how to, maybe it's not possible to do with the with the screen sharing..
+in pexip screensharing, you see an update only every two seconds.
+and to the hd button is the thing that will let you see it in live like faster, without this delay.
+we had to click it before now it's broken apparently..
+right now on the cable, a connection [PERSON11]'s notebook is sending three english, three audios? [PERSON11], are you sending three english, three audios? mumbling> only two.
+but we need to send one audio for each output language..
+all their workers are meant to work in a transparent behavior they translate multiple times.
+this, of course, is not optimal and managing such logic in the presentation layer.
+i'm trying to figure out something to manage it for the june eh fair-the june meeting..
+the empty worker should be totally like ignoring any context.
+if it's recieve something twice, it should send it twice.
+if it is a minor extension of the sentence then the empty worker should not have been called..
+i run a test with the english asr, maybe it was me, i wrack now finish sorry.
+i prepared the unintelligible> which uses the german asr.
+the german segmenter.
+i can surely unintelligible> and going to write it in the google doc..
+if this works in two weeks from now it would be perfect.
+if we have the m3u8 url we can configure the presentation platform to connect to this streaming.
+if we have the m3u8 url we can put it in the presentation platform..
+czech web page is a simple client and it only display what it recieves.
+i haven't worked on the source code so i'm not able to share it with you.
+i can ask for- (PERSON12) yes, we need also letting 2 or utf8..
+i can see [PERSON3] now.
+and maybe [PERSON11] can now start to meeting participants in control unintelligible>.
+i suggest the english one since it's it's much more reliable.
+but, we could use for example.
+i'm going to write it in the slack channel.
+(PERSON12) yes, the out- input fingerprint is wrong, it's dd, unintelligible>..
+i'm running my test.
+and it's not working.
+why? i think it's a matter of web browser i'm using.
+i'm also on two different computers i don't understand if something also related to- it's seems that in my windows laptop it isn't displayed anything even if i run it in chrome, but on my linux desktop it works's well..
+we haven't yet tested the multiple publication unintelligible>.
+but we have still some problem with of course browsers and windows.
+i'm curious if this will scale up to the six or more target languages and the multiple-input..
+i'm a little bit worried that there will be no time for improving this because it will be like creating new models and improving the underlink set up.
+i'm a little bit worried that there will be no time for improving this because it will be like creating new models and improving the underlink set up..
+i'm afraid that we'll have to live with the current segmentation quality.
+but please try, please get in touch with - (PERSON7) unintelligible> (PERSON12).
+if you have any questions on [PERSON4], then he should appear here.
+if you have any questions, then i would like to ask everybody who is still on the call, to go through the the current state of the google document..
+we haven't yet tested the multiple output, but should be pretty transparent.
+we haven't yet tested the multiple sources for the same language.
+we haven't yet tested the multiple output, but should be pretty transparent..
+default available languages will be czech, polish, hungarian, what else.
+dash pub will be grabbed by the worker for the presentation platform.
+if we add dash pub it will be grabbed by the worker for the presentation platform..
+the map is needed for the overall connection, what is connected to what.
+if someone runs a worker with some particular fingerprints there is no way for us to change it's fingerprints.
+if there is a worker connected to the mediator, there is no way for us to change it's fingerprints..
+fingerprints map, share, anyone with the link and edit.
+i'm now putting link to this map to the google doc.
+try opening this as well.
+(PERSON3) no, it would be better if you could access directly the document.
+so please the way this drawing works is that you while you are editing an object, no one else sees it yet..
+cscz pub is a minus pub, but the german and italian are different.
+cscz pub is a minus pub, so the english is, english has eun it's not like gb.
+cscz pub is a minus pub, so the english is, english has eun it's not like gb.
+cscz pub is a minus pub, so the english is, english has eun it'.
+there is no way that any spanish can appear here until [PERSON11] will run a pipeline which will end with spanish pub.
+for this pipeline to be accessible there has to be the worker registered already with it mediator that emits the spanish spain pub fingerprint.
+(PERSON12) no, just google for their names.
+or the names if they sound french, then we have to- (PERSON12) yeah, vlamish..
+i'm running windows 10 and this is windows 7, but does not have a microphone with.
+i'm not sure if i'm sharing the screen, i'll share my camera instead.
+i'm not sure if i'm sharing my screen, i'll stop sharing my camera instead..
+i think it's optimize in relation to the mobile usage, because mobile will probably require more space for for subtitles.
+it would be better to have it optimized for being vertical, because then you have space for the subtitles.
+for the desktops it would be better to to have the subt- the video larger..
+css adapts to the size of the screen, but it can't be used on the desktop.
+the problem is to let still the subtitles to be displayed.
+i'm not allowed to share the whole worker logic because actually we have a really complex project.
+but i can prepare some kind of snippet and i can share them for sure..
+cnn's john sutter asks everyone on the call today at 1 to contribute to the fingerprint map.
+sutter: "i think the most important thing for now is the map of the fingerprints" sutter: "we need everybody to check that their workers are like signing themselves with the right, with the right fingerprints".
+the goal for monday was to test more languages in presentation platform.
+i'm not anymore nervous that i was before, but actually i'm not anymore nervous.
+i'm not sure if [PERSON4] is here if he can hear us or not..

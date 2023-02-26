@@ -1,0 +1,130 @@
+Summary:
+
+* PERSON2 předá pokyny pro nábojky ORGANIZATION1.
+  -- Fact: ORGANIZATION1 má nový techslive a nemůže to udělat.
+  - Fact: Funguje i na ORGANIZATION2, ale pouze pokud mají v ní aktuální techlives a aktuální knihovny.
+* PERSON2 má techlive 2020 a PERSON4 techlive 2019.
+  - Disc: Písmo prochází a nic neříká, takže řekne, že zelený úspěch je to, což je hloupé, ale on to prostě udělal.
+  - Fact: Jsou tam napsány divné věci, které je třeba vymazat, takže když píše další divné věci, tak to nefunguje.
+* PERSON4 musí psát zabít všechny škrábance na terminálu, když jeho kurzor začne twitch nebo jinak nebude dělat nic jiného.
+  - Disc: Dělá si srandu z toho, že štěnice někdy jedí všechny vzpomínky na svět a musí je zabít.
+* PERSON4 usnadnila instalaci nového Ugunta.
+  -- Fact: Nainstaloval ji, aby mohl vysílat obraz na televizi.
+  - Disc: PERSON2 chce taky jednu instalovat, ale neví, jestli to bude stačit.
+  - Disc: Skripty začaly psát úspěšně místo chyb.
+* PERSON2 a PERSON4 se neshodují ohledně množství práce, která je zapotřebí k vytvoření HTML a jeho kopírování.
+  - Fact: PERSON2 právě napsal scénář a teď běží a mapuje sám sebe.
+  - Fact: V gramatické linii nic nezkopíruje.
+  - Disc: Jestli to nebude muset zkoušet, může udělat ambeding srt.
+  - Fact: a až to bude hotové, klikne na import a nebude muset nic kopírovat nikde.
+* PERSON2 a PERSON4 hovoří o kopírování.
+  - Disc: Souhlasí s tím, že kopírování je často zdrojem chyb. PERSON2 navrhuje, že když to nefunguje, že to je gramatika, která dostane změny zpět k němu, takže si přeje urychlení a zjednodušení procesu.
+* PERSON2 zjistila, k čemu je pátý řetězec na banjo a je to skvělé. Ukázalo se, že je to pro pátý řetězec na pátém banjo řetězci, což dělá PERSON4 smích z radosti.
+* PERSON2 navrhuje odtáhnout nábytek od zelených stěn a přeměnit ho na zelenou obrazovku.
+  -- Disc: PERSON10 obvykle nemá docking na Linuxu, takže mohl jen získat nějaké tapety pro sebe a použít ji jako rozptýlení na schůzce nebo filmu.
+* PERSON2 a PERSON4 hrají hru.
+  - Fact: Hra má funkci pro alternativní řetězce, takže nikdy nemusíte hrát jeden řetězec dvakrát v řadě.
+  - Disc: Začíná to až do poloviny zápasu, takže by to mohla být ještě malá děvka.
+* PERSON14 dnes ráno jel kolem Prahy a je naštvaný, protože vždycky někdo odjíždí, parkuje a přijde. Doufá, že někdo se schovává kolem Prahy.
+  - Disc: Doufám, že jsi alespoň šlápl.
+* PERSON14 dokončil fotografie po ránu. Ještě nedal souhrn toho, o čem se jeho kapitola týká.
+  - Disc: Kdyby ano, v souhrnu by byly odkazy a obrázky, ale nemyslel si, že je tam uloží.
+* PERSON10 začal číst kapitolu PERSON2 a nečetl ji, tak jen na ni dal pár komentářů.
+* Potřebuje, aby PERSON4 se podíval na jeho komentáře k jeho kapitole a pomohl mu s tím, který je na kapitole PERSON10.
+* PERSON14 napsal e-mail s recenzí Hajj, ale Hajj neodpověděl. Píše recenze pro krále a Pete.
+* Pokud to v říjnu přezkoumají, měli by to být schopni udělat do července, podle Vona.
+* Magda Shevčíková chce, aby PERSON14 vystoupil na semináři 30. listopadu. Chce, aby představil LSD.
+  - Fact: Za dva měsíce musí přijít na to, jak to udělat.
+* PERSON10 mu doporučuje, aby šel cestou PERSON2.
+* PERSON2 to už někde ukázal. Nebylo to na semináři organizátora. Minulý rok byly Vnads na doktorátu, na UHB, ale tentokrát tam skoro nikdo nebyl. Zbylo jim asi tři čtvrtiny hodiny.
+* Seminář bude virtuální, takže je těžké říct, kolik lidí poslouchá. Bude na semináři padesát lidí, a pokud budou poslouchat nebo udělat kávu, to nebude známo. Seminář se bude konat s zvukem a kamerou.
+* PERSON10 a PERSON14 diskutují o zavádění s významem.
+  -- Fact: PERSON2 napsala na to knihu.
+  - Disc: PERSON10 si myslí, že o tom tady není moc řečeno.
+  - Fact: PERSON14 se nepohnul, aby se na to podíval, ale on to přečítá.
+* PERSON2 hledá vodítka v hlasovacím formuláři. PERSON10 píše hlasy. Neví, jak důležité jsou nebo kolik chtějí, ale myslí, že by to mohlo dát trochu hloubky a síly, kdyby se jim podařilo začlenit část svého postoje k tomu, co bylo nalezeno v článkůch.
+* PERSON14 a PERSON10 to nemohou napravit, protože komentoval něco, co řekli. Neví, co s tím dělat, takže to nemohou napravit. Nemůžou nic udělat. Komentoval, jako by to opravdu bylo tam.
+* PERSON14 má spoustu nových fotek.
+  - Fact: Obrazy jsou umístěny za kapitolami.
+  - Disc: Má problémy s polohou rámů, nelíbí se mu, že obraz s pilulkami je příliš špinavý.
+  - Fact: Skládá pro něj fotky.
+* PERSON14 by se rád přestěhoval do chatu, aby se vyhnulo neustálým setkáním.
+  -- Disc: Na setkáních se lidé cítí nuceni něco udělat, i když v poslední době to nedokázali.
+  - Disc: Pokud lidé nemají problém s schůzkami, mohou s nimi pokračovat každý týden.
+* PERSON2, PERSON10 a PERSON4 jsou znepokojeni tím, že bude zablokováno. Neví, kdy vláda bude hrát a kdy se bude konat tisková konference. Filharmonika nemohla během prvního zablokování cvičit a nahrávat, protože nemohla mít koncerty.
+* PERSON2 a PERSON10 vypnuly schůzku. Je schůzka štítné žlázy naplánovaná na příští středu. Ve středu schůzky je tigra, která je spojena s schůzkou štítné žlázy.
+  - Disc: Bude tam divadlo pro schůzku, pokud je zrušeno.
+* PERSON14 bude příští týden na dovolené.
+  - Fact: Příští čtvrtek ráno mohou udělat LSD a online schůzky.
+  - Disc: Příští středa budou mít tygra.
+  - Fact: Udělají to příští čtvrtek v 11 hodin. Termín pro ECL je dvě hodiny před termínem pro ECL.
+* PERSON4 byl odmítnut na EMNLP, protože napsal něco z Nixu, co tvrdí, že není to samé.
+  - Disc: On tam udělá další pokusy a řekne jim, jak to jde. PERSON4 a PERSON14 nám řeknou, jak to jde.
+* PERSON14 chtěl, aby PERSON2 tam napsal, co má, ale Von ještě musí udělat administrativní práci. Včera vyplňovali zkoušku a Von musel jít do ITAT, takže aspoň budou vědět, jak ji vyplnit.
+* PERSON14, Radolf a PERSON10 diskutují o tom, že PERSON2 cestoval a se moc nesmál, jako když byl v Praze.
+  - Fact: Slovakia zakázala cestovat z Prahy a v okolí je husa. Von byl v Chorvatsku předtím.
+* PERSON4 a PERSON10 jsou na schůzce.
+  - Fact: Podle PERSON10 se kniha právě vytváří.
+  - Disc: Setkání se právě odehrává a právě teď se vyrábí kniha.
+* PERSON4 poslala připravenou kameru do černé skříně.
+* PERSON10 a PERSON4 budou mluvit o článkůch EMNLP v pondělí, kdy bude mít camera termín.
+  - Disc: Pojem "předběžná kamera připravená" je nový pojem pro období mezi návrhem a připravenou kamerou.
+* PERSON4 dělá to, co má dělat.
+  - Fact: Jestli se černému boxu něco líbí, může mu to předložit.
+  - Disc: PERSON14 neví, jestli to bylo něco takového, nebo jestli dal nějaké připravené předkamery.
+* PERSON2 pošle odkaz na skupinu Google na slag zjistit, zda PERSON4 a PERSON4u se chystá prezentovat zítra.
+  -- Disc: PERSON14 nebyl v kapele dlouho, takže nejspíš ani nic nedostal.
+* PERSON14 má lety Českých aerolinií a Nicholas High School v Plzni. Má skupinu s nejstarším datem, 26. 25. října 2, 2000, 7,000. Má také další skupiny pod jiným účtem.
+* PERSON4 neví, kdo je Jan Kraval, takže nemůže pomoci PERSON14 s Jan. Kravalovým problémem. Jan. Kraval je slavný hudebník a politik.
+  - Fact: Je spolupracovníkem Jana.
+* PERSON14 se pokusí objednat pro sebe sto třicet sedmdesát stranovou knihu, Rudu, PERSON2 a PERSON10.
+  - Fact: Kniha má sto sedmdesát stran, ale rejstříky a tak dále ještě nejsou tam.
+* PERSON14 může napsat ORGANIZATION1 nebo se zeptat ostatních autorů knih, jestli to vyřešili.
+  - Disc: Michal Novák ten problém nevyřešil, takže autoré knih, které předložili své disertace, to taky neřešili, podle PERSON4.
+* Termín pro vydání knihy byl 30. září. Kniha měla být dnes odeslána recenzentům, ale Hajč ještě nereagoval, takže ti recenzenti ještě nejsou.
+* Lhůta je dnes, takže kniha musí být v životaschopném stavu rychle. Po ponoření Hajich, kniha bude odeslána jako návrh recenzentům.
+* PERSON14 pošle text recenzentům za den nebo dva, aby se ujistil, že nejsou žádné velké díry v textu.
+  - Fact: Texty byly přečteny alespoň jednou a komentovány, ale komentáře na ně tak nějak reagovaly.
+* PERSON14 chce poslat knihu recenzentům dnes. Bude trvat 2 měsíce, než bude kniha vytisknuta.
+  - Disc: Ta kniha je pryč.
+    -- Fact: Lhůtu lze změnit do února nebo března, ale PERSON14 si na to nechce zbytečně věnovat čas.
+* PERSON2, PERSON10 a PERSON14 nechtějí dotýkat se malých věcí najednou, ale možná by chtěli udělat nějaký soustředěný úsilí, aby se jich jednou znovu dotkly. PERSON10 přečítá většinou fikce, zatímco PERSON14 přečítá většinou nefikční.
+* PERSON10 chce přečíst kapitolu PERSON2 a kapitolu PERSON14 a vyjádřit se k ní.
+  -- Fact: PERSON14 napsala jen poslední kapitolu konluce k závěru her, takže to nemůže udělat ani ona.
+* PERSON14 musí přepracovat rámy, aby je krásné, protože stále jsou hnusné obrázky všude. Vyvolávač je příliš tenký a šipky by měly mít větší hlavy, a šipka tak, že nemusí řezat n. Jedno-jeden obraz je hnusný.
+* PERSON2, PERSON10, PERSON4, a PERSON14 diskutují o nápisech a obrázku, který je třeba umístit na stránku. Všichni souhlasí, že by to mělo být na hlavicích a v jedné řádce zde texty, ale ne souhlasí s detaily.
+* PERSON4 a PERSON14 nechápou, proč neexistuje popis třetího kuponu, který byl odeslán, ale nenapsali žádné dokumenty o tom. Nemají žádné dokumenty o popisu papíry vůbec v tom vidění. Pokud není nic napsat o tom, prostě pošle podání a napište do něj odstavec.
+* PERSON2 si uvědomil, že na druhé linii vodopádu je sto miliónů rozbitých. Bude je systematicky spojovat. Dlouho se to děje, takže mezi řádky je nerozdělitelná mez, takže to nevypadá slušně.
+* PERSON2 a PERSON4 chtějí vybrat průvodce styl pro psaní v Americké a následovat ho. Nejsou si jisti, zda číslo by mělo běžet na konci řádku nebo být rozděleno na sto a milion hodin.
+  - Fact: Tisíc tří je na čtvrtém řádku od spodu.
+* PERSON2, PERSON4, PERSON14 a PERSON2 diskutují o tom, jak napsat čísla, které pokrývají více než tři řádky v angličtině.
+  - Disc: Souhlasí, že by se měli sjednotit, ale PERSON2 neví, jak to udělat.
+    -- Disc: Obává se, že to tak nepíše.
+* PERSON14 nemůže najít tisíc na straně devadesát sedm jeho knihy.
+  - Fact: Většina textu je buď citována, nebo v citování. Jediné dlouhé číslo je číslo grantu..
+  - Disc: Vlna nevyřeší problém anglické typografie. České návrhy jsou jen citovány.
+* PERSON2, PERSON14 a PERSON10 musí psát čísla na deset slov. Od 12, musí to udělat ručně.
+  - Disc: Diskutují o tom, jak psát čísla, jak udělat tenkou díru v řádku a jak vyřešit problém.
+* PERSON2 by tam mohl omylem opustit procento, protože je zvyklý na to takhle. PERSON4 si toho výrazu v tom přísloví nevšimne.
+  - Fact: PERSON2 požádá PERSON4, aby to vymazal nebo ne, protože je to jen 3,5 % vzduchu.
+* PERSON4 cituje knihu, i když kniha vyjde zítra, protože je v dalekém, dalekém poli a ona si nemyslí, že by o tom byla zpochybněna.
+  - Disc: PERSON2 se ptá, proč by citovala takovou knihu, i když ji zítra nepůjde.
+* PERSON2 byl do dnešního dne na dovolené. Zítra běžně půjde do práce.
+  - Disc: PERSON14 stále plánuje přijít zítra, pokud se něco nestane. Nechce chodit, chce chodit normálně.
+  - Fact: Musí nosit klobouk v kanceláři.
+* Pan Prymula předstírá, že by mělo pokračovat to, co je divadlo a koncerty vážné hudby, a to, co je fotbal, by mělo být zakázáno.
+  - Disc: Vstupenky jsou divné, kde jsou místa, show je všechno státní peníze.
+* Počítač PERSON14 pracuje, ale LUSTR ne. Von má problém s IP verzi 6. Pokud kliknete na prohlížeč, můžete se dostat na internet.
+  - Disc: LUSTr nefunguje, chybí LUSTRI.
+* PERSON14, PERSON10 a PERSON2 se sejdou ve čtvrtek, aby vyřešili problém idiotů.
+  - Fact: Jestli tam Ruda nebude, bude někdo muset něco přečíst nebo o tom něco psát.
+  - Disc: Jestli nebude schůzka, tak nikdo nic nepíše.
+* PERSON2 a PERSON14 se zítra sejdou. Oba budou mít dovolenou, takže se zítra fyzicky uvidí.
+  - Disc: Článek o ECL je již napsaný, takže není nutné zrušit schůzku, jak je již napsaný.
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

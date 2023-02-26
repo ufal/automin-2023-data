@@ -1,0 +1,66 @@
+Summary:
+
+* PERSON8 is going to have a quick phone call with someone he doesn't need to know a lot of detail about. He hopes the call will be quick and they will discuss nothing in detail. He doesn't know anything that he needs to know. 
+* PERSON8 wants to know the proposed development schedule and when there could be some preliminary some prototype implementation that they could test. 
+  -- Fact: He saw PERSON6 on the call, but her camera is disabled and she doesn't know if she can speak. 
+  - Disc: He also sees PERSON7 joining the call. 
+* PERSON8 and PERSON10 are working on a project. The project is called ORGANIZATION1. PERSON10 is preproving a Python based preproccessing. 
+  - Fact: He will forward the requests to the PROJECT3 server himself. 
+* Next week he should know if the proof of concept worked. 
+* PERSON8 wants to know more about the handling of timestamps in the presentation platform. 
+* He wants to hide them from the (Python) and PROJECT3 servers. The presentational worker should handle only one timestamp at the beginning and the end of the segment. 
+* PERSON8 and PERSON6 need to discuss how to present partial translations and partial output. They need to decide if the textfield content can be sent several times as an update or if it should be replaced or scrolled up based on messages. 
+* PERSON8 and PERSON6 discuss the development schedule for the presentation platform on Monday. 
+  - Disc: There is no prototype available at the moment. 
+* The first prototype should be presentable at the 15th of June. 
+  - Disc: The development team will probably have something close to be fine advertial to use as a prototype. 
+* PERSON8 wants to start as many workers as possible in ORGANIZATION3. 
+  - Fact: If there is some hardware limits, they can also run some from here. 
+  - Disc: He is asking PERSON11 if he has any idea of how to do it. 
+* PERSON8 is going to meet with a group of ASR workers. 
+  - Disc: They are not sure if they have the platform and if they can start working together. 
+  - Disc: They want to view some voice recordings and listen to some other things, but it's not clear if it's possible. 
+* PERSON8 suggests to switch to the ORGANIZATION2 platform. 
+  -- Disc: ORGANIZATION3 will prepare an image and ORGANIZATION4 will try to get it running. 
+  - Disc: PERSON8 would like to see how that works if the workers are available and if they spend some time to run them. 
+* PERSON8 is able to provide 16 workers for PERSON8, so it's not too big a burden for him. He can do it whenever he likes and then for the other people. He will do it like whenever they like and and for them. 
+* PERSON8 wants to stop setting limit number workers because 16 is already not comfortable for Ty. 
+  - Fact: The limit number is a list of things running on the same computer at the same time and also from memory or from memory. 
+  - Disc: Ty agrees with this idea. 
+* PERSON8 wants to have two sides of ASR workers providing the workers for the workshop. 
+  -- Disc: He wants to ask PERSON3 if he agrees with this idea. 
+  - Disc: He also wants to talk to PERSON3 about spreading the image out for the long-term. 
+* After the call, PERSON8 will reboot to windows and see if he can connect to the room. The presentation will be tested with ORGANIZATION2 after this call and here'll be the oral version. 
+  - Fact: The presentation can be found at ORGANIZATION2 and posted here. 
+* PERSON8 and ASR worker the bug are talking to each other. 
+  - Disc: They think it's probably something added by PERSON4, who is also responsible for the bug, and it was probably added by ASR. 
+* PERSON8 and PERSON4 are worried about the situation with organizing the call yesterday. 
+  - Fact: One of the workers died out during the session. The other one was available, but he didn't produce anything. The problem is that the worker can handle several sessions, but then it stocks and doesn't return any output. 
+* PERSON4 has a problem with a call. He can't find the source of the wrong information. He will try to find the correct one. 
+  - Fact: in the search engine. It turns out it was in the call. 
+* PERSON8 advises PERSON11 to create a script that will replicate the bug. 
+* He suggests setting up a support mediator and connecting only one worker to this mediator. 
+* The script should be like a stress test and put it to the cruise control repository. 
+* PERSON8 has a problem with his work. The mediator will stress test a single worker to help him solve the problem. 
+  - Disc: The problem can be solved only if the mediator can help him. 
+    -- Disc: PERSON6 will help him with that. 
+* PERSON4 changed the default parameters and comment send documentations in the production client and removed the Windows version. 
+  - Disc: The production client is different from the simple one only by a by-step. It's okay for everyone as it doesn't need to support Windows version of the client. 
+* PERSON4 is having problems with the text text client on Linux. 
+  - Fact: He sent an email to several people but didn't get any replies. He will send the email again to PERSON6 and will resend the email to the correct the text client. 
+* PERSON4 wants to know who is responsible for MT clients on PERSON8's side. PERSON8 confirms that it's PERSON6 and PERSON9, but he doesn't know if PERSON9 is the right person for it. He will try to confirm it. 
+* PERSON8 explains the schedule. 
+  - Fact: They have up to four calls a week and a workshop. 
+* They need to synchronize the times of the calls. If there is a problem with the schedule, people should put it in the document and they will find a slightly different hour. 
+* PERSON8 wants to know if anyone is planning to come to the workshop. 
+  -- Disc: PERSON6 won't come as he will be in Trento checking blogs and checking the internet instead. 
+  - Disc: He will be there to support the workshop with his heart. 
+* PERSON8 is going to reboot and try to lodge the ORGANIZATION2. If it doesn't work for him, he will try launching it himself. 
+* He will be in touch and speak to you next week about the MT models and the final list of models. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

@@ -1,0 +1,44 @@
+-[PERSON8], if [PERSON8 would join as well, I would like to hear from everyone what they are working on and what's the status.
+-Presentation platform is not working yet, you can see it in the form of its structure and structure working, presentation platform is slowly taking its form and structure is working.
+-There are some text only client or text only version that was simply emit subtitles to standard output, So if you are curious about the possibility of having some real video mixers available for three days or two days.
+-If the presentation platform is not available for subtitles, we have to explore other options.<n>PERSON2 also propose me another option for main stage presentation problem in order to present subtitles without presentation platform in order to present subtitles without presentation platform.
+-Have a text client for debugging.<n>Have a text client for presentation and for example if you have a presentation that you would like to have a text client for.
+-Explain the PROJECT worker's reasons for the decision to send the item to the correct person, so that the company can have a better understanding of the situation.
+-[PROJECT server] [ORGANIZATION7] worker and in between Python server which handlesother_noise>noise>, I have written in C which can communicate with our server and send it to the server.
+-The problem is that there is no way to test the ASR worker in the language of choice, there is no way to test the language of choice.
+-If you're working withERSON12 and you want to test the source code, you could run the pipeline from the source code, you'd be able to test the source code.
+-There is a text client which should be able to send text to text worker, And it should be able to send text to text worker, And it should be able to send text to text worker.
+-The KT translation platform is very specific to the use case that we're using it in.<n>The segmentation platform is very specific to the use case that we're using it in.
+-The problem with worker round is that it doesn't work for all the sentences, it only works for a few sentences at a time and it doesn't work for all the sentences.
+-This week we work with [PERSON14] and [PERSON6], in order find better workarounds and also test batch use case in worker.
+-The batch preparation needed by [PERSON14] is only for the preparation of data for training machine translation, so only for the preparation of data for training machine translation.
+-This solution is for training data for training MT (training data for training MT) in order to obtain training data for training MT (training data for training MT).
+-Focus on online mode working and sending audio files to mediator for online mode working and sending audio files to mediator for online mode working and sending audio files to mediator.
+-If [PERSON6], [PERSON14] and [PERSON14] are running offline it will be reasonable to send the audio files to [PERSON6 or to [PERSON14] and vice versa.
+-The problem is that offline segmentation is not really trained on the same as online segmentation, which is not really trained on the same parameters, that is why we don't have online segmentation.
+-The problem is that there is no way to check audio file prints between the PERSON worker and the audio file worker, that there is no way to check audio file prints between the PERSON worker and the file worker.
+-For offline ASR we won't have any infronts mode, for example, we won't have any infronts mode, for example, we won't have any infronts mode.
+-Forget offline mode operation, the client can only test the mission I can not know the visual still, the client can only test the mission I can not know the visual still.
+-The problem is that there is no standard way to do this, so there is no way to automate the whole process of adding sentences to client passes through little mediator.
+-The mediator works with the client to get the translation back, so that the mediator gets the translation back, so the client gets the translation back, which is the mediator.
+-It sounds like the same thing but it's not working so it's not working so it's not working so it's not working.
+-The problem is that we need to have lines that resemble output from audio recordings that we process in offline mediator mode totally outside mediator mode (in offline mode).
+-The problem is that we have very similar offline systems and very similar offline systems, that is the problem is that we have very similar offline systems and very similar offline systems.
+-The offline ASR does not use the same type of segmentation so you will have to ask about details about the offline ASR.<n>The offline ASR does not use the same type of segmentation.
+-The big risk is that if we train on segments from the online mode, we will get something very different from what we train on segments from the online mode.
+-The problem is that we don't train on actual ASR mediator output, we train on ASR mediator output from lectures - we have fine tuning from lectures.
+-The problem is that the translation quality is not affected by mismatching between the training mode and operation mode, because machine translation quality is not affected by mismatching between the training mode and the operation mode.
+-The integration of machine translation system with online ASR5 has been negatively affected by the lack of coordination between the two systems and the system has not been able to achieve the desired results.
+-The sample is not the same as the online sample.The sample online is not the same as the offline sample of the sample of the online sample of the ASR.
+-It's quite difficult to get 200000 sentences on online ASR in order to find tuning, Is is that is the problem,<n>It's quite difficult to get 200000 sentences on online ASR in order to find tuning.
+-The problem is not the quality of translation but the mismatch between the lecture data and the translation data is a real problem for us and we have some fine tuning.
+-Update the segmentation worker component of the pipeline to improve the quality of the segmentation worker component of the pipeline, this will improve the quality of the segmentation worker component of the pipeline.
+-[PERSON14] send files which do have their translations to [ORGANIZATION5], so we can check how to receive data from [PERSON14].
+-Send a message to the client asking whether the workers are available for the current day or if they will be available for the next day or the next day.
+-This is the batch debug mode for the downloading document, So we do not know exactly what exactly the bug is, so we can fix it sooner or later.
+-The problem is that we have solved this differently by going to batch operation mode, to evaluate the client text, the [PROJECT workers or [PROJECT workers.
+-The segmentation worker is not available for the o batchmode client, the text to text client is not available for the o batchmode client, the segmentation worker is not available for the o batchmode client.
+-If you have a client, you can send segmentation data to the client.<n>If you have a client, you can send segmentation data to the client.
+-Create a client for the final version of the client (it is the final version of the client which is the final version of the client which is the final version of the client).
+-The segmentation worker has a lot be code with MT worker and the client for MT worker will probably have the same problem as the text client for MT worker.
+-The CTM is the word level output of all clients and workers including [PROJECT ASR one expect already in the online mode at the workshop in June right?

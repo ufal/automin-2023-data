@@ -1,0 +1,31 @@
+We're still waiting for the others.
+Oh we're waiting for someone maybe that is going to join us, but (PERSON6) is not sure.
+[PERSON6] is not sure did (PERSON3) receive e–mail from [PERSON4]?
+And also, [PERSON1]asked my, to tell (PERSON6) [PASTER4] that (PERSON6) s– (PASTER9) should think about the possibility that – Basically the moment the travel restrictions are going d– go down, of participants meeting w– the participants meeting would really like (SERSON9) to come visit us at least for, some limited time.
+and, length of (PERSON3) the hosting agreement and other paperwork that is being prepared really has to be used as soon as [PERSON3] can arrive.
+(PERSON3) the think participants of meeting will keep (PERSON6), updated (when) the participants of the meeting will – Okay yes.
+[PERSON8], what is the status of [ORGANIZATION4]?
+(PERSON3) fear that the same situation for [LOCATION1].
+(PERSON6) will get the full support from the university, the to show them papers they need and...
+(PERSON3) is looking at it, at the participants meeting are still waiting for – how is it with [ORGANIZATION3]?
+[PERSON9] replied to him (PERSON3], on Friday and [PION1] have no messages from [PERSON9] since last Thursday.
+Participants of the meeting can definitely raise that on the Thursday call, maybe it ne– The thing that the communication is not completely perfect and, It it's sort of like a – Like it i– like it is fine but [PERSON9] raises issues new and new issues.
+[PERSON9] is preparing the leaflets he would be handing out to participants and that's it.
+Participants of the participants of meeting are just waiting.
+[PROJECT1] (PERSON6) think that, the bullet point is quite explanati– Like, what's the term.
+[PERSON6] can skip them, if (PERSON6) need to, but they are just minus one hundred priorities.
+(PERSON6) was read, well not reading but [PERSON6] skimmed through paper on the (BLUE).
+(PERSON3) is really like always s– sceptical to these machine-learned evaluation methods, right?
+[PERSON6] is thinking that it might be implemented into the pipeline somehow.
+The problem is that if, the decoder generates a sentence that is, has the same meaning, but different words, maybe participants of the meeting have a problem trying to use just (blue), right?
+(PERSON6) think that idea – [PERSON6] is not sure – Like they, they their argument about metric being semantically sensitive or what's the term?
+Like right, (PERSON6) guess with paraphrasing or if the participants of meeting use it for example for paraphrasing, participants of the meeting might use the metric, to estimate the sim– simil– like semantic similarity but still have the constraints to enforce some like surc– surface form, distinction or something like that (PION9) guess.
+maybe just like (PERSON3)'s stupid question why do participants of meeting need this eva– new evaluation for MT?
+(PERSON6) can – Why do the participants of meeting need like another like non–standard metric for evaluation?
+And the participants the meeting can use it either for paraphrasing, right, which BLEU doesn't capture, because it's just using the surface forms during evaluation.
+The idea is that w– participants of the meeting could add as many, as many constraints the participants the meeting want and see ho–how many can the participants of meeting add until they lose the meaning completely.
+[PERSON2] think that the participants meeting can focus on this.
+Still still still (PERSON3) guess the metric can be, can be useful during, let's say some fine–tuning or development phase.
+(PERSON6) is not sure [PERSON6] wants to have a longer meeting this week t– about the [PROJECT4], like?
+The participants of the meeting can still discuss the matter after the meeting meeting, (PERSON6) was thinking yes – Okay, later let's keep it that way.
+[PERSON1]and the participants of meeting should try to have meeting for the task next week together with him.

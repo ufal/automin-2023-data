@@ -1,0 +1,86 @@
+Zápis ze schůzky
+
+Datum schůzky: 19. 11. 2020
+
+Téma: Schůzka projektu [PROJECT2]
+Vedoucí schůzky: [PERSON2]
+Účastníci: [PERSON2], [PERSON1], [PERSON3]
+
+
+
+- Byly zkráceny názvy u obrázků.
+- Vložení GLS BERTa: v krátkém názvu obrázku se rozepíše celý BERT: název pak není tak krátký, jak se předpokládalo.
+- První stránka je dokončená.
+- Druhá stránka: vyplněni revieweři: nutno požádat o ISBN.
+- Acknowledgements: zatím tam žadné nejsou: nutno rozhodnout, komu se v publikaci poděkuje.
+-- Návrh poděkovat pouze jednomu grantu.
+- Afiliace: zatím není.
+- V knize chybí informace, odkud pocházejí její autoři: je tam uvedeno pouze to, odkud jsou revieweři.
+-- Informovat se, zda je nutné tuto informaci uvádět.
+- Motto v knize již není.
+- Obálka knihy bude oranžová: bylo možno barvu změnit, ale nyní na to již není čas.
+- Porovnání obsahu knihy s knihami jiných autorů.
+- Reviewery uvádět bez titulu.
+- Návrh poděkovat v acknowledgementech svému ústavu: bude tak jasné, odkud autoři jsou.
+- Motto: zatím nevybráno: není nutné jej mít.
+- Dedikace: není nutná.
+- Introduction: něco doplněno: návrh projít nejprve to, co chybí a poté se zaměřit na introduction.
+- Deep learning: žádný pokrok.
+- Figure 1. 1.: byly vylepšeny obrázky: smazat to-do.
+- Afterword: nikdo neměl žádné komentáře: komentáře, které tam nyní jsou, byly původně u něčeho jiného: návrh mít polemický závěr.
+-- Nutno přečíst.
+- Summary: něco doplněno: třeba ještě některé věci přepsat: něco je příliš podrobné a něco příliš stručné.
+-- Návrh uvést nejen to, co bylo provedeno, ale i co se zjistilo.
+-- Návrh něco zkrátit a přesunout do conclusionu.
+-- Neuvádět čísla kapitol.
+- Každý napíše ke své kapitole, co v ní je.
+- Čtyřka: návrh napsat závěry a co bylo zjištěno.
+- Zmíněno, že summary se podobá abstraktu: není úplně jasný rozdíl: některé knihy ale mají obojí.
+- Do introductionu byly vloženy některé věci ze summary.
+- Summary: smazat chaptery.
+- Přepsat druhou nebo třetí větu v summary.
+- Zkusit více rozepsat trojku a čtyřku: potom se to celé sjednotí.
+- List of figures: rozepsaný BERT: zkratky v popiscích jsou psány písmeny: není to problém: stejně není možné rozkliknout.
+- 5. 15.: mnoho překlepů: bude provedena kontrola v Grammarly.
+- List of tables: tabulek je málo: pouze devět.
+-- 5. 5.: příliš dlouhý popisek.
+- Seznam zkratek: mBERT je zde rozepsaný.
+- Zjistit, zda mohou být věci do tisku modré a zelené.
+-- Zelené jsou citace.
+-- Návrh nastavit colour mapy.
+- Bibliografie: zkontrolovat, zda věci, kde je citovaný archiv, již nevyšly někde jinde.
+-- Zotero tuto funkci nemá.
+-- Dlouhé věci s dlouhými odkazy: odkazy jsou zbytečné.
+- Index: jsou v něm spíše náhodné věci.
+-- Makro pojem je pouze tam, kde je definice pojmu.
+- Diskuze ohledně zkratek: některé zcela nevyjadřují to, co by měly.
+-- GPT a GPT 2 by mělo být odděleně: je mezi nimi rozdíl.
+- Odkazy být mohou, ale nemusí být rozepsané.
+-- U BERTa by to stačilo rozepsat pouze na začátku, kdy se definuje model.
+- (Bleu) nebylo uvedeno jako abbreviation.
+- Introduction: návrh uvést zaměření na MT a předtrénované modely.
+-- Mohlo by být podrobnější.
+- Návrh poděkovat recenzentům.
+- Diskuze, zda je lepší mít jeden obrázek na stránku, nebo dva obrázky nad sebou: z pohledu uživatele je horší případné otáčení stránky.
+- Zjistit z kolika stránek se skládá jeden svazek: na kolik archů bude kniha: kolik stojí jeden arch.
+- Zkontrolován to-do list: rozděleny úkoly.
+- Příští schůzka se bude konat v pátek.
+
+
+
+
+
+Zápis předložila: [ANNOTATOR1]
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,208 @@
+(PERSON7) Everybody is busy,
+
+
+so let's make this very quick. So I think that the first prototype should be ideally ready, uh, on the 7th of June, like the first very first shot with with box and all of that. (PERSON12) Ooo, I am not able to tell you if it's feasible, 
+
+
+but I taking notes. (PERSON7) So Monday the 20th of May at ten, 
+
+
+and will discuss what what we need in the platform and-. I don't think <unintelligible> dusted off my copy <unintelligible> 
+
+
+(PERSON7) Okay. And we are continuing translation of our sentence level transformer for these incomplete sentences. So we need to try a few more times and
+
+
+Do we have any one from eehm-
+
+
+yeah, we have [PERSON3]. So, [PERSON3], could you disclose,
+
+
+how should we best handle the- the incomplete sentences, 
+
+
+because what we do not want to do is to rely on the cashing client. But the main reason is the cashing client makes the latency too big for the final users. When I 'm looking at the outputs of of the ASR,
+
+
+it's not complete sentences,
+
+
+but it's closing off every now and then, 
+
+
+so how does this work? But still the ASR worker decides to fix word before this end of the sentence is that possible? But the ASR signals is explicitly, but come a time when the when the sentences markets final 
+
+
+And that will also <unintelligible>
+
+
+(PERSON7) Yeah, so what do-
+
+
+in general if we run the the segmentation worker,
+
+
+if you run pipeline and if we look at the outputs of segmentation workers,
+
+
+we should train our empty systems to work on all the individual lines that we are getting from these. (PERSON6) Yes,
+
+
+I 'm-
+
+
+I 'm not train with these system myself I think we're in the process of doing them,
+
+
+but my intuition would be do not put too much emphasis the incomplete sentences. So this is the output of the secon- English unsegmented text, 
+
+
+to s- to text. And we should change our training data for the MT systems,
+
+
+so that they would gracefully handle input like this. And and find tune on these strange- strangely segmented inputs. Um, I would have to be at the coding <unintelligible>
+
+
+(PERSON4) Hmm, cause cause the first segmentation is fine. I want to do more later on which is absolutely fine and then it is gone crazy. What what I'm miss here,
+
+
+and I think that's that's a problem that has to be solve very soon is that (the herd) zero. This saw statistics on the internet,
+
+
+actually starts in the middle of or like is it some continuation ehm of of something which already output. So there will be quite quite on tricky coordination between the components. So we didn't -
+
+
+We do not necessarily have to rely on the alignment. If you and [PERSON4] could like synchronize
+
+
+and make sure that [PERSON4] will know where the relevant code is,
+
+
+then [PERSON4] can decide whether in his re-implementation for [PROJECT4]. And it will have only the baseline that I just described for the workshop. Option two is to train MT or fine tune send level models to gracefully handle badly segmented input. And this will make a fall back solution for <unintelligible>
+
+
+Well,
+
+
+fully following uhm the segmentation from the segmentation worker. Well, the the thing is that EB client will now <unintelligible> in a different connector. The idea is that we are-
+
+
+we are working on this cruise control. (PERSON6) We spoke yesterday <unintelligible>
+
+
+(PERSON7) Yeah, one thing is the language model adaptation. Are you ready for us to send the plain text files and add work granularity. (PERSON6) Generally any any sort of text is <unintelligible>,
+
+
+on sure exactly how detailed it has to be
+
+
+I'm, I'm not sure. So, please you,
+
+
+let us know next week, 
+
+
+yeah, 
+
+
+[PERSON3] to investigate what will be supported at [PROJECT3]. So, uhm, yes,
+
+
+we should call the integration,
+
+
+call the integration and segmentation worker for Czech. So we will see in practice, 
+
+
+whether we like-
+
+
+which output we like best. And we can have the ASR from, uh, from German,
+
+
+if that's if that appears the best. So I think we should as weeks pause we should indeed do this on a daily basis. He is still like-
+
+
+he knows how to train [PROJECT4],
+
+
+but somehow it doesn't really work for for him. We see German ASR,
+
+
+German to English machine translation, 
+
+
+(PERSON7) Yeah. (PERSON7) And English to anything machine translation and the presentation platform at the end. (PERSON7) So please, test this, 
+
+
+and let us know again next week, 
+
+
+if this works, 
+
+
+because then we will be replacing this part was the [PROJECT4] worker that [PERSON4] will be developing,
+
+
+but we need to know that the rest works. Test the fine tuning from start document on <unintelligible> real. [PERSON3]  are-
+
+
+[PERSON3], are you looking at the [ORGANIZATION4] document? (PERSON7) Yeah, 
+
+
+and it was in the at the level of partial sentences? And now I had publick-
+
+
+Now, now I have new idea that we can take paralel big paralel text only corpus then we are text to speech on it,
+
+
+and then ASR,
+
+
+and we try and on the output from ASR with- with errors against the original targets. It would be useful, 
+
+
+but we could do it,
+
+
+ehm, even say, would be extremely useful for you to see the whole thing in in practice, 
+
+
+because the last person we had here were [PERSON2]. So it would be better if if someone from the project was was here. We have discuss the presentation platform, 
+
+
+and then is it-
+
+
+Is there anyway this like a feature request for [ORGANIZATION2]? So like in in search for components that work,
+
+
+it would be better if we could simply say please start this pipeline again 
+
+
+and avoid this worker, 
+
+
+because it's under the control of [ORGANIZATION6] the worker claims it's working, 
+
+
+but it's not delivering the output. So like I imagine that at [ORGANIZATION6],  
+
+
+there could be a script every two minutes or whatever, uh, 
+
+
+looking at all the ideal workers 
+
+
+and asking for a particle worker, uh, 
+
+
+to test it. I was hoping to have this faster,
+
+
+but-
+
+
+well, there is too many things to discuss.

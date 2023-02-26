@@ -1,0 +1,38 @@
+Attendees: [PERSON13], [PERSON3], [PERSON16], [PERSON8], [PERSON15], [PERSON6], [PERSON7], [PERSON2]
+
+Summary:
+[PERSON7] [PERSON15] are trying to , recover from [PERSON15]'s  past , missed sessions by coming twice . And that is , [PERSON16] need to be logged into , one , of , the machines . 
+
+[PERSON16] can , probably replay that and , see what we can do about the , recognition quality . And otherwise , what is [PERSON13]'s  , progress with other things , evaluation . right now , [PERSON16] is looking into that . how could [PERSON16] identify the files , which are too big to be uploaded to [PROJECT3] . 
+
+[PERSON16] 'll do for one folder , and then they will do it for the rest . 
+
+[PERSON16] was doing it now , just before this call . 
+
+[PERSON13] asked  is , he is that the full [PROJECT13] archive ? PERSON6] and [PERSON2] , will [PERSON16] be here after the call . This is just because [PERSON6] have dentist's appointment , in one hour . if [PERSON15] could look at this would be extremely useful . let us move on to , the idea that [PERSON13] have , discussed yesterday , but [ORGANIZATION2] is not too keen on that . 
+
+[PERSON13] hope that [PERSON16] can have a look at the paper . 
+
+[PERSON15] suggest that , like [PERSON13] . Could [PERSON15] get in touch with [PERSON8] and process all the files that [PERSON8] has for ,[PERSON7] agreed . 
+
+[PERSON13] do not know whether [ORGANIZATION2] can fine tune . do the , as [PERSON13] wrote in the email , do the files . and , [PERSON3] will also send [PERSON3] another [PROJECT3] repository , which we have that ,To make some [PERSON17]es in their editor and to the manual , or a revision of more conveniently . PERSON1] is the last person , mentioned in the in the in the report . 
+
+[PERSON6] asked  do [PERSON13] want to continue . 
+
+[PERSON8] do not know if it is relevant for others . 
+
+[PERSON8] just , create all the recordings for the all sentences in the corpus . 
+
+[PERSON13] asked  But can [PERSON13] do it like in a rolling buffer on the disksthat [PERSON13] would actually be training over whatever , let's . It was [PERSON8] guess how much [PERSON8] want to be played from the [PROJECT5] . And , we have , [PERSON8] guess , discussed this , earlier . and [PERSON13] replied  this also needs to be . that is everything for the most of [PERSON8] . And [PERSON6] think even in the at the beginning , we decided first to calculate C without any alignment . 
+
+[PERSON13] do not know , that is something . 
+
+[PERSON13] hope [PERSON6] can see [PERSON13]'s  screen now . If in German , if , for example , [PERSON13] cannot say the rest before saying there verb . 
+
+[PERSON13] will , [PERSON13] will fix that . 
+
+[PERSON13] have already found the answer . But [PERSON13] is confused by the numbers in here . But [PERSON6] think last time when we made . The hand calculated , and [PERSON6] think those numbers , all of them was card . 
+
+[PERSON6] think it was based on the number of characters . If [PERSON6] apply the formula to O itself , it should obviously arrive at two , three , five . Because as [PERSON6] remember simpler calculations . Just can [PERSON13] ask if , [PERSON2] , if [PERSON6] follow ,Because [PERSON6] forgot it . 
+
+[PERSON13] is thinking if this is simple enough to call it simple . But that is the alignment view , and "das" is not perfectly aligned to this , if [PERSON6] look at it , proportionately . The other one [PERSON13] asked [PERSON6] . And then do [PERSON6] already have access ? [PERSON6] have to click to all the emails .

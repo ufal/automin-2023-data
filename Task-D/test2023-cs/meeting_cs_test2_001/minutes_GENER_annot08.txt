@@ -1,0 +1,23 @@
+Přítomni:
+[PERSON11], [PERSON6], [PERSON7], [PERSON10]
+Datum: 12. 11. 2020
+
+Řešilo se:
+Úvodní přivítání a debata o knize, který termín vydání vybrat.
+Debata o autorovi prezentace z minulého roku.
+[PERSON11] slíbil přednášku na semináři.
+[PERSON11] navrhuje obsah nadcházející prezentace z prezentace minulé.
+[PERSON11] pošle [PERSON5] abstrakt, co budou všichni společně prezentovat na přednášce.
+Procházení recenze na knihu, dohoda, jak se co upraví.
+Diskuse o používání a významu pojmů supervise learning, supervise probing.
+Každý si projde svoji sekci v knize a vyřeší komentáře od recezenta.
+[PERSON11] vytvoří slajdy a každý si přidá obsah do své sekce.
+[PERSON11] napíše introduction.
+Dohodnutý termín na další mítínk.
+Minutes submitted by: [ANNOTATOR1]
+
+
+
+
+
+

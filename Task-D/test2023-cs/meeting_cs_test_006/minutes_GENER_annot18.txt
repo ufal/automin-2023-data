@@ -1,0 +1,37 @@
+Schůzka [OTHER1], 2020-01-21
+Přítomni: [PERSON8], [PERSON15], [PERSON9], [PERSON2]
+Na schůzce bylo řešeno následující:
+• Musí být ještě dva články (PBML a TSD nebo Itad)
+• Deadline PBML je 24. června
+• Deadline TSD je 10. dubna
+• Deadline na knihu je 30. červen
+• Deadline na Itad je 6. března
+• Deadline na calling je 8. dubna
+• Deadline na Black box je 15. červenec
+• Deadline na EMNLP je 11. května
+• Probrán obsah článku dvou žen
+o Metoda nememoruje
+o Mají testovací a trénovací slova
+o Jejich metoda je jednodušší
+o Udělat survey
+o Možnost sepsat na toto téma článek, jak může být lepší reprodukovaná metoda
+o Zkoumat, jestli je možné měřit, pro jaké slova to generalizuje, pro které to memorizuje
+• [PERSON8] udělá survey, bude se cílit na TSD a calling
+• Články do knihy rozdělit podle toho, co se tam zkoumá (např. embeddingy, kontextové embeddingy, attentiony)
+• Každý si zpracuje svoji přidělenou část a [PERSON15] zpracuje úvod, pro který použije svou dizertaci
+• Kniha by měla mít alespoň 150 stran
+• Kniha bude psaná jako populárněji jako přehled
+• Kniha bude napsaná v angličtině
+• V knize bude podrobnější úvod o neuronkách
+• Kniha se píše: pro [PERSON4], pro lidi z ACL, pro Plzeňáky
+• Je potřeba dořešit recenzenty, až to bude aktuální
+
+
+
+
+
+
+
+
+
+Zápis sepsala: [ANNOTATOR1]

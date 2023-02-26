@@ -1,0 +1,30 @@
+Attendees: [PERSON8], [PERSON9], [PERSON4], [PERSON2], [PERSON14], [PERSON15], [S ]
+
+Summary:
+There is [PERSON4] and [PERSON15] is not writing . 
+
+[PERSON8] know what [PERSON8] have been working on . Audible cell ties data preparation first priority [PERSON9] to test the script first. now [PERSON8] shall hear [PERSON14] better . PERSON9] proposed that he would test the ASR and the segmenter independently , separately . And [PERSON9] would to review the scripts , not to test them . And then , and then [PERSON14] is planning . exactly , [PERSON14] needs to get all the input files for , [PERSON13] has prepared those , splitting , consecutive into smaller chunks and [PERSON4] knows where they are too . 
+
+[PERSON8] do not know wheter we have anyone of them . Do [PERSON8] have the input files for this , or not yet ? [PERSON8] just wanted to mention that [PERSON13] has already . And [PERSON8] had to replace them in the released files with the with just language or nation names . parallel_talkwe do not have [PERSON13] here on the call . 
+
+[PERSON8] shall be leaving very shortly myself . But , it is important told to them that we most up to date OST versions are in the in some repositor , which [PERSON14] do not have acces to . And this should be done by [PERSON13] and [PERSON4] , but they are not doing that. And [PERSON14] should start Antrecorp , [PERSON14] should start with Antrecorp because [PERSON14] already working on academy , right ? put the path of the files that [PERSON14] are processing here . do [PERSON14] need to create the support director in a not and we have about . , it is not to important where [PERSON8] process the files . 
+
+[PERSON14] is also aware of the and the Antrecorp . 
+
+[PERSON8] is copying now the Antrecorp with the texts , which is , which is ok . 
+
+[PERSON8] see , it is Antrecorp files with the test are clean all audible cell ties . this is something that [PERSON14] should drive first . 
+
+[PERSON4] shall have to leave already but it is important ask to . 
+
+[PERSON8] shall forced alignment selected . 
+
+[PERSON8] think that [PERSON8] would like to hear from [PERSON15] who is still on the call whether [PERSON14] have started pushing anything into the new repository for [PROJECT2] test set . , [PERSON8]'s  real one with whom it workfar . I've just done a the yellow lines , which is a good input for [PERSON14] . This is what [PERSON8] renamedand similar thing has needs to be done for this. 
+
+[PERSON4] asked  [PERSON8] want somenthing [PERSON14] can run force alignment . we can make it green also , because [PERSON14] has . This is the Portuguese is the perfect thing. The only problem is that this red , [PERSON8] shall make it red now. The chunked version that does not does has an ugly name. if [PERSON8] have not done that myself then do it tomorrow , . it is partial than complete but not yet perfect because [PERSON14] was too . 
+
+[PERSON9] asked  what is new [PERSON14] ? which are [drop] [PERSON14] shall to realize . 
+
+[PERSON9] is finishing the paper about subtitler . right now [PERSON15] is working on 3 languages Polish and Polish , German , Russian . And after that [PERSON15] will collect from other 43 languages . Just [PERSON4] is checking the sheet list . 
+
+[PERSON4] asked  in this case [PERSON4] will create yourself the JSON file , ? if [PERSON14] have Python script [PERSON2] saw for the rest .

@@ -1,0 +1,49 @@
+-- I m on - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers - The kids have taken all my computers
+-Hello, my name is Peter, and Im not seeing you, but Im seeing you, and Im sure you.
+-The first thing that I have been working on since this call was the paraphrasing of the rainbow model for [PERSON1], which is the model for paraphrasing for [PERSON1].
+-The problem that I have been working on is actually collecting the data that we can use for this rainbow models - The monol monolingual data th that we can use for this rainbow models.
+-To scrape the data set you need to use the free version of Excel, which is available for free at http://www. Excel.com/free/.
+-So y are you in touch with [PERSON13] - So y are you in touch with [PERSON13] - So y are you in touch with [PERSON13]?
+-This would be an parallel corpus, which would be an parallel corpus, which would be an parallel corpus, which would be an parallel corpus.
+-The problem is that I didn t write to him about [ORGANIZATION - It s not [ORGANIZATION - It s not [ORGANIZATION15].
+-They released an algorithm for mining parallel data in one hundred languages, so what they released is - So what they released is actually an algorithm for mining parallel data in one hundred languages.
+-Check out the training models that have been released, and evaluate the training models that have been released, and evaluate the training models that have been released, and evaluate the training models that have been released.
+-First of all, I have to say that we don t really train on spoken data sets, because they are very tricky to run, because you need like for GPU with sixteen gigabytes RAM at least.
+-This is the evaluation report of the [ORGANIZATION6]corpus that was started - So we need monolingual data for domain adaptation, and parallel data for synthetic data.
+-The idea that I have there is that we could distill smaller model from PERSON13 models, that are huge models that we could use for teache student.
+-The evaluation of the [PROJECT test set is more important than the evaluation of the [PROJECT test set and [PROJECT saw in on on].
+-[PERSON9] is working on the [PROJECT test set and connection to the [PROJECT test set, and the connection to the [PROJECT test set.
+-About [PROJECT test set - I think current version of - [PROJECT test set - I will speak on behalf of him - I will speak on behalf of him.
+-We created one index, publish the name of the next inside call inside the, you know, the name of the next inside call inside the, you know, the name of the next inside call inside the.
+-To develop the [PROJECT test set and [ORGANIZATION15 models for the [PERSON8 model of [PERSON8] with his [ORGANIZATION15 model of [PERSON8] and his [ORGANIZATION15 model of [PERSON8] with his [PERSON8 model of [PERSON8 model of [PERSON8 model of [PERSON8].
+-Try the test set (PROJECT4 and [PERSONin the current version) with files inside the [PROJECT test set (PROJECT4 and [PERSONin the current version).
+-You - Okay, but you want the previous version also, because you said in your you know when we were talking: It works independently, without any
+-Download the [PROJECT test set] from the [PROJECT test set] folder, and download the [PROJECT test set] from the [PROJECT test set folder.
+-Ask for thethIZATION (ORGANIZATION) - It s the same way - It s the same way - Ask for thethIZATION.
+-Ask someone if they re in Czech and working on their things, or could you check - Because I arrived in Czech and I m working on my things.
+-Next week is very suitable for me, whenever you have time - I think next week is very suitable for me, whenever you have time - I will come to university.
+-Let s finish the paper and the paper is ready for your feedback, so let s finish the paper and the paper is ready for your feedback.
+-The most lost is the person who doesn't know what to work on - That's a lot of work, and it's not fun.
+-So, I m lost here, because I m attending lecture as well as the meeting, and I m looking here and there.
+-Work with So yeah - I d be really happy if you just - Work with So yeah - I d be really happy if you just - Work with So yeah - I d be really happy if you just -
+-Please talk directly to [PERSON, and help him get the evaluation of all systems from the mediator, all connected workers, running through ELITR test set.
+-Please talk - you don t have to - This conflicts with like regular lectures let s - Your lecture has a priority higher priority than this call.
+-Please get in touch with [PERSON12 separately - I m sorry because just [PERSON12 asked me to ask you about the censorship pipeline and because he is waiting for any answer for him.
+-The censorship component is something which we want to have as a one part of the pipeline after the [PROJECT4], [PERSON12], [PERSON14],...
+-Contact Sa [PERSON14], [PERSON12] and ask him for this call and if you want I can also attend the call to - just for example to - just for example to - Sa.
+-In his master thesis, he worked on multi-target machine translation for his master thesis, which has been successfully defended in the summer of this year.<n>
+-This is the main problem with the [ORGANIZATION3 cluster access] set up, as you assume multi source set up will not work with the [ORGANIZATION3 cluster access.
+-The problem is that there is no synthetic multi-source train set available for this purpose.The problem is that there is no synthetic multi-source train set available for this purpose.
+-Ask the system and cluster access is still in the process, so you can t receive access to the system and cluster, so you ll have access to the system and cluster.
+-Start with Czec German news corpus.<n>And then we can combine it with Englis Czech news corpus to have some higher quality in German- Czech news corpus.
+-If you are a member of the [ORGANIZATION15 team, do you have access to the data collection system of this team, and do you have access to the data collection system of this team?
+-Let s discuss like directly after the call, but let s finish the common part first, and then work on the multilingual [PROJECT4] systems.
+-The data set is not strictly - But it s rather data augmentation, so it s not strictly - But it s rather data augmentation.
+-If your model evaluates well using onlinezation of your model, then we would like to evaluate your model with onlinezation of your model and if it looks good, then we would like to have that integrated.
+-The cascaded model is the end-to-end model, which translates phonemes and then followed by transform, translating phonemes and then followed by transform.
+-The evaluation of the offline runs is the deciding factor for the future of the [ORGANIZATION13] set up and the evaluation of the offline runs.
+-This is the old style cascaded, the new style cascaded, and the simple [ORGANIZATION1]only wo on the same evaluated data set eh evaluated against each other.
+-You know, I think - Yeah, I think - Yeah, I think - Yeah, I think - Yeah, I think - Yeah, I think - Yeah.
+-Try some transfer learning on of double encoder model on small GPus (English- Czech and German- Czech).<n>Try some transfer learning on of double encoder model on small GPus (English- Czech and German- Czech).
+-Train the multi-source data on small models and small GPUs first, and then train on the multi-source data on small models and small GPUs first.
+-Always try with small models and small data, and only once it works technically and does something very useful on this very small data set or on the large data set.

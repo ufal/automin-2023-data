@@ -1,0 +1,39 @@
+-The worst case is that PERSON will not be available for this call.
+-Try different language, like Czech is running, maybe down, maybe up, some of them have just going down, i think maybe down.
+-Test the German worker and the machine translation into Czech, which is done by the ASR worker and machine translation to Czech.
+-The German signal should be available for 20 minutes, and then 20 minute break and 20 minutes again because it will be only one person attending last 20 minutes.
+-Download the German empty English to German.
+-The idea is that right now on the cable, the connection is sending three English three audios to three English audios, and if anything is bad we need trace one step back to see if it was good or not.
+-Use the translation chain work.
+-The dummy back end SMT is not working, and the debugging workers are not working (I am not sure if this is true or not).
+-This is the problem of repetitive input machine translation (RAM), which is a problem for many people.
+-This is a quick question, the workers are not running, the laptop is not running right now, and why has this failed?,
+-Unfortunately we don't have the option to test the German segmenter, the English machine translation and then publish an English subtitle. But unfortunately right now German ASR is not working.
+-The German worker is used by us for his presentation platform web, which is intended for German speakers here like we have the second mike and the German worker.
+-Please, okay, there is a prototype we are working on right now, it's up and running, but maybe in status of the components, OK.
+-The problem with English subtitles is that they don't have enough characters.
+-There's something which is not working in th most probably in the examale sent, we are discussing this problem exactly this morning through the mediator.
+-Try stop sharing with participants in control.
+-Send audio and your presentation platform showing subtitles corresponding to the corresponding audio and the presentation platform displaying the corresponding subtitles corresponding that will be sent to the audience.This is what we would like to do.
+-Mark the target well signature of this EU pub, right?,
+-Elit in the presentation platform is not showing subtitles in the Elit presentation platform, but it is showing a lock in the other side of the screen.
+-There are two ways to connect English and German, the English one is very simple and the German one is more complicated.This is the best way to connect them.
+-To produce the English output only on [PERSON's screenshare only for the German target output, and only produces the English. No stop the German.
+-This is strange.
+-To test the presentation platform, we need to run a test on the web browser we're running our test on Winx, we have to run the test on web browser.
+-For demo reason we have to share m The original work, the screen sharing, and of course the Windows Firewall.
+-Start working on the pipe on Monday, and check everything together on Tuesday, and then on Wednesday, we will check everything again with audio and publication translation and publication.
+-To start with Pexip because we want to relieve workers and we need to check the work load of all target languages.
+-The browser fetch the M3U8 file from the list of available chunks.
+-First of all, let's say the system as administrator.
+-[PERSON3] mentioned three issues with this with the presentation platform, but we have not recorded appropriate record of these issues in the current state of the Google document.
+-The final end users who would be like choosing which English they want to see or should it be us selecting best English for them.
+-The language source will be Czech, Polish, Hungarian, Czech can someone dictate it from the Google Doc if it's clow down, what else?
+-For one who runs the client the information in order to change fingerprints worker is available to the client.
+-With the map, does Google let's actually try with the drawing, that's it's a new Google drawing document, Google drawings, this map.
+-Now, can anyone access the fingerprints map drawing now, se Platform worker digest these fingerprints ENEU pub.czech language=""> Okyeah, can someone access that document.
+-To access document directly, it would be better to use the screen shared document, no matter what the document is shared with other users, because they would not be able to access the document.
+-Please consider that it's an instance running on your local pc. Idea is just add just a minus pub languag to to to the current object available fingerprints.
+-This doesn't work, it's just too stupid. It's simply too stupid, it is just too dumb.
+-Load the home page to introduce new languages for example the Czech, Hungarian Polish, [PERSON6], laughing> And add these languages to this list, worker, it's registering these new languages.
+-The client browser is not connecting the workers, it just recieves the users, it doesn't connect the workers to the clients, this is the problem.

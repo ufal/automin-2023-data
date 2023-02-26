@@ -1,0 +1,41 @@
+Summary:
+
+* The high load is because of the missing multiplexing. The same ASR worker type is launched as many times as there are target languages. 
+* ORGANIZATION3 needs to provide so many workers and their have these bugs in workers so that they keep failing. 
+* PERSON7 will be around Wednesday, Thursday and Friday, but not tomorrow. PERSON1 will be on Wednesday, Friday. 
+  - Disc: PERSON7 will not be tomorrow, but on Thursday, Friday, as he will be there then too. 
+* PERSON1 wants to stream the slides from his notebook and desktop, but his desktop is not behind a firewall, so it fails to stream it for some input and output error, and his notebook is behind the firewall, and it failed for unknown error, which is probably the firewall. 
+* The functionality is working but it's hard to understand which stream is the problem. 
+* PERSON10 suggests to select the preffered path at the beginning and stream just the one we select and not perform all the possible translation and filter just the output of the presentation platform. 
+* There will be three people speaking English: one in the round table, one at the microphone and one from the respeakers. They will have to choose the preferred English stream at the beginning. 
+* They want to have the English subtitles presented from the main round table and the translations to go from the speakers. 
+* PERSON1 saw the presentation platform cutting the long string this morning. 
+* He thinks the platform should show him the two lines at the same time instead of cutting them one by one as it seems to be the case. 
+  - Disc: The platform would feed the segments from the shorter than the line. 
+* PERSON10, PERSON1, PERSON9 and PERSON1 are going to discuss the solution they prefer for tomorrow's call. 
+* They need to confirm their availability for debugging on slack. 
+  -- Fact: There were 11 ASR workers, connected ten of them, and only one and 5 of them connected. 
+* PERSON9 and PERSON10 were supposed to be unavailable but they were not. On the admin web, it says that all are not available at the moment. 
+  - Disc: The window on the right is not available, so it could be some timing issues. 
+* PERSON9 is going to test all of ASR and segmenters. If something appears there they won't see it, so it's back to <unintelligible> and they'll see it in less than a second. 
+* PERSON3 is trying to show the log output of the segmentation worker. 
+  -- Fact: The log output will indicate if the worker is idle or if there is a new connection. 
+  - Fact: The session ID is PERSON13 and the session name is 'PERSON10'. 
+* There is a point in the code where the worker knows its session ID. 
+  - Disc: This is connected to the server medi- mediator. 
+  - Fact: It is before the first message waiting for the client and covers one-third of the page. 
+  - Disc: The point is that the point is where the workers knows its Session ID. 
+* PERSON1 wants to know if PERSON11 can compile the code of this worker. 
+  -- Disc: PERSON3 has not tried recompiling it, but it probably works. 
+  - Disc: It would be necessary to recompile the worker with one print to know the session ID. 
+* PERSON1 wants to restart worker for the session ID from the ORGANIZATION2 mediator. 
+  - Fact: The log file already contains the docker ID in its file name. 
+  - Disc: PERSON3 will have to discuss the issue with the organizer. 
+    -- Disc: It will save a lot of time and speed up the process. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

@@ -1,0 +1,9 @@
+Attendees: PERSON4, PERSON1, PERSON2
+
+ * : We have been competing for the [OTHER2] parliament, and we reach the accuracy up to ninety eight percent of accuracy.
+ * (PERSON3): And then, for the presence of these re-speakers, at the conference, that actually needs to estimate the full duration of the event.
+ * (PERSON3): So, there will be more person-months necessary to process this, and like clean and train the acoustic model on that, but we should not need any recordings for the baseline acoustic model for [OTHER1].
+ * [PERSON1]: : my final suggest in regarding the adaptation is to be able to collect real re-speaking sessions in order to also be able to model not only the voice, but also the way it is.
+ * [PERSON1]: : So it's, I will add some hardware costs for the equipment, because we will have also to set up the local infrastructure for publishing.
+ * [PERSON1]: (PERSON3): Some for the equipment I think, that we will also need some of those devices for the re-speaker adaptation.
+ * [PERSON1]: (PERSON3): So, if you start a [ORGANIZATION7] doc, separate one then I'll, I'm happy to do the merging of the text into the Overleaf.

@@ -1,0 +1,47 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON3, PERSON7, PERSON9, PERSON12, PERSON8, PERSON6, PERSON11
+
+
+SUMMARY-
+ -PERSON7, PERSON12, PERSON11, PERSON10, and PERSON9 are on a conference call.
+  The microphone was muted, so the voice level of the amplification should be reasonable.
+  They have two inputs, one of them microphone has batteries but they don't have any true German There are no German interpreters for the workshop, so PERSON4, PERSON7, PERSON12 and ORGANIZATION3 could have one, German to English system, but they don't have a machine system.
+ -PERSON12 suggests to test the ASR system.
+ -PERSON7, PERSON6, PERSON12 and PERSON11 are having a discussion about the presentation.
+ -PERSON7 thinks it looks ok, but they need to talk to ORGANIZATION3 to make sure they don't get too many repetitions.
+ -PERSON7, PERSON12, PERSON11, PERSON3, PERSON9 and PERSON3 are having a conference call.
+  They need to improve the quality of the call.
+ -PERSON7, PERSON3, PERSON5, PERSON4, PERSON11 and PERSON12 are trying to solve the problem of repetitive input to machine translation.
+ -PERSON7, PERSON12, PERSON3 and PERSON11 are discussing a bug in the presentation platform.
+ -PERSON3 prepared a presentation platform web page, but the German ASR is not working.
+  He will share his screen with others to test it.
+ -PERSON12 wants to get access to the source code of the web page for debugging purposes.
+ -PERSON3 doesn't have it, but he will upload it to the repository of PROJECT1.
+  The worker is transparent, the packets he receives send back exactly as he has received them, but as a kind of processing it publish subtitle on the screen.
+ -PERSON12 is going to perform a massive test on Monday.
+  He will be available from 11 am to 3 pm.
+  The test will be on a Linux machine with Google Chrome.
+ -PERSON7, PERSON12, PERSON5 and PERSON3 are going to join Pexip next Friday.
+  They need it to check the work load.
+  The presentation platform should present all the machine translation into all the target languages, and they need to see if there are any workload issues PERSON9 explains to PERSON12 how the presentation platform works.
+  There is also ehm setting, a configuration languages displayed under the PROJECT1 logo.
+ -PERSON3 needs to register to the system in order to be able to access the administration interface.
+  The administrator web page does not exist, so it would be great if there was a shortcut to go to the admin screen.
+ -PERSON11, PERSON12, PERSON3 and PERSON1 are working on a map of the workers.
+  They need it before the 27 of June meeting.
+ -PERSON3 and PERSON12 are working on a presentation on the presentation platform.
+  They need the full list of languages that the platform accepts as fingerprints.
+ -PERSON11 launches EB client and tells EB client, here is some audio with this fingerprint it German audio, and the target fingerprint is Italian, Italian pub text.
+  EB client connects to mediator and the mediator finds the path and the path will include the worker which digest Italian text and PERSON9's presentation is not running properly on both on Windows 10 and on Windows 7.
+  The slides are too small and the slides are reduced too much.
+  The presentation should be optimized for desktop and mobile devices.
+ -PERSON12 and PERSON9 want to make changes to the presentation platform.
+  They want the text on the slides to be bigger and the subtitle to be displayed.
+  They also want to have at least 2 languages available.
+ -PERSON12 wants the clie the console client presentation platform to be able to show text in terminal window and send back subtitles directly from the presentation platform.
+  The presentation platform is not stable at the moment, but when it's stable it will be deployed on asure.
+ -PERSON3 will not be available for part of the week.
+  The goal for Friday was the full work on multiple language path selection and the multiple publishing system on the presentation platform.
+
+
+Minuted by: Team ABC

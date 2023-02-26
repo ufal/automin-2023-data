@@ -1,0 +1,70 @@
+Summary:
+
+* PERSON14 was watching a live lecture on PROJECT2 and ORGANIZATION5. The lecture has already been broadcasted. 
+  - Disc: PERSON8 doesn't understand the lecture very well, so she can't watch it. 
+  - Fact: It was live streaming. It has been broadcast. 
+* PERSON8 and PERSON14 have been working on the Russian working caraoke star. 
+  - Disc: The transcript is processing. 
+* Audible cell ties data preparation first priority to test the script first. The script proposes that the ASR and the segmenter should be run separately. 
+* PERSON8 didn't understand that PERSON9 was supposed to run the ASR and the segmenter independently, not test them, because he wanted to review the scripts first. 
+  - Disc: He was wrong. PERSON14 is sorry about it and explains it to him. 
+* For the audible cell ties submition, PERSON8 wants to run the (byplan) and for the locks for both before the segmentor and after the segmenter, and then submit the locks after the seperator. This preparation is nothing that PERSON8 sent an email about yesterday morning. 
+* PERSON14 has to do the calculation of for Czech transcript with or without true (cancer) this week. 
+  - Disc: The most important thing is the forced alignment process and AMI corpus. Antrecorp and the long chunks of supreme audit institutions are the most important. 
+* PERSON14 doesn't have the input files for <unintelligible> yet. 
+* He needs to get them from PERSON4 and PERSON13. 
+* He will e-mail them and ask them to provide him with the forced alignment for the input file. 
+* PERSON14 wants to know if the input files will be in VDD or OST format. 
+  - Fact: The files are OST, one sentence per line. 
+    -- Fact: Some of the files are too long and some of them are broken into smaller chunks manually by PERSON13. 
+  - Disc: These are critical as they are most important path for the evaluation. 
+* PERSON8 wants to have a look at the Excel Sheet. 
+  -- Disc: It's not very clear what it's about. 
+  - Disc: It can be unhelpful or unintelligible, but it's a good starting point for the discussion. 
+  - Disc: It could be useful for other people as well. 
+* PERSON8 explains to PERSON14 that there is some inconsistency of names in the OST files. 
+  - Fact: He explains that the most up to date OST versions are in the repositor, which PERSON8 doesn't have access to. 
+* He suggests that PERSON13 and PERSON4 should start working on Antrecorp. 
+* PERSON14 needs to create the support director in a not <unintelligible place. After the forced alignment and conversion to subtitles for the caraoke for preview and the OST format that SLTF evaluates, the files need to be versioned. 
+* PERSON8 is copying the Antrecorp with the texts. 
+  - Fact: It's multiline, slash OST. 
+* If you want to change the line inside the cell, you can use <unintelligible> enter. 
+  - Fact: PERSON14 will check that out later. 
+* PERSON8 has Antrecorp files with the test and with the depth set. 
+* They need 16 kilohertz WAVs for the forced alignment and 16 k for the test. 
+  - Fact: The files are in the Antrecorp test directories. The depth set is 16 k. 
+* PERSON8 suggests processing Antrecorp. There are 2 WAVs and 2 OST files. 
+  - Disc: There is good lenghts and the files are highlighted in yellow. 
+  - Fact: The file is processed in good quality. It is recommended to drive it first. 
+* PERSON8 has prepared the starting point for today. 
+* He will orange the cells that you should try to populate and then laid the right output paths. 
+  - Disc: The output paths will be similar to Antrecorp's. The final steps are to prepare the bars and the path for the files. 
+* PERSON8 wants to know if PERSON15 has started pushing anything into the new repository for PROJECT2's test set yet, and if he has done it yet. He wants to hear from him if he's already done it. 
+  - Disc: He's not sure yet. 
+* PERSON8 asks PERSON4 to synchronize with PERSON14 on the on the SLT test set and depth set forced alignment files. PERSON4 opens the third sheet and synchronizes it with the correct version of the OSTP and ASS files. 
+* PERSON4 and PERSON8 are preparing the WAV files for Antrecorp. 
+  - Disc: PERSON4 is going to do everything tomorrow to prepare the files for the SLT evaluation. 
+  - Fact: The files are for 7 lines from 3 to 16 kilohertz and they are chunked. 
+* PERSON8 wants to rehandle the Doodle poll. 
+* He needs to figure out a better time for himself as he's disorganised because of the extra workload with the remote lecturing. 
+  - Disc: He will probably choose a different time for the next meetings from next week. 
+* PERSON14 is working on a caraoke as timeview. 
+* The main thing that needs to be refixed is the word level timestamping. 
+  -- Fact: He created an AAS file using a software. 
+  - Disc: He wants to make it automatic for all the scripts. 
+* PERSON9 is writing a paper about subtitler for the 25th of the month. He doesn't have to do anything with audible SLT, so he can write the paper right now. 
+  - Disc: PERSON14 hasn't done anything with it yet, because he doesn't think today is the today he's coming. 
+* PERSON15 has collected 3000 sentences for 3 languages and almost all the cleaning is done. 
+  - Disc: He will collect more sentences from 43 languages after cleaning. 
+  - Fact: He has already updated ORGANIZATION3 locks. 
+* He needs Euros from someone to pay for the data collection. 
+  - Fact: He is working on Polish, Polish, German and Russian. 
+* PERSON4 will create a Python script to process the Antrecorp test which is an 17, 18, and 19 in VDD format. 
+* He will give the pass for all files to PERSON14 in two hours, so that he can create the script for it. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

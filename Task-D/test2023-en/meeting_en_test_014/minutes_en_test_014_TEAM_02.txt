@@ -1,0 +1,53 @@
+this call is being recorded because i'm also collecting various meetings.
+we will send you a link to google form, where you agree, what unintelligible>would like this-which you require to be followed before the data is released.
+and another document, which is now becoming very important,will be this google sheet, with all the things, that you have done..
+the purpose of these meetings is for everybody to say,what they are working on, and what they have in mind for the upcoming weeks.
+i'm not working on anything specific myself.
+i'm just starting.
+i'm just telling people what to do.
+so i think that i should not give you very brief, thin, brief summary..
+cnn's john sutter has been doing domain adaptation for a week.
+sutter: if we don't manage to adapt our systems, that's not too important.
+sutter: if we have something adapted for unintelligible> this domain, then even better..
+i'm downloading all of plenary session from your parliament since july 2018.
+and 1.
+7 terabytes of audios, videos interpreting in 22 languages.
+and i don't feel i even this, but will be unintelligible>..
+i bring multi-source spoken language translation research into czech.
+i bring it for english and german into czech.
+i have some problems with hear to hear you..
+if you manage to test the compression, that hopefully was somehow proposed by [PERSON9] and do you manage to test it? (PERSON8) yeah, yeah, exactly.
+(PERSON5) yeah, yeah, exactly.
+(PERSON8) yeah, yeah.
+(PERSON8) yeah, yeah.
+(PERSON8) yeah, yeah.
+(PERSON8) yeah, yeah.
+(PERSON8) yeah, yeah.
+(PERSON8) yeah, yeah.
+(PERSON8) yeah, yeah.
+(PERSON8) yeah, yeah.
+(PERSON8) yeah, yeah.
+(PERSON8) yeah.
+i wanted to propose some ideas for calculating delay, blue score and unintelligible>.
+i want to report who define delay.
+one segmenter based on time, exactly on the time, when they set us.
+and also the delay based on the mwar segmenter..
+iwslt is running a shared task to help the ORGANIZATION1 congress.
+i would like [PERSON2] and [PERSON8] to get directly in in contact.
+i would like regularly to have like measurements of the asr, end-to-end, quality, delay, and flicker..
+i'm just (scared) now, where is the link? sorry.
+european unintelligible> of auditors web site unintelligible>.
+42 languages, 42 european languages.
+i think, now it is very important, that you and [PERSON12] will synchronize on the thing tools.
+you need it differently, like the way [PERSON7] needs it is for smaller sets of files and more or less interactively..
+i've unintelligible> tokenizer unintelligible> and i don't know, what [PERSON12] use.
+so [PERSON7], please be in touch with [PERSON12] and make sure, that you both use the best tool.
+i've unintelligible> tokenizer unintelligible> for this unintelligible>..
+iwslt is spoken language translation from english into two languages of our interest only so only into czech and german.
+and beyond that, [PERSON10] will be supervising and knowing, where the pits are for the old language pairs and translation directions that we want for the [ORGANIZATION1] congress..
+i think, it's to use the wednesday opportunity to have better [PROJECT1] systems as a good thing.
+right now, in the pipeline we use czech to english by [PERSON1].
+i can reshare this in one day to be f- well, fix the missing characters and improves bleu by one point..
+on monday, we'll interest in in like models, that do text translation.
+on tuesday, [PERSON4] could other_noise> fine tune the system.
+and on wednesday morning, we will decide, whether to d - which one to deploy for the event..

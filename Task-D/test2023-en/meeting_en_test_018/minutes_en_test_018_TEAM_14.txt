@@ -1,0 +1,55 @@
+[ORGANIZATION4] document presentation platform,, what do (PERSON12) mean by functionalities to checked?
+Participants of participants of the meeting have refined the function of analyses of presentation platform and the participants of meeting would like to share it with (PERSON4) [PERSON7] and [PASTER5] can (PASTER1] r team.
+(PERSON12) also has a timeline, like after the participants meeting agree, if participants of the meeting agree on the functions that should there [PERSON12] in the next week.
+Of course the participants of the meeting started, but there is not due date at the moment some some some.
+(PERSON12) think that the first prototype should be ideally ready on the 7th of June, like the first very first shot with box and all of that.
+(PERSON4) wanted a technical discussion.
+Nn, Monday morning, ahh, actually the participants meeting have a call twelve o'clock, but early it's perfectly fine for us.
+[PROJECT4] integration with [PERSON4] integration.
+(PERSON12) are ready to start calling.
+[PERSON12] don't think dusted off (PERSON12)'s copy Number, yes...
+And the participants meeting are continuing translation of their sentence level transformer for these incomplete sentences.
+[PERSON3] could (PERSON4) disclose, how should the participants the meeting best handle th incomplete sentences because what,, the participants meeting do not want to do is to rely on the cashing client.
+Sequence labeling task which labels were And eventually place a label to end the sentence.
+The segmentation worker has decided to end the sentence, right?
+[PROJECT4] client should the participants the meeting rather rely on the segmented output already but then the participants of meeting need to create the segmenters for all the ASR languages.
+ASR can change it's mind.
+But with the same timestamp there would be new token, and if this if the timestamp still falls in range, which is like operational in the segmentation worker, then it will correct it.
+Participants meeting should train their empty systems to work on all individual lines that the participants meeting are getting from these.
+The (PERSON12) what system will be judged by the final translation, and [PERSON12] should translation was by having incomplete sentences which, (PASTER1)'m probably not going to be useful translations.
+(PERSON12) is now sharing the screen with the participants of the meeting, the mock conference with the interpreters.
+[PERSON12] think that the participants of the meeting should proceed, play with [PERSON6] and (PERSON4).
+This is not far from the context dependent mission translation that the participants of meeting have tried for this [PROJECT1] but technically the segments are not too long they never spent too much beyond this, what beyond this language that (PERSON4) r looking at now and the participants attending meeting just need to make sure that transform model handle well.
+[PERSON7], why does segmentation change, though it sort o it has (PERSON4) wanted to do more later on.
+(PERSON4) is it knew hypothesis, segmentation as the participants of the meeting run output segmentation might be different.
+Participants meeting wanted (PERSON12) r empty system was use the first segmentation.
+The segmentation worker is not emitting timestamps with individual tokens from the ASR, but it doesn't emit them.
+(PERSON4) think that this is something that [ORGANIZATION6] needs to investigate and improve the segmentation worker as it emits timestamps because these timestamps would then allow us to like handle the translation well.
+(PERSON12)'m not sure it is here. the participants of meeting have already probably getting good translation of that sentence.
+[PERSON3], [ORGANIZATION6], and [S]ERSON1 think that the participants the meeting should decide how t the baseline would be, and then the final experience the user experience the translation would not be good because the statistics on the internet will translate only the later part of sentence.
+(PERSON4) don't want to and the risk of false information for the most part [PERSON4] think the empty worker does do these things and details (PASTER1) recommend (PION1) have to that [PASTER1] posted last time.
+[PERSON4] can decide whether in his re-implementation for [PROJECT4] he has to like created that from scratch for some reasons, and then the meeting would have to postpone it.
+[PERSON4] the participants the meeting should try to train the models to be ready to accept like partial sentences and even inputs, that started at middle sentence.
+Option two is to train MT or fine tune send level models to gracefully handle badly segmented input.
+The idea is that of participants the meeting ar the participants of the meeting are working on this cruise control.
+(PERSON4) is ready to send the plain text files and add work granularity.
+(PERSON12) do not know how difficult is it to get it change to a different language model.
+Participants of the meeting have one thing it's a lot of effort language models and it is also possible that models system don't need adaptation any more.
+(PERSON12) will have to ask back ASR people
+If (PERSON12) decide to do any ASR adaptation to the text that's fine, if [PERSON12] do it and because (PASTER9) (PION9) find it like useless If it is model is the domin indepedant enough that will be sufficient.
+[PERSON11] is not here but he is working hard to get the pipeline the training for call the running, what the participants of the meeting are, Thus yes the participants the meeting should call the integration call integration and segmentation worker for Czech participants.
+(PERSON12) don't think there will be another [PERSON12] changed of the participants meeting will continue deployment there.
+[PERSON12] think the participants the meeting should as weeks pause the participants meeting should indeed do this on a daily basis.
+[PROJECT4] and [PERSON4] think the participants of the meeting have discussed this
+(PERSON12) mentioned that he will try to get some data from Taos.
+Well, (PERSON4) have not emailed [ORGANIZATION7], [ORMANIZATION6] know him as well, but [PERSON12] don't have the data the input data now, because of participants the meeting are still collecting them fro Actually we're shortly the participants of the meeting should be deploying the platform, the tiny webpage to collect the documents, then the [OrGANIZATION6], will populate this with the documents the plain text.
+Fine tuning (PERSON12), guess participants of the meeting don't need too much time probabl One week of the event would be okay.
+[PERSON3] is empty that's on a German to English ASR, mainly because English ASR will be aso then, their main input will be the English ASR or one of those from the rich speakers, secondary, like the fall back input could be from German to [ORGANIZATION2] platform to do the pipoting.
+(PERSON12) don't think that Englis German to English translations is their best systems transform model because would get better.
+And tested whether platform indeed support pivoting cause, [PERSON12), at the [ORGANIZATION6] (PERSON12 also have English to something empty systems.
+Yes, this pipeline, and German yes, German English empty, [ORGANIZATION6] English whatever empty and then presentation.
+[PERSON6] Test the fine tuning from start document on real.
+[PERSON3], just tested by starting one about English workers and pivoting over English worker.
+The participants of the meeting can run ASR on this and train on th on the output from ASR with errors against references.
+For the participants of the meeting the final hypoteses from ASR are text to speech on it and then ASR.
+(PERSON12) don't think that it would be data at all.

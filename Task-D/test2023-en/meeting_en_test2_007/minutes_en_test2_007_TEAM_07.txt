@@ -1,0 +1,120 @@
+Summary:
+
+* PERSON13 wants to know what was the problem with yesterday's experience. It was badly recognised and it was also slow. 
+* The explanation is that he needs to be logged into one of the machines. 
+  - Disc: He wants to get in touch with PERSON9 and try to debug the problem again. 
+* PERSON16 is supposed to upload files to PROJECT3 today. He had a call with PERSON12 last night. 
+  - Disc: The files were too big to be uploaded, so he's looking for a way to upload them as a link file. He will do it for one folder and then they will do the rest. 
+* PERSON13 asks for the preparation for the domain adaptation, for the <unintelligible> and for the extended set of target languages. He also wants to know if ORGANIZATION1's server is up again and if he can talk to PERSON4. 
+* PERSON16 is in touch with PERSON14 about collecting text files for the dominetration. 
+  - Fact: He has set up a project called PROJECT4, but PERSON13 doesn't think it's needed. The data that PROJECT4 has is viewable only, read only, and there are no videos. 
+* PERSON13 wants to explain to him the difference between the PROJECT13 archive and the PROJECT1 archive. He suggests that he should scan the web pages of the people to get access to the full archive. 
+  - Fact: It was the case in the ORGANIZATION10's archive. 
+* PERSON13 is struggling with organizing the demo papers which are due tomorrow. He will be busy the whole Saturday and has to go early to bed on Friday. He is also worried about the calculations of a number of things. 
+  - Fact: He explains in two cases, German to English and English to German what is probably going to happen in the system. 
+* PERSON13 wants to talk to PERSON6 after the general call. 
+  - Disc: PERSON6 will send an e-mail when he comes back to answer the exact question about PROJECT2 when he's back home. PERSON6 will discuss the issue with PERSON13 after they finish the call. 
+* PERSON6 has an appointment in fourty five minutes. 
+  - Disc: He wanted to come to the meeting. 
+    -- Fact: He will see all of the things and check the code, and they will answer everything in detail in one email to him. 
+  - Disc: They will talk in the afternoon. 
+* PERSON13 wants to ask PERSON15 if he works. 
+  - Fact: He doesn't have to ask him as he is still here and he works too. 
+  - Disc: PERSON6 is not here, so he doesn't need to answer the question. 
+* PERSON13 needs help with revising the PROJECT12 demo paper. 
+* He wants to ask PERSON15 to look at the reviews that they got, but he doesn't have access to the reviews. 
+  - Disc: He will send a link to the review file to help with that. 
+* PERSON13 has an idea to improve the quality of remotely handled sessions, especially if people are wearing face masks. The idea is to pass all training data through PROJECT8 and other systems in an automated way so that they get the data distorted in the same way as these platforms distort it, and also use a frequency filter to cut down on the hate. It would be some scripting of of user interface in PROJECT15 and PROJECT8. 
+* PERSON13 wants to learn how to automate Windows. 
+  -- Disc: He will have to look for someone who can help him. 
+  - Disc: He wants them to talk to him if they can. 
+  - Disc: I will talk to you if you can." 
+* PERSON13 wants to talk to PERSON15 about his work on PROJECT12. 
+  - Disc: He wants to know what he has done so far. 
+  - Fact: He has just opened the paper and needs some time to read the reviews. He is also working on data preparation of ORGANIZATION5 corpus. 
+* PERSON15 wants PERSON13 to give more priority to the write up of the experiment with PERSON5 because he will also be struggling with his first paper. 
+  - Disc: He wants to finish it in time so that they can focus on other tasks. 
+* PERSON13 wants to use PROJECT10's audio codec to process all the files for English training data they need. They need Czech as well, but they need Czech only in February, whereas they need English on the 25th in 10 days. 
+  - Disc: PERSON7 will get in touch with PERSON8 to process the files. 
+* PERSON7 is writing a pipeline configuration tool. It will allow operators to define the parts of the pipeline and how they are connected. 
+  - Fact: The tool will make a <unintelligible> script that will make sure that everything is corrected as it was specified. 
+* It should also support docker. 
+* PERSON13 suggests that the pipeline will be defined in terms of abstract graph and compiled to a batch launcher or a docker launcher. 
+  - Fact: The evaluation launcher would run the pipeline through the test set with PROJECT7. 
+* There should be one more compilation target to check if the pipeline is up and running. 
+* PERSON13 wants to provide life subtitles and transcription for a conference about PROJECT13 next Friday. 
+  - Disc: There will be some non native English speakers in the conference. 
+* He wants to get feedback from the people who will be using the subtitles. 
+  -- Disc: He also wants to prepare instructions for the participants. 
+* PERSON13 wants to collect feedback from people, but the quality of the feedback is very bad. 
+* The feedback will be collected on the twenty-fifth of January. 
+  - Disc: The quality will be better then, so there is no point in collecting feedback at all. 
+* PERSON6 has found the maximisation but the description is wrong. 
+  - Fact: He will come one hour later as he called his dentist and asked him if he could see him one hour after the appointment he had with the dentist. 
+* PERSON6 is sitting in the chat. 
+  - Disc: When he finishes, he wants to describe what he has seen. 
+  - Fact: He has sent a stand alone one shot of things to PERSON13 and PERSON3. 
+* They need to do the files. If Vicky and/or PERSON16 find out some data in the public domain, they need to add it to the public part of the test set. 
+* PERSON13 wants to know the scores of all the systems on the various domains. 
+  - Fact: The next week, at the same time, PERSON16 will present the summary of the scores on the different systems. The scores will be on the PROJECT14 and PROJECT1. 
+* PERSON16 has to rerun the transcript of the last week's seminar as the pipe got stuck at a point. He will send the transcripts to the PROJECT3 repository and will also send the presenters to the repository. Speakers use to erase to make changes in their editor and to the manual. 
+* PERSON1 developed a shortening of English to Czech called PROJECT1. It makes the output 80 percent of the input length and the bleu score is lower. 
+* The shortening needs to be manually validated or evaluated or the bleus are bound to be lower. 
+* PERSON8 is working on the chopped training. The idea is to align the training data that we have with external text resources and create new recordings from the words from the separate words. The end to end PROJECT14 models are creating implicit language models within. 
+* PERSON8 is struggling to optimize the pipeline to generate the recordings for PROJECT11. The problem is with big corpora like Czech. 
+  - Disc: The job is a bit quicker than the training, so the job is not as difficult as the training is. 
+* PERSON8 needs to train over Czech speech in PROJECT11. 
+  -- Disc: There is not enough disk space to store fifty million recordings on the disc. 
+* The training pipeline on PROJECT9 is complicated and needs to be explained to the user in order to get it running properly. 
+* PERSON8 wants to be paid from the PROJECT5 tool, but he doesn't know how much he should be paid. 
+  -- Disc: He also wants to know the split between him and PERSON13 on the amount of money to be split between them. 
+* PERSON13 wants to talk to PERSON19 about the status of PROJECT5 when she is on maternity leave. 
+  - Disc: She is giving a talk this afternoon. After that, she will be available to discuss the status with the project. 
+  - Fact: She will use the same number and amount from the two PROJECT5s. 
+* PERSON13 would like to talk to people about PROJECT7. 
+  -- Disc: They will meet next Thursday to discuss the latest developments in the project and see each other again then. 
+* PERSON6 has sent an email to PERSON13. 
+* PERSON6 wants to know if the distance between C without alignment and C with alignment is correct. 
+  - Disc: PERSON13 explains to him the formula and shares his screen with him. It turns out that the distance is correct, but the alignment is not. 
+* PERSON13 explains the problem with translating from German into English. The German sentence will say "Ich habe" and then something very long here and something vey long and "gezacht" there. 
+  - Fact: The reference translation, again, has the same alignment. The translation goes from "Said" to "Gezacht". 
+* The PROJECT1 system will emit all the words at once if it obeys the standard English grammar. The words are more or less monotonically aligned to the to the English, so there from alignment they would receive time stamps like 800, 900 or 1000. 
+* PERSON13 will write a paper explaining how to increase the maximum number of words in a sentence to make it easier for people to understand it. 
+  - Disc: It is similar to German, where the maximum is increased to more than the previous word's value and the whole sentence is maxed out. 
+* PERSON13 needs an example to replace the alignment file in the data of PERSON2 and PERSON13. 
+  -- Fact: He wants to search for a similar simple sentence and ask her to look for it in her data. 
+  - Disc: She wants to replace it with an example. 
+* PERSON13 suggests not maxing it with the proportional value, because it's not correct. It's better to follow the alignment and follow the linear order progress of the maximisation. 
+  - Fact: The only acceptable reason the translator didn't write the other word was because it was waiting for this one. 
+* PERSON13 explains how the evaluation would be different if we were producing a spoken output. 
+  - Fact: He asks for examples like the one in the PROJECT2 case to explain the difference between the text to speech speed and the speech speed depending on how much input people have in the pipeline. 
+* PERSON13 and PERSON6 have a problem with the segmentation strategies and the delay calculation. 
+  - Fact: The differences between the differences between each pair of the words are not the same. 
+  - Disc: The current description is excessively detailed and confusing and not correct. The last time they had this problem, they put everything on the paper. 
+* PERSON13 and PERSON6 are trying to work out a formula based on the number of characters in the table T and the time stamp of O and T-shirt. The formula is based on characters at the end time of the word "Ein" and "Oh das ist". 
+* PERSON6 explains to PERSON13 how a partial word is calculated based on the place of the word and the number of words it contains. The first time the word appears in the C-level it can be deleted afterwards. 
+  - Disc: It is to make use of the partial numbers. 
+* PERSON17's solution is based on C segment and the number of characters. 
+  - Fact: There is another type of calculation which is only based on the C, but they didn't mention it on the paper. There are seven words in German and six in English. 
+  - Disc: The calculations are in the formula. 
+* PERSON13 will try to decipher the foreground now with the explanation. If he can find an example with the reordering and do the code towards the maximization, they will finish it after this PERSON17e. 
+* If not, he will email you in the afternoon. 
+* PERSON2 wants to add his account to the PROJECT12's test set and the <unintelligible> but he needs to log in. 
+  - Fact: The restrictions are over from the 5th of January. The account is called Zarivar 29 and 28. 
+* PERSON6 will work on PROJECT6 and also on PROJECT12. He will also evaluate the output of PROJECT12 and show it to the other people. 
+  - Fact: He will do it on PROJECT12. He is also working on PROJECT6. It is PROJECT6's evaluation. 
+* PERSON6 might not be available in January to the first of February, so he needs to push the people to do the job and integrate it yourself. 
+  - Fact: He's added to PROJECT7, which is the name of a lake, Zarivar. 
+  - Disc: The data converters are not published, but could be useful. 
+* PERSON13 will probably add PERSON6 to ORGANIZATION9 teams. If he doesn't, he will add her too. 
+  - Fact: She is already here. She will be added to ORGANIZATION9 teams as well if she's not already there. 
+* PERSON13 wants PERSON16 and PERSON7 to integrate the profanity filtering themselves. 
+  -- Disc: It would be faster if they did it. 
+  -- Disc: PERSON13 is stopping sharing now and going to work on the paper. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

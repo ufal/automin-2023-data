@@ -1,0 +1,12 @@
+-Write a letter to the head of the company that released the algorithm for mining parallel data in one hundred languages, because thats what they released - They released a data model.
+-Check out the training models that have been released.Evaluate the models to see if they can be used in our testing data.
+-They are quite useless - What would probably be the most useful is actually the data collection for some kind of spoken data, for example, we can adapt their testing data sets for spoken data.
+-In his master thesis, [PROJECT, Inc.] has worked on multi-target machine translation for his Master thesis.This model is the set up of the multi source models that were developed in the master thesis.
+-Now we have to focus on the cluster set up and just for [ORGANIZATION3 cluster access] only for that cluster set-up only (multi source set up).
+-Transfer learning on of double encoder model on small GPus (English- Czech and German- Czech).
+-Please keep talking on this call, feel free to do that, but it was very packed, very packed and not very strict things strictly relevant for this meeting.
+-After the lecture.
+-The model which is trained on common voice, is quite bad, because there are only few sentences and they are read by several speakers, the language models are quite bad.
+-R robust towards accents and mainly accents but also generally robust by creating new sentences or - Using sentences that were not in the original speech data set, strange_sound> Or we can use for example subtitles which is written spoken lang written spoken language data set.
+-He was talking about comparing the performance of your system with something or was he talking about multi-lingual [PROJECT4 or did he be talking about something else?
+-Analyze the path of data fromPROJECT4 and evaluate the [ORGANIZATION13] evaluations of the PROJECT4 data, using the same logic.

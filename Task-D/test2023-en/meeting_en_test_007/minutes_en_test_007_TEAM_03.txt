@@ -1,0 +1,26 @@
+Attendees: [PERSON2], [PERSON5], [PERSON10], [PERSON1], [PERSON6]
+
+Summary:
+we are waiting for someone , maybe , that is going to join us , but [PERSON6] is not sure . 
+
+[PERSON6] think at least [PERSON6] , and [PERSON2] should be present , right ? but [PERSON6] do not think it is completely necessary . that is the good thing to check , because , otherwise we should add [PERSON6] to the maidli mailing list at least . Because it is possible that [PERSON10] are not added yet . And maybe [PERSON10] have , [PERSON10] have one from [PERSON4] here , but it is about the GitHub . I'll , [PERSON10] shall check this , and [PERSON10] will , tell [PERSON6] later . 
+
+[LOCATION1] time , [PERSON6] is not sure , what it is called . 
+
+[PERSON6] actually call it [LOCATION1] time ? [PERSON10] call it like this , maybe , there's , there are other names , but . We w we would really like [PERSON10] to come visit us at least for , [PERSON6] do not know , for some limited time . , I'm , [PERSON6] is not sure how it would be handled . I'm , [PERSON1] is here but [PERSON1] is not . 
+
+[PERSON6] asked  [PERSON10] do not know , how is it going to . This is a remark , that actually comes from the , like , personal department . And , the way they employed [PERSON10] , is really , like , they had to close both of their eyes . they really take it as a , temporary solution what they have now , for [PERSON10] . And , it would be better for us and better for the project if [PERSON10] decided to take it as an opportunity and not as a , as a negative must . tha there is a date for this , [PERSON10] mean , there is a . If [PERSON1] start checking , what would be the process for [PERSON1] to apply for visa . and the paperwork , will come from [PERSON8] . check with [PERSON8] , what is the status , of that . 
+
+[PERSON1] think that [PERSON10] at the moment , [PERSON10] cannot apply simply because the [ORGANIZATION4] is closed . And [PERSON10] will get the full support from the university , the , to show them papers they need and , . Or [PERSON6] is looking at it , at we are still waiting for . 
+
+[PERSON2] again , the same situation , [PERSON2] do not know whether they started it or not . The problem is that , [PERSON2] think like [PERSON9] raises issues , new and new issues . There is also , some objective problem with the quality estimation or [PERSON2] do not know maybe . We can barely hear [PERSON6] , [PERSON3] . 
+
+[PERSON6] think that , the bullet point is quite explanati . But they are a low priority , [PERSON6] can . we have to like in this week , [PERSON2] have to , discuss things with [PERSON7] , what should we do next . 
+
+[PERSON6] guess that leaves us with the [PROJECT4] . the thing is that it might be useful , but [PERSON6] is not completely sure whether we would like or how w . But , [PERSON6] is thinking that it might be implemented into the pipeline somehow , but . 
+
+[PERSON6] think if we , if we sort of maybe take the pretrain model and finetune it during training it might be actually useful for this kind of distinguishing . distinction or something like that , [PERSON6] guess . Like that's , that's , that is the thing that comes to [PERSON6]'s  mind , but , again , [PERSON6] also , need to look into it in more , in more detail . maybe just like [PERSON2]'s  stupid question , why do we need this eva new evaluation for MT ? [PERSON6] think , [PERSON6] think that we can focus on this . 
+
+[PERSON10] do not know it was , addition idea that [PERSON10] think that we can work on for now until we have new ideas . this is this definitely sounds interesting , because again , [PERSON6] think that the papers that do focus on the constraint decoding , they really do not evaluate it from this perspective , right ? And , I'll , [PERSON6] shall try to ask [PERSON1]and we should , we should try to have a meeting for the task next week together with him . 
+
+[PERSON6] asked  he can , he can give us his opinion too , right ? [PERSON10] shall try to give to have some ideas until them to maybe an alternative to the alternative , ? Ye , but then [PERSON6] think like this might be a good approach to the , to the task .

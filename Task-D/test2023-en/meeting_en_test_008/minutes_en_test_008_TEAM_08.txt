@@ -1,0 +1,15 @@
+You are preparing the link into the-
+(PERSON8): Ye, Ye, Ye
+No, no, I'm just aligning that link of the web interface, which is already there one in the corrector-
+(PERSON5): So [PERSON7] we have discussed with [PERSON8] your negotation. (PERSON7): Are there any links to that of the-
+Ye, for the manual evaluation thing. (PERSON7): I just want to know a few things from you regarding that europarl website maybe you can guide me. I don't know if this website has gotten index of the minutes just like it had for the transcripts. And here here we are not on within the [ORGANIZATION3] website. So I think this corresponds with manually verified this corresponds cause this one is a-
+(PERSON5): Yes, yes. So you want to just see that what they are following like the based or is it some kind of the-
+So they have shown us a snapshot of the interface which they have done for the annotation tool
+(PERSON5): But what should I do with that? How they have built this tool for annotation of the valuation. But in the implementation details they have mentioned the entire thing. That where they have this summary and transcript which they have put in the web application. But they have the for the ratings they have this web application. That how usefull was the summerization and all these cautions. So we will disscussing whether we should have web interface or something. And based on the web-
+There are annotators are asking by scene board the transcript and the summary. I think you just come up with what you consider to be the best. Because I think the annotators will be able to evaluate it in in a better way. (PERSON7): So I just want to understand that supposed we have the interface. I'm reading the papers because I have some more measures into it. So actually multiplying them with the constant value is is thing to be decided. I'd like to add that it would be that it is very hard work to make these evoluations. It will so it will take much very much time and very much effort. [PERSON5], do you have any example how my cautions do work on a minutes. (PERSON5): Yes, everybody-
+(PERSON7): With the transcript, ye. So-
+(PERSON7): So on our paper do you have any figures that how the matrix work. If we are able to align minutes and transcripts automatically what. (PERSON5): Yes, so to find for each meeting-
+(PERSON7): Okay, because for-
+(PERSON5): Each transcript finds its minutes this is the-
+(PERSON7): The minutes, yes. (PERSON7): So yea, so let's not be 
+(PERSON5): Ye, ye it seems bigger but I meant just finding minutes for each transcript.

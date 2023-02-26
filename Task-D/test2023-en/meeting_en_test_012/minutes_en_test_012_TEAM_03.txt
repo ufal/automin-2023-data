@@ -1,0 +1,38 @@
+Attendees: [PERSON6], [PERSON12], [PERSON3], [PERSON19], [PERSON8], [PERSON10], [PERSON9], [PERSON13], [PERSON20]
+
+Summary:
+, not always , when [PERSON12] open the link [PERSON12] is never the host . But as far as it will be over , hopefully , [PERSON12] 'm really . 
+
+[PERSON20] guess the winter is coming and people are talking about some , the intensity of the pandemic may rise during the winter . if [PERSON20] can imagine what is the situation in India . and [PERSON20] replied  They do not report because . And people are fearing that a healthy person would get if . If [PERSON9] if [PERSON9] have something to say , maybe we could begin from that . 
+
+[PERSON9] can do , [PERSON9] can do it myself , but if there're annotators they can do it as well . 
+
+[PERSON9] guess we have to remove all of them . and [PERSON9] is not sure , should the letters correspond with the names that we are going to replace with real names for example . 
+
+[PERSON12] do not [PERSON12] is not sure it is possible . if [PERSON9] want to do that , we have to create a map that maps these letters . And maybe we can correspond O and OB to [PERSON3] within the transcript . if [PERSON9] ask if [PERSON9] it will be good . And something else is that some words [PERSON9] can see that they end with this [PERSON9] do not know what [PERSON9] call it . And then the person began to say it and did not finish . 
+
+[PERSON12] asked  , are [PERSON3] still sharing [PERSON3]'s  screen ? , in this case , it could be just removed from [PERSON9] is usually . and [PERSON12] replied  from the point of view of GDPR [PERSON12] could suppose if the word is not finished , it is not the name . 
+
+[PERSON3] , agree with [PERSON12] that technically we are probably good with ignoring this . veverka> , [PERSON1] , , [PERSON16] , , [PERSON18] . And the third one is it depends or [PERSON3] do not know . 
+
+[PERSON12] think they will get a list without context . 
+
+[PERSON12] just named entities like country names . 
+
+[PERSON12] asked  it is just should we use our system of name tag ? And [PERSON9] does not know about our name tag , he asked about Czech and named entity recognition . 
+
+[PERSON3] do not think this is problematic . that is the way [PERSON3] see it , because it is it is there too many days . , [PERSON3] think that name tags is too fine grained for our purpose . 
+
+[PERSON12] can copy , a few lines from this , paste it to the name tag web user interface , and it will immediately label it for [PERSON12] . The link that [PERSON12] sent [PERSON9] . All these occurrences will be automatically confirmed in the training data . What is not a named entity that will , be labeled in the whole corpus as a not a named entity like , as [PERSON9] said: this word was suspected to be a named entity. 
+
+[PERSON9] would construct the words before that and after that . And they should say that O equals , [PERSON3] , C equals , D equals [PERSON18] , and andon . If [PERSON9] use MT five sum , that is not reversible . unintelligible>] what [PERSON3] call there . Even if it is instead of a corpus there will be some person's name . And if [PERSON3] need anything else ,then . He is like he is responding to [PERSON3] now . this is this is what [PERSON3] was discussing with [PERSON12] eehthat [PERSON3] in pairs , two people will do some test annotation . 
+
+[PERSON19] will take twenty meetings and [PERSON20] will take twenty other meetings . 
+
+[PERSON12] think [PERSON19] already did it . 
+
+[PERSON12] asked  How many meetings are [PERSON19] . 
+
+[PERSON12] have to ask [PERSON3] about the timing . 
+
+[PERSON12] actually [PERSON12] do not even understand why should we create minutes .

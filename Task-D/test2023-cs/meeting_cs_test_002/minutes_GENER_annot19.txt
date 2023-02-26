@@ -1,0 +1,55 @@
+Datum schůzky: 18. 5. 2020
+Účastníci: [PERSON3], [PERSON17], [PERSON9], [PERSON21], [PERSON8], [PERSON15], [PERSON24], [PERSON19]
+Účel schůzky: probrání [OTHER2] a deliverablu
+Shrnutí schůzky:
+
+- Špatná spolupráce s [ORGANIZATION2].
+-- Problémy s [ORGANIZATION2] ohledně výroby questionare, který musí vyplnit uživatel, aby se dostal do [OTHER2] a mohl dělat experiment.
+-- Je tam technická záležitost, kdy se nedá určit kdo je kdo a napárovat uživatele.
+-- [ORGANIZATION2] neplatí participantům za účást v experimentu.
+-- Pokud [ORGANIZATION2] nedodá věci včas, byla by možnost přejít na plán B a udělat to skoro bez nich s jiným jazykovým párem.
+-- Napsat do [PERSON14] dokumentu, že by se měl v pátek probírat s [ORGANIZATION2] i [OTHER2].
+-- Ještě se čeká na [ORGANIZATION6], který trénuje systémy pro češtinu, ale tam by se dalo pokračovat i bez nich.
+-- Pracovat ještě na quality estimation.
+-- Deadline na WMT se o měsíc posunul na 15. srpna.
+
+- Administrativa.
+-- Na páteční call zarezervovat a založit místnost na Zoomu a projistotu zarezervovat i pexip.
+-- Páteční hovor bude začínat v 11 hodin a měl by trvat zhruba hodinu.
+
+- [OTHER2].
+-- Zjistit, jak je to s [ORGANIZATION2], kdo dopragrumuje ID.
+-- Možnost udělat druhý jazykový pár pro estonštinu.
+-- QE systém už funguje pro estonštinu a nepotřebuje zdrojový jazyk a je jedno, zda tam bude angličtina či čeština.
+-- Musel by se změnit trochu parafrazing.
+-- Pokud by se vynechal [ORGANIZATION2] a pracovalo se s jiným jazykovým párem, bylo by to strašně moc práce.
+-- Největší problém by bylo natrénovat česko-estonský systém, aby byl dobrý.
+-- Bylo by lepší dotlačit [ORGANIZATION2], aby dodělali svoje věci.
+
+- Deliverably.
+-- Je udělán copy paste z pre-review o source complexity.
+-- Dopsat experimenty s parafrazingem do kapitoly source variation, jedná se o parafrázovač, který je jedním z backendů v [OTHER2] experimentu.
+-- Ještě bude probíhat jeden experiment na pěti milionech větách a vygeneruje se více parafrází, kde bude probíhat porovnání.
+-- Source complexity tam asi nedávat.
+-- Rozsahem by to mělo být 10-20 stran.
+
+-Experiment.
+-- Byla by možnost si sehnat účastníky sami v ČR a zaplatit jim za to.
+-- Zkusit oslovit všechny cizince, kteří mají nějaký pracovní poměr na [ORGANIZATION3].
+-- Je potřeba sehnat minimálně 8 lidí, kteří neumí estonsky a minimálně 8 lidí, kteří neumí česky.
+-- Účast na experimentu zabere cca 2 hodiny.
+-- Do čtvrtka se rozhodnout, zda se bude stíhat dodělat quality estimation, jinak se udělá experiment bez něho.
+-- Napsat [ORGANIZATION6], že [ORGANIZATION2] moc nereaguje, a že se spustí vlastní experiment příští týden.
+-- Dát anotátorům čas na vyplnění do konce května, stejné i [ORGANIZATION6], aby dodal vše potřebné.
+
+-Sumarizace.
+-- Do pátku se čeká na [ORGANIZATION6], zda-li řekne, QE máme, anebo nemáme.
+-- V pátek se rozesílají e-maily anotátorům, kde bude link na instrukce.
+-- Ještě není natrénovaný systém na češtinu, ale je to již nachystané.
+-- Používá se přitom multitokenizer.
+-- MT beží a parafrazing taky.
+-- Dodělat bake use a element.
+-- Pokud bude čas, bylo by dobré udělat skript, který bude pravidelně kontrolovat, jestli backandy jsou živé.
+
+Zapsala: [ANNOTATOR1]
+

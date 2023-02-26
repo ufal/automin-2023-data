@@ -1,0 +1,106 @@
+Summary:
+
+* PERSON9 musí mít jeden článek v časopise.
+  -- Fact: Termín pro časopis PBML je někdy v červnu příští.
+* Musí mít dva články, jeden v tendle a jeden v PBML.
+  -- Disc: Musí také něco napsat do PBML, jinak se to nestane.
+* PERSON9, PERSON2 a PERSON8 musí mít jeden článek v Tomsně nebo Itadu do 24. června. Termín pro TSD je 10. dubna.
+* Pokud mají další článek, který je trochu slabší, měli by ho tam poslat.
+* Toad bude nějaký druh květiny nebo něco červeného, podle PERSON9 a PERSON2. Ještě není jasné, jak to bude vypadat, ale bude to trochu červené barvy. Toad ještě není známo.
+* V Skopje je někdy konference, ale teď tam není. Erek a PERSON2 si myslí, že tu něco má, ale neví, jestli je to víc než (Erection) a (Erector) víc.
+* Pach ACL bude záviset na tom, co v něm je. Podle PERSON15 a PERSON9 obvykle dorazí do Skopje tři roky později v letošním roce, takže pach také závisí na obsahu kontejneru.
+* V Ida už není Itad. Itad tu není už asi dva roky. Stejně tak není žádná osoba s názvem PERSON14 a už není žádná osoba s názvem Ida, protože zavraždili slona. Stejně tak není žádná osoba s názvem PERSON1.
+* PERSON2 a PERSON9 mají poslat článek o strojovém učení do dílny (počítačové) inteligence o těžbě dat 6. března. Dosud mají jeden článek, ale slíbili si ještě tři. Termín knihy je 30-30. června. Workshop je v Plzni.
+* PERSON9 a PERSON2 hledají někoho, kdo volá 8. dubna, ale neví, jestli je to on. Možná je v Skopje, ale PERSON2 ho tam nikdy neviděl.
+  - Disc: Osoba, která volá, je v něčem nebo byla.
+* Lhůta pro zavolání začíná období anonymity na EMNLPA.
+  - Fact: Jestliže ji nepřinesou do Itada, může to PERSON9 dát do archivu a poslat na hovor. Jestliže ne, může poslat soubor na hovor.
+* PERSON9 chce vědět, jestli volání, jestli se někdy objeví v Tomsně nebo v Skopje.
+  - Disc: Workshopy tam nejsou, ale hlavní konference jsou obvykle někde.
+  - Disc: EMNLP je pravděpodobně stejná věc, stejně jako ACL.
+* PERSON2 a PERSON9 diskutují o EMNLPA. Snaží se napsat článek o tom, jak to děláme horší než vůně.
+* Chtějí použít metodu dvou žen, které napsaly článek, ale neměli vážné hodnocení.
+* PERSON2, PERSON8 a PERSON9 se chtějí zaměřit na metodologické otázky týkající se tohoto druhu experimentu.
+  - Disc: Chtějí napsat, kdo dělá co a porovnat čísla a poslat to do černé krabice, aby viděli, jak zajímavé to bude.
+* PERSON15 vysvětluje PERSON2, že úspěch závisí na generalizaci a četnosti zapamatování.
+  - Disc: Také vysvětluje, že zatímco málo slov bude to, bude ukládat abstrakce ve formě generalizací.
+  - Disc: podle jeho názoru.
+* PERSON9 a PERSON2 srovnávají metody svých a jiných. V jejich metodě mnoho slov je špatné, ale v jejich je to dobré.
+  - Fact: V jejich jsou na každém slově mince, v jiném se mince používají pro cvičení nebo zkoušku.
+* PERSON2, PERSON8 a PERSON9 budou dělat jazykovou identifikaci studie. Udělají krátký průzkum na TSD a krátký experiment na něco dobrého. Chtějí zjistit, jestli je jejich metoda dobrá nebo špatná. Myslí na použití BERT prozkoumač.
+* PERSON9, PERSON2 a PERSON8 se budou soustředit na TSD 10. dubna a na volby 8. dubna.
+  - Fact: TSD může také poslat něco přímo do archivu před 10. dubnem. Organizatori napsali průzkum na období anonymity.
+* PERSON9 udělala černou skříňku pro 15. července. EMNLP ještě není známo, ale je 11. května. PERSON15 je odpovědný za monastický kalendář a uloží termíny do kalendáře ORGANIZATION8. TSD pravděpodobně nebude na mnichovském kalendáři.
+* PERSON9 chce vědět, kdy je černá skříňka.
+  -- Disc: Datum je 15. červenec, což je pro něj vhodnější než 12. červenec, protože je pro něj intimnější.
+  - Disc: Chce, aby byl někde na svém místě.
+* PERSON9 se vrací do Helsinského června.
+  -- Fact: Pravděpodobně tam bude pracovat jako obvykle a psát knihu a dělat žádné články a bude tam strávit polovinu června.
+  - Disc: V tuto chvíli nechce jít někam jinam.
+* PERSON9 chce, aby byla kniha napsána za týden.
+  -- Fact: Musí přijít na to, jak to vytisknout v barvě, protože každý je vytisknutý jen černobíle.
+  - Disc: Je to hodně práce a bude to mnohem drahější, takže budou mít pravděpodobně tam fotky, které jsou barevné.
+* PERSON9 a PERSON8 přidali hodně vložených článků do knihy do dnešního dne.
+  - Disc: PERSON15 tam dal nějaké náhodné články, ale to je to kromě PERSON9, který přidal asi deset článků pro pozornost.
+  - Fact: Pokud kliknete na jeden z souborů na levé straně, je jich 13.
+* PERSON9 chce rozdělit seznam literatury do složek na základě toho, co tam studuje. Chtěl by ji rozdělit podle syntaxe, morfologie a metod.
+  - Disc: Chce, aby to všechno všichni zpracovávali.
+* a pak by se měli setkat a zjistit, kolik toho je v jednotlivých částech.
+* PERSON9, PERSON8 a PERSON2 přijímají kontextové vložení.
+* PERSON15 by rád napsal úvod, který by vysvětlil, jak se s nimi efektivně zacházet.
+  - Disc: Raději by si vzal to, co má ve své disertaci a napsat některé jako úvod.
+* PERSON9 chce mít kontextové začlenění, školení a Vono v seznamu věcí, které mají být přidány do seznamu.
+  - Disc: PERSON2 by raději vkládal kontext, než cokoli jiného, ale pokud existují jiné věci, budou přidány později.
+* PERSON9 píše knihu.
+* Kniha by měla mít 150 stran, měla by mít hlavu a nohu a měla by být pro něco dobrého, pro něco jiného než pro grant.
+  - Disc: Pan PERSON16 přijde zavřít knihu.
+* PERSON9 a PERSON2 spolu psají průzkum o jejich práci.
+* Chtějí dát své nejlepší práce do průzkumu a své vlastní výsledky do souhrnu.
+  -- Disc: Chtěli by se soustředit na svou práci jako celek, spíše než na knihu, kterou napsali.
+* PERSON2 a PERSON9 chtějí napsat učebnici, ale neví, pro koho by ji měli psát. Někdo dělal průzkum, prostě dělal průzkum, a bude další průzkum pro pozornost. Lidé, kteří sedí na černých krabičkách nebudou psát.
+* PERSON2 a PERSON9 chtějí napsat průzkum pro lingvisty.
+  - Disc: Nechtějí padnout do pasti přepisování něčeho, co už někdo napsal, prostě psát populárním způsobem. Není to průzkum, je to spíš přehled.
+* PERSON2 a PERSON8 píší knihu o neuronech pro lidi, kteří nic o neuronech nevědí.
+  - Disc: Napsal by knihu pro někoho, kdo něco ví o neuronech, například pro PERSON10.
+  - Fact: Mají 100 výtisků knihy.
+* PERSON2 píše svou disertaci v češtině.
+  - Disc: Bude to 90 stran v knize.
+  - Fact: Má asi 60 stran toho ve své disertaci, což je asi 60% z celé disertace.
+  - Disc: Bude to víc než polovina knihy.
+* PERSON2 čítá knihu o tom, jak vytvořit víceúrovňové sítě.
+  - Fact: Už je to nějaký čas, co si to přečetl a moc si toho nepamatuje.
+* Chtěl by napsat text o neuronech v angličtině a prodat ho fanouškům vědy.
+* PERSON2 a PERSON9 jsou z Pilsenu.
+  - Disc: ORGANIZATION8 se učí anglicky, ale není to zřejmé. Pilsens jsou tragický, když nemluví anglicky, zatímco když mluví, je to lepší. PERSON8 nezná nikoho, kdo mluví anglicky.
+* PERSON2, PERSON9 a PERSON8 budou psát knihu v angličtině.
+  - Disc: Vysvětlí, co je nervová síť a co se učí.
+  - Fact: Bude to v angličtině a bude to o jazyku.
+  - Disc: Bude to cítit dobře pro lidi jako je ACL.
+* PERSON2, PERSON9 a PERSON8 budou psát úvod do jazyka a neurolingvistyki.
+* Chtějí podrobně vysvětlit, co jsou neurony a jaká je jazyk.
+  -- Fact: Také budou testovat neurony a hledat otázky související s nimi.
+* PERSON9, PERSON2 a PERSON8 budou nějak organizovat články Zotera.
+  - Disc: Napíše přehled článků a pak organizuje své vlastní vosky nebo průzkumy. Jsou již v knize.
+  - Fact: Mají knihu na GitHub.
+* PERSON9, PERSON2 a PERSON8 nechtějí psát knihu v Overleaf.
+* Chtějí to rozdělit na Overleaf a napsat to za deset minut před termínem najednou.
+  -- Disc: Musí prodloužit grantování o půl roku, aby se kniha dostala do konce prosince.
+* PERSON2 bude psát populární jazykové úvod pro lingvisty. Úvod bude psát někdo, kdo ví, jak ho číst.
+  - Fact: Linguisté se naposled hádali o tom, jaké jsou slova, a cítit je málem zmlátil.
+    -- Disc: Itadu se vede dobře.
+* PERSON9 a PERSON2 píší příběh pro Pilsena.
+  - Fact: Musí si vybrat recenzenta, který ho přečte.
+* Hodnocení musí mít název nebo něco, co půjde s titulem.
+  - Disc: Instrukce nejsou ještě k dispozici, ale jsou nějaké pokyny.
+* PERSON9 udělal plán na stanovení milenců a lhůt. Bude to sdílet s PERSON9 později.
+  - Disc: v chatu s ním s PERSON9. v chatu mluví o plánu.
+  - Fact: V rozhovoru také zmiňuje lhůty.
+* PERSON15 a PERSON9 se setká s PERSON9 a půjdeme spolu pro procházku.
+* Schůzka se bude konat za pár minut, takže se musí nejdříve připravit, jak požádal PERSON9, než odejdou.
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

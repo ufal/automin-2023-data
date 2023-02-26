@@ -1,0 +1,10 @@
+-This Monday seminar is not related to this Monday seminar, but it will be best if we synchronize with [PERSON9] and try,.
+-Try to put this Monday, that would be great for someone who is searching for the domain [PERSON9 zero chances. That would be a great way to get in touch with some language model data related to my talk on Monday.
+-Visualize the model and also the other paraphrasing model, that's a good idea, okay, visualising the model, visualisation, the other model.
+-Train the machine translation model using the data set of 300 million open subtitles from various languages and this trained model today hopefully will deploy this data to deploy this model.
+-Collect data from our models in this setup, and we will see how big improvement we can get from these models on the same data.
+-The third thing was paraphrasing the server itself.Okay, the third thing is running when we won't need it, but the other results aren't satisfactory.
+-This week i worked on data collection is basically four five languages five languages.This week i will finish in the folder with all parts with your and [PROJECT folder.
+-Please leave the parallel files for them and let's use this single side of those for the back translation for the domain corpus, and then redo this also with all other 30 something languages.
+-Create a [PROJECT model on all of this translation, OK?,
+-Ask yourself this question: What is the domain mismatch looked again, and a few sentences that are repeating phrases?, this is a second output which we cannot handle.

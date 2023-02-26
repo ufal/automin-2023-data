@@ -1,0 +1,34 @@
+Zápis ze schůzky
+                                                                                              
+                                                                                                 Datum schůzky: 18.12.2019
+
+Účastníci: [PERSON16], [PERSON15], [PERSON8], [PERSON9]
+Vedoucí schůzky: [PERSON8]
+Téma: Plán spolupráce
+Zápis:
+• Nutnost zhotovení Secondary reportu v rozsahu 10 - 3000 znaků (deadline 15.ledna);
+• Kontrola splnění plánu;
+• WP1 (tasky, data, …): na konci minulého roku chyběla sumarizace textu: zatím nepřidána na [OTHER5]
+• Kontrola modelů na [OTHER5]: zatím nedodány;
+• Nefunkční [OTHER6] Demo: návrh na zjištění příčiny: pokus o restart: přidány modely na [OTHER5];
+• Nedokončený článek na EMNLP týkající se experimentů zachycujících morfologickou a syntaktickou informaci RNN (zatím neodeslaný);
+• Návrh pokračovat v článku s BERTem a jeho syntaktickými vlastnostmi;
+• WP3: pokračováno v analyzování attentionu v transformer architecture = jeden článek
+• Plánované experimentování s univerzálním transformerem, proveden experiment s multilinguálním BERTem;
+• WP4 (gaty v RNN): zrušeno minulý rok;
+• WP5: v letošním roce bude navrhnuto zrušení;
+• WP6 (embeddingy): uveden plán zaměřit se i na Elmo a Bert: částečně pokryto článkem na ACL;
+• Mzdy na příští rok, úvazky a granty;
+• Publikace: naplánováno jedno TSD ročně (musí být v databázi Thompson nebo Scopus);
+• Chybějící dva články v časopise: třeba mít minimálně jeden článek v PMBL (možnost zaslat článek, který měl být původně odeslaný na EMNLP)
+• Nutno dohodnout se na dalším postupu;
+• Stavba fakulty v [LOCATION2], její zprovoznění a případné stěhování se;
+• Kniha: zatím žádný pokrok (deadline za půl roku), návrhy na možné rozdělení knihy: rozhodnuto vytvořit složky s články dle druhu výzkumu a rozdělení vložit do taggů
+• Třeba sestavit plán a shromáždit související články na Zotero: na příští schůzce nutno vyřešit strukturu knihy
+
+
+
+
+Zapsala: [ANNOTATOR2]
+
+

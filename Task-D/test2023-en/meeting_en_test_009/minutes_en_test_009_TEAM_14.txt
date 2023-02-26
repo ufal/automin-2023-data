@@ -1,0 +1,38 @@
+(PERSON6) hope that [PERSON13] would join.
+[PERSON12], please tell us about the presentation platform, which now requires password
+[PROJECT1] 2019 username and password.
+We'll create new the credential for simple end users [PERSON6].
+(PERSON5) is going to register also these credentials and just being [PERSON5].
+[PERSON13], are [ORGANIZATION3] listening.
+[PERSON9] launches all the target languages, the same for given the input stream the same ASR worker type is launched as many times as there is sort of target languages.
+() actual infrastructure which will help us in managing with kind of ASR output multiplexing at the moment unfortunately, has to be done at client level.
+[PERSON9], if (PERSON6) could just launch ten workers at the same time like underneath of each other.
+When actually it runs the requests to the mediator ten times or whether the mediator receives a multi like a Multi Channel, or multi path request.
+(PERSON5) is still not seeing the screen.
+EB client is converting ASR or English sound to machine translation output.
+Just one, then the nine different are feeded by mediator without sending At this point (PERSON6)'m not more sure and on neither these information.
+[PERSON9] has shared the info lines.
+[PERSON5] would like to see is that the beginning until English text would be actually done only once.
+the participants of the meeting have also between communication protocols reason possibility to find a kind when is performed.
+(PERSON6) killed it right here.
+EB is just making EB more to the workers
+(PERSON6)'m going to run it on one, two, three, four, five, six, seven, eight, nine, ten on one 30 second audio.
+[PERSON12] is not giving lecture, but has said anything useful during this morning.
+(PERSON6) is afraid that the participants the of meeting what participants of the meeting need to [PERSON6] is, because the machine translation workers seem working well right.
+Last time when the participants the of meeting thinked about this what was batch mode and the participants of the meeting agreed that we.
+Because the participants of the meeting send to whole text file at once.
+The EB client would ship the audios to the mediator and get the segment output from the segmenter mediator.
+Yes, and it seems that two of them, no four of them are received identical output, but (PERSON6) think its because there is dynamic output.
+And for he highest number that the participants meeting saw it running with was six right?
+At this point six German, oh six English.
+[ORGANIZATION4] is always like, that those who have delivered their work in the best shape.
+(PERSON5) is afraid that [PERSON12] is going on holiday.
+[PERSON5], [ORGANIZATION3], and [SHOWDOWN] on the call now.
+(PERSON5) is going to run six publishers.
+[PERSON5]'s question is that the participants the meeting can make little platform running locally within sol Wired Network.
+It means that the engine has to run within network, but maybe not necessarily the whole presentation platform right
+[PERSON13] is talking to the microphone and not even (PERSON5) can hear them.
+[ORGANIZATION1]: [PERSON5's notebook] and [PION9)'s desktop, [orGANIZATION2]:
+(PERSON6) can run it on the local network.
+(PERSON12) still do not see for sure what is preventing us now from testing it.
+[ORGANIZATION2] presentation platform web page and URL should be something local like RMTP Cologne//192.168

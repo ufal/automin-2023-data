@@ -1,0 +1,35 @@
+Schůzka [OTHER8], 2020-03-10
+Přítomni: [PERSON3], [PERSON2], [PERSON10], [PERSON20]
+Během schůzky bylo probráno:
+• Makefile již funguje, je spravený
+• Vyřešit undefined references v Makefile
+• Vyřešit problém s glossaries v textovém souboru
+• Vzory, které jsou v souboru navíc, se zatím mazat nebudou
+• Zavést makra na pojem a na příklad
+• Číslovat pouze do úrovně subsekcí (3 čísla), subsubsekce je možné psát, ale nečíslovat
+• Psát title case
+• Psát dlouhý název i krátký název
+• [PERSON20] si nastuduje článek Natural language processing almost from scratch (2008) a popíše to nějak stručně do knihy
+• [PERSON20] zjistí, kdo zavedl termín „word embedding“
+• [PERSON20] si nastuduje informace o Glove a bilinguální embeddingy
+• Probrány části, které napsal [PERSON2]
+• Doplnit do [PERSON2] části informace o tom, jak se používaly residual correction a rail normalizace z transformera v ELMu
+• Doplnit do [PERSON2] části informace z Probing representations learned by multilingual recurent transformer models
+• [PERSON2] zjistí, jestli existuje ELMo transformer
+• Doplnit informace o dalších typech podobných jako BERT, jako je ALBERT, ROBERTa, XLnet (vybrat zejména ty, které jsou zajímavé interpretacemi)
+• Rozhodnuto, že o multilinguálních reprezentacích se nejspíš napíše samostatná kapitola
+• Část o GPT bude někde na konci knihy
+• Probrán obsah úvodu knihy
+• Popis BERTa bude někde na začátku knihy
+• Pokud bude kapitola o debiassingu krátká, tak bude jako subsekce pod embeddingy
+• [PERSON20] nastuduje článek Gender bias in contextual word embeddings
+
+
+
+
+
+
+
+
+
+Zápis zpracovala: [ANNOTATOR2]

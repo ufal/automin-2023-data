@@ -1,0 +1,23 @@
+-The agenda for today is to thank PERSON9 for his diversion and to plan to send him a book publish table content at least, we should send him an email.
+-laugh> Set meetings, meeting in the middle of July, to have a meeting on the first fifth of no - the first of June, to set meetings for the meeting in some time.
+-Set meeting for the third of July.
+-laugh> And we will have the meeting in middle of June then.
+-The official deadline for book can be postponed from end of June to end of January, like - All the outcomes of this grant can be pos postponed fromend of December end ofJanuary.
+-June thirty stop - six months - Continue according plan we could move it for six months but - Not do anything for six more months because then we would postpone the deadlines.
+-The next meeting would be July, oh no no no - no, June thirty - stop adding new contents and... OK, July thirteenth - stop add new contents.
+-The heat maps were very sharp but if someone else generates something very similar the heat maps are  Dont need be as sharp as neural setting.
+-We tested this thing of neural machine translation and we tested bad and (beside, beside) outcomes or try more para changing parameters and see different heat maps and  but it will be much more complicated how, how to say something about that.
+-The chapter was really different, like the white section, it was a lot of different things, like, there was a section of content that was really new.
+-This is the table of contents of theERSON6 viewer, copied in in.This is the Table of Contents of the PROJECT5 viewer.
+-laugh> The less details the better.
+-This chapter is about different ways of working on the book that we will be working on - laugh> - This chapter really is about the old idea of having a story.
+-Lets say that we have a few questions about data, but we cant discuss them in one chapter possibly.
+-Figure out what content is missing and write something on debiasing and summary, its almost there but just a note, four point three, one and four point five two still need some work.
+-To talk about the data and what data should we do visualisations on but let that discussion be Slack first of all, of course, to talk about data visualisations.
+-Figure out whats mentioned in chapter three, one, and then rewrite it to make sense, laugh> OK, chapter three is an interpretation.
+-Structure of the sections and subsections alright, but kind of the contents that are missing or not there yet, and there are some things missing which are not there.
+-Reorganize the structure of papers - Well, this paper found a lot of things that are not there yet and thats what we want to change.
+-The problem with this is that they said it text semantics even though the task itself is probably not semantic, and just say coreference and - - -.
+-Split the papers (work) into three sections - Syntax, semantics and break it down into smaller sections - Break senses, well re-split it (work).
+-This is just like-do - But now only like papers that fit some of previous sections, and something we found still missing is multilinguality, uh.
+-Machine translation vs. out encoders - It was (cinder) but there were more data for pretraining for machine translation and encoders had less data for training.

@@ -1,0 +1,29 @@
+(PERSON14) I can also view the lecture on [PROJECT2] [ORGANIZATION5]. So, I'll leave it connected while I'll clean up here in the in the lecture room. (PERSON14) So he basicly proposed that the ASR and the segmenter they should run separately. Yeah, so, I didn't understand this -
+
+[PERSON9] to test the script first, what script? So it's a little small task and <unintelligible> them whether this short time so a we get over the <unintelligible>. And the one question, these input files will be in VDD in VDD format, right? It's 20 minutes in the row and so consecutive is already broken in smaller chunks manually by [PERSON13]. (PERSON14) Ehmm, Although -
+
+(PERSON8) So please these are critical, because these are most important path for the evaluation actually. (PERSON14) <unintelligible>
+
+<other_noise>
+
+(PERSON8) So yeah, so this is -
+
+when releasing the set sorry here -
+
+go to sheet number 3 forced alignment inputs and go to sell see 5. And as the as the person who is doing the forced alignments who have this called [PERSON3].And actually the sound is now separate. <parallel_talk>So we don't have [PERSON13] here on the call . Yeah, So this is up to date, and then we have test set, and also consecutive. And the true thing is -
+
+<parallel_talk>
+
+So I'm here putting the path for the files that are in the most recent version and they are these are absolute path. (PERSON8) Well, it is not to important where you process the files. Then you need 16 kilohertz WAVs for the forced alignment or different once? So this is -
+
+And depth set is -
+
+Depth set -
+
+Since set is -
+
+Yeah, so it is just 2 files. And and then laid I'll also prepared bars or I'll have finally [PERSON13] and [PERSON4] to the path for these files. But It would be essentially the various similar to the Antrecorp. And most importantly, the the splits, the splits will be necessary for for this to work. (PERSON8) The czech is of lower priority, English is important. The the chunked version that does not does has has an ugly name. (PERSON8) Okay, if I have not done that myself then do it tomorrow, okay, yep. (PERSON15) Nothing I worked on I test the data for preparing WSLT. (PERSON14) And [PERSON4] we don't need to discuss anything now, right? (PERSON14) JSON file -
+
+So [PERSON8] (forrest) ask me to process this Antrecorp test which is an 17 and 18 and 19. (PERSON4) There, in VDD format there -
+
+You are speaking about <unintelligible> academy?

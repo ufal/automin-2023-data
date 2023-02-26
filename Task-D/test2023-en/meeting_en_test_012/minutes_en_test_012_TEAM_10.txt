@@ -1,0 +1,15 @@
+Attendees: PERSON19, PERSON8, PERSON3, PERSON10, PERSON9, PERSON13, PERSON20, PERSON6, PERSON12, PERSON3
+
+ * First of all let's talk about the first problem.
+ * We will not get them for ITR meetings.
+ * The manual validation should be done at the level of word types.
+ * There is no need to look at the instance, anymore, and we will keep all the information that we have.
+ * This if it appears to be quite serious task for annotators, who should learn a little bit the system of abbreviation of named tag and use them.
+ * [PERSON3]: Instead of careful reading of name tag manual and the named entities yes, if you find a table which list the named entity types, send it to these annotators.
+ * Which one is better to use?
+ * The annotator will look at it and the annotator should think or MOG, can that be a name yes or no.
+ * The annotator would know only at the token level, not at the type level.
+ * The annotator could know only at the token level that his [PERSON17] is actually [PERSON17].
+ * We have to select some of the meetings.
+ * Some of us, two of us will imitate the summarization part.
+ * [PERSON19]: I mean we have to devide the roles.

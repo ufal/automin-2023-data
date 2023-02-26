@@ -1,0 +1,135 @@
+Summary:
+
+* PERSON4 hasn't heard from PERSON2 yet, so he's not sure if he'll join the group. 
+  - Fact: He sent an email to him, and she was on the copy. She called him, but he didn't respond to her. 
+* PERSON4, PERSON1 and PERSON9 send each other a photo of him when he was in Prague. He's in Prague, as they joke about it. He's not in the photo. 
+  - Disc: He is in Prague at the moment, as it turns out. 
+* PERSON7 is in Iran for a month or two and then she's moving to Canada. She has no free time during the weekdays, so she's not able to meet with PERSON4 and PERSON4. She forwarded to him the response that she gave to her previously. 
+* PERSON9 will consider moving to New Delhi for the visa and stuffs once the vaccination drive starts. 
+  - Disc: He is afraid to go to Prague, because he doesn't want to get a visa to go there. He doesn't like the idea of going to Prague. 
+* PERSON4 is worried that the way in which they are paying PERSON9 will run out in the middle of the year. 
+  - Fact: They were able to use the full year limits for the previous year, but now the limits amount to half a year would not be sufficient. 
+  - Disc: The problem has been postponed, but there is a limit on how far they can push it. 
+* PERSON9 will talk to professor PERSON4 about this issue with him. He will talk about it with someone else. He wants to talk to someone else later on. The conversation will be with someone who is not Professor 1. 
+* PERSON4's student is not able to join the project because he needs to finish his master thesis. 
+  - Disc: The thesis is to develop a tool to help annotate data. 
+    -- Fact: He is already being paid from a company that wants to use the tool, so he wouldn't have the time to work on the project. 
+* PERSON4 is looking for a person to prepare the files for annotators, the insertion of the annotations into the data set, clean up the data and then remove the original content. The procedure was discussed yesterday, but PERSON4 doesn't have any new input. PERSON4 will try to reach out to a CS student who is available over the weekend. 
+* PERSON4 and PERSON7 are going to put the words that were prepared by PERSON1 into the text and polish them. 
+* They need to do the second round at the type level and at the token level. 
+  - Disc: The annotators don't have the programming skills, so they can't automate their work. PERSON4 doesn't have time to work on it this week. 
+* PERSON7 and PERSON4 are preparing the format for the annotators. 
+  - Fact: They are going to use bolding and italicisation. 
+  - Disc: It will be possible to convert plain text files into XML over the weekend. 
+* The annotators will use a yellow background and they will italicise and bold names and bold <unintelligible>. 
+* PERSON4 suggests taking the list from PERSON1 and applying it to all documents, including transcripts and minutes. 
+  - Disc: He suggests color-coding, highlighting, shiny yellow, items that are unclear at the type level, and introducing sentence IDs. 
+  - Disc: Microsoft Word will probably screw up the file after saving it. 
+* PERSON4 has done that in the past and it's helpful to have some formal trait in the document. The annotators would open the file and report problems with the light yellow areas. 
+* They would select by double clicking the words and bold face and italicise for yes, and italics for no. 
+* PERSON4 and PERSON9 have sent the text from the de-identification procedure to PERSON7. 
+  - Disc: PERSON4 shares the link with her. 
+  - Fact: PERSON7 has sent a link to the document as well. 
+  - Disc: It's about the procedure. 
+* PERSON4 explains to PERSON7 that annotators cannot edit HTML files without opening them in an editor. 
+* He suggests that the programmer should extract the indicators from the HTML and put them into the clean XML format. 
+  -- Disc: The programmer is busy with the preparation of the workshop and can't do it himself. 
+* The XML markup should be clear about the stages of the processing. 
+  - Disc: The annotation itself can be undecided, that is okay, but the stage of the processes have to be clear. 
+  - Fact: PERSON4 asks Parallel Talk to send him examples of the annotations. 
+* PERSON4 is looking for a custom XML markup for the NE annotation. 
+  - Disc: He is open to suggestions from other people. 
+  - Disc: One option would be to replace the NE with <parallel_talk> NE, status equals, suspected. Another option is to come up with the markup yourself. 
+* PERSON4 explains what would be the negative, or disproved, or, disproved at the token level, and the positive, confirmed at the anno-tator level. The type level is always PERSON1 or the other person, and there could always be type equals something. 
+* PERSON4 and PERSON1 want to present the full documents to the annotators. They want to show the full text and allow them to skip quickly through the instances of that. The presentation would be HTML with a sentence with the annotator's name and a NE question mark. 
+* PERSON4 would like to communicate with people by sending them the files in Microsoft Word. 
+  -- Disc: PERSON1 prefers showing more sentences. 
+  - Disc: Google Forms is the easiest way to send files. Google Docs is the most ethical way to share documents, but it's up to the user if they want to use it. 
+* PERSON4, PERSON1, and PERSON9 are discussing how to mark non-per-non-named entities. 
+* They decide to mark them in green, red and yellow. 
+  - Disc: They also discuss how to make it easier for people to submit their files. 
+* PERSON4 needs to prepare for another call and talk to prospective programmers. He also needs to discuss the markup and the debate how it should be prepared for the annotators. 
+* He needs to double check the stages, the stages and the options, and test the HTML, Word, and HTML before extraction. 
+* PERSON4, PERSON1 and PERSON9 have to go for the Scientific Committee challenge. They need the web page to be completed so that they can put that into the email and ask the people. PERSON9 will make the website ready within one or two hours. 
+* He will send the link to the website to the project on GitHub. 
+* PERSON4 has another call in 20 minutes. 
+  - Disc: After that, he will look at the project. 
+* They are running short on time for PROJECT2, so they need to submit it to the Scientific Committee soon. 
+  - Disc: PERSON9 and PERSON4 agree on that. 
+* PERSON4 hasn't written to anyone about the Russians yet. 
+  - Fact: PERSON9 reminds him to do so. 
+  - Disc: He will do it soon. He will write to PERSON1 about it as well, as he wants to talk to him. 
+* He wants to ask him about it. 
+* PERSON4 will update the webpage once the webpage is ready. 
+  - Disc: PERSON1 was unsure about the table, so he will do it after it's already been updated. 
+* PERSON5 is not on the call. 
+  - Disc: She will be adding more names to the sheet for the prospective Scientific Committee. 
+  - Fact: PERSON9 can also put the names on the sheet, because he has already done a bit of review-surveying for the papers. 
+* PERSON7 needs a reference letter from PERSON4 for a scholarship. 
+* PERSON4 is leaving and wants to meet with Tea this week, so she asks PERSON9 to arrange a meeting between them and PERSON4. 
+  - Disc: He agrees to do it. He will contact PERSON4 later. 
+* He will also contact PERSON9. 
+* PERSON4 hasn't seen her today, but they'll find some time to talk about it. 
+  - Disc: PERSON9 wants to make someone host the meeting, so he'll make PERSON9 the host of this meeting. 
+* He needs someone to talk to her. 
+* PERSON9 is leaving. PERSON7 has a question for him. 
+  - Fact: He asks it to PERSON1 and PERSON1 answers it. 
+  - Fact: They say goodbye to each other and leave the building. 
+  - Disc: It's not a problem for him, so he doesn't have to ask it. 
+* PERSON9 and PERSON7 are in the process of submitting the PROJECT3 proposal to two places. 
+* They need to have all the data processed by February (mid) and prepare a demo of the document for the annotators. 
+  -- Disc: If they are busy, PERSON9 can step in and do the problematic parts. 
+* PERSON1 and PERSON7 have to work together for 200 hours. 
+  -- Fact: Some people work quicker, some work slower, some are more accurate, and some are quicker than others. 
+  - Fact: One person gives back the meeting in 2 hours instead of the meeting's duration in minutes. 
+* PERSON9 and PERSON7 will meet at the end of this week. They will catch up on Monday. They will discuss flexible flexible plans for the rest of the week and catch up next week, as well as the future plans for their lives. 
+* PERSON9 wants to see the sample so that he can help PERSON7 with some of the issues. 
+  -- Disc: They will do it very quickly. 
+  - Disc: I want the sample, because I want to help you in some respect". 
+* PERSON9 and PERSON7 have to send a proposal to have the sample data uploaded on the website as soon as possible. 
+  - Fact: If they have the code, they can run down all of the files. 
+  - Disc: They hope it will be ready for next week. 
+* PERSON9 wants to talk to PERSON1 for a few more minutes regarding the proposal. 
+  - Disc: PERSON7 prefers to leave them alone and goes to do his own work, but it was nice to meet him. He thanks PERSON9 for meeting him. 
+* PERSON9 and PERSON1 are going to send a proposal for PROJECT2 to the project manager. He has to review it and once he's done, they will send him the proposal. 
+  - Disc: PERSON9 has access to the proposal and suggests that PERSON4 can also take a look. 
+* PERSON9 will send a Google Doc to PERSON1. 
+  -- Fact: It's called PROJECT3's Master Document, the PROJECT3 components and it's in the master document, PERSON1's] file. 
+  - Disc: It is not clear if it can be seen by the recipient. 
+* It's snowing outside and it's beautifully snowing, according to PERSON1. It's a beautiful snow, as it's said by PERSON9. 
+  - Disc: It is snowing in the area where PERSON1 lives. 
+  - Disc: It is very beautiful outside. 
+* According to PERSON9, the death rate in the UK is not as high as it is in the U.S. because of the fact that there is a higher death rate among people with a comorbidity. 
+  - Fact: PERSON9 is diabetic and prefers not to take medication. 
+* Once the vaccine, mass immunization program starts, it will obviously slow the spread. Once the spread goes a townward trajectory, then it is going to end. 
+  - Disc: The vaccines are more than 90 percent accurate, but there is a margin of error for all of them. 
+* PERSON1 and PERSON9 have to submit a project proposal for PROJECT3. 
+  - Disc: They have to be careful about it, because they can't do anything illegal. in the project. 
+  - Disc: in this case, it's a serious matter. 
+* PERSON1 and PERSON9 have to submit a project by today. 
+* They need to submit it on automatic minuting and submit the submission portal requirements. 
+  -- Fact: They have to do it quickly and submit it today. 
+  - Fact: The documents are: PROJECT2, PROJECT3, PROJECT21 and PROJECT22. 
+* PERSON1 and PERSON9 don't have a Scientific Committee. 
+  - Disc: The link to the registration is too long. 
+  - Fact: In the website, it's for them to review. It's not on the registration page. It's on the second page of the website. 
+* PERSON1 and PERSON9 need to submit their proposals to the review committee by January 10th. They need to put their websites on the website. They also need to send the XML source to the Scientific Commu- Committee, so that they can focus back to their research. 
+* PERSON1 and PERSON5 haven't heard back from PERSON5 recently. 
+  - Fact: She might be joining the group because she's getting their emails. 
+  - Disc: She's not very good at organising things. 
+  - Fact: She will have to write to her to explain this to her. 
+* PERSON1 and PERSON9 are having Christmas holidays. 
+  - Fact: They have to submit something to the government, so they have to be relaxed about all things, even if they are on holiday. 
+* PERSON9 is okay with it, but they need to submit. 
+* PERSON1 will write to PERSON9 to check on the situation of the girl. She is worried that if the situation is not good, she might not be okay with her, so she wants to know if everything is okay with the girl and if she's alright. 
+* PERSON1 is having another call at half past one tomorrow. He will have half an hour with PERSON9. They can skip tomorrow's meeting and keep on working and maybe they can meet later. 
+* PERSON1 will ask PERSON5 how to do something and they will contact each other anytime if they need something. PERSON9 and PERSON5 will do the same thing. They will contact one another if they do. 
+* PERSON1 and PERSON9 are going to see each other soon. They exchange pleasantries and good-byes before they leave the other's place. 
+  - Disc: by the way, they are laughing. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

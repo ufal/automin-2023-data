@@ -1,0 +1,49 @@
+Summary:
+
+* PERSON4 wants to thank PERSON5 for preparing Google forms for alignment annotations. 
+  -- Disc: He finds it very useful and pleasant to use. 
+  -- Disc: He also likes having an overview for what was done in the form. 
+* He wants to talk to PERSON5 about it later today. 
+* PERSON5 needs to set up the website for the workshop proposal very quickly. 
+* He needs to do it on Github. 
+  -- Disc: He doesn't know how long it would take to do with the Organizer's website. 
+  - Disc: He will ask someone else for help. 
+* PERSON5 is setting up the website of the special event. 
+* The website should have the content like the call for participations, the dates and the submission information type in the review process, location and stuff. 
+  - Fact: He will start writing the first version of the website today. 
+* He needs the input of the participants. 
+* PERSON5 will share with both of them a e-mail with a list of people who can be summarization people for the share task. 
+  -- Fact: They have to show they have a good program committee with at least 20 people in the program committee and they have to have two or more than three or four people. 
+* PERSON5 will send a draft e-mail to PERSON4. 
+  - Fact: PERSON5 shared a Google doc about inter- inter-state relations with PERSON4 and asks him to open it and read it. 
+  - Disc: PERSON4 can't do it. 
+* PERSON4 can't open Google Docs as it doesn't work today. 
+  -- Fact: It happened to him and another person before and it happened again with another person now. 
+  - Fact: It's because Google is busy today. 
+  - Disc: PERSON2 can't help him. 
+* PERSON5 needs to prepare the proposal for the website and get the membership right. 
+  -- Fact: The professor hasn't replied to his e-mail yet, so it's not clear if it's individual membership or institutional membership that needs to be prepared. 
+  - Disc: The professor is yet to respond. 
+* PERSON4 and PERSON5 are going to make a similar website to the ones they have looked at for the last year. 
+* They will send the draft to themselves and copy it to the program committee member so that he can invite some more people into the committee. 
+* PERSON5 and PERSON4 have a lot of work to do for the workshop. 
+  - Fact: They have to work extra hard as none of them are from the summarization background. The organizing committee used to have a big organizing committee and some people are from someization background, but now there is no such committee. 
+* PERSON4 and PERSON5 are making a share task. 
+  - Fact: They are also doing some workshops with other people. 
+  - Disc: The organizing committee is very big, so all of them are doing some portion of it. PERSON5 is mostly looking into the like publicity and the website, and writing the paper. 
+* PERSON4 and PERSON5 don't have scientific input. They have just the results of the experiment. 
+* They need someone with a background in summarization to make it a full legit workshop, so that they can think of many content instead of focusing on only one data. 
+* PERSON4 and PERSON6 want to organize a scientific workshop. They need invited speakers and articles on the topic. They want to call it a workshop, but they don't have the content for the workshop. 
+  - Disc: It will probably be a satellite event. 
+* PERSON5 and PERSON6 addressed at least six to seven people from summarization community, including famous professors. They didn't respond affordably, so they didn't invite them for the input. All of them said they were busy and declined. 
+* PERSON5 will talk to someone who has worked on summarization for the keynote. He will ask him to be a part of the program committee as he declined to be on the organizing committee. 
+  - Disc: He doesn't want someone from Organizing Committee 1 to deliver the keynote because they are part of it. 
+* PERSON4 and PERSON5 are looking for someone who can do summarization for their thesis. They are going to ask one of their grad students, who works on Phd. The student is in the office, but he's in the next room. They will ask him if he can join. 
+* PERSON4 and PERSON5 are going to discuss summarization of a proposal, but PERSON4 thinks it's not important. PERSON5 tries to figure out what other things they need to take care of, but it doesn't make sense to discuss it. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

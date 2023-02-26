@@ -1,0 +1,37 @@
+[PERSON9], yes, (PERSON4) is moving to Prague.
+[PERSON1] is there any chance, or what i what is the status there?
+(PERSON9) would only say that once the vaccination drive starts, then only like [PERSON9] would like to consider of, moving to New Delhi for visa and stuffs s yea Oh.
+(PERSON4), th substitute way has probably legal limits which will kind of run out in middle of the year.
+(PERSON9) u that, there is a limit on, how far the participants the meeting can push, this year.
+Professor [PERSON4], (PERSON4) thin (PASTER1), [PASTER1] thin (pASTER1) thin [PPERERSON1)] thin, [pASTER1 thin] thin.
+[PERSON7] is not going to be able to participate in the meeting because he needs to finish (PERSON9)'s master thesis and he doesn't have the time to do it.
+(PERSON4) can try reaching out to another faculty where they also have like student works and, mayb maybe they would have someone available fo this exercise.
+[PERSON9] said yesterda like, if (PERSON9) was the person, to do this then (PERSON9) would spend a week like 40 hours working on this and (PASTER9) think it's doable in those 40 hours, if [PASTER1] are e skilled, (VI) user and pr programmer.
+Mm Wh what kind of In what format are participants meeting going t mmh, prepar prepare for the annotators?
+[PERSON4]: [P]ERSON1 would save the document as XML, and then they would open it in a light yellow background, highlighting all the items that are unclear at the HTML type level.
+[PERSON7] sent - Yes, the lin u is (automatic), yes, the time is (minutes).
+(PERSON4) rself, would be able to extract the indicators, and put them into the u clean XML format.
+(PERSON9) will look for someone else, but in case no one is available, [PERSON9] will do that, maybe slower, but [PION1] can.
+parallel_talk> [PERSON9] is not available for the markup, but he is pretty busy with preparation for the workshop itself.
+Please can (PERSON4) put this remark of mine, about timeline, somewhere outside of that comment, for participants of the meeting do not lose it?
+The main text of that, of it (minutes).
+And then next stage would be NE status, equal, ah confirmed at type level, NE status u thi wha what would be negative to disproved or, disproved at token level.
+[PERSON1] think that the participants of the meeting have to show full text, and ideally the meeting should allow them to skip quickly through instances of that.
+(PERSON9) think that uf, individual sentences does no are not sufficient, because sometimes they are very short.
+[PERSON1] how do (PERSON9) communicate with them what would be recommended way?
+[PERSON9] has invente well invented, has begun a very nice way using Google Forms for sending files right?
+Participants meeting would have to like, Google Docs obviously they have permissions system for the participants of meeting could somehow like divide it and like make it accessible only to specific people.
+parallel_talk>
+parallel_talk> And let's say that for some reason, at the type level participants of meeting have already di like decided, that [PERSON3] is a person, whereas this was decided as not a person
+Why should (we mark) non-pe non-named entities?
+(PERSON9) think that they, s t the definitely have, to make the decision for the undecided ones, for the maybe ones that's, bright yellow and bright red ones.
+(PERSON4) c just imagine how colorful it's going to be, jus This (is) green sentence is also going to have green one name is green and another name is Green,so it will be extremely colorful, and really, l a lot of (work).
+(PERSON9) are saying that the participants meeting would be highlighted at all.
+They would be doing the bold facing, and italicisation, and now, they would be checking and validating that this is a name.
+[PERSON9] green is good.
+And please do a tes test document for [PERSON7] will prepare it and [PERSON1] will do the bolding, and [C] will try to get information back right?
+S there are two things, ah t to do, s parallel_talk> to dos, one to do is to double check, stages and whether they are clearly, reflected in XML markup options, and then test HTML, Word HTML, and Then extraction.
+And, [PERSON9], (PERSON9) agree with (PERSON4) that the participants of meeting have to go for the Scientific Committee.
+[PROJECT1]: [PERSON9] will make the website ready within maybe one or two hours.
+An and the way to roll it out to the web, if (PERSON4), if made any changes on GitHub, will they automatically appear o in the web or will [PERSON4] have to push a button?
+(PERSON4) have another call i in 20 minutes.

@@ -1,0 +1,48 @@
+Datum schůzky: 30. 9. 2020
+Účastníci: [PERSON2], [PERSON4], [PERSON10], [PERSON14]
+Účel schůzky: Informační schůzka ohledně knihy.
+Shrnutí schůzky:
+
+- Co chybí v knize.
+-- Dodělat obrázky.
+-- Zpracovat komentáře.
+-- Každý by měl dopsat odstavec svojí kapitoly do souhrnu.
+-- Nedávat do souhrnu citace a obrázky.
+-- Ještě přibydou další komentáře.
+-- Čeká se ještě na odpověď, zda je možné mít vybrané recenzenty.
+--- Raději znovu poslat e-mail s žádostí.
+-- Pokud se dá kniha recenzentům v říjnu, mělo by se to stihnout do července.
+
+Administrativa.
+-- Bude prezentace na [ORGANIZATION1] semináři, který proběhne 30.11.
+-- Každý by tam měl odprezentovat svoji část na projektu.
+-- Seminář bude probíhat virtuálně.
+
+- Kniha.
+-- Je dopsaná další kapitola a okomentována.
+-- Je spíše obecnější, proto zkusit zapracovat komentáře.
+-- Přibyly dva nové obrázky.
+
+- Setkání.
+-- Byla by možnost místo on-line meetingu, udělat pouze chat.
+-- Nebyl by každý týden, ale jen kdyby bylo potřeba.
+-- Další meeting bude ve čtvrtek v 11.
+
+Kniha.
+-- Je potřeba se domluvit na [PROJECT3] článku.
+-- Zkusit vymyslet lepší model než psát komentáře a reagovat na ně.
+-- Objednat tisk do 170 stránek a zjistit cenu.
+--- Tisk se musí objednat tento rok, aby to mohlo jít z grantu.
+-- Zjistit, jak řešit korekturu knihy.
+-- Upravit knihu do dvou dnů, aby se mohla poslat recenzentům.
+-- Bude se posílat [ORGANIZATION2] pressu.
+-- Do února, března se bude moct kniha furt měnit.
+-- Jakmile se kniha pošle recenzentům budou knižní prázdniny, kdy se na knize nebude pracovat.
+-- Zkusit naplánovat schůzku k dotažení drobností.
+-- Opravit obrázky.
+-- Sjednocení psaní číslovek.
+-- Zítra může proběhnout schůzka na [ORGANIZATION1].
+
+
+Zapsala: [ANNOTATOR1]
+

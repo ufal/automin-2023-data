@@ -1,0 +1,26 @@
+(PERSON10) i'm - i'm compiling the client now myself to test the ebclient.
+(PERSON6) i will, uh, i will take care of it.
+(PERSON6) i'm not sure, i have one from [PERSON4] here, but no, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it.
+czech authorities are in a gap of the czech law.
+they really take it as a temporary solution.
+it would be better for us and better for the project if you decided to take it as an opportunity and not as a, as a negative duty..
+i believe that the [ORGANIZATION4] is still closed, isn't it? i'm, i'm, i'm, i fear that the same situation is for [LOCATION1].
+i think that you at the moment, you cannot apply simply because the [ORGANIZATION4] is closed, isn't it? (PERSON1) so, keep checking and as soon as you can apply for visa, then please go for it..
+i have no messages from [PERSON9] since last thursday.
+i think [PERSON9] raises issues, new and new issues.
+(PERSON6) we can definitely raise that on the thursday call.
+(PERSON5) yeah, yeah, now it's better..
+(PERSON5) or three months ago, i was read, i was not reading, but i skimmed through the paper on the (blue) and if i understood correctly, they were basically training a model to do the evaluation.
+(PERSON10) yes, the metric, right? (PERSON6) hm.
+(PERSON8) hm.
+(PERSON8) hm.
+(PERSON8) hm.
+(PERSON8) hm.
+(PERSON8) hm.
+(PERSON8) h.
+i'm really, like always s– sceptical to these machine-learned evaluation methods, right? because they might be sensitive to domain shift and, and such.
+but i'm thinking that, that it might be implemented into the pipeline somehow, but i don't know exactly how we can add it or include it right now.
+i think if we take the pretrain model and fine–tune it during training it might be useful for this kind of distinguishing..
+blue doesn't capture semantic similarity because it's just using the surface forms.
+but it can be used to guarantee that the paraphrase or the alternative sentence does not straight– stray away from the original meaning too far.
+(PERSON6) yeah, yeah, yeah, we can talk, talk about it, or consider it later..

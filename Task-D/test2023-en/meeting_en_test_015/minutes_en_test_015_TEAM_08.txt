@@ -1,0 +1,65 @@
+So today is the deadline for, um, stop adding new content into the book. [PERSON17] Or in that same sense in, in that you have everything there even before? [PERSON8] Like kind of the information is already there more or less so...
+
+[PERSON19] <unintelligible> new contents. Um, yeah, cause I don´t know much about it actually but I think we maybe (say) we can just -
+
+[PERSON17] (We have) the paper about that. The next phase should have been commenting on, on others text. It doesn´t mean to comment on text that is not finished at all. Like I don´t know if you have a box of chocolate and you just plan to arrange the chocolate nicely so you´re not adding new content, you´re just rearranging what´s already in the box. So I opened the paper in Inkscape and I degroup it and I saved just the image into the file and <unintelligible> png. I, I actually don´t know like we definitely need to cited and said that it´s from that work. [PERSON8] And...
+
+Yeah, I actually don´t know like to rules like, I think it depends on the licence of each of the papers. [PERSON8] That you cannot do it, hm -
+
+<laugh>
+
+If it´s not [PERSON24] then I don´t know. This is archive but archive lists the licence probably somewhere. [PERSON9] So I think major, major all the pictures -
+
+[PERSON8] Hm. [PERSON9] Um...
+
+Because in my, in my, in my chapture I (like) the matter the, all the, of the figures will be, will be ours. I, I can, I can just say them more detailed since just kind of, um, um, um, nougats. I don´t think there are more papers about grammatical error correction or event fractuality. So it shou-, yeah, I think it will be like one paragraph or something. <laugh>
+
+[PERSON19] It isn´t easier to just put other like things? [PERSON19] I think -
+
+[PERSON8] I didn´t really know -
+
+[PERSON19] That people -
+
+[PERSON8] How to -
+
+[PERSON19] <unintelligible> like about the experiments. I didn´t want to put through it just other but then it´s true that I don´t know where to prove it like these are syntax but, but the the other ones like gender of nouns -
+
+[PERSON19] Hm. [PERSON9] So...
+
+[PERSON8] So, so here -
+
+Yeah, in the, in the, in the hidden states or (contextual) embeddings people look for lot of stuff, um, yeah. [PERSON9] So maybe we should, we should devide this, this, um -
+
+[PERSON8] Hm. So from 5.2...
+
+Maybe is -
+
+Yeah, missing -
+
+Um, maybe I would, I, I -
+
+Some, in some parts I would, I could write more but...
+
+Yeah and there are some pictures missing. Because 5.1 you, you already read it and I haven´t change it. And yeah, maybe we will, we will remove this table, I don´t know. Well, I´m not sure how -
+
+[PERSON9] So <unintelligible> in, in our plan, um, it is...
+
+Um, where it is? [PERSON21] OK and then there´s this chapture which I need to move this. So if you, if you like cut of the top and bottom, 5 % maybe it could be different. <laugh>
+
+And you can comment on them and then I rewrite the chocolates. <laugh>
+
+[PERSON17] At the other one would, would totally different fonts and -
+
+[PERSON21] Yeah. [PERSON21] They are some connections directly between embeddings and the soft max layer. Well, if I, if I make the, the subsign smaller it will, it will get fixed probably. [PERSON9] And figures at least in, in some -
+
+Yeah, at these they should be there but they, they might ugly or we, we need to know what is there, what is in the figure. [PERSON9] If only (the font) change and the, the, the picture will be same only the nicer and then I´m sure it´s OK. I think I maybe able to find the source and generate a tix file. I mean if I -
+
+[PERSON17] <unintelligible> forever to <unintelligible>. [PERSON21] Even though it´s quite ugly at this solution so...
+
+Yeah, but OK, I´ll, I´ll transform this from a bit map into proper text after everything else is done. [PERSON17] Yeah, but at least you can replot it so it, so it has the same font as the book. <laugh>
+
+[PERSON9] So do you think you can make it to-, today or? Or whet it´s written somehow we should all of us, we should read it all of book and comment it what is missing where and yeah, where are the problems and other things. [PERSON9] So this is the last book, um...
+
+[PERSON14], Sentiment <unintelligible> in Czech. [PERSON17] I was also thinking about the preface don´t we need like a real introduction that, that all the books have? I mean, um, you can have some conclusions that you draw from, from the book, from, from the research you, you need but the summary of, of the book is somethin else. And, and they have the summaries in multiple languages so...
+
+Sometimes. [PERSON8] Yeah, the series said that the summary is obligatory. But I think we, we´ll add some of the, some pictures and will be there. I, I will, I will, I will go through it and, and try to fix that is missing, missing things. So, so the presentations will be broadcasted like prerecorded and then the QA will be live. [PERSON8] I think it should work (badly) if you´re here and somebody else also wants to watch the same thing and he´s registered which I don´t know if, if it will be true. [PERSON8] So I don´t know how many paralel sessions there are but I <unintelligible> a lot again.

@@ -1,0 +1,24 @@
+-[PERSON7] we will have a review meeting in September, and we have six deliverables due in June, six of them, we haven't decided who will be our internal review person for any of them.
+-The two point one initial ASR systems [ORGAN ASR6] is not providing in the review table, which is good if we are providing some technical.
+-The problem is that (ORGANIZATION3 and us) didn't review what they wrote, which is a problem, because we should review what we wrote.
+-Test sets this is something that we are building, but unfortunately the main responsible for this deliverable is extremely slow and very difficult to build, like test sets.
+-Please pick up on the layout of the test sets and also for those who are not following these details these layout of test sets is that -.
+-sacrebleu is a text evaluation metric and that's a separatelly from the evaluation metric but it's still a text to evaluate.
+-Max apps test sets really quickly sacrebleu, whether he was not all test set from [PERSON7 or not, Okay, maybe.
+-The forks are the concept use for this test set.
+-For the general public, there should be just one file list of all the versions of the software that have been downloaded to the fingerprint system, it would be downloadable by sacrebleu automatically.
+-This is geared towards the evaluation of spoken language translation in terms of the various scores that are given to the system for spoken language translations. The SLTF (Speech-to-Verbal translation system) is the standard system for evaluation of speech translation.
+-The button translation is a bit more difficult to read, because there's a lot of different marks and evaluation marks for different kinds of language translation, and then we have these problems with simultaneous translation.
+-The translation quality of the models is the primary evaluation for the SLT task this year, and it trust the time stamps given by the participants. But we also have submissions who do not include any time stamps the others.
+-Send the lock file we have do with the something in translation task ( SLT) to the actual source code of the python code,
+-Set up the lock file for time stamps.
+-The only way to measure the reliability of the lock files is to use the service models or the models that are run by the users or the users and that's really reliable way.
+-In terms of finding the translation we are looking for pro tests about non segments that some text insistent (like speech) or maybe we can (comment) get translations out of the auditing websites ehmm.
+-We should cover all the languages that are not well represented in the short term contracts with our four languages which are not represented there currently.
+-This is segmentation as opposed to - ASR have focused on resending.
+-Improve the stability of the simulator ASR by adding more testing to the simulator and making it more stable without actually messing up the end performance of the simulation.
+-Realize that there is a difference between the German verb and the English verb, and there will be a question about whether the users preferred wait for a German verb or guess.
+-The translation transcription and translation is a good demo, but the live aspect there is not a good one, that's the French watching session that we didn't understand source language.
+-If the primer language is German, it's not necessary save for English, because there are good models for this language in English, and all languages talk in English.
+-Try sentence segmentation.
+-we have new models now as well, they're really hard, we just try to compose something that is not really in sentences cause we are not speaking in sentences.

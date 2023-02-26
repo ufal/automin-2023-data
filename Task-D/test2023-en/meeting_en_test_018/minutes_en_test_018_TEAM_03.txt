@@ -1,0 +1,30 @@
+Attendees: [PERSON9], [PERSON4], [PERSON3], [PERSON7], [PERSON6], [PERSON10], [PERSON12], [PERSON]
+
+Summary:
+and we would like to share it with [PERSON7] [PERSON7] and [PERSON6] can [PERSON7]'s  team . if we agree on the functions that should there [PERSON12] in the next week . Actually [PERSON7] have noticed if [PERSON4] is on the call . great that [PERSON12] are ready to start calling . 
+
+[PERSON4] is gonna start coding next week . that is where the big question markat the moment , that is what [PERSON4] is notsure . for this we have tried creating corpus of incomplete sentences . but then we need to create the segmenters for all the ASR languages . and the output , if [PERSON7] look at the individual . 
+
+[PERSON6] do not know the exact technical detail of that bound about . And some of these lines will be complete sentences . which is starting in the middle of a sentence ,having full sentence . 
+
+[PERSON7] think that we should proceed ,play with [PERSON6] and [PERSON6] . Translating partial sentences and even more sentences in one go . dependent mission translation that we have tried for this [PROJECT1] technically the segments are not too long ,and we just need to make sure that the transform model handle that well . , [PERSON7] , why does segmentation change , though it sort it has . 
+
+[PERSON4] asked  Whats going on what is that mean ? and [PERSON3] replied  for one thing it is also possible that if it is [I'm it knew hypothesis , the segmentation as we run output segmentation might be different . 
+
+[PERSON3] would have to be at the coding . What [PERSON7] is miss here ,and [PERSON7] think that is that is a problem that has to be solve very soon is that [the herd] zero . actually starts in the middle of or is it some continuation of something which already output . We have already probably getting good translation of that sentence . We need to ask [PERSON3] ,or someone from [ORGANIZATION6] to validate these locks to help us create a reliable locks from the ASR workers ,the baseline would be indeed to follow the segmentation coming from the segmentation worker ,because the statistics of on the internet will translate only the later part of sentence . 
+
+[PERSON7] think we should go for this baseline for the workshop . the baseline would be to have models that translates this . And even if it is damaging the tail of the sentence which was previously translate better . over translate over waiting for full sentences . as it was translated already ,[PERSON7] saw statistics on the internet . this is this is important for [PERSON4] . 
+
+[PERSON7] and [PERSON6] will try to get the this part working , which is like finetuning normal empty models for a . fully following the segmentation from the segmentation worker . Even if it damages tails of previously translated sentences . 
+
+[PERSON4] probably think it is all right . We are still in the face of creating the ASR models ourselves . 
+
+[PERSON6] do not thinkthere will be another [PERSON6] changed the whole structure and we will continue deployment there . but somehow it does not really work for him . 
+
+[PERSON7] have not emailed , [PERSON6] know him as well ,but [PERSON7] have talked to him before ,and [PERSON7] do not have the data , the input data now ,then [PERSON7] will convert the documents the plain text . then , our main input will be the English ASR . Test the fine tuning from start document on real . on the output from ASR with errors against the references . What [PERSON7] like though is the first one to train on real ASR from docks . or miss segmentation that we get from the ASR segmentation worker . 
+
+[PERSON12] have to say that it is not easy ,[ORGANIZATION2] platform is based on having distributed services allowed [PERSON7] would join . 
+
+[PERSON12] has just a question regarding [PERSON7]'s  note in presentation platform the [PERSON7] experiments ,But [PERSON12] can ask now . 
+
+[PERSON9] know though we just email him ,We do not want to bother [PERSON7] . work around for that ourselves for our quick test at random times of the day .

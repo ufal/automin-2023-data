@@ -1,0 +1,118 @@
+Summary:
+
+* PERSON3 wants to thank all who joined the organization. 
+  - Disc: The goal is to synchronize the group and the date and time of the week. 
+  - Fact: If the participation is falling down, the organization will update the call again and choose a different slot. If someone can't attend, they can enter their details in the shared document before the call. 
+* PERSON3 wants to use the recorded calls for the meeting summarization. 
+  - Disc: They will be anonymizing the data and replacing the names with placeholders. After that, they will ask the participants for permission to use this data for the sum-meeting summarization purposes. 
+* PERSON3 is preparing for the ORGANIZATION7 conference in early December. 
+  - Fact: ORGANIZATION7 will only allow them to connect to their website. 
+  - Disc: The conference will serve as a test for the organization. The next year's ORGANIZATION7 conference will be the main demo event for the PROJECT5 project. 
+* PERSON3 wants to ask PERSON11 to start because he has been the most remote for a while. 
+  -- Fact: He doesn't see him, but he can hear him. 
+  - Disc: He can also see PERSON14, so he could see him. 
+* PERSON11 has been working on the paraphrasing since on this call. He has been trying to collect monolingual data that they can use for the rainbow models. 
+  - Disc: He found it difficult to find spoken data. 
+  - Fact: He used the free version of ORGANIZATION10 to scrape a small data set of 100,000 sentences. 
+* PERSON11 received an e-mail from PERSON13. 
+  - Fact: He didn't look at it yet. He has to get in touch with him, but he had a lot of to do to do in the past week, so he didn't continue with this. 
+* ORGANIZATION2 and ORGANIZATION15 released a data and a model for mining parallel data in one hundred languages. It takes up to a minute to translate just one hundred sentences. 
+  - Disc: On some of the testing data sets from PROJECT6, the trained models are not much better than the best Edinburgh model. 
+* PERSON3 and PERSON11 are working on a report. 
+* They need monolingual data for domain adaptation. 
+  - Fact: They also need parallel data as much as possible to create synthetic data. 
+  - Disc: The report is long and there is a lot of work planned and work done. 
+  - Fact: The project was started last year, but they never finished it. 
+* PERSON3 wants to test the evaluation using the PROJECT5 and PROJECT3 test sets. 
+  - Disc: The ORGANIZATION12 is stuck. 
+  - Fact: The person responsible for the development of the PROJECTS is no longer at the Organization. 
+  - Disc: The organization is moving towards system integration. 
+* PERSON3 needs the connection to the PROJECT5 test set and the status of the PROJECT2. He needs someone to send him the link to the test set or some information about it. 
+  - Fact: He asks PERSON8 to brief him on PROJECT2's status. 
+* PERSON8 is talking about the current version of PROJECT2, PROJECT5, PROJECT2 and PROJECT5. 
+  - Disc: The PROJECT2 is completely finished. 
+  - Fact: PROJECT5 is working with alignment. The index for PROJECT2 is independent from the others and is called ORGANIZATION6. 
+* PERSON8 wants to run PROJECT2 on data and see the result and make the final agreement if he wants to do some minor changes. 
+  -- Disc: When it's ready, they will publish it. 
+* PERSON3 needs to deploy the project and then it will be ready. 
+* PERSON3 wants to make PROJECT2 the standard evaluation tool for spoken language translation and machine translation. He wants to have it as a stress test within the consortium and to publish it at a conference. 
+  - Disc: He asks Sa-PERSON14 to help with that. 
+* PERSON3 wants everyone to evaluate their systems using PROJECT2 on PROJECT5 test set. Peter Polak wants to evaluate his systems on PROJECT2. 
+  - Fact: It works off-line, but only with the files inside the PROJECT5 test set, so PERSON3 wants the previous version. 
+* PERSON3 tells PERSON8 to download the PROJECT5 test set when they ask for the third one. 
+* It should be on the request of the third person. 
+  -- Disc: It will be available when asked for the fourth one. 
+  - Disc: The test set is for PROJECT5. 
+* PERSON8 is in Czech and he's working on his things. 
+* He wants to talk to PERSON3 about organizing his things around half an hour to one hour to finalize it. 
+  - Disc: He prefers next week as today he's coming to university. 
+* He will go to ORGANIZATION3. 
+* PERSON8 and PERSON3 will meet next week to discuss the paper and some fears. 
+  - Fact: They have eight minutes left to make the meeting short and finalize the paper. 
+  - Disc: The person who doesn't know what to work on is the most lost. 
+* PERSON14 is attending a lecture and a meeting. He doesn't know what to work on. The most urgent thing to do is getting the evaluation of the of all the systems. This is what PERSON10 is also working on. 
+* PERSON3 wants to talk to him directly. 
+* PERSON3 doesn't want Ebrahim to miss his lecture. 
+* He wants to talk to Ebrahim separately about censorship pipeline. 
+  -- Fact: He will send e-mail if he has any further questions for Ebrahim about the topic later on. 
+  - Disc: He is interested in putting together the censorship pipeline after PROJECT4. 
+* PERSON3 is unable to respond in time to a technical call on the disabling of the outputs of the life editing tool. 
+* He suggests a call between PERSON12, PERSON14, PERSON10, PERSON15, and maybe [PONENTHAN] and the second lost person. 
+* PERSON4's task is to generate synthetic multi-source train set. 
+  - Fact: The paperwork is still in the process. 
+  - Fact: When he gets the cluster access, he will check if the paperwork is already processed enough and write the training instructions for the model he is supposed to train. 
+* PERSON4 wants to have access to the system and cluster so he can do something with it. 
+  - Fact: It's two GPUs per machine, so it's not for 8, but for larger ones. 
+  - Disc: The memory of the cluster is full, like this cluster is. 
+* It is hard to receive more than one GPU there. PERSON11, PERSON4, PERSON10 and PERSON10 will wait for their cluster to arrive. It's hard to get more than 1 GPU there". 
+* PERSON10 and PERSON15 should be working on the multilingual PROJECT4 systems now. 
+* They will discuss it directly after the call with PERSON3. 
+  - Fact: PERSON10 will send them the summary of the current summary and send them how they do data collection in ORGANIZATION15. 
+* PERSON7 is working on data data augmentation for PROJECT4. His model is only for offline processing. 
+  - Disc: If his model works well, it will be integrated into PROJECT5's test set. The best person to help him with the onlinezation of his model would probably be PERSON10. 
+* PERSON7, Peter and Umar will use the CTC end-to-end model or the cascaded model from PERSON7's thesis. 
+  -- Disc: The evaluation of the offline runs is the deciding thing. 
+  - Disc: They will ask Umar to work on the same data and keep training. 
+* PERSON3 wants Umar and PERSON7 to train as a comparin-compa- comparison in using the exact same training data, exact of evaluation, and to be in touch with each other. 
+  - Disc: PERSON10 has an idea for a new training system. 
+* PERSON10 suggests transfer learning on on of double encoder model on small GPus. 
+  - Fact: If they have trained model for English-Czech and German-C Czech, then you can try to copy the parameters from one encoder to the other one from one model. 
+* PERSON3 recommends to always try it with small models and small data first and then apply it to the large data. He suggests to send the code to PERSON10 by e-mail. 
+  - Disc: PERSON11 wants to know what models he is working on. 
+* PERSON3 has to leave the call. 
+  - Fact: The purpose of the meeting was fulfilled and he will now do the discussions in small teams as they have discussed. 
+  - Disc: He will not continue to talk to the other participants. 
+  - Fact: The meeting was packed and some of the participants had only a few seconds of discussion. 
+* PERSON14 has to leave because his lecture is ongoing and he has said his part of the lecture. 
+  - Disc: He will do all the things after after the lecture and get connected with the people he needs to talk to. 
+  - Fact: He apologises to PERSON3 for not being available earlier. 
+* PERSON15 will stay for a while. 
+  - Fact: Peter and Umar will stay with PERSON3 and PERSON7. PERSON3 is now the host of the call. The call will be between Peter, Umar and PERSON3. 
+  - Disc: The conversation will last for a few minutes. 
+* PERSON7 is working on a project called ORGANIZATION11. He's trying to improve the robustness of the Common Voice speech data set. 
+* He wants to use non-native speakers' words more frequently. He also wants to create wholly new sentences instead of training end to end. 
+* PERSON7 is working on the same task which was due to the ORGANIZATION14 challenge. He doesn't know the exact statistics of the task. 
+* He needs to check the details. 
+  - Disc: He didn't understand the instructions because he didn't know what the task was. 
+* PERSON15 and PERSON7 are working on the same thing that was due in ORGANIZATION14's Interspeech challenge. It was due on the 20th of September. They got the data from the challenge, but they don't know if they can use it. 
+* The main objective of PROJECT7 is to train a robust English in order to be able to communicate with PROJECT4 more effectively. The main objective is to develop a more robust English to the more difficult to understand language. The training is aimed at developing a more fluent English. 
+* PERSON7 is using the ORGANIZATION4 toolkit. Next week he will be in Prague and he will start to work on the multi-lingual project. He is still at home and he doesn't have much time to work now. 
+* PERSON15 was talking about the performance of his system. He was probably talking about PROJECT4, which he used for his master's thesis. He also mentioned something about the multi-lingual performance of the system. 
+  - Disc: It is unknown if it was PROJECT4 or something else. 
+* PERSON7 was using an end-to-end model provided by ORGANIZATION8. He trained his own transfomer model that would translate phonemes into graphemes and add eh, pun- punctuation and recover some errors. 
+* The data from the ORGANIZATION14 challenge is private and they can't use it, so they need to use the same data for ORGANIZATION13 evaluations. 
+* PERSON7 will use the common voice data set. 
+  -- Fact: The most papers that work with accented speech are working with the Common voice. 
+  - Fact: He will share the data set with PERSON15 to train the set and then test it. 
+  - Disc: The data set will be multilingual. 
+* PERSON15 and PERSON7 will compare the <unintelligible> of more systems and leave a message for each other on the message board, if it's okay for PERSON15. PERSON7 is not sure if it is okay for him. 
+* PERSON15 will leave a message for PERSON7 via e-mail whenever he has time and leave the message for him on the message. The message will be short and to the point and will be of no interest to PERSON7 at all. 
+* PERSON15 and PERSON7 don't have anything to say to each other, but they thank each other for their time. PERSON7 thanks PERSON15 for his time. 
+  - Disc: PERSON15 thanks PERSON7 for his help. They both say goodbye. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

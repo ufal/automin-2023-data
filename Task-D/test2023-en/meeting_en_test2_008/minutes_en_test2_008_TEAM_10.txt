@@ -1,0 +1,20 @@
+Attendees: PERSON10, PERSON4, PERSON9, PERSON2
+
+ * that means that we will lose a pe-, the person to prepare the data.
+ * [PERSON4]: I will not be able to transfer all this information to [PERSON7].
+ * We will plan to do them later because they are closed set.
+ * The process of the named entity removal has to be very clean, and we have to know at what stage of this process we are.
+ * Co-referencing of chains, including the identity of the individual speakers.
+ * We need to put this outline on a time frame.
+ * [PERSON9]: I will have a session with [PERSON4] with the data.
+ * She needs to read the regulations.
+ * We don't need to do this on [ORGANIZATION6]?
+ * [PERSON10]: I'm waiting for [PERSON4] to finish.
+ * The guidelines will be the result.
+ * When people will be asked with the second form again.
+ * The preparation of the web page.
+ * Please put this de-identification procedure and this check with the consents on the time scale.
+ * We write the data de-identification from the participants by February end.
+ * We have to have the data ready for them to browse.
+ * [PERSON10]: If we are able to have the data for them by mid February, then I would agree with you.
+ * This should happen by the end of by the mid of February at the latest.

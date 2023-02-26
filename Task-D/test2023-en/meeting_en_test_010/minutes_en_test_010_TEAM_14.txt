@@ -1,0 +1,56 @@
+(PERSON3): Ok thank [PERSON4] [PERSON3] for recording this meeting, that's good.
+[ORGANIZATION2]: [PERSON3]: Okay, we'll do the poll for the next week as well and hopefully, the participants the meeting will find something there.
+(PERSON9) was tasked to prepare the exact questions the participants meeting are asking but [PERSON1]: (PERSON9) is not sure sure.
+(PERSON3): For real use case like not remote, but the physical world use case translations, participants of meeting are still probably undecided, how are participants the meeting going to ship translated audio to participants but [ORGANIZATION6]'s baseline idea is some web page that gets updated over the course of the meeting, that would be again
+(PERSON3): No, the participants of meeting don't have experience.
+(PERSON3): The final platform for the delivery of the translation.
+(PERSON3): Yes because it's ehh it doesn't provide any (prozaic) information, that's why it makes the information harder to digest.
+(PERSON3): [ORGANIZATION4] should make sure that [PERSON4] is aware of this like for their workshops.
+(PERSON3): That's for [ORGANIZATION6] application correct?
+(PERSON3): Because [ORGANIZATION6] will not be involved in] in the live meetings, [PERSON1] are also the final application provider for their live use case.
+[ORGANIZATION9] congress, live events.
+[PERSON3]: Yea, of course, this has to be done by [ORGANIZATION4], because they need to make sure that the platform is aware what the platform needs and how to like.
+(PERSON3): [ORGANIZATION4] should make sure that there is enough events happening and that the participants of meeting know about them and that, of the meeting like, connect to them.
+: (PERSON9) think but at least one event per project (a year should be very important).
+(PERSON3): In the first year, there definitely should be the main congress, and then maybe one more in the same second year, or like two in the third year.
+: Well, is, (PERSON9) believe it s not decided yet : the participants meeting have only a vague idea that of course, something will be happening the year after the congress, but what and how many is not decidedyet :
+(PERSON3): Yes, that's because it's like ehh the speech research partners want to focus on, thats non-native speech.
+(PERSON3): [PERSON1] have no idea what (forum) other events will be in.
+: (PERSON4) wouldn't create [ORGANIZATION4] events, but would like to have a one single task [ORMANIZATION7].
+(PERSON3): Okay, yea.
+[ORGANIZATION4] participants meeting plan to have dry run and then the main and then two follow ups.
+[ORGANIZATION6] (PERSON3): Whereas the integration for the events does not need [ORGIZATION1].
+(PERSON3): [ORGANIZATION2] is not sure how much effort is needed to move [OTHER2] to level where it would like it.
+: And also [ORGANIZATION2] is active in the ASR field and provide ASR for not only for [OTHER2] language but for thirty language, currently.
+: Currently one of [OTHER2] customer is constitutional (court) and depending on the availability of the data, the person-months required for training and dedicated [OTHER4] model for the [OTHER3] ASR model can vary from three to six month person months for maximum (PERSON3):
+: The participants of the meeting have been competing for the [OTHER2] parliament and the participants the meeting reach the accuracy up to ninety eight percent accuracy.
+(PERSON3): that') is very good and [PERSON9] think, that the that needs to be like advertised for in the project proposal as well, and that extends (PERSON9) r role from being just the integrator to also working directly on ASR work package right?
+(PERSON3): [PERSON2], it would be a pity not to put [OTHER2] in the ASR work package because it's not one of the big languages [ORGANIZATION4], but it can be easily [awarded].
+(PERSON3): And this is something where participants of ASR meeting need to know how many person months should participants collect meeting data, like this is already doing detailed accounting on how many hours per speaker do participants need [PERSON8] meeting participants need to be able to adapt to them.
+(PERSON3): Here's a formula that parallel_talk> it doesn't really work.
+(PERSON3): Yes.
+(PERSON3): But then, to actually make use of these data, [PERSON4] do have to have the model.
+[PERSON3]:And (PERSON4) have, (PERSON4) assume that for [OTHER4].
+(PERSON3): And for [OTHER1], of participants meeting should not need any recordings for the baseline acoustic model.
+[OTHER1] radio also has, an there has there was a project here, that also did this transcribing [OTHER1 recordings, transcribed data for [OTHER4].
+: (PERSON4)'s final suggest in regarding the adaptation is to be able to collect real re-speaking sessions in order to also be able model not only the voice but also the way it is.
+(PERSON3): [PERSON4] think this is, that in the proposal that the participants of meeting should write that this will happen at the dry-run but the participants, of meeting may want to have like more such re-speaking sessions as well.
+(PERSON3): For [OTHER4] speaking a re-speakers, like giving short term contracts to them and, and do recording here in [LOCATION1] for the participants the meeting should be paying those people, but is for purposes that [ORGANIZATION1] wants to do something specific
+[ORGANIZATION9] participants meeting hope to get hold of actual interpreters who will be interpreting at the congress, and it would be great get these for the adaptations sessions.
+[PERSON1] (PERSON9) previously, said that [ORGANIZATION4] were just fine for the conference interpreting that [PERSON9] already ran for the for the insurance company.
+: Because (PERSON4) know, if the participants of meeting have re-speakers they have to be, they can't use a specific headset in order to be sure.
+: the participants the of meeting will have to get all of all of audio from the emm all of the audio from emm equipment and send this audio to all ASR participants, of the meeting have to ehh identify, whether one of the engines will decide, if remotely or locally in during the [ORGANIZATION9] and conference.
+: And then, also hardware for publishing the services service.
+(PERSON3): And then, just write down like insert one line here and write down that this is the equipment for re-speaker recordings and this is also the other equipment, this is hardware for the conference or whatever is needed.
+(PERSON3): And then the participants of the meeting will probably purchase like two or maybe even more for this (site).
+[ORGANIZATION2] (PERSON3): Okay, we're going to have a meeting on Thursday and we'll probably have some rough numbers.
+(PERSON3): [PERSON9] think it's important also for integration, part the other parties needs to integrate, also participate in drafting the text.
+[ORGANIZATION1] [PERSON3]: [PERSON3], [ORGINIZATION3], [ORGANTIC6], [Paralell_talk], [OrGANIZATION2], [Parallell] and [OrganIZATION3] should definitely be involved in [orphanization6], i guess.
+(PERSON3): [PERSON9] is talking about this, if (PERSON4) can see (PASTER9)'s screen then (POSTER9) is talking [ORGANIZATION] task 6.2.
+(PERSON3): [ORGANIZATION2], integration with publishing platform is probably something, which will be mainly [ORGIZATION3] and almost nothing from others.
+(PERSON3): At the [ORGANIZATION9] congress this is, actually, something which was fairly named today, but it should be at all the [ORSGANIZATION7] events and these should include everyone because everyone will be a like at like everyone should be available for the [ORAGANIZATION6] congress, and also for the other for [orGANIZATION3] events.
+(PERSON3): [PERSON4] could comment on there design of deliverables because that's what like in the spoken language translation, and maybe the participants meeting could mimic this layout in integration work package 2.
+: in project the participants meeting had similar participants the meeting had similiar division that the participants [meeting] had to prototype the actual systems.
+[PERSON1]: the participants of meeting had to find a prototype a couple of months before end of the project to allow it the integration as well.
+: Well, (PERSON4) is not a hundred percent sure like whether all the prototypes should be deliverables, participants of meeting just promised to deliver systems that be ready for starting the integration thing, that was mentioned some months six, was mentioned somewhere, but maybe that shouldn't be a deliverable (for) the prototypes, as [PERSON4] don't know all and other work.
+[PERSON3]: Well, milestones are something that (PERSON9) just tick off in the system, even if it's software there has to be like a cover letter cover report, is that true?

@@ -1,0 +1,45 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON9, PERSON10, PERSON4
+
+
+SUMMARY-
+ -PERSON4 and PERSON9 were about to join the meeting, but PERSON7 stopped to prepare the data.
+ -PERSON4 will finish the annotation herself as the annotator has stopped.
+  The second round of annotation needs to be done at the level of the type level.
+  The agenda is in the master document.
+  The last meeting is from the middle of December.
+ -PERSON10 made a copy of his document.
+  He wants the name to be more descriptive.
+ -PERSON10 and PERSON4 are doing the annotation of documents.
+  If PERSON7 is not available, they will have to do it without him.
+ -PERSON4 and PERSON10 are critical of the quality of the program.
+  There are a lot of typos and most of the output is not a named entity.
+  The program does not include all the words beginning from cPROJECT4tal.
+ -PERSON10 and PERSON4 discuss coreferencing, co-ordinating of chains, including, the identity of, the individual speakers.
+ -PERSON10, PERSON4, PERSON7 and PERSON9 are working on deidentifying the corpus.
+ -PERSON14 started working on deidentification from the beginning of January.
+  She needs to read the regulations and decide what should be anonymised.
+  She has to delete the names of languages.
+  She also needs to align the transcript and the minutes.
+ -PERSON10 and PERSON4 agree on a timeline for the removal of personal data and the deidentification of data.
+  They need to discuss the consent forms with PERSON14.
+ -PERSON10 and PERSON4 are working on two consent forms, one for working with data and one for publishing it.
+ -PERSON10 proposes to forget about the first phase of the project and focus on the second phase only once the corpus is finished and released.
+ -PERSON10 and PERSON4 will prepare a prerelease of the corpus.
+  They will collect the names of the participants from the meeting minutes.
+ -PERSON10 and PERSON9 discuss how to prepare personalised emails for participants of the task.
+ -PERSON10, PERSON9 and PERSON4 are discussing the timeline for the deidentification and consenting of the participants.
+ -PERSON10 and PERSON4 are discussing the creation of the Scientific Committee.
+  They are unsure if they should invite all the PhD students to the committee.
+ -PERSON10, PERSON4 and PERSON9 have to prepare the text for an email to prospective members of the scientific committee.
+  They need to have the list for the application.
+  Some PhD students don't have it online.
+ -People need to put their names and e-mail addresses PERSON10, PERSON4, and PERSON9 need to submit the proposal within the January 7th or 8th.
+  They need to make several copies of the invitation e-mail.
+ -PERSON10 wants to cancel some of the names in the ORGANIZATION9 document.
+ -PERSON4 PERSON10 and PERSON4 are going to take part in the call as soon as she answers the short questions.
+ -PERSON10, PERSON4, and PERSON9 are going to send the proposal to ORGANIZATION7 on January 10th, and on January 15th, they should be sending it to ORGNOVATION9.
+ -PERSON4 wants PERSON10 and PERSON9 to send three prepared letters in English to his three Russian candidates.
+
+
+Minuted by: Team ABC

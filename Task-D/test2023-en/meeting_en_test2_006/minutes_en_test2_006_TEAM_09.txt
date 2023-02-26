@@ -1,0 +1,107 @@
+(PERSON3) Hello <unintelligible>
+Hello.Eh, so I can not share the the the [ORGANIZATION2] doc eh, eh -
+But -
+Well, I hope that everybody's looking at the [ORGANIZATION2] doc.And thanks to all who joined, um, so to explain to especially [PERSON15]and [PERSON10] who didn´t -
+And maybe [PERSON7], eh, who didn´t have the experience with these calls last eh s- summer.The goal is to synchronize the group, and the date and time eh, the so the day and time of the week is chosen, uh, so that it is fits to most of us.Then we will run, or we will update that call again and we´ll choose maybe a different slot.And eh, those who cannot attend eh, for a particular week, that´s not a problem at all.Eh, so, eh, otherwise these calls are very important, especially to reconnect with people eh, that, eh ere somewhat eh, like stranded alone for a longer while.So one of those is [PERSON11], for example, eh, so eh I would later ask [PERSON11] to eh, to to give us a brief summary of what he he has been working on for the past months actually.And what he is is he up to.And eh, there will be a lot of connection with eh, lot of connections with everything what he do.Uh, and eh, we are eh, hoping that that will be allowed by you have to use these calls for the meeting summarization eh, eh, so eh, the - 
+Fe- if you agree now, like please keep participating in the call, and the consent that you are giving by your participation now is not to publish the data yet.After this we´ll ask you again eh, to give us a permission to uh, to use this in the uh, for the sum- meeting summarization purposes.And and the uh, the the warning that I have to say before we go into the individual ehm, individual report is that eh, there is the [ORGANIZATION7] conference.So less than month from now, and we should eh, get ready for that, because eh, this [ORGANIZATION7] conference will serve as a test eh, event for us.Eh, and this year we have eh, asked [ORGANIZATION7] to only allow us to connect to their -
+I think it would be [ORGANIZATION12] eh, oh, eh <unintelligible> [ORGANIZATION12] to only connect and show the the subtitle somewhere on the side, quite silently without much publicity.So ehm, so eh, well w- we´ll be working -
+Everyone of you will be working somehow to uh, to help with this as you are working that anyway.Eh, and I would like now eh, I would like to ask [PERSON11] now to start, because he has been the most eh, eh remote  for a while.(PERSON11) Yes, so -
+Actually I don´t know what was the last time when I was eh, on this call.But so eh -
+The first thing actually that that I have been working since on this calls was the paraphrasing.So one thing that that, I have been working on is, uh, is actually actually trying to collect the data that we can use -
+The monoli- monolingual data tha- that we can use eh, for for this rainbow models.And for this I have actually found -
+I have I have a -
+Because like the problem is that that we need the domain specific data and -
+(PERSON3) Mhm.(PERSON11) I have -
+So, I have been thinking that that well -
+Eh, so so so at first, I tried eh, actually filtering eh, so- some some other data sets that already exists.But I found that that it is actually quite a problem to to find spoken data there.So, so what I thought is that I would eeh -
+I would go over some, eh, some more pages, wer- where there are actually some videos, and to download transcripts from there.And I actually di- discovered that that you can scrape eh, subtitles from from these these, uh, courses,
+Eh, w- which are actually in eh, like multiple languages.(PERSON11) So this way I I obtained eh -
+Yes, so so in the free version there are some limitations.So I only obtained to scrape a small data set like one hundred thousand sentences, which could like be used for testing.But still, it´s something and and and otherwise I I didn´t find out any -
+(PERSON3) Mhm.(PERSON11) Yes, so eh, so I received the e- mail from him.But I had a a lot of to do to do in in the past week.And also what I have actually discovered is that [ORGANIZATION2] -
+It´s not [ORGANIZATION2] sorry, [ORGANIZATION15].(PERSON11) They released a data and a model.So so what they released is eh -
+So first what they released is actually an algorithm for mining parallel data in one hundred l- languages.(PERSON11) So I I have been looking at this, and they they have also released -
+Basically they haven´t released the data yet, I think, but they have also released the the trained models.(PERSON3) Uhm hm-
+(PERSON11) But actually, actually, I have discovered that on some, uh, on some of our testing data sets from [PROJECT6].A- and also like like they they are very tricky to run, because you need like for GPUs with sixteen gigabytes of RAM at least.So for us they are quite useless and  -
+What would pro- probably be the most useful is is actually the data.So that we can eh, use it to to -
+So can you -
+So that we can adapt adapt their data collection, eh, for for some kind of spoken data.But but maybe eh, on on testing data in in other low research languages it will be better.So this is eh, that is a long report and lot of work planned and lot of work done.So the evaluation -
+So I would like to highlight the the high level thing, eh -
+So we need monolingual data for eh, domain adaptation.And there please get in touch, and really continue and finish the [ORGANIZATION6]corpus that was started -
+(PERSON11) Uhm hm.(PERSON3) Yeah, so that is something that we should,eh, we should consider this like next the possible thing to do.So with the evaluation I would like you to em, test the evaluation eh, using [PROJECT5] test set and [PROJECT3] and in on the call I saw -
+Now it doesn´t really work for me the [ORGANIZATION12] is kind of stuck.Or are we kind of eh, in in a post phase with the [PROJECT5]test set.So that is kind of in the eh, in like like hanging in the air.Eeh, but the [PROJECT5] test set is there and eeh, s- so maybe if eh, [PERSON8] can briefly summarize the status of the [PROJECT2].(PERSON11) And maybe if someone could send me the -
+<parallel_speach>
+<sneezing>
+Actually the status of  of the test set or some links or something.Eh, I think the current version of -
+First of all [PERSON12] wanted to attend the call but he had problem with [ORGANIZATION5] so he wrote his report there.And as I said you [PERSON3], it´s now workig wi -
+For example, it´s working eh with alignment by -
+I mean <unintelligible> if they are inside in [PROJECT5] test set.(PERSON8) And we created one eh, index, new index, if you see, I put the name of the next inside the call, inside the, you know, [ORGANIZATION2] doc.Okay so if you see, we created a new index.We can run [PROJECT2] on data and see the result and eh, you know, make the final agreement if you want to do some minor changes.So the -
+Yeah, so the -
+For everybody, the general idea behind this [PROJECT5] test set and [PROJECT2] is that we would like to make it the standard evaluation tool.Not just for us, and not just for the [PROJECT5] project, but also for others doing a spoken language translation.Eh th- so eh, well look up that [ORGANIZATION9] hub repository and eh, [PROJECT2] eh is the tool, which uses eh -
+It can use any other inputs and references eh, but it is also directly capable capable downloading what eh, files you want to evaluate on from [PROJECT5] test set.So everybody who is evaluating something and that is [PERSON11] with the [ORGANIZATION15] models [PERSON11] with eh, your previous eh, multilingual models, um, uh.And I'm happy also to see Sa- [PERSON14] here on the on the call.So [PERSON14] can help with that eh, to -
+So [PERSON10] and [PERSON14] to evaluate all the workers that are in the [PROJECT5] pipeline.All that should go through [PROJECT5] eh, be evaluated through [PROJECT5] eh, test set using [PROJECT2].So please, everybody get in touch with [PERSON8] directly, and get it s-
+Like eh, like find a way in which this tool will work for all of you.And what [PERSON8] was talking about that is the plan to publish it finally at eh, at a conference.So uh, we have uh, another chance in January as a demo paper.Uh, so for that, we would really like to have it eh, very nicely commented in a paper.Eh, documented in a paper, and we also want to include some real evaluation in that paper to show that it is useful.Ah, so that would be like the test case of the evaluation for the purposes of the publication of the [PROJECT2].But if any of your, uh, evaluations would uh, would be like more interesting than we could switch to this other use case, so that´s -
+In any case this is a a big request from me.Everybody who are eh, evaluating any systems, please make sure to evaluate them using [PROJECT2] on [PROJECT5]test set.We want to fix these bugs and we want to eh, get numbers and repeated measurements so that the number stabilize, and we and we trust that.(PERSON8) Yes, it´s possible, because it´s set as [PROJECT4], but [PERSON3],in the current version, because I disabled there you know what´s the name  -
+Eh, it works off-line.(PERSON3) Yes
+(PERSON8) But you -
+Okay, but you you want the previous version also, because you said in your you know when we were talking - 
+You said when you were talking you said: It works independently, without any <unintelligible>
+(PERSON3) Yes.(PERSON3) Eh, so I think it should be the same tool, and it should try to connect to the [ORGANIZATION5]and download it.It´s the same way -
+(PERSON3) It´s a same way as [ORGANIZATION17].[ORGANIZATION17] also works like independently or you can ask it to provide -
+(PERSON8) Okay.Could you please check -
+Because I arrived and I´m in Czech and I´m working on my things.(PERSON8) I prefer next week is very -
+To- today I I 'm  co- I'm coming to university.I I will come [ORGANIZATION3], I will if you are in [ORGANIZATION3] - I will go to [ORGANIZATION3].So maybe next week, when, we see we can finalize everything
+(PERSON3) Yeah, okay.(PERSON14) Yes, so I´m like completely lost here, because o- one of my lectures is scheduled so I´m attending lecture as well as the the meeting.At the moment I don´t know what I should work on, and eh, who -
+With whom I should eh, maybe - 
+(PERSON3) Yeah, so -
+(PERSON14) Work with
+So yeah -
+I I´d be really happy if you just -
+(PERSON3) Yeah.And the most urgent thing to do is getting the evaluation of the of all the systems, of all the components from the eh, mediator, all the connected workers, running through ELITR test set.(PERSON3) So please talk -
+You you don´t have to -
+So eh, that´s like this these conflicts with like regular lectures eh, eh, let´s eh -
+Your lecture has a p- has a priority higher priority than this call.So it´not eh, eh -
+I don´t want you to skip any of your school duties and that implies to everybody of course.(PERSON14) Yes..
+Uhm -
+(PERSON3) So please get in touch with [PERSON10] separately -
+(PERSON14) <paralell_speech>
+Yeah, okay.(PERSON14) I´m sorry because just [PERSON12] asked me to ask you about the censorship pipeline and because he is waiting for it-
+(PERSON3) Mhm.So that´s that´s another topic that is very much linked toward eh -
+[PERSON4] is like uh, putting together, and also what eh, eh what [PERSON9] would be kind of doing.But eh, eh, the censorship component is something which we want to have as a one part of the pipeline after the [PROJECT4].So it´s like -
+It´s not really editing of the life outputs, it´s just disabling of the outputs eh, for a moment.And um, uh so -
+I thing that the best eh, sorry because as you see, I'm unable to respond in time.So the best thing would be if if [PERSON12], [PERSON14], [PERSON10]and perhaps [PERSON15] as well had a separate technical call on the design of this.(PERSON8) Okay, so if it is possible please contact [PERSON12] and ask him for this call and if you want I can also attend the the call to -
+(PERSON3) Yeah.And and from the management point of view, [PERSON14] and [PERSON10] should be the two kind of replaceable persons.(PERSON3) On totally different places different places on the Earth, but you know-
+<laugh>
+But that´s that´s okay.(PERSON8) Okay, [PERSON15], [PERSON15].And was there any other eh, type of model that we wanted you to train, or was it just this one?(PERSON4) Currently we wanted to eh, abandon the multitarget set up and to eh, concentrate as as you assume multi source set up.I´m I´m sorry bu it´s a -
+(PERSON4) Yeah.<laugh>
+(PERSON4) Ah, it´s still in the process.So -
+(PERSON3) Yeah, I´ll I´ll double check eh, today, if if if it´s already processed enough.(PERSON4) Yeah, but just in case that -
+(PERSON3) Somebody -
+(PERSON4) To have access to the system and cluster so I can do something what I can do there.And I and I think we need to to do it- itterative back translation on on Czech- German news to have some higher quality in German-Czech news corpus.And then we can combine it with with English- Czech, which is already high quality from [PROJECT1]
+(PERSON3)Yeah.(PERSON10) Then we can -
+(PERSON3) So so the models have to be of comparable quality, so that the uh, the multi-source has a chance to be useful, right?And also we can take a look in the  -
+And I can also send you eh how how they do this eh data collection in [ORGANIZATION15, if  that would help.Is that kind of eh, of the current summary or are you more working on eh, s- whatever data augmentation for [PROJECT4] or -
+So maybe [PERSON7]?(PERSON7) Um, well, I'm working on the chopped data set as already -
+(PERSON3) Yeah.Because that is something which we would -
+If your model eh, evaluates well, using [PROJECT2] on [PROJECT5] test set, we would like to have that integrated.Then it would be great to eh, like ask someone to help you, for example [PERSON10], to to help you, with the onlinezation of your model.So please keep that in mind eh, that we want to evaluate your model and if it looks good, then we want to have that integrated.(PERSON7) Yes, eh, the question is whether we would want to use just a [ORGANIZATION1]as a model.The CTC eh end-to-end model or we want to use the extended one, the the cascaded model from my thesis.And I would like eh, to ask Umar to also work on the eh, on the same data and keep training.(PERSON3) So whenever [PERSON7], whenever you have the data ready, please get in touch with [PERSON15].Umar also please, train as a comparin- compa- comparison in using the exact same training data, exact of evaluation you two please be t- in touch together.So that eh, ehm, s- we have this old style cascaded, the new style cascaded possibly eeh, and eh, the the simple [ORGANIZATION1]only wou- on the same augmented data set evaluated ehagainst each other.(PERSON10) You can try some transfer learning on on of double encoder model on small GPus.So if if we have trained model for English-Czech and German-Czech, then then you can try to copy the parameters one encoder to to the double encoder model.So that it´s pre-trained and it doesn´t eeeh like waste too much time in the in double encoder.(PERSON10) Yes then we can experiment with this on small models and small GPUs at first, and then -
+(PERSON3) Yes.This this is a general recommendation that holds for everybody who is trying to uh, put together new things.Always try it with small models and small data, and only once it works technically and does something very useful or on on this very small data set.(PERSON10) So so [PERSON4], if if you´re interested and I can write you some s- some points how to start.Can you maybe just g- send the copy to me so that I know what models you are working on since I'm working on similarly on some multi-targeted models.(PERSON3) Yeah, oka.y
+So I´ll have to leave myself at this moment as well.So thank you again, and please, do the discussions, eh, pairwise or in in small teams as as we have discussed.(PERSON14) So so I I also have to leave, my lecture is ongoing and I have eh, said my part and I know what I should do next.(PERSON14) Sorry for -
+(PERSON3) Yeah, that´s that´s okay.(PERSON15) [PERSON7] can you stay for a while.(PERSON3) So [PERSON7] is staying, right?(PERSON7) Ehm, [PERSON15] you wanted to ask something.I have one or two - 
+So first of all I need <unintelligible> on which you´re working <unintelligible> can you share the path with me?What I´m uh, really eh, working on is eh, like call it there chopped data set and with that I I I´m using regular eh, speech data set.So I´m using first alignment and ehm, eeh, what I what I´m want to do is to to chop the the utterences and recreate new sentences using eh using using the words itself.So it has eeh -
+From my point of view it has eeh, few few at- eh, few few eh <cough>
+Eeh, few things that can improve the eh, improve the the robustness of the [PROJECT4].(PERSON7) Because eh, there are too many, you- sentence, ther- that´s eeh same or and they are just spoken by or read, because it it´s actually read data set.Eh -
+(PERSON15) Are you working on the same task which was due to the [ORGANIZATION14]challenge?Are you working on the same thing that was due in [ORGANIZATION14] challenge or is it something else?(PERSON7) Uh, well, it´s not the Interspeech challenge, because it it was due twentieth of September.But eh, but for example, uh, there are in the in the [ORGANIZATION11] Common voice data set there are twenty three percent unit- United States English.Then there´s eight percent England English, five percent India and South Asia accent, four percent Australian English, three percent Canadian, two percent Scottish.One percent Irish, one percent Southern African and one percent New Zealand English.So I I understand that but I couldn´t understand the main <unintelligible> the main objective is it to train [PROJECT7] <unintelligible> in English [PROJECT4?](PERSON7) Eeeeh, well, eh, the main objective is to train a robust [PROJECT4].Robust to the more -
+(PERSON7) Ro-
+Em, robust towards accents and eh, mainly accents, but also generally robust by eh, creating eh, new sentences.(PERSON7) Hm, well I should be I should start to work on multi-lingual [PROJECT4], but eeh, this this -
+Because I I´m still at home and I eh, do not have much time to work.So I´m this this eh, what I´m really doing now and eh, probably next week I´ll be in Prague and I´ll start to work more more hard and maybe then I´ll I´ll be -
+I´ll start with the wil- with the multi-lingual [PROJECT4].And -
+(PERSON15) I would just confused that what he is actually waiting from -
+He was something mentioning about the comparing the performance of your system with something <unintelligible>
+So was he talking about the this multi- accented [PROJECT4] or was he talking of multi-lingual [PROJECT4]?(PERSON7) Um, he was probably thinking the the [PROJECT4] I created or or ri- I´ll I´ve been using eh during my master the- thesis.I I think I need need to work on whatever he was thinking about so I will just maybe first to <unintelligible> the path of data from <unintelligible>.So I need just eh, use the same data for [ORGANIZATION13] <unintelligible> evaluations.So eeh, what are the tasks we need to do -
+Well, ehm -
+There´s these there are the data from the [ORGANIZATION14] challenge and we need to we need to check whether we can use these data.Mm, and of course, I´ll I´ll have to use the common voice and maybe I´ll check fo another multilingual data set.But uh, I guess the the [ORGANIZATION11]Common voice is the best option as-
+If I recall correctly, the most papers that work with accented speech eh, were are working with the Common voice data set.(PERSON15) Okay, so so if that was that requirement, then please share the <unintelligible> with me of the <unintelligible> data set.And this <unintelligible> will be [ORGANIZATION13] again or same model <unintelligible>
+And then we - I think we can compare the <unintelligible> of more systems.(PERSON15) So I'm leaving a message for you on <unintelligible>
+(PERSON7) Well, if it´s okay for you I I´m not -
+I rather use mail.(PERSON15) Okay, that´s that´s <unintelligible>
+I´ll then eh, leave the message for you on mail and whenever you have time <unintelligible>
+(PERSON7) Okay, so I guess I think is evertyhing.

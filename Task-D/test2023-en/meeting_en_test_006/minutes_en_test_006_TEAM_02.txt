@@ -1,0 +1,83 @@
+the czech republic government has already lifted the rules.
+from this monday we can actually go out even if it is not like the necessity.
+but we think that we have to wait until june for the free circulation of people.
+and finally, we are allowed to reach our family.
+cause we live in two different cities.
+because i'm in trento and my family is in bolzano.
+which is pretty near around 50 kilometres..
+vote in a doodle so i can get [PERSON7] some dates.
+we have we will have eh couple of deliverables due in june.
+we haven't decided who will be our internal review person for any of them..
+i think that we should ask for an extension for this deliverable because congress has not taken place.
+so actually, i think that we should ask for an extension for this deliverable because congress has not taken place.
+i think that we should ask for an extension for this deliverable because congress has not taken place..
+(PERSON8) i think that that (little) should be like cross reviewed between [ORGANIZATION3] and us.
+(PERSON11) write yourself as the reviewer and - (PERSON11) i'm apparently writing it.
+(PERSON8) and it will be a lot of lot of words about nothing but yes.
+(PERSON1) yeah, not that keen on reading it to be honest.
+(PERSON8) yes, [PERSON11] said it'll be lots of words..
+i think we managed to avoid such a thing before.
+qt21 doesn't seem to have this.
+they have period reports and data management plans but not the project management guides.
+(PERSON8) yeah, yeah, it's just a party, they do do what they're expected to do even without the managing them..
+the internal reviews should be ready by mid june at the latest.
+we have two weeks to finish that.
+the most earlier milestone is in december..
+do we find unintelligible> have anyone milestone in december and there will be -.
+that's the year 2 test set.
+that will be due in the end of august.
+and that's the year 2 deliverable.
+that will be -..
+the actual set of documents that you will test against will depend on the set of languages that you want to test against.
+the actual set of documents that you will test against will depend on the set of languages that you want to test against..
+if it's the machine translation test set then it's the standard (poll) think, ideally documents.
+there would be automatic checks so that everybody could check out this repository and run these checks.
+and also with uh.
+it would check the number of lines, the length of the non emptiness, and everything all the format things.
+and also it would automatically be able to create the file lists..
+cnn's john sutter adds a test set to sacrebleu.
+he says it would be better to avoid forks.
+sutter: i was insane added sacrebleu.
+sutter: i'm totally agree that the public use of these test sets, the should be limited to few of those..
+the sltf, ideally would be the sacrebleu for spoken english translation.
+the primary evaluation will be the translation quality, and the asr and translation quality regardless of the delaying.
+the sltf should serve us like what is ideal set up..
+people still can misinterpret what time stamps should they use.
+forced alignment, which finds the words in the in the sound is not reliable for us either.
+the only way to do the comparison really fairly is to run the models or a serve the model..
+finding and curating translations is half the price when we pay what we pay to our annotators normally compared to like the professional translation.
+one could trust the automatic processing and maybe use some quality automatic quality measures..
+i prefer to find people who actually speak these obscure languages.
+but if we are unable to find speech domain and auditing domain (paralel??) then indeed, we will ask the people to find these text monolingually and translated maybe back to czech.
+this is the wrong direction of translation.
+but it's the it's more reliable with respect the domain of interest..
+if we do this over the next couple of weeks then it will be very easy to do the deliverable for august.
+if we do this over the following couple of weeks then it will be very easy to do the deliverable for august.
+as far as i know [PERSON5] has just answered and they have also provided some feedback..
+if we are able to make the retranslation stable.
+then the users will not complain.
+some will prefer this some will prefer that uh - (PERSON1) should be do this at the end or should be do this a bit sooner? (PERSON8) any time we have the time for that..
+cnn's john defterios says retranslations are a terrible idea.
+he says we should do less of it or we get the end and say retranslations is briliant.
+defterios: it's entirely possible that retranslation go go back a lot with the transition to end-to-end asr..
+the problem with the integration of the asr and mt will remain even once the uh, the new generation of the asr models is is there.
+there will be the question for the users whether they preferred to wait for the german verb, or guess and put there some english verb.
+there will be a trade off like what and what confidence should i insert the verb and then maybe recovery..
+gpt tool is trying to predict the tail of a sentence.
+but so far it doesn't work at all.
+i think it totally makes sense to do this guesses..
+i think it's better if we (post) the final this proposal informaly as a doodle and then ask [PERSON5].
+(PERSON8) yeah.
+we will learn set up the doodle, send it to unintelligible> in both partners.
+then once agree share with unintelligible>.
+(PERSON8) yeah.
+we've sent a couple of a recorded demo most to [PERSON5] and propose, and something specific.
+it's up to us..
+cnn's john sutter talks to sutter about screen sharing and screen a broadcasting.
+sutter says it's a good idea if you want to present to the same thing without the (audition??) sutter: "i think the idea screenshare is a good one.
+just takes away one indicate -".
+PERSON8: sentence segmentation kills the performance for the final user of the machine translation.
+i think that many of the -.
+there are many cases where people just you're trying compose compose something that is not really there cause i'm not speaking in sentences.
+i can do that in next week, i can't that this week.
+(PERSON15) it will be next week..

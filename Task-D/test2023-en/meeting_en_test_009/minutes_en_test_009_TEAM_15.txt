@@ -1,0 +1,51 @@
+-Please tell us about presentation platform which now requires password to join the call or not, because we are waiting if PERSON will join the Call or not.
+-One thing that is that there is high load in mediator to worker platform, like follow path and avoid work, and that's putting stress on the target languages.
+-The infrastructure which will help us in managing with kind of ASR output multiplexing at client level, unfortunately it has to be done at client-level as well.
+-The mediator runs ten requests to the mediator, or multi path requests, when it runs ten different requests to mediator, whether the mediator receives a multi channel request, multi path request, or multiple path request.
+-The browser is not working on this machine, because the screen is not visible on this browser, and the browser will probably disconnect for a while or another machine.
+-The problem with this is that there is no single target language in the log file from EB client, and that the target languages are different from one another.
+-Four lines from English hybrid audio lecture English published and similar for other languages.
+-The problem with the EB client is that it receives input streams, but not output. But the problem is that the output stream is not available, bug info, and it works sometimes.
+-The number of ASR workers available at the moment is six, and on one 30 second audio we are going to run it on one, two, three, four, five, six, seven, eight, nine, ten on one thirty second audio.
+-Now what we need to do is get the segmentation workers, and send the CTM output to the different workers, more get the other segmentation outputs already sent to the mediator.
+-Segmenter process the whole text file at once, or not at at all, depending on the segmenter processing process of the whole file at one time or at least one time.
+-Now that we have modified the EB client, we should be facing the bu bugs in their systems.The remedy thats possible would be to use the text communication between the segmenter mediator and EB client to get the segment output from the machine translation system.
+-This is weird, because there are still six available publishers in the presentation platform, and they are not actually working on this platform, but they are still working.
+-If the presentation platform is not running locally within sol Wired Network, the presentation will still investigate. user view should be read only and then the subtitles.
+-The presentation platform needs to run within network but maybe not necessarily the whole presentation platform right.
+-How do we stream slides from a notebook and a desktop without input and output error, which is probably the firewall, to deliver the slides to the desktop.
+-The configuration file that we are trying to test is a very exact copy of the configuration file we are working with right now between our two machines, the exact copy is not available for testing purposes.
+-For the presentation platform, release also implementing the feature, which will allow us to have select these source stream from the different languages, for example Spanish coming from the German translation or English translation.
+-Stream just one we select and not perform all the possible translation and filter just the output of the presentation platform because otherwise it will be really difficult understand what is going to happen.
+-There are three different ways to choose the English sound for different target languages, it depends on how [PERSON9] chooses the English channel.
+-Presentation platform presentation platform will simply display different languages.
+-On Friday we are going to put up the final setup for [PERSON9] for the work on Friday.  ERSON13 will manage the output for English and Czech.
+-If we are lucky with [ORGANIZATION ASR workers being streamed from presentation notebook, then like it seems to be running right, but the critical things need to be debugged during tomorrow.
+-The problem was very annoying because it was like two different text messages interchanging, or a select appearing one after another in loop on in the subtitles field.
+-In order to have subtitles of suitable lenght and also have not too fest, the publication worker manages hypothesis output of the sentence to be published worker.
+-Show the output from the ASR output (if it is not a problem, show the output of the two long strings, otherwise show the two short strings.
+-The segmentation worker should ignore the path true and ignore the empty path true, if the segmentation worker does not take care off the path false, the empty should ignore that and just path true.
+-Segmenter worker is preparing phrases for the machine translation.
+-The segmentation worker should be able to send segments which start at the beginning of the sentence and they should gradually become longer and longer as more ASR output is sent.
+-Update the mediator in admin interface could be delayed, because the mediator has not like up date information about availability of the workers, other_noise>.
+-Set English as most reliable source. German or Czech tell us when to switch to other source. other_noise> For output, we will set English as reliable source.
+-Please configure te presenation platform English as the top priority source language since we are running test with English but please tell us to put German as top priority language.
+-If there is no English available to translate the subtitles will not be published even if there is English available, let's check things together.This is pretty match manual.
+-The idea is that we could setup very simple CGI script or PHP script or whatever to ping fixed URL and tell it session ID of a worker ASR worker which is not functioning.
+-To make the workers session IDs we need to make some kind of website available for the workers to access session ID the workers know about session ID.
+-When the workers start, they emmit the session ID and the process ID when they are put processing log file from mediator or if we set it up up on high port.
+-Debug the workers,
+-Analyze the log files of the workers. We have a workers which produce log files, we have a worker which produces session IDs, this is what the log file looks like.
+-This is the worker running on this server right now and the docker to kill the workers but its not the workers.This is the list of workers and the empty workers.
+-Be aware that this system is not just used in detail, but also uses complete different techniques and com.This is more automated system but uses different techniques from what we also have.
+-The problem with the way is using system which is causing this problem, normally we have ten of them running in a screen session right now, i.
+-Create a remote killing system to restart the working worker from another working worker.This is the most difficult method, because it will be very difficult to create.
+-Log output,parallel_talk> This is the log output of the session ID of the client worker..PERSON13 would know if this worker is in fact idle or stalled.
+-The point in the code is to connect the server med mediator to the session ID of the client.
+-Check the code of this worker with one print, like this worker from PERSON11 laugh> It probably doesn't work.
+-Learn about the different types of blindfolds and how they work.
+-There is also the session ID which is together with the stream ID.
+-Move from the old mediator version to the new mediator version (PERSON11, PERSON11 or PERSON15, depending on your preference) But the problem was exactly this Xml that was lying on some custom XML library.
+-Find the source code of your workers, whether it's 20 ASR or 20 segmenters, whether its running on different services or not, finding the session ID from the cloud packet is very complicated.
+-Have the session ID in the log to restart session ID, and it would do the restarting session ID right away, that would save us a lot of worries.
+-Please modify worker for the session ID.sh and send this to the wrong machine which does not have that sesion ID the worker for a session ID, and if it accidentaly run this on the right machine.

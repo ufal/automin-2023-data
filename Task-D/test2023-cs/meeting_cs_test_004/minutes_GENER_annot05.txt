@@ -1,0 +1,45 @@
+
+Zápis ze schůzky
+
+Datum schůzky: 3. 8. 2020
+
+Téma: Schůzka projektu [OTHER2]
+Vedoucí schůzky: [PERSON16]
+Účastníci: [PERSON16], [PERSON11], [PERSON4]
+
+
+Zápis:
+- Finanční report – vyřešeno.
+- Technical report – třeba znovu zkontrolovat a projít: případně poznamenat chybějící věci: to do zde nejsou žádná: text nezměněný.
+- Multi-source: nepokročeno.
+- WMT: deadline za dva týdny: prováděn experiment: momentálně spouštěno trénování.
+- [PROJECT1]: doporučený postup pro jeho trénování: natrénovat systém na překladech a back translationech: použít back translation angličtinu a české překlady místo zdrojové angličtiny: i po dosáhnutí maxima, fine-tunovat na originálech a překladech.
+-- Místo autentické angličtiny angličtina syntetická: čeština stále autentická.
+- Vyzkoušena záměna back translationů za výstup parafrázovacího systému: momentálně lepší výsledky.
+-- Parafráze: vznikají pomocí upraveného [PROJECT1].
+- Experimenty: cílem prezentace: překlady vycházejí lépe při multi-sourcovém překládání zdroje a jeho parafráze: momentálně prováděna zkouška: dosáhnuto lepších čísel: v [PROJECT1] již naprogramované dva enkodéry: možno přidat třetí.
+- Návrh provést pre-training na na back translationech: poté fine-tuning na parafrázích: zkoušet různé kombinace: na konci vložit multi-source.
+- Parafráze generovány pomocí (Parabangu): pro každou větu vygenerovány čtyři parafráze: budou porovnávány styly.
+- [OTHER1] experimenty: zjišťován způsob natrénování studenta: kvůli rychlosti lepší použít [PROJECT1] - zkompilován pro natrénování studentů i s optimalizacemi: vždy je lepší vložit Element.
+-- Teacher systém: na pěti milionech dat natrénován vlastní systém se stejnými daty pomocí [PROJECT1]: momentálně dosaženo páté epochy.
+- Před dokončením Teachera zkusit nasadit Student modely pro systém [PROJECT2].
+- Nový spolupracovník: již vyřešeny administrativní záležitosti: nutno vytvořit přístupy: zaslána pozvánka na pondělní call.
+-- Návrh na první úkol: zkompilovat a natrénovat nějaký model pomocí [PROJECT1]: duplicitní práce.
+- TNT: momentálně možno zobrazit buď zdrojové, nebo překladové možnosti s highlighty: cílem constraint decoding: dokončit záměr constraintu v [PROJECT1]: poté možno začít kombinovat s multi-sourcem.
+-- Frontend: možno naklikat, která slova ze zdroje se musí či nemusí přeložit: případně označit slova ve vygenerovaném cíli: nutno vymyslet způsob testování.
+- Návrh zakomponovat celý TNT do [OTHER1]: spustit [OTHER1] s vyšší funkčností: poté možnost porovnat výsledky i se stimuly: momentálně nerealizovatelné: debata odložena na jaro.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zápis předložila: [ANNOTATOR2]

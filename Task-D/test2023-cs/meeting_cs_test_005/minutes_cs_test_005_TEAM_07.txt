@@ -1,0 +1,51 @@
+Summary:
+
+* PERSON17 nemá dokumenty, ale může je hledat v Googlu. Google hledá schůzku, ale nic tam není, kromě "Jaký je průzkum?", což je to, co PERSON8 napsal tam, aby zahájil další schůzku.
+* PERSON8, PERSON17 a PERSON7 se navzájem neviděli 14 dní. Na jejich dotazování je lhůta kratší než 14 dní. Setkáme se příští týden 14. PERSON8 odjíždí 15., ale může být tady v pátek, takže mohou udělat 14.
+* PERSON8, PERSON17 a PERSON7 měli úkol před 14. měsícem. Museli dostat všechny publikace do Zotera, hodit je dovnitř a dostat taggy.
+  - Disc: Tady je tajemství, že dělám nějaké související věci, které nevím, jestli jsou užitečné pro nic.
+* PERSON5, PERSON8, PERSON17 a PERSON5 si myslí, že 15. února je 14. února, ale je 14. února na telefonu druhé osoby.
+  - Disc: Oba se mýlí.
+* PERSON7 je ve státním úřadě od 12. do 16. úterý 11., takže je pro něj příliš pozdě a příliš brzy pro PERSON5.
+  - Fact: Schůzku lze přemístit na jiný den.
+  - Disc: Jednání se bude konat v úterý ráno co nejvíce.
+* PERSON8 se chystá na komunitní akci v úterý 11. v 17:00 před aktivitou komunity.
+  - Fact: Další schůzka se obvykle konala v úterý ve 14:30, 4:30 a 5:30. Jednání se bude konat v 17:00.
+* PERSON5 tu disertaci nevrátil, protože nevěděl, kde je Git.
+  -- Fact: Teď se nemůže přihlásit na GitHub, protože nainstaloval ověřování zařízení pomocí aplikace, kterou nahrál certifikát na jiný telefon, než má právě teď.
+* PERSON8, PERSON17 a PERSON5 začnou restrukturalizaci knihy, která je téměř rok stará.
+  - Fact: Napsal by nějaké kritéria, udělal by nějaké kritéria a vytvořil by na nich tabulku.
+    -- Disc: Až vyjde ven, bude mít přehled o tom, co mají.
+* PERSON7 s vložením nedělá dobrou práci. Autor bude pod titulkem.
+* Pokud někdo nemůže dodržet sloupce, měli by mu nechat přidat další doplňky do seznamu.
+  - Disc: Počet článků v řádku je stejný jako počet sloupců.
+* PERSON8, PERSON5 a PERSON7 píšou na stole.
+  - Disc: V budoucnu uvidí, co z ní dostane, a přizpůsobit ji s časem, jak se z ní učit více. Oni budou přepnout stránky a vidět, co je relevantní k knize.
+* PERSON8 jede na týden do hor.
+  - Fact: Příští lhůta je plán knihy, který je 14.3.
+  - Disc: Termín je pravděpodobně příští úterý za tři týdny. Bude mít zábavu, až se dostane z hor.
+* PERSON7 měl magisterské studenty na umělé inteligence v prvním ročníku. Teď by mohl mít novou studentku, která udělala nějakou práci s mBERT v jejích bakalářských titulech a chce dělat nějaké stupně s ním na nějaké mnohojazyčnosti s některými neuronálními věcmi.
+* PERSON7 a PENPON14 jsou podiveni skutečností, že na organizaci již jedna osoba vyučuje NLP2. Organizace nemá mnoho zdrojů na vyučování NLP, ale má bakalářský titul a několik vedlejších projektů.
+* PERSON7 má současný předmět pro mnohojazyčnost. Už se pro něj podepsal student. Van je teď v ORGANIZATION1. Student chce začít dělat ten diplom v prvním ročníku, aby si to trochu uvědomil.
+* PERSON7 chce přepracovat projekt překladu bez dohledu. Chce použít MBERT a křížové začlenění místo starého.
+  - Disc: Projekt se jmenuje 'PERSON12' a on to chce udělat taky.
+    -- Disc: O tom už mluví.
+* semestr začíná v polovině února. Kompendium mělo být připraveno v pátek v 15:00, ale zatím se přihlásil pouze jeden student.
+  - Disc: Je to soutěž jen pro pár lidí, takže možná jsou to věci, které bys měl naučit v nějakém divném čase pro ty, kteří tam opravdu chtějí být.
+* PERSON17 se rozhodl změnit své nekontrolované metody na nekontrolované učení o NLP a zrušit hodiny.
+  -- Fact: Na jeho kurzu se registrovalo devět lidí, včetně osoby PERSON7, která hlásí, že viděl jich asi osm.
+  - Fact: PERSON8 hlásí, že je zde devět registrovaných osob.
+* PERSON17 chce podepsat na kurz o vývojových strukturách v matematice.
+  - Fact: Není tam registrovaných účastníků. Class je na Carolinas v K334KA třídě na parkovišti. Je to v zadním patnáctém řádku, kde nikdo není registrován.
+* PERSON17 tady neučí programování v pátek ve 3 hodiny ve čtvrtek ve 12 hodin. V té době je Programování 2 kurzy pro matematiku a jazykovou technologii v Water Practice. Existuje plán pro ORGANIZATION3, ale on ho nezaktualizoval.
+* Musí se zabývat některými dalšími otázkami.
+* PERSON17 nemá rád programování tady v devět hodin v pátek.
+  - Fact: V té době existují také tři objekty Organizace, takže po něm tam nikdo nepůjde. V Organizaci je také cíl4, který by mohl být povinným objektem.
+* PERSON7 se zajímá o jazykovou technologii v praxi pro 4 kredity, 2/1. Předmět není napsaný zde, ale je napsaný zde v matematických aplikacích v počítačových vědách. Je to vše v Carlinu a říká K. Profesor z Karlinu vyučoval kryptografické metody.
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

@@ -1,0 +1,11 @@
+Attendees: PERSON13, PERSON8, PERSON2, PERSON4, PERSON9, PERSON10, PERSON12, PERSON5, PERSON7, PERSON8, PERSON1, PERSON6, PERSON9, PERSON4, PERSON6, PERSON9
+
+ * [PERSON5]: The reason is for me to collect this credits.
+ * Talk adaptation and speaking of the words.
+ * This meetings are especially for the [ORGANIZATION1] event.
+ * The shared task, that we are running at IWSLT is directly aimed to help [PROJECT2] in the [ORGANIZATION1] Congress.
+ * [PERSON10], who will know everything about the data.
+ * Use the evaluation tool by [PERSON2].
+ * [PERSON10] should be collecting, not only the numbers, but the actual outputs of the system.
+ * [PERSON5]: I think, it's to use the Wednesday opportunity to have better [PROJECT1] systems as a good thing.
+ * We need to know, which one of them is the best.

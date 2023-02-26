@@ -1,0 +1,257 @@
+(PERSON7) Yes, we can see you, so here's [PERSON4], [PERSON10] and me.Uh, through, um, the like <unintelligible> which is there to [PERSON11]'s notebook and [PERSON11]'s notebook is also recording all the-all the audio through this.<mumbling>
+
+That's all right, I'm the only one who is talking on Pexip now.This is- this is what you should be seeing now, it's [PERSON11]'s screen that runs the client for connecting together, one ASR worker and then the translation into Czech.(PERSON6) I did, some of them have just going down i tried to modify <unintelligible>, Czech is running.(PERSON6) Ehm, I think <unintelligible> maybe down, <unintelligible>
+
+(PERSON12) Yeah, please test- test German worker and [PERSON11] can at the same time start third window, right?One of the command is running only the ASR worker and the other command the lower window is running both, the ASR worker and the machine translation into Czech.(PERSON6) <unintelligible>
+
+(PERSON7) Do we have- do we have a empty system German to English?(PERSON6) <unintelligible>
+
+(PERSON7) Sorry, we don't have machine <unintelligible> system, but we could try test the ASR if you want.So the German signal will be available only like for 20 minutes, and then 20 minute break and 20 minutes again, because it will be only one person attending the the last 20 minutes, and they they have to take break.But anyway, we should be ready for for that, because the German from the ASR will be much better and German speakers will be much happier to see uh, the the human interpretation, but we should be testing everything.So I will try to get the batteries, ehm, and you're right that- the good thing about German ASR is that we don't rely on the German, on the English segmentation worker so that that could run as well.<czech speaking="">
+
+So, well without the headphones, you won't, ehm, no one will hear you in the room.<czech speaking="">
+
+(PERSON7) So <unintelligible> now saying that our English <unintelligible> also running empty would like to test that.(PERSON7) Yes, that, it says you're now talking about ehm you're talking about bacteria-<laughing>
+
+(PERSON6) <unintelligible>
+
+(PERSON11) Can you say something?(PERSON11) Ok.Yeah, ok.So we have German empty, yes, we have English into German empty, [PERSON12] is back.(PERSON7) Yeah, sorry, we've just noticed this it the [ORGANIZATION3] translation service, not the any problem.<unintelligible>
+
+I think we might want to try [ORGANIZATION4] as well.<laughing>
+
+(PERSON11) Yeah, [PERSON12] is starting another mike, right now.You should see blinking here, [PERSON12].<czech language="">
+
+(PERSON11) So I'm I'm- yes,
+
+(PERSON12) One, two, three, four,...One, two, three, four, so this is what I'm saying directly to the head set microphone.You can see me and [PERSON11] is also holding the second mike, so that you hear what I 'm saying, and you are seeing the translations with the delay one, two three, so yes,
+
+(PERSON3) Cool.(PERSON7) It looks- looks ok, <unintelligible><unintelligible>
+
+(PERSON7) The segmentation is <unintelligible> getting the end of one sentence in the beginning of the next, and we not read it preparefull that, and I think that's something that we need to talk to [ORGANIZATION3] they can fix that and make sure that they're not getting these overlapped to two sentences but that's a tranlastions starts.(PERSON6) Yes, <unintelligible> recieving into the fix, into <unintelligible> resending.(PERSON7) So there is a lot of repetitions and-
+
+(PERSON11) Yes, yes.(PERSON12) Whoever whoever what's a problem, please put it into the Google doc at the end of today's blog, there's the critical observations from the test.And you have to click this view full motion presentation so that the frame rave of Pexip is- is higher and that you will see what exactly is rolling on the ehm on the clients of the ASR.(PERSON6) <unintelligible>
+
+(PERSON12) So I'll try to share it in another way as well as well, but I'm not sure if I'll I'll make it.No, no, we hit the screenshot.<czech language="">
+
+So, the, the list of icons that I was- So the the issue that we are trying to to help you solve now is that when you are following the the screen presented by [PERSON11], [PERSON11] are you still presenting the screen?So when you are when you are following that screen, you will see only update of whole page, like every one or two seconds and that's different, that's very different from what we are seeing.(PERSON12) Yeah, so maybe taky a screenshot of this for- for our next call.So the first issue is that-
+
+(PERSON3) Ok.
+
+(PERSON12) Yep.So the idea is that right now on the cable, a connection [PERSON11]'s notebook is sending three English, three audios?(PERSON11) Wait, <unintelligible> mike, can you hear me?But probably you have <unintelligible> the multiple input request functionality sent you an email, I don't remember-
+
+(PERSON11) Yes.(PERSON3) It could- It could work also asking, for example, for multiple eh translations that's giving the input audio file, and they want, for example the germ-German audio file and that want in to receive the English translation and the French translation.And they told me that probably the eh machine translation of [ORGANIZATION1] has some kind of improvement, and it was the one I was trying to check this morning.[PERSON4] shared with me a Python script last night, who manage the eh ASR output, filtering out only final hypothesis.It works on-<unintelligible> beginning and not on offset and so <unintelligible> also get confused, but we are reason about this topic and we'll update you, of course, or if you discover something, please update me.(PERSON3) No, no, it should be the same issue, but I also, I'm a little bit confused the on this topic, than probably I haven't explain it very well.(PERSON12) Yeah, I think the the empty worker should be totally like ignoring any context.But if it is a minor extension of the sentence then we do want the empty worker to see the whole sentence again,so-
+
+(PERSON7) So it is the same <unintelligible> or is it the same <unintelligible>
+
+(PERSON12) Yeah, so, the same string repeated, how could that happen?So the the alti ee match best solution is that the ASR worker double checks it's output and never sends the same string ehm-If-Well I should very different list still.They will take this outputs, so-Even if a longer sound segment-If longer sound segment happens to lead to the same text hypothesis, this update should not be send to the subsequent empty worker, because it is not real update.(PERSON11) I don't know I worry it's only-<czech language="">
+
+(PERSON3) Sorry, guys I run a test with the English ASR, maybe it's me, I wrack now finish.And and [PERSON11]'s notebook not recording anything yet, but the beringer we have, the sound in the sound card, but we do not have the sound in the system, and it's stopped by itself, or have you been changing any of the sound settings?In the mean-We could we could have some discussion so that I would be stoking only once a while on something useful.So I can ex- asure you I really-
+
+(PERSON12) The German are-
+
+(PERSON3)-less
+
+(PERSON12) The German ASR was working while ago, and [PERSON11] has one of the workers for himself.(PERSON3) I can surely <unintelligible> and going to write it in the Google doc
+
+(PERSON12) Yeah, so maybe in the status of the components.Dunno why does not let me write anything in Google Doc, except to where I do not want to write.A Lot - <unintelligible>Of course, it's a prototype we are working on functionality-
+
+(PERSON12) Yeah, this is perfect.(PERSON3) There is the - this is a demo of course but when we have the M3U8 URL, we can configure the presentation platform to connect to this streaming and display the provide thing.(PERSON12) So this is something for [PERSON9], so if you can extract [PERSON9] to use the VLC in some way.Can we get access to that, or maybe if you do not want to share the whole thing, then just the video client, so that we can test the video client.(PERSON3) Well, I haven't worked on the source code so I'm not able to share it with you.(PERSON3) No.Is somewhere in the our report, but I can ask for-
+
+(PERSON12) Yeah.At least the webpage that shows the video and this is the thing that we need to link with the screencast that we are going to to send.And then we can test whether it's easier for us to send it through Linux machine or through the VLC  in Linux, we'll decide.And actually we're still working on the integration for example, we have some problems with characters and coding, right now.Ok.
+
+(PERSON3) When I will find working ASR worker, for example, if you free me the -
+
+(PERSON12) Is there any way that we could ship the data to it?(PERSON12) [PERSON11] has the workers running and if you are following [PERSON11]'s screen as well, I don't know if [PERSON11]'s screen is there.(PERSON12) So-So if if [PERSON11]'s start sharing, and if you click the HD button which you may have or may not have.There are for example, for sure, the German,Italian, ok, and the English one.Ok.
+
+(PERSON3) Mark  testing, ok.
+
+Ok, this is my- there is a worker who manage the publication.(PERSON12) So If the idea is that to simply send to start the client so that the target well signature is this eh, an EU pub, right?(PERSON3) Yes, exactly.Actually, the the <unintelligible> worker is completely transparent, the packets he receives send back exactly as he has received them, but as a kind of processing it publish subtitle on the <unintelligible>
+
+(PERSON12) Ok, So we can also see the output  in the EB client eventually.(PERSON12) So can we also present to-unable-I'll show you the, on the-
+
+(PERSON11) I'm sharing the screen so-
+
+(PERSON12) You can look at [PERSON11]'s screen in in Pexip.(PERSON12) Yeah, German, DD.&lt; czech language &gt;
+
+(PERSON11) Yes, yes, I can see this one.(PERSON3) Ok.
+
+(PERSON12) Ok, so from now on if this connects, I should be able to see- so what is it doing.Well, we see something in the locks but we don't see it in the Elite- in the presentation platform yet.(PERSON12) Well, both- ehm, it's I think [PERSON11] have you-
+
+(PERSON11) Yes, I-
+
+(PERSON12) connected both.No, stop the German
+
+Yes, so I can see my- what I'm saying in on [PERSON11]'s lock, on [PERSON11]'s screen.(PERSON3) The worker is correctly engaged and he says that it's publishing at Winx but I'm- me
+
+too, I didn't see anything in the presentation platform.I'm also on two different computers I don't understand if something also related to-
+
+It's seems that in the in my Windows laptop it isn't displayed anything even if I run it-
+
+Even if I run it in Chrome, but on my Linux desktop it work's well.(PERSON12) Chrome, ok.
+
+(PERSON3) Ok, ok, of course for demo we have to manage it, of course.(PERSON3) Linux, ok.
+
+<czech language="">
+
+(PERSON3) I'm start thinking that it's a matter of ehm Windows Firewall.Well, ok, at some point-
+
+(PERSON12) we have one Linux machine with-
+
+Does anyone have a Linux machine with Google Chrome?(PERSON3) Ok, don't worry, at some point it will work, I'm going to-
+
+*
+
+(PERSON12) Ok.
+
+(PERSON3) Talk about it with of course the team.(PERSON3) But, ok, it, actually it work we haven't yet tested the multiple publication <unintelligible>.But also with characters in coding and we are debugging where the problems is originated, there are strange characters coming out from the ASR or if it's the Java integration whose not correctly managing the <unintelligible>.(PERSON7) <unintelligible> in the document is that I said I'm not quite understand the logic in the ASR, because it's giving us sentences in <unintelligible> fragments <unintelligible>
+
+So if it could talk to <unintelligible> maybe they can change the way that this is present I think it will be helpful for us.But on a positive side, in term of efficiency it seem to be be able to handle ehm that stream that's coming in without empty worker.I'm, I will be on vacation next week a couple of days so I suggest to perform some massive test on Monday, so that I can provide you my support and we can check everything together.The very next-
+
+(PERSON3) Next Monday.(PERSON12) So-, yes, so during the day I'm available from like eleven to three.Ok, so let's plan to have the same type of test call on Fri- on Friday anyway.Is- so anyone from [ORGANIZATION4] could be monitoring-
+
+(PERSON7) Next Friday should be available and I should be available to join <unintelligible> Pexip, anyway.Ok, so I think that the [ORGANIZATION4] people can can leave now, thank you very much for for your time today and thanks [PERSON4] especially for for putting this worker together.I'm a little bit worried that there will be no time for improving this because it will be like creating new models and improving the underlink set up.But please try, please get in touch with -
+
+(PERSON7) <unintelligible>
+
+(PERSON12) Yeah.We don't have access to the um, maybe you can, yes, if you know, you can tell us how to use the streaming from VLC that work for you.(PERSON3) We haven't found yet a solution-
+
+(PERSON12) Ok.
+
+(PERSON3) -of the tool prepare exactly an M3U8 starting from VLC.(PERSON3) I can provide you the exactly the one including in the-
+
+(PERSON12) <unintelligible>
+
+(PERSON9) <unintelligible>
+
+(PERSON12) So that we know what we need to mimic.(PERSON12) Yeah, so this is not a live-
+
+It's like streaming for me, but not for everybody.(PERSON3) Ok, in this case we have a playlist M3U8 actually already has all the ehm available chunks- bit of chunks.(PERSON9) All right, the M3U8 format it's it's ehm list all the currently available chunks and the browser goes, again and again, fetching the M3U8 file, right?In this case you see the ehm the main page, possible by each one has <unintelligible>  the browser.But-
+
+(PERSON3) Sorry, [PERSON12].(PERSON12) Ok.
+
+(PERSON3) But <unintelligible>
+
+(PERSON12) <unintelligible> ok.So, and Google,Firefox anywhere and Google Chrome on Windows.I think we should we should try to wrap up, so I would like to ask everybody who is still on the call, to go through the the current state of the Google document, and add whatever we have not recorded in the-
+
+And make make the transcript or summary of the messages clear.This-
+
+(PERSON12) This is- this is something which is -
+
+Yeah, but it's also like a design decision and I'm not sure how what is the current handling of of this.It-
+
+Do we think it should be the final end users who would be like choosing which English they want to see, or should it be us selecting the best English for them?(PERSON3) We will be ehm, there will be the administrators, then let's say <unintelligible> who will use the-
+
+(PERSON12) Yeah, so, can we see the administration interface.(PERSON3) Unfortunately, I'm not able-
+
+Oh maybe it work,yes.The TU provider in e-mail in order to access the-
+
+(PERSON12) No.Because you have to register to the system, which actually means put <unintelligible>
+
+I'm able to display it on my desktop, but I'm not able to-
+
+(PERSON12) You cannot share it.(PERSON3) in Pexip, but it's-
+
+I can, maybe I can provide you a snapshot.<laughing>
+
+Could be a solution,let me-
+
+(PERSON12) So, so is there a URL so that I would just type slash admin or something like that to force it to go to the admin screen?(PERSON3) Exactly, the slash settings and <unintelligible>
+
+(PERSON12) So slash-
+
+Yeah, so the slash admin does not exist but what-
+
+It would be great if if this administrator web page would be simply like requested in the URL.(PERSON12) So can you is your password too secret or...
+
+<laughing>
+
+(PERSON3) No, I'm going to-
+
+Well, act- ok, try to put just my e-mail, it asks just e-mail.(PERSON12) So I'll share, I'll start, sorry, I'll start sharing my screen so that you can verify if I'm doing it right.(PERSON3) No, [ORGANIZATION6]
+
+(PERSON12) [ORGANIZATION6] dot com.(PERSON12) Dot it, ok.
+
+[ORGANIZATION6] dot it.(PERSON12) So it will be also Czech, can someone dictate to me from the Google Doc.(PERSON3) Ok, if at the moment the definition of sources is static, it's not dynamic, it's pretty difficult to define exactly the logic of joining services and living services we're still reasoning about it.So it's it's now like poppin- pokin- poppin- popping up one by one, we we've learn that if we add dash pub it will be grabbed by the worker for the presentation platform.(PERSON11) We have the- we have admin web so we can we can see which workers are running and which fingerprints are they using.(PERSON12) We need the map because it's different institutions who are starting the different workers and if they misregistered the worker if they use like mismatching fingerprint there is no way to make use of that worker.(PERSON3) In order to have the list of all workers the list of input and output it's pretty, pretty much what we need, more important it-
+
+(PERSON12) No, no, it's like once we have the idea of what is being connected to what then we know what the inputs and outputs are and it's easy to use it.(PERSON3) And you run the for example the EB client, I know it's pretty much an old tool, but when you run it one of the first thing it displays is exactly the path selected.We have completed the <unintelligible> in order to aset only exact path and through this-
+
+(PERSON12) Yeah, yeah.But what I'm saying is that if we don't have the map, and if someone from runs a worker with some incompatible fingerprint so that the worker from [ORGANIZATION4] does not connect to it, then the path would not be accesible.(PERSON12) Yeah, so the point is that if there is a worker connected to the mediator, there is no way for us to change it's fingerprints.(PERSON3) Actually that for the one who runs the client is is not available this information, and simply provides if <unintelligible> so there is no logic implemented in order to ehm change fingerprints to worker, because worker who be there or not or <unintelligible> will not be available or it's all delegated to who provides the service.(PERSON11) But, but at least I created bridge worker, I updated the backend SMT worker so we can specify the fingerprints <unintelligible> arguments and disconcert us bridge between workers.So can I add-
+
+No this is add an image-
+
+Let's try, I'll try creating a new Google drawing document.<laughing>
+
+(PERSON3) No, sorry, I really not be there, but actually it's really important for me to be here in order to check <unintelligible> and provide you technicals.So please the way this drawing works is that you while you are editing an object, no one else sees it yet.And do not edit the existing ones, so [PERSON3] could you please put all the fingerprints of the languages that the presentation platform responds you next to he object that I just created?(PERSON3) Ok, I add in a different object the at the moment available fingerprints but please consider that it's an instance running on my local pc.<unintelligible>
+
+Idea is to add just a minus pub to language-
+
+(PERSON12) But the German is different, and Italian is different, so the English is, English has EUN  it's not like GB, so that's-
+
+And we need the the full list of languages.So how do I-
+
+So I'll actually paste-
+
+Oh, so someone was faster.(PERSON12) Yeah, so [PERSON3] I'll paste it to your, oh this is too bad.(PERSON3) Yes you can reload the home page, you introduce new languages for example the Czech, the Hungarian, the Polish, [PERSON6].(PERSON3) Client it's not connecting to the workers, it's just-
+
+(PERSON12) It is, it is, when [PERSON11], when [PERSON11] launches the client, I'll say the way I understand it, but you need to correct me if I'm wrong.So I think that [PERSON11] launches EB client and tells EB client, here is some audio with this fingerprint it German audio, and I want the target fingerprint find me a path for that and my desired target fingerprint is Italian, Italian pub text.And the the EB client connects to the mediator and the mediator find the path and the path will include the worker which digest Italian text and produces Italian pub.And that's the worker-
+
+(PERSON3) Yes, [PERSON12], we have to agree on whos playing the client role.(PERSON12) <unintelligible>
+
+(PERSON3) And in this situation the client browser it's it's not connecting to the workers, it just recieves, recieves.(PERSON3) Yeah, yea, sorry.<laughing>
+
+(PERSON12) So my question, my original question was when changing here in, I'm still sharing the screen.So when I'm changing the set of languages and I'll add also the Spanish here, ES, this will affect obviously the buttons available on the front page.But there is no way that any Spanish can appear here until [PERSON11] will run a pipeline which will end with Spanish  pub.And for this pipeline to to be access if all the path to be accessible there has to be the worker registered already with it mediator that emits the Spanish Spain pub fingerprint that I'll put this fingerprint.(PERSON12) Yeah, so please do it with the set of languages that we need for the-
+
+So it's now fingerprint.So I-
+
+Well I'm making these up, so I'm not sure If I'm-
+
+If is this standard <unintelligible>
+
+So for English we are using the EU, for for Dutch it's spoken in Belgium and the Netherlands should we also use the EU?(PERSON3) Well, it's just a matter of <unintelligible> for me.They're, we can't exactly ask them about their <unintelligible>
+
+So the only way you can do is use the same <unintelligible>
+
+(PERSON12) So could you do it?(PERSON12) Non french.<laughing>
+
+(PERSON9) Because I don't know how to translate <czech language="">
+
+(PERSON12) Yeah, vlamish.(PERSON3) You're running Linux, ok.
+
+(PERSON12) [PERSON9] I cannot hear you now from the Pexip.(PERSON9) This thing is Windows 10 and this is Windows 7, but does not have a microphone with, so it's not running.(PERSON3) You guys of course the browser, maybe it's related to Windows firewall but you are running Linux, we have to check it, ok.
+
+Actually it work also on my mobile device, so maybe you can try with your Android device to connect to the presentation platform by using browser.But this this problem with Windows has confused me, because al- me you, me too I usually work on Linux and it works pretty well in my situation, maybe it's something related also to as your firewall we have to check it.(PERSON9) Because I have, on the Windows 7, I'm to NLT connection and that should not be too many firewalls in the way.(PERSON12) I'm not sure if I'm, I'm sharing the screen, I'll share my camera instead.They will sit in front of a notebook, each one of them and they will see the subtitles and the slides.(PERSON12) So [PERSON9] could hit as eleven or twelve-
+
+(PERSON3) Sorry could you-
+
+(PERSON9) And now it's even worse.(PERSON12) Yeah, so this is this is the full screen mode of the web browser, what you're seeing in the webcam from my Pexip, right?I think it's optimize in relation to the mobile usage, because mobile will probably require more space for for subtitles.Yeah, so can you, this is some CSS fighting.<laughing>
+
+So, so can you make sure it's for the workshop in two weeks now, it's more important to have it optimized for the desktop rather than for the mobile phone.(PERSON9) Also small <unintelligible> given the small set of languages now-
+
+(PERSON12) So this is my, this is my screen and also I think it's like not really-
+
+So the Bugs  works yes, it's good.It's Firefox, but I'll try to rotating it.(PERSON12) So [PERSON3] are-
+
+(PERSON3) Yes, as I told you we are working much more on functionality than on the-
+
+(PERSON12) That's- We're not complaining, so it's, I wanted to say this up front.We're, but we're thinking what what are the minimum changes that would make it like much more usable with as little effort as you have.So, I think it's usable in the in the horizontal mode because then there is more, it's it's hard to say where is more space.(PERSON9) And it seems it works for the cellphone very well that it adapts to the size of the screen, I wonder why does the same code cannot be used on the desktop.If you like to have a bigger video screen text, I can  <unintelligible> note and I will ask them.Of the screen
+
+(PERSON3) But-
+
+(PERSON12) There's there's the subtitles will be below that.Yesterday we actually we tried for the full screen mode to prepare let's say a kind of overlapping, you know the the <unintelligible>, but we haven't found a solution and it's actually it's it's nothing in problem to, to develop it.(PERSON12) Yeah, and when I'm thinking of is, can you, could you, could you share with us the code for the not all, maybe maybe not all of the presentation platform but like the bare bones which has the text thing, like the logic that converse the the words to where is that being displayed?So this-
+
+(PERSON3) It's not the idea presentation platform <unintelligible> the worker, in the worker logic.(PERSON3) I'm reasoning about it because at the moment, the the worker, the publi- the publication worker returns exactly the packet recieved and not the one published.Ok.
+
+(PERSON12) Or maybe, maybe it's if it's easy I don't know how easy is it in the code, but if you could register the worker when you're starting the worker that feeds the presentation platform.If it could register itself twice, once by pro- offering the dash pub thing, and that would be only copying thing exactly, and the other one would be like dash pub presented or whatever and that would be <unintelligible> thing.So that the same worker would offer two output, one would be so that you can connect it and it doesn't change the the stream and the other one would be the one that we could then directly use as the console client.And we need everybody, so I'll ask everyone on the call today at 1 to contribute to this map and everybody needs to check that their workers are like signing themself with the right, with the right fingerprints.(PERSON3) Yes, please consider that at the moment, the publication worker it's running on my local PC.So in general-
+
+(PERSON12) Ok.
+
+(PERSON3) In general I suggest you to forget about the presentation platform till Monday.<laughing>
+
+So we can test and improve the functionality.(PERSON3) Ok.
+
+(PERSON12) So I'll actually put it right into the at the beginning of this call.Yeah, 17 6, and only only <unintelligible> and [PERSON3] expected and the goal for Monday was to test more languages in presentation platform.Or what was the-
+
+(PERSON3) Well, since I will not be available for part of the week, maybe we can try to <unintelligible> let's say everything we have to check on Friday.We also need a break before the main.<laughing>
+
+So Tyso-, yeah so [PERSON4], were you here?I I saw [PERSON4] for a while, I'm not sure if he was here at all.I'm sorry it didn't work today, but actually <unintelligible>
+
+(PERSON12) That's it's no no, you're pretty fire, this is perfect.Ok so thanks a lot and talk to you on Monday.And try to clean up the Google document this one, on the prepare to the calls if I misunderstood something or if if there's if some of the notes don't make sense please make it explicit so that we,yeah.Ok, Thank you [PERSON3], I'll close the call now if I'm able to and we start packing things here.

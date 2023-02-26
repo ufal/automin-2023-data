@@ -1,0 +1,102 @@
+Summary:
+
+* PERSON7 and PERSON12 are planning the development of a presentation platform. 
+* The first prototype should be ready on the 7th of June. The functionalities to be checked should be discussed in the next week. 
+* The project is not due date at the moment, some some some. 
+* PERSON7 and PERSON12 will have a technical discussion on the presentation platform and integration with PROJECT4 on Monday the 20th of May at 10 am on the morning of Monday, May 20th. They will discuss what they need in the platform and project integration. 
+* PERSON4 is on the call and is ready to start calling PERSON7. 
+  - Disc: PERSON7 is happy that he is ready. 
+  - Fact: "I have noticed if PERSON3 is also on the phone. 
+  - Fact: I am going to call him." 
+* PERSON4 refuses the ORGANIZATION2 tutorial. He will start coding next week. He hopes to have a prototype within a couple of weeks. 
+  - Fact: He doesn't have a copy of the work he needs to do it. 
+* He needs to dust off his copy of ORGANIZATION2. 
+* PERSON7 is trying to create a corpus of incomplete sentences. The training diverged and they need to try a few more times to translate the sentences. They don't have any information from the training yet. The training has diverged only once and it's not clear why. 
+* PERSON7 doesn't want to rely on the cashing client as it makes the latency too big for the final users, because they don't have the time to fix the cashed client and it's reliable, but the main reason is that it's too expensive. 
+* The ASR does not close sentences all the time. 
+  - Fact: It labels the sentences and places a label to end them. 
+* If you want to see the unsegmented text of the ASR, you need to request it from the EB client text. 
+* PERSON7 and PERSON6 need to create the segmenters for all the ASR languages. 
+  -- Disc: The ASR can change the output of the segmentation worker. 
+  - Fact: It can also fix a word before the end of the sentence if the worker decides to fix it. 
+* PERSON7 wants to train empty systems to work on all the individual lines that they get from the segmentation worker. The system will be judged by the final translation, and the translation was by having incomplete sentences, which is what the system should focus on. 
+* PERSON7 will share a screen with PERSON6. 
+* They will have to check in details to logs to log the output of the segmentation worker. 
+  - Fact: It is legible on the middle line of the text that is starting in the middle of a sentence and continuing with the third. 
+* PERSON7, PERSON4 and PERSON6 are working on a project. 
+* They need to change their training data for the MT systems. 
+  - Fact: They are translating partial sentences and even more sentences in one go. The first segmentation is fine, but then the second one is not. The segmentation worker is not emitting timestamps. 
+* PERSON7 and PERSON6 don't want to translate again as they have already got a good translation of the previous part of the text. 
+* The text starts in the middle of or follows a continuation of something which already output and then the alignment. 
+* PERSON7 is worried about the timestamps of the individual parts of the translation. He doesn't know where to start or where to redo the translation, so there will be some tricky coordination between the different parts. The problem is that if these are not zeros, then they are not timestamped. 
+* PERSON7 and PERSON3 have some sample data from the ASR workers. 
+* They need to ask someone from ORGANIZATION6 to validate the locks. They also need to decide how to translate the data. 
+  - Disc: The baseline would be to follow the segmentation coming from segmentation worker and translate sentences like this for the workshop. 
+* PERSON7 and PERSON4 need to synchronize the code for PROJECT4. They need to train the models to accept partial sentences and even sentences that started at the middle of the sentence. They also need to fix the bad segmentation in the empty worker. 
+* The segmentation worker trained for Czech is still missing. 
+  - Fact: It depends on the ASR for Czech and on the level of the segmentation technician. 
+  - Disc: PERSON7 is not satisfied with the information provided so far, and wants more information on it. 
+* PERSON7 and his colleagues are discussing the integration of PROJECT4. They have two options: one is to synchronize with PERSON4 and the other is to train MT or fine tune send level models to gracefully handle badly segmented input. The main message is the main message. 
+* PERSON7 is working on a cruise control. It will use the report which is now called the production connectors, so that it is no longer a labor prototype. 
+  - Disc: It is being developed by PERSON7 and his team. 
+* PERSON7 doesn't have English and German ASR. 
+  - Disc: The ASR is working fine and nothing has to be done about it. 
+  - Fact: There are no changes to the status of the ASR, according to PERSON7 and PONpON5. 
+* PERSON7 and PERSON6 need to prepare plain text files and add work granularity for the language model adaptation. 
+  - Disc: They are not using such a mechanism anymore. 
+    -- Disc: It's a lot of effort and it's possible that models system don't need adaptation any more. 
+* PERSON6 will ask back ASR people next week. 
+* PERSON7 wants to call the integration and segmentation worker for Czech ASR. 
+  - Disc: The workshop runs in English. There will be one interpretation of from English into Czech and one interpretation from Czech into German. The German ASR will be double delayed, but it can be better than the English one. 
+* PERSON7 is trying to give PERSON6 the whole picture. 
+  -- Disc: PERSON6 is able to hear him now, but he still can't speak. 
+  - Disc: in the conversation. 
+* PERSON7 and PERSON6 are doing the daily test manually. 
+  - Fact: They have the install and test scripts and they run them every now and then. 
+  - Fact: They are already using the report. 
+* They think they should do the test on a daily basis as soon as possible. 
+* PERSON7 wants to get the multilingual English tool any is currently training. 
+  -- Disc: The student he has for this is not delivering anything. 
+  - Disc: He knows how to train PROJECT4, but it doesn't really work for him. If they can get the models from PERSON4, that would be more helpful. 
+* PERSON7 will try to get some data from Taos, but she doesn't have the data yet. 
+  - Fact: She will send the plane text to ORGANIZATION7 and ORGANIZATION3. 
+    -- Fact: ORGANIZATION7 will extract all the data from the text and then get it from ORGANIZATION7. 
+* PERSON7 needs the MT domain dependent data for MT fine tuning by Wednesday, June 19th. 
+  -- Fact: He will work back from this date and will send it to PERSON4 one week after the event. 
+  - Disc: They don't need too much time, probably one week. 
+* PERSON7 wants to create a German to English empty system and a multilingual empty system. He wants to test it out with PERSON10 and PERSON12. 
+  - Disc: If it works, it will be replaced with a different part of the project. 
+* PERSON7 and PERSON6 are discussing the idea of running ASR on paralel subsentence corpus with text-to-speech on it and on the output from ASR with errors against the original targets. 
+  - Fact: The corpus has two million words and one thousand documents. 
+* PERSON7 is skeptical about ASR from text to speech. PERSON10 thinks it will do the same errors on name entities and rire works as usual speaker at least. 
+  - Fact: SLT systems in last year's <unintelligible> workshop used this technique. 
+* PERSON7 wants to train on ASR from the docks. 
+  - Disc: He will do it after PROJECT3. 
+* The data from the ASR will be used to fine tune the empty systems. 
+  -- Disc: The segmentation mimics what the segmentation worker is doing. 
+* PERSON7 will let PERSON4 know in the next week if the integration of the docks with the existing workers went well or if they failed. 
+  - Disc: The integration is not a priority at the moment, because they are planning to rely on the on the PROJECT4. 
+* PERSON7 wants to know if anyone from the project is planning to come to the workshop in person to see it in practice. The last person to come was PERSON2. 
+  - Disc: The project is called PROJECT5 and it's a well-known one. 
+* PERSON12 wants to ban not working workers, but it's not possible at the moment. 
+  -- Disc: ORGANIZATION2's platform is based on having distributed services allowed, so it's possible something like this could happen, but not easy to imagine such behaviour. 
+* PERSON7 suggests to have tests of workers. 
+  -- Disc: If a worker fails the test, they would be killed on the organiser's side and the platform would not be available anymore. 
+* The party who provides the workers should be able to test the individual workers. 
+* PERSON7 suggests using quick test session as they side of AG ORGANIZATION6 for each of their workers. 
+  -- Disc: If they do not pass their test, they could be killed. 
+  - Disc: It's not that easy to manage it also in this way. 
+* PERSON12 has a question about the note in the presentation platform about the experiments that is to be discussed on Monday. 
+* He wants to check it this afternoon in order to be more prepared for the meeting on Monday, so that he can share with them his experiment. 
+* PERSON3 would like to know if some of the ASR clients or the <unintelligible> are not working. 
+  -- Disc: If they are, then they can do something about it. 
+  - Disc: The ASR client is responsive, but there is a risk that the client might not be available at random times of the day. 
+* PERSON3 and PERSON7 have sessions 4 to 6 times a day, but the worker is still all work after 3 weeks. 
+  -- Fact: It happens every time they try, even if they haven't tried for a week at a time before. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

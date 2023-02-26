@@ -1,0 +1,35 @@
+Schůzka [OTHER6] 2019-12-18
+
+Zůčastnili se: [PERSON15], [PERSON16], [PERSON9], [PERSON8]
+
+Shrnutí schůzky:
+
+• Napsat secondary report na [ORGANIZATION9] o délce 10 – 3000 znaků (deadline 15. ledna):
+o WP1 – zbývá úkol přidat na [OTHER5] modely a restartovat [OTHER6] DEMO
+o WP3 – splněno analyzování attentionu, transformer architecture, 2 články
+o Neproběhl experiment s univerzálním transformerem, místo toho experimenty s multilinguálním BERTem
+o WP5 se musí zrušit tento rok
+o WP6 – splněno napsání 2 článků
+• Bylo představeno řešení mezd na další rok
+• Chybí 2 články v časopise:
+o Předělání diplomky, kterou dělá [PERSON22]
+o Je možné do PMBL poslat článek, který se původně měl poslat na EMNLP (všichni se na článek podívají a příště se rozhodne)
+• [PERSON1] chce také zkoumat multilinguálního BERTa a [PERSON8] mu napíše nějaké téma v tomto smyslu
+• Řešena přestavba [LOCATION2]
+• Kniha musí být do června, července, aby se to stihlo
+o Dát do Zotera související články
+o K článkům dát taggy, co se vyzkoumalo
+o Pokud budou články, příště se bude řešit, jak bude kniha rozdělena do kapitol
+• [PERSON25] už nechce spolupracovat, domluvil si něco jiného
+
+
+
+
+
+
+
+
+
+
+
+							Zápis sepsala: [ANNOTATOR3]

@@ -1,0 +1,49 @@
+-He told me that he wants to be in the meeting, but he said he doesn't want to join the meeting yet, so I didn't join the meeting.
+-laugh> He is writing a lot of emails today, you can drop your message over the phone, you can drop your message over the phone.
+-Review the webpage, I reviewed the portions of the document with the colourful papers, I don't know if you have highlighted the portions of the document with the colourful papers.
+-Because, I think he may have started some PhD somewhere whatever, so he may be much more busy then we would be hoping for, if he can actually help us.
+-The problem with this is that we will lose a p person to prepare the data for [PERSON7], so we will lose a p person to prepare the data.
+-After the holidays I addressed him but he didn't finish it because he stopped, he didn't reply.<n>And now after this Christmas holiday, during the holidays I didn't address him but now I see that he is not going to finish it.
+-If you finish the annotation, you will finish the annotation, but if you finish the annotation, you will finish the annotation, so the annotator has stopped.
+-Get in touch with [PERSON7] and double check that he would be able to do the processing, also at the token level, like word types.
+-This is something, that I wanted to do, but I didn't understand what you were talking about, and I don't understand what you are talking about.
+-laugh> write down the agenda, so that we can transfer all this information to [PERSON7], where it will get lost somewhere in the middle.
+-Take note of the agenda for the meeting, if it is not somewhere on the agenda or it must be somewhere on the agenda, it is not on the agenda.
+-We can actually put it to the to the master plan, for th first shared task on automated minuting, for th first shared task on automated minuting.
+-The agenda is in the master document so if you can check the Virtual Coffee agenda, you can check the agenda for the Coffee Meetings, the agenda is in the master document so if you can check the Virtual Coffee agenda.
+-The short thing is that we have discussed this with [PERSON7], and if he is not responding, then, like we have discussed this with [PERSON7].
+-Recreate it, yourself.Recreate it, ourselves.Recreate it, ourselves.Recreate it, ourselves.Recreate it, ourselves.Recreate it, ourselves.
+-Collect, candidates for, NEs in context, our context.<n>Collect, candidates for, NEs in context, our context, this is not complete, but it illustrates that the annotation process is documented to the finest level.
+-laugh> So, you look puzzled s laugh> So, you look puzzled s laugh> So, you read the process?
+-The link should not be a copy o But it should say something like annotation at the type level, so it should not be a copy o But it should not be a copy o
+-This is copy, because [PERSON7] has made the annotations to the same file, so we can rename it, copy, copy, copy, copy, copy.
+-If the person wants to rename his document, he asked me to make a copy of his document not to delete the lists so s Accidental not to move the information.
+-Like the word copy, is okay, if you make a copy of that is, is okay, if you make a copy of that is, is okay.
+-Use proper nouns and personal copy of [PERSON/PERSON/PERSON/PERSON/PERSON/PERSON/PERSON/PERSON etc.
+-The process of removing the named entities from the collection is very clean, and it is very easy to do, and it is very clean and it is very simple.
+-The word type is the word in the running text, and word token is the instance of the word in the running text.<n>The word type is the word in the running text.
+-Now we are working on types, because I just see the words.<n>Now we are working on types, because I just see the words, and I just see the words.
+-To have the annotation of the documents, we do want to have the token level annotation in the end, so that we can do these words all at once.
+-laugh> I could not find the word token in the early seminars, so I needed to connect it to work, so that's okay.
+-So we have [PERSON7] and he is supposed to be the system operator, so that is some programmer's skill tha if [PERSON7] is not available, that will be like seriously in need off.
+-This is a problem, because it means that we are doing now is, is, manual, decisions, that's the value, that's the value.
+-Create a list of candidates that were done by [PERSON7], that was done by [PERSON7], that was done by [PERSON7].
+-The list is very bad quality, everything of the names are not named entities, and also most of the output is not a named entity, not a named entity.
+-The words at the beginning of sentences, also got into the list, but not all of the words at the beginning of sentences, got into the list.
+-The multi word ones are also a problem.The multi word ones are also a problem.The multi word ones are also connected to the multi word ones.
+-This is a list of problems that are open problems, and one of the open problems is the edition of new documents or the edition of new documents (multiword NEs).
+-The program included all the words beginning from c[PROJECTtal.The program included all the words beginning from c[PROJECTtal, not so many, not so many, not so many.
+-Final checks, - How do we ensure nothing, leaks into the final data, in the final data, in the final data, the actual den, the actual den.
+-Wel Co-referencing, c Co-referencing of chains, including, the identity of the individual speakers, the original name of the person referred to.
+-For projects and other things we can say like: Here was a project name and don't make it explicit, whether it was the same project or a different project.
+-The labels can be different for different types of text.<n>The labels can be different for different types of text, for example A, B, C, D, E, F, etc.
+-The data set for summarization is not suitable for the purposes of summarization, unless you have a very large set of data to work with.
+-If we like mess up people, then we like mess up people, if we like mess up people, then we like mess up people, if we like mess up people, then we like mess up people.
+-Note that this is not the same as saying that Jane is not a speaker in the meeting, or that someone refers to Jane at the top of the meeting, or at the end of the meeting.
+-Ignore the tracing.<n>We can discuss whether this is the same Jane different Jane.<n>We can discuss whether this is the same Jane different Jane or not.
+-If the labels o Yes, if the labels are A B, C, that is what you said, and let's leave it non linked, if the labels o Yes, if the labels are A B, C, C, that is what you said.
+-The problem with naming entities is that we don't want to do errors in the first part of the data collection, because we don't want to mess up the identities.
+-Get in touch with [PERSON7], get in touch with him and extract from him the information that was discussed with him or that may fall on [PERSON for the programmer parts.
+-If I could lock myself in a week, then I think I could de-identify this set and I could de-identify it's not too big.
+-Have a session with [PERSON with the data, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like, what should look like.
+-If you were doing it yourself, it would be a few via macros, and it would be done for a document like very quickly, like text processing.

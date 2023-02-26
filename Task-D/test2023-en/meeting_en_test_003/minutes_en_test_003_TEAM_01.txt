@@ -1,0 +1,33 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON8, PERSON12, PERSON10, PERSON6, PERSON4
+
+
+SUMMARY-
+ -PERSON8, PERSON6, PERSON7 and PERSON10 are on the call.
+  They are going to discuss the development schedule for the project.
+ -PERSON10 will prepare a basic Python-based translation system for a request.
+  He will send the request to the PROJECT3 server and post it back to the requester.
+ -PERSON6 had a problem with the internet connection.
+ -PERSON8's guess is that the worker should work well with timestamps and hide them from Python and PROJECT3.
+ -PERSON8 thought the agreement on Monday was different.
+  The presentation platform will update the text incoming messages, but the incoming messages must be exactly what they want to be displayed.
+ -PERSON8 and PERSON6 need to discuss whether the scrolling the history of previous texts fields is supported or not.
+ -PERSON6 and PERSON8 are discussing the development schedule for the presentation platform.
+  There is no prototype available at the moment.
+  The first one should be ready on the 15th of June.
+  ORGANIZATION2 calls with live subtitling are too far in the implementation for the organiser to connect to the ORNIZATION2 platform.
+  The whole chat window is flooded with messages.
+ -PERSON8 would like to switch to the ORGANIZATION2 platform.
+  ORGANIZATION3 will prepare an image, ORGANIZATION4 will try to get it running.
+  The presentation will be tested with ORGANIZATION2 after the call.
+ -PERSON8 wants PERSON11 to create a script that will replicate the bug.
+ -PERSON4 asks PERSON8 and PERSON6 to write a script to solve a problem with offline ASR.
+ -PERSON8 confirms that the text text client is the same as in the sample.
+ -PERSON4 will resend the email to PERSON6 and PERSON11 and PERSON9.
+ -PERSON11 is responsible for MT clients on her side.
+ -PERSON6 will not be able to help PERSON8 and PERSON6 today.
+ -PERSON6 will reboot and try to lodge the ORGANIZATION2.
+  If it doesn't work, he will contact PERSON8 next Friday.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,10 @@
+Attendees: PERSON12, PERSON13, PERSON7, PERSON5, PERSON14
+
+ * [PERSON12]: I plan to go there, but like, we need a back-up person.
+ * For the [PROJECT13] event.
+ * We need someone to take care of the recording, so the archiver person.
+ * [PERSON7]: I think we need to improve our segmenter, the worlds are getting revised fine.
+ * [PERSON7]: I'll first ask him to correct the current [PROJECT10]L for the correct type we have.
+ * Maybe it will be better for us to attend the call with the [PERSON10].
+ * We will separately need to ship the audio to the English [PROJECT3] separately.
+ * [PERSON12]: If you have good data for the language pair, then yes, it is better to go directly.

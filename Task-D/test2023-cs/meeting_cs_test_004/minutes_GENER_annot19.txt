@@ -1,0 +1,43 @@
+Datum schůzky: 3. 8. 2020
+Účastníci: [PERSON16], [PERSON4], [PERSON11]
+Účel schůzky: probrání posunu při experimentech
+Shrnutí schůzky:
+
+- Technické záležitosti
+-- Měl by se projit technical report.
+--- Text se nijak neměnil, ale projistotu zkontrolovat a napsat, kdyby tam něco chybělo.
+
+- Postup u multi-sourcu
+-- Zatím tam žádný posun není.
+
+- Experimenty
+-- Zatím probíhá experiment, který by se měl stihnout do WMT, které je za dva týdny.
+-- Postupuje se podle doporučeného postupu, kdy probíhá trénování [PROJECT1] a natrénuje se systém na překladech a back translationech.
+-- Namísto zdrojové angličtiny se použije back translation angličtina a české překlady.
+-- Jakmile se dosáhne maximum, tak se fine tunuje na originálu a překladech.
+-- Namísto autentické angličtiny, tam je syntetická angličtina a čeština je stále autentická.
+-- Nyní probíhá experiment, kdy se změní v prvním kroku back translationy za výstupy parafrázovacího systému s cílem být, co nejodlišnější od zdrojového překladu.
+-- Zatím to vychází lépe.
+-- Zatím je nějaká training strategie a ve finále by se do toho měl dát multi-source.
+
+- Experimenty s [OTHER1]
+-- Trenuje se Student i s optimalizacemi a trénuje se vlastní Teacher na pěti milionech datech, ale [PROJECT1].
+-- Zatím všechno běží, akorát je zdržení výpočetní kapacitou.
+
+- Nový zaměstnanec
+-- Nový zaměstnanec už má oficiálně vyřešené DPČ, ale zatím nemá přístupy.
+-- Poslat mu pozvánku na příští call.
+-- Příští týden se ho zeptat, zda vymyslel nějaký výzkum, případně může dělat experimenty s [PROJECT1].
+
+-TNT
+-- Je napsaný primework, kde se dají zobrazit zdrojové možnosti nebo překladové možnosti.
+-- Mělo by tam být constrainování jako při decodingu.
+-- Jakmile [PROJECT1] bude umět dobře constraintovat, tak se může vyměnit [ORGANIZATION1] a napojit to přímo na Frontend.
+-- Pokud někdo najde relevantní literaturu ke constraintovému decodování, dát na ni link.
+-- Jsou zde dva problémy, a to jak by uživatel to chtěl mít a technické detaily.
+-- Ideální by bylo potom TNT zakomponovat do [OTHER1].
+-- Mohlo by na to stačit 6 měsíců.
+
+
+Zapsala: [ANNOTATOR1]
+

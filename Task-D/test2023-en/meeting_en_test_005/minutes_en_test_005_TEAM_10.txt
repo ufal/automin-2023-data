@@ -1,0 +1,21 @@
+Attendees: PERSON11, PERSON4, PERSON7, PERSON8, PERSON3, PERSON6, PERSON12, PERSON9
+
+ * [PERSON12]: I'll get the mike with the weather is for the second mike.
+ * Whoever what's a problem, please put it into the Google doc at the end of today's blog, there's the critical observations from the test.
+ * We need to send one audio for each output language.
+ * The final hypothesis they create from this, is the identical string.
+ * Where is the presentation platform web?
+ * [PERSON12]: I can share with through the webcam.
+ * It could happen at the [ORGANIZATION4] side with the machine translation systems.
+ * Actually this will effect the next part of the configuration which is the one related to the language configuration.
+ * We should have the map anyway.
+ * With the map, does Google, let's actually try with the drawing.
+ * [PERSON12]: What I'm going to do now is that I'll paste the set of languages that we need to cover.
+ * [PERSON12], we have to agree on whos playing the client role.
+ * [PERSON12]: When I'm changing the set of languages and I'll add also the Spanish here, ES, this will affect obviously the buttons available on the front page.
+ * In order to have the publication for example for the Spanish language we have just to add it in our worker configuration.
+ * We have just to configure all the require the worker and let them run it.
+ * [PERSON9]: That's probably the wrong way, it would be better to have it optimized for being vertical, because then you have space for the subtitles.
+ * For the desktops it would be better to have the video larger.
+ * It should also happily use the whole the full width of that.
+ * [PERSON12]: We need everybody, so I'll ask everyone on the call today at 1 to contribute to this map and everybody needs to check that their workers are like signing themself with the right fingerprints.

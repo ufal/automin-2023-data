@@ -1,0 +1,31 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON10, PERSON10, PERSON6, PERSON9, PERSON5, PERSON3
+
+
+SUMMARY-
+
+  There was a live workshop dry run at the LOCATION2 on Wednesday.
+  The technology works technically, but it's not usable for people who don't speak OTHER3.
+  In the next session with PERSON5, they will watch some video in OTHER6.
+  If anybody can speak OTHER6 PERSON10 is studying at ORGANIZATION3.
+ -PERSON7 will join them for the surge, depending on his availability.
+ -PERSON9 is giving a talk on Monday at 2.
+ -PERSON9 managed to convert the script into bigger script, so the processing should be faster.
+ -PERSON3 will double check if anyone responded to the e-mail.
+ -PERSON3 will get in touch with PERSON5 and feed the files to him so he can use them for the Monday talk.
+ -PERSON10 worked on three different things this week: a visualization tool on the old realization tool, a server in C++ and a JavaScript piece of code that can be included in any webpage even on a remote machine.
+ -PERSON5 will email PERSON3 the scripts to test the ASR.
+  He used a data set of 300 million open subtitles from various languages and trained the model with TPU.
+ -PERSON3 will send PERSON10 the models that correctly load on the GPU's.
+ -PERSON10 will probably have to export them as an open neural network exchange format.
+ -PERSON3 and PERSON10 don't know if it's possible to do that PERSON3 wants PERSON10 to send him the data set for PROJECT2.
+ -PERSON10 will apply the same models on the same data.
+ -PERSON11 has access to the source files.
+ -PERSON6 is going back to work part time next week, so she has limited time for this project.
+ -PERSON12 helped her integrate buffer in the LOCATION3 segmenter.
+ -PERSON5 is looking for a data set with the correct transcripts for the LOCATION3 presentation.
+ -PERSON10 wants to create a Wiki page with all the data that they are using, or they plan to use.
+  The data ambassador is on vacation this week, so he might not be able to help, but he is the person who knows the most and he will organize this.
+
+
+Minuted by: Team ABC

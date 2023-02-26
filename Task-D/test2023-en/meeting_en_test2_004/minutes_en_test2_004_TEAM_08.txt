@@ -1,0 +1,30 @@
+﻿
+00:03 
+
+And just to be complete we are also going to also talk about the the nominal <unintelligible> of-. So are you actually staying in Mannheim in the dorms or in uh, uh, uh-. So I see that [PERSON5] is here and <unintelligible> as well. Okay, so let's get started, because we want to, uh, cut this shortest uh, uh, so yeah. Or the items, that I want, to, bring up, uh, are the two sessions that we have. (PERSON13) I, I would not make any like false promise like, make, a, promise now, and otherwise
+not do it. So I am, I'm like I will be quite honest because I'm like slumbered with the homework, the  
+assignments and exams approaching. Mm, it, it, could, be, any, data preparation, like, downloading for, uh, some, some, domain data  
+you know, for the two, uh, events, or, or, something, like that. So I think that that would be probably the easiest, uh, to just put up the tables as HTML. Um, yeah, okay, so Weights and Biases this is not really, uh, recommended by [PERSON3]. So that means moving the few scripts to, uh, where they belong from [PROJECT2] test set and some  
+automatic runner. So this, this would be useful, especially for people outside of [ORGANIZATION4] such as, [ORGANIZATION10], uhm, we  
+know they have like-
+The performance was was bad for some of the files and they could directly, uh, browse it on the  
+web. I'm now, uh, working on, uh, getting to update the, um, demo paper submission, which is due next  
+Friday, if I 'm not mistaken. Oh yeah, it is a good metric, I would say to represent the numbers. But I would also say that, uh, we should also represent a language pairs. (PERSON7) English to a German or English to Czech or vies versa, so that, um, ultimately we get, uh,  
+enough. So I guess we had a proposed that if there are some lines which are coming from, uh, [PROJECT3] and we  
+want to remove it. So we had to check it at the moment that, uh, whether to remove the-. Uh, so, uh, have an explicit list of things which must not appear in the output, right? Uh, so this would be the rare, uh, words, uh, eval for [PROJECT9] and then from [PROJECT13] we are also likely  
+to get some dictionary. (PERSON7) I think I still have to make a call with, uh, [PERSON10]. Next week, uh, consider if [PERSON7] would have the capacity to extract-. (PERSON7) So basically, it has to do with the scores that we are calculating. So again, with the help of [PERSON1], ask him right now how to get it. The plan and the goal is, of course, to put this into the regularly produced tables, but now do it  
+just for one file. So it was not a spoiled Christmas break for any, any European person. But this is something which I have been asking for since August already. And I, uh, for the continuous, uh evaluation, for the ladder climbing I really do want to have tha, 
+uh, uh, um, these observations being gathered like throughout the weeks and 
+not for the deadline. (PERSON7) <unintelligible>
+(PERSON12) You will need to be in touch with [PERSON10], as you said, uh, because we need to revive, uh, the  
+[PROJECT5]. (PERSON12) <laugh>
+(PERSON5) Well it was some fix I found on the internet. And there are also non native speakers there, many, non native speakers, mostly Indians and so on. to [PERSON17] and [PERSON15] so to the [ORGANIZATION10] people asking about links to the data, and they still didn't  
+respond. Uh, but I think that already this baseline should be geared towards non native speakers. It would not be good, uh, it would be good for comparison purposes, but it would not be good as a  
+system for deployment. So D one five is this one, yah, and D one one is is already published. So you should, uh, like clean or make yourself familiar with the data on our disks and put it  
+there. I <unintelligible> to work with [PERSON5] on [PROJECT5] [PROJECT3] actually. So because I m actually also like to work on the non native speakers so of it is actually, uh, uh,  
+one part of my, uh, uh, of my thesis. And for the language ID I'm curious, how do you want to integrate it exactly. Please write this down here in the document, this briefing summary. <other_noise>
+And also to this language ID worker, and then we need to merge these outputs. <other_noise>
+So we need like, uh, filters for the [PROJECT3]s so the [PROJECT3] is silent if' it's the wrong language and it,  
+uh, it, it is the recognized text if it is the correct language. Ah, so, we would have this multi langue- multilingual, multiple [PROJECT3] at the beginning all going into 
+English and then from the English would go into all of the languages. Initially it was from the initial language to English and then to another language. They were obviously a intermediate language, but that language was not, uh, manually annotated. That you create synthetic corpora, uh, based on English centric data set but you create then a  
+direct model.

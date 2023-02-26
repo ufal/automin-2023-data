@@ -1,0 +1,22 @@
+-Today is the deadline for adding new content into the book, stop adding content to the book today, stop add new content to existing in the book (or not).
+-The next phase should have been commenting on text that is not finished at all, but the content is already there laugh> Oh, the next phase shouldn t have been talking on other text.
+-Laugh>,
+-In order to create images we ve to copy the images from PERSON23 and put them in the same way. But there s a problem with this.
+-Check the licence of the paper, if it s from ACL paper or - Hm. Maybe we should check other papers also like ACL paper.
+-Figure out the all of the figures in the papers, from the other papers, and generate one of two, one or two pictures from the figures from the papers.
+-Rewrite a bit 5.3, there is still some discussion about the last part of this and some discussion on the end of this su subsection, there are still some missing parts of this.
+-The conclusion is more or less written but some parts still need to be rewritten and pictures ma must be done better.So this is the conclusion of the series.
+-Share your screen. entire screen, or just the entire screen.
+-chapture 2 the first - OK, there s a small section here that can be safely deleted, but it would benefit from further reading, comments and rewritting.
+-Rewrite and move something from chapture 5 to 3.2. laugh> This is what [PERSON8] moved into my chapture here.
+-Move this chapture to the do list. 4.1, 4.2 move to train FastText embeddings. Now what s strange about the FastText image here seems much more similar to the original Glove image here.
+-FastText s image has a different colour scheme.
+-This is the most common problem with embedded images, that is why they are different from the other image embeddings and why this is a different problem for some people.
+-Try this image - That s what maybe happening in this Glove image but why isn t the same thing happening here? Or why is it happening here?"
+-Please first finish the text and figures at least in some - It s not good to leave the figures in the end,,, if we leave them in some or not at all.
+-Read it all of book and comment it what is missing where and the problems and other things,
+-In begginings of - We definitely should have something like introduction, conclusion, or summary of our book, other_noise>,
+-Start with one summary, like the conclusion from my one, and then one summary from your one, And then one conclusion from yours one, Cause we will have like 3 conclusions.
+-The summary and summary of the book would also be something like that.
+-The summary is obligatory in every Czech book, Laugh>,
+-laugh> What is there - Laugh> It s like one page abstract work, summary is included, introduction is not there.

@@ -1,0 +1,12 @@
+-Last week, there was preparation of English and Czech segmenter, which was shared by [PERSON10], followed by the weekend preparing transcript for Monday seminar.
+-The last part is that we can connect mediator to speech for automatic recognition (PERSON8].) And this week, we worked on the compression thing.
+-Another option would be to tell [PERSON9], how to run it test it himself, if that would be easier for the mediator and the mediator to work together.
+-The Monday seminar revised transcript is going to be taken as a test set, and we can take that as uncompressed and check word error rate, and then we can do a compressed pipeline and see how it goes.
+-If the compression is not really effecting the ASR output that should be a really good thing.
+-[PERSON5,PERSON10 and PERSON9, ], In the one link 22 languages data available, we can see monolingual but other_unrecognisable speech="">.
+-laugh> We are (running) same - We are going plan and we are going to implement a back translation in the next week.
+-The first occasion for which we could use these systems is the talk by [PERSON1] on Wednesday already, and then we actually need to gather these better models, where weeks for all languages.
+-() What is the current status of Czech English? one plan for Czech English, how improve it into the missing characters. () We need to know what we are using.
+-The parallel data that we will create by back translation of the parallel data in the domain of competition linguistics, is more important than any other data that is available.
+-Source audio that's [PERSON11] - it's the source audio that we have done with [PERSON1] recently,
+-Use some in-domain data from - Like European data train segmenter like English and Czech segmenter to see how they are doing. other_noise>

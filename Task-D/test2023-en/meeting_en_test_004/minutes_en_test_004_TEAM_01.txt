@@ -1,0 +1,43 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON10, PERSON13, PERSON3, PERSON14, PERSON7
+
+
+SUMMARY-
+ -PERSON3, PERSON10, PERSON7, PERSON6, PERSON4, PERSON8, PERSON15, and PERSON6 from ORGANIZATION5 are taking part in the Alfa training.
+  There is no way to switch off the webc PERSON13 wrote a text client for the PROJECT1 server, ORGANIZATION7 worker and in between a Python server and a text worker.
+  It works well, but there is a bug with the first sentence.
+ -PERSON14, PERSON5, PERSON6, PERSON3 and PERSON10 are working together to solve the problem of batch processing.
+  The batch is needed by PERSON14 only for the preparation of the data.
+ -PERSON14 will send the audio files to PERSON5 and he will do the ASR offline to check the segmentation.
+  The segmentation is close to what is expected offline, but the moduls are not trained on it.
+  For the offline ASR, PERSON5 will be running PERSON14, PERSON13 and PERSON10 are working on a project.
+  The project is based on offline ASR systems.
+  The ASR output resembles TED talks and spoken word empty datasets.
+  The MT models for the mediator are not trained on ASR, on the actual ASR There are problems with online ASR and machine translation system.
+  The main concern is not the quality of the translation, but the mismatch of the segmentations.
+ -PERSON14 will send TED files with their translations to ORGANIZATION5.
+ -PERSON14 is trying to set up the microphone level.
+  The chat is filling up with messages, but there is no ASR worker available.
+  The text to text client expects data of type unsegmented text.
+  The segmentation workers are there, but it didn't work with PERSON7 PERSON7 created a new client this week, but it didn't work.
+  The segmentation workers in ORGANIZATION5 don't work with the CTM client.
+  The CTM is the word level output of ASR.
+ -PERSON14 would like to have a more directed bugging session to solve the problem of ASR workers.
+  ORGANIZATION5 will be back next week and they will arrange some kind of test together.
+ -PERSON14 and PERSON3 are trying to figure out what is the direct CTM output from the segmentation worker.
+ -PERSON3 is not able to check the log of the SLT ORGANIZATION5, because the log has been overwritten.
+  There is just the labeling, the labourer, the trained model and the published scripts in the organiser.
+  As far as PERSON14 knows, There will be a session, session with and PERSON15 next week to discuss the bug.
+  There will be four cabins with interpreters, students of interpretation, and they will have one floor signal, which will be the original signal, into Czech and from that will have interpretation into German PERSON3 and PERSON10 are discussing the fallback solution for the presentation platform.
+  The presentation platform will keep checking for the various sources and it will automatically switch to the highest scoring one.
+  It will also be possible to provide a preview of the subtitle in the configuration page.
+  Killing the client is useful only to increase computational power on servers.
+  The presentation platform will receive more streams.
+  For June it will not be available the preview of the subtitle.
+ -PERSON3 and PERSON10 are explaining to each other how the presentation platform works.
+ -PERSON3 is responsible for making the Polish output using the best ASR, another one for making Spanish, and the last one for the MT.
+ -PERSON3 is the integrator, so he needs to decide how to deliver the subtitles to the people.
+ -PERSON3 is sending PERSON5 an e-mail.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,41 @@
+[PROJECT2] [ORGANIZATION5]: [PERSON15] can also view the lecture on [CONTENT1] [ORGINIZATION4].
+There is [PERSON4] and (PERSON15] is not writing.
+[PERSON9] proposed that he would test the ASR and segmenter independently separately.
+But for the audible cell ties submition the participants of the meeting do want to run the (byplan) and for the locks for both, before the segmentor and after the segmenter.
+(PERSON4) is still Wonder Woman to do this calculation for Czech transcript.
+[PERSON4] The more important thing is the - And all of all of the forced alignment process.
+The participants of the meeting should not be looking at this (PERSON4) rself.
+Input files (PERSON15) think not yet.
+[PERSON14] needs to get all the input files for [PERSON13] has prepared those splitting such that they are too.
+They both know what the problems are and (PERSON15) were on the copy on the e-mails today. did not make sense to
+[PERSON14] can also have a look at the Excel Sheet?
+Sheet number 3 forced alignment inputs.
+See 5 - Already (PERSON15) can see.
+(PERSON4) just wanted to mention that [PERSON13] has already -
+(PERSON15) only process these script, audible these transcripts.
+And process file switch are already called Belgian, Spanish or mainly Polish.
+[PERSON4] (PERSON4) can fast text too?
+But It's important told to them that the participants meeting most up to date OST versions are in in some repositor which (PERSON15) do not have acces to.
+[PERSON12] is Austrian, Dutch is Dutch, Austrian is Austrian.
+(PERSON15) resolve that.
+(PERSON15) need to create the support director in a not and the participants of the meeting have about.
+(PERSON4) process the files, and after the meeting have converted since to the subtitles for the caraoke for preview and the OST format that SLTF evaluates, than the participants the meeting need to have it versioned.
+The Antrecorp - (PERSON15) is also aware of [PERSON15] is copying now AntreCorp with the texts, which is which is okay.
+Oh, audible, yes, Antrecorp files with the test are clean all cell ties.
+And then of participants meeting will have one more one the right outputs output paths.So this is the starting point for today.
+[PERSON15], call the participants the meeting have [PERSON9].
+[PERSON14] SLT test set and depth set forced alignment files.
+The this is version OST files And he is already for the separation, and he should run the alignments and, produce OST files out us to OSTP plus ASS files.
+They are a small, they are already small [PERSON8]
+[PERSON4] is to [B3] to D16 there the participants of meeting need to list the black versions.So this one the C3 for example, this is already good.
+[PERSON4] (PERSON15) r priorities now are the SLT evaluation.
+[PERSON14] can run force alignment.
+(PERSON4) is highlighting with green.
+Okay, if (PERSON4) have not done that myself then do it tomorrow okay, yep.
+(PERSON15) want to create a case similar to academy test set the participants of meeting have now and for here the participants are meeting should [PERSON4] mean - -
+(PERSON15) r time sorry that it's less organised.
+And unready have any usable [PERSON5]?
+Participants meeting would has to be given it's all timestamps and didn't know what that (PERSON10) give the one segment and (PASTER2) had - Now (PEST) give the timestamp of one complete segment.
+And to test that the caraoke (PERSON4) should also have word level timestamping.
+(PERSON4) created AAS file using a software [OTHER].
+(PERSON15) can make a Python script and [PERSON15] can subtitle for all the -
