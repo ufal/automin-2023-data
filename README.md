@@ -11,6 +11,10 @@ This repo contains:
     - transcript_MAN<number?>_annot<number>.txt - transcript file
     - minutes\_GENER\_annot<number>.txt - human reference minutes
     - minutes\_<lang>\_test_<number>\_TEAM\_<team\_number>.txt or minutes\_<lang>\_test2_<number>\_TEAM\_<team\_number>.txt - submissions to evaluate
+- Europarlmin test1 data source side:
+  - test1 directory
+  - Inside are directories labeled by date of the session in yyyy-mm-dd format
+    - ep-yyyy-mm-dd-ch\<chapter_no\>-\<part_no\>.txt - transcript file
 
-For training data see [ELITR Minuting Corpus](https://ufal.mff.cuni.cz/elitr-minuting-corpus).
+For training data see [ELITR Minuting Corpus](https://ufal.mff.cuni.cz/elitr-minuting-corpus) and [Europarlmin](https://github.com/ufal/europarlmin).
 There you will also find a detailed description of the data format.
