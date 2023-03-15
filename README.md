@@ -1,5 +1,4 @@
-# automin-2023-data
-AutoMin 2023 Data
+# AutoMin 2023 Data
 
 This repo contains **test data**:
 - Task A test data source side:
