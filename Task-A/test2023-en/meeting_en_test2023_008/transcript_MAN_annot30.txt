@@ -372,13 +372,3 @@ Okay, so thanks and see you next week.
 (PERSON1) Thank you.
 (PERSON6) Thank you see you
 (PERSON3) Okay, by
-PERSON1=uvadec bez obrazu
-PERSON2=clovek s maskou, mozna "Josef"
-PERSON3=Portugalec-Joao?
-PERSON4=Ondrej Bojar
-PERSON5=Vilem?
-PERSON6=Michal / Misa, (rozhovoru se neucastni, jen je zminovan)
-PERSON7=Lucia (Brazilka ci Portugalka? rozhovoru se neucastni, je jen zminovana)
-PERSON8=Sylvie (je jen zminovana)
-PROJECT1=Bergamot
-PROJECT2=Elit
