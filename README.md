@@ -1,13 +1,13 @@
 # AutoMin 2023 Data
 
-This repo contains **test data**:
+This repo contains all test data (source and target) in the directory **test_data**:
 - Task A test data source side:
   - ``test2023-cs`` and ``test2023-en`` directories
-  - Inside are ``meeting\_\<lang\>\_test2023\_\<number\>`` directories with one transcript each
+  - Inside are ``meeting_<lang>_test2023_<number>`` directories with one transcript and reference minutes each
 - Task D test data source side:
   - ``test2023-cs`` and ``test2023-en`` directories
-  - Inside are ``meeting\_\<lang\>\_test\_\<number\>`` and ``meeting\_\<lang\>\_test2\_\<number\>`` directories
-    - ``transcript_MAN\<number?\>_annot\<number\>.txt``
+  - Inside are ``meeting_<lang>_test_<number>`` and ``meeting_<lang>_test2_<number>`` directories
+    - ``transcript_MAN<number?>_annot<number>.txt``
       - transcript file
     - ``minutes\_GENER\_annot\<number\>.txt``
       - human reference minutes
