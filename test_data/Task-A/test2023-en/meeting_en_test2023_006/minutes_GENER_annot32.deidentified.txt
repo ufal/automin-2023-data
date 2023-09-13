@@ -1,0 +1,92 @@
+ELITR SurgeTech
+Date: 10. 12. 2020
+Attendees: [PERSON1], [PERSON2], [PERSON7], [PERSON9], [PERSON10], [PERSON26], [PERSON167], [PERSON168], [PERSON244]
+Purpose of the meeting: progress updates, redistribution of tasks 
+
+-  Progress on multi-source
+-- Some experiments can finally be run, but there are still some issues. 
+-- Testing is being done to make sure a new version of [PROJECT2] works. 
+-- This will allow the team to decide which version of [PROJECT2] to use in the future.
+-- Progress on [PROJECT179] is currently waiting for input from [ORGANIZATION5].
+-- The information is due on Thursday, after which it should be done. 
+-- There are worries whether [PROJECT179] is sufficiently multi-source, but it should be enough. 
+-- Further progress on the multi-source aspect requires more data.
+-- The document-level aspect and multi-language aspect of the project can be potentially combined.
+-- It might be beneficial to redo the multi-source experiments in the future with more text-only data.
+-- It is suggested that multi-source experiments with text data from [ORGANIZATION7] be done in near future.
+-- Multi-source experiments with spoken data could be more useful, but the team lacks the resources to perform them.
+-- A separate call is agreed upon by several participants for the following day.
+
+- Redistribution of responsibilities
+-- One of the team members is leaving.
+-- His tasks will be redistributed among the rest of the team.
+-- Before leaving, he will finish language model checking of ASR outputs.
+-- The integration will be handled by other team members, which will require cooperation.
+-- They will be in touch.
+
+- Do it yourself integration
+-- Team members should push for their work to be integrated into the pipeline. 
+-- The pipeline should be made easily accessible to team members, so they would be able to test their work themselves.
+-- One team member needs to do the testing locally because of bandwidth limitations. 
+
+- Profanity filtering
+-- The ASR suffers from spasm issues.
+-- Two layers of profanity filtering should help with that
+
+- Kaldi and domain adaptation responsibilities will also be shifted to other team members. 
+
+- Multi-accented English 
+-- One team member is currently trying to make ASR resistant to accents by preparing sentences consisting of words by different speakers. 
+-- Other way of achieving this is to train ASR on disrupted inputs.
+
+- Team members are asked to record their experiences form previous events.
+
+- More team members need to be able to start the pipeline in case the ones that are able to are unavailable. 
+-- The process of starting up the pipeline is currently too fragile. 
+-- Better documentation would help.
+-- One team member was trying to start the pipeline, but was ultimately unable to get it working.
+-- Another team member was trying to consult on the issue. 
+-- One of the workers in the pipeline has particularly complex structure.
+-- The author of the worker is asked to simplify the setup process.
+-- The worker in question has worse performance compared to alternatives.
+-- The worker is still useful as a fallback, but when dealing with large numbers of languages it is rather slow, and thus unsuitable to live sessions. 
+-- The team will start working on implementing a different worker.
+
+- Sharing information via mailing lists is discussed, but ultimately, any communication method that suits the team members is fine. 
+
+- A team member is working on shortening and extending models.
+-- The main issue is that he is running out of storage space.
+-- The solution is for him to simply ask for more space on one of the servers.
+
+- One of the team members mentions a potential new team member. 
+-- He should apply via email.
+
+- There will be several additional separate calls.
+
+- Two team members are working on a tool that would automatically generate ASRs, which would allow them to be easily evaluated. 
+
+- There needs to be better planning for sessions. 
+-- The team needs to make sure the team members that are needed are present, or at least know for sure they won’t be.  
+-- Non-native accent is an important task.
+-- Names and terminology need to be prepared for sessions beforehand. 
+-- This should be done manually, but if possible also with automatic tools.
+
+- Domain adaptation
+-- Domain adaptation needs to be done for the session that is taking place next Monday. 
+-- There is need for some tests which require transcripts from Monday meetings.
+-- Domain adaptation cannot currently work for fully neural ASRs.
+-- Running two different ASRs might be needed, with the non-neural one used for spotting keywords.
+
+- Other tasks
+-- The team is also considering having its own fully neural ASR.
+-- Scraping [ORGANIZATION77] data is proposed, but the team lacks the resources to do so.
+-- Working with outside individuals might be needed.
+
+- Profanity filtering
+-- There is need either for rather aggressive profanity filter or for a sentiment analysis tool. 
+-- Sentiment analysis tool could utilize dataset from social media. 
+-- There are models for this which were created as a part of a competition.
+-- Any profanity would be simply removed and only present in logs. 
+-- The team needs someone to work on it. 
+
+Minutes submitted by: [ANNOTATOR32]

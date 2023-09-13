@@ -1,0 +1,30 @@
+<summary>
+
+DEMO preparations and overall projects discussion
+Attendees: [PERSON34], [PERSON100], [PERSON7], [PERSON340], [PERSON64], [PERSON311]
+Date: 4. 1. 2021
+Purpose of the meeting: Discussing progress done during Holiday and talking about further project information.
+
+-Discussing the progresses of projects
+--Multi-source 
+- -[PERSON340] received no response from [ORGANIZATION8] about relevant data for a task
+- -Arranging a meeting for further details of [PERSON33]'s data sets 
+- -Sampling a sentence instead of a paraphrase 
+- -Number limitation of the tokens
+
+-Plans for upcoming months
+--Pipeline of attemps the deadlines 
+--EACL DEMO deadline
+-[PERSON100] and [PERSON311] are planning to have at least a short paper to submit
+--They are planning to submit a proper version of the short version
+--[PERSON100] is looking for data sets to train English-Portugese model in order to improve the output 
+- -Adding the comprehension linguistics as another domain
+- -Terminology tested in the auditing domain and the comprehension linguistics domain which would be beneficial for [PROJECT1]
+single set
+--OPUS corpus data screenshared
+
+Minutes submitted by [ANNOTATOR17]
+</summary>
+
+
+

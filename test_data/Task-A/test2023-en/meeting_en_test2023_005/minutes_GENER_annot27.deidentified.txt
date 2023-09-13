@@ -1,0 +1,51 @@
+MINUTES: MEETING132_EN
+DATE: December 2020 
+ATTENDEES:[PERSON1], [PERSON2], [PERSON3], [PERSON4], [PERSON6], [PERSON12], [PERSON16]
+PURPOSE OF THE MEETING: to check the progress of individual participants and share their results within the team; to discuss further steps and plan future events 
+-       Main agenda of the meeting: to discuss the so-far as well as future progress regarding esp. the following projects (milestones): multi-lingual machine translations; report on integration, deliverables, and the [PROJECT3] test set, a trade fair of students companies – competition 90 sec in a lift; [PROJECT3] Clearest voice: data gathering at the fair; [ORGANIZATION3] Congress Part 1; [PROJECT1] 2021; smaller upcoming events: Centre for visual history of Malach – conference, and AI-written theatre play premiere; bigger events of the past year: [PROJECT1] and [PROJECT2] (feedback + discussion on future improvements); Rainbow workers and dockerized models (multilingual, multi-target models); [ORGANIZATION5] -speech interpretation corpus; practical issues: sub-teams creation, plan of future weekly calls. 
+-	Introduction: sharing the agenda with all participants and highlighting main points/deadlines (last call before Christmas), checking practicalities (payments for the work done etc.). 
+-	Multilingual machine translation: a participant approves it is ready for a review.
+-	Report on integration (and five-to-five languages translations) 
+--  it is a teamwork, individual bits are checked and put together: some attendees have already finished their parts, and others will finish them soon: the finished parts are going to be reviewed by the meeting´s organizer ASAP.
+-- Necessary to provide more data – esp. numbers from [PROJECT3] test set (responsibility of another participant, who´s not present in the call, not completely done yet).
+-      Discussion on [PROJECT3] test set: crucial for most of the discussed project, necessary data must be extracted from it.
+-- a few problems occurred regarding the use of [PROJECT3] test sets in one of the deliverables projects: [PROJECT3] data are not represented up to the expected amount, some participants´parts are still missing, there´s already a delay.  
+-- generally, the progress is still quite good.
+--  training of five-to-five mutual language translations is going on, incl. the following: English, German, French, Italian, Spanish Multi-target models and a necessary number of workers discussed  (it´s not finished yet but the progress is fine).
+-- next call scheduled for January (esp. to discuss the number of workers necessary and how to save costs).
+-- Milestone 12 (= Improved ASR systems) discussed (as it was a starting point of this sub-topic): not ready yet, necessary to get and share more data. Summary + a reminder of future steps and deadlines 
+-	The trade fair of students companies 
+-- will be used mainly as a test session and for data gathering. 
+-- in March, online (details about the platform, applications, etc. will be specified later). 
+-- already experience from the previous year (revision of this experience + how to use it in preparation for this year.
+-- Competition “90 seconds in the lift”: important.
+-- own presentation will be prepared only if really necessary (to make the fair´s organizers agree with using it as a test session and for data gathering).  
+-- Competition “[PROJECT3] Clearest Voice”: should be focused on (the most important part of the fair). 
+- [ORGANIZATION3] Congress Part 1
+-- in mid-April: necessary to prepare the models by that time, the issue of getting interpreters. 
+-  [PROJECT1]2021 
+-- the prepared systems will be shown/given available publicly.
+-- it´s important to get feedback after the event, recordings will be crucial. 
+- Smaller events:  Malach (Holocaust survivors) conference, and a computer-written theatre play.
+-- both can be used as smaller test sessions, participants were asked about their preferences. 
+- Experience/feedback from [PROJECT1] 2020 and [PROJECT2].
+-- quite critical feedback: the past mistakes are pointed out so they can be avoided next time (esp. bad time management, technical issues with recordings and equipment). 
+-- necessary to appoint volunteers to make sure the recordings will be of good quality next time +  requirement by the team leader/meeting organizer to have everything ready in advance. 
+- Discussion on Rainbow workers and models, dockerization (the best way how to do it, who will be involved)
+-- practical issues: number of workers/models, who should be involved to provide further models. 
+-- comparison of various systems in terms of their speed, costs an overall effectivity 
+-- dockerization: some problems occurred and it´s not ready yet,  more tests need to be done, paid servers might be used 
+- Simultaneous SLT: problems occurred (related to different word order in English and German): discussion on possible solutions. 
+-- Speech interpretation corpus might help + 10 hours of manually transcribed recording, [ORGANIZATION5] as a source of data
+- suggestion to use data augmentation (approved as useful, further details discussed). 
+- Conclusion: suggestions on how to stay motivated, cooperate more, and make further progress after Christmas (details of cooperation discussed)
+-- Doodle poll for Monday check-up sessions.
+-- sub-teams created which will have weekly calls about their progress; concluding notes to other topics 
+-- Finally, the organizer summarized the main work done (satisfied – the main milestones were mainly reached) and reminded the participant again of the upcoming events and deadlines; conclusion 
+
+  
+Minutes submitted by: [ANNOTATOR27]
+
+
+
+-	

@@ -1,0 +1,135 @@
+ELITR meeting 134
+
+Date:
+
+Attendees: [PERSON54], [PERSON27], [PERSON7]
+
+Purpose of meeting: Discussing the participation of project members, task delegation and timeline of the separate tasks
+
+- Discussing the attendance of the project participants
+
+-- Communication between project participants
+
+-- Inability to continue working on the project of one of the participants
+
+- Unresponding annotator
+
+-- The need to finish the annotation
+
+- Deciding to get in touch with the project participant to find about their status in project
+
+- Looking for agenda and discussing the effective ways to communicate and share data within the project
+
+- Annotation
+
+-- Discussing the standards and ideal form of annotation levels
+
+-- Deciding the responsibility for each step and aspect of the annotation process
+
+-- Stating the difference between the two levels of annotation
+
+-- Discussing the proper way to deal with entities
+
+-- Deciding the identity status
+
+- Redelegating the tasks that were left behind by the project member that is supposed to be leaving
+
+-- Transferring the list of candidates
+
+- Discussing the poor quality of the annotations
+
+- Discussing the status of named entities
+
+-- The tag system and its usage among the members
+
+-- Problem of "multi words"
+
+- Discussing the protection of personal data
+
+-- Deciding what needs to be anonymized
+
+-- The duplicity and identification of the entities
+
+- Getting documents from the missing member and discussing their status in the project
+
+- Time management and responsibility for the first phase of annotation and dataset
+
+- Discussing the idea how the process of annotation should technically work
+
+- Deidentification procedure
+
+-- Person who is supposed to determine the regulations of the data anonymization
+
+-- Idea of swapping the named entities
+
+-- The need to decide the timeline with member responsible for this step
+
+-- Deciding the personal data status
+
+- Preparing the consent for the participants and data providers
+
+-- Two version or phases of the consent form
+
+-- Discussing the possible reworking of the first consent form
+
+-- Deciding the proper way to distribute the consent form to all the data providers
+
+-- Discussing deadlines and time urgency for each phase of consent form
+
+-- Personalization and providing samples
+
+- Access to dataset for the participants and data providers
+
+-- Working on the system to link participants with concrete meetings
+
+-- Obtaining the participants list
+
+-- Adding the possibility to report bugs
+
+- Discussing the process of anonymization of the personal data
+
+- Sample documents at the end of January
+
+- Full dataset deadline set on March 16th
+
+- Deciding the timeline for participant to send back the consent forms before starting with the deidentification procedure
+
+- Data deidentification done by the end of February
+
+- Discussing the timeline
+
+-- Discussing the consequences of missing some of the project participants
+
+- Webpage prototype
+
+-- Discussing the change of the frequency of changes
+
+-- The Scientific Committee
+
+--- Deciding who should be a member and who should be mentioned there
+
+--- Doing data check of these entities
+
+- Making the unificated system for the participants invitation status
+
+- Discussing the deadline of the proposal
+
+-- Agreeing on the sooner date
+
+- Organization of the list of names
+
+- Data transferring between project members
+
+- Deciding on keynote speakers and other persons to be asked to help with the project
+
+- Discussing the Committee member status
+
+- Distributing the proposal to other project participants
+
+- Arranging the meeting with one of the project members at [ORGANIZATION2] at Thursday
+
+- Sending e-mails to candidates
+
+-- Deciding it would be best for nonrussian member of the project to contact the Russian candidates because of the financial reasons
+
+Minutes submitted by: Klára Holcov

@@ -1,0 +1,33 @@
+bergamot-cz
+Date: 14. 12. 2020
+Attandents: [PERSON1], [PERSON3], [PERSON2], [PERSON4], [PERSON5], [PERSON6]
+Purpose of meeting: settle next meetings, to discuss how the tasks are going
+
+- Following meetings
+-- The following two meetings (December 21st and 28th) are going to be cancelled.
+-- The next one will be January 4th.
+
+- Information about meeting with partners previous Thursday:
+-- New task to have done is to review one of the deliverables.
+
+- Discussing multi-source
+-- Still collecting data for the multi-source.
+-- No responce from  [ORGANISATION1]  yet.
+--  [PERSON1] is going to start working on a separate set of experiment (multi-lingual multi-source translation).
+
+- Negative constraints
+-- Data for the negative constrains are being generated, prepared.
+-- There may be problems with the decoder (proceeding only one sentence at the time), but they'd be easily fixable.
+
+- Positive constraints
+-- So far done is only data manipulation.
+-- Problem with the speed has been discovered:
+--- The process of data tokenizing is done repeatedly but can be done just once.
+--- The problem will be fixed.
+
+- Getting a deliverable from another co-worker
+-- It's better to ask for the preview during the week.
+-- Deadline for the first version is on December 21st and for the complete version to be submitted is on  December 31st.
+-- An e-mail will be sent to remind the co-worker to send a link for the deliverable in advance.
+
+Minutes submitted by: [ANNOTATOR1]

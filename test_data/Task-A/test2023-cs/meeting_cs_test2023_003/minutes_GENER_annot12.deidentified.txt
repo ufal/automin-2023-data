@@ -1,0 +1,145 @@
+Příprava vydání knihy a semináře 
+
+Datum: 11.11. 2021
+
+Účastníci: [PERSON1], [PERSON2], [PERSON3], [PERSON4]
+
+Cíl: Domluvit se na všem, co je potřeba k odevzdání knihy v termínu a připravit se na seminář
+
+-to-dos ohledně knihy:
+
+--Budou to upravovat na základě recommendations.
+
+--Musí dopsat citations, ty tam nesmějí chybět.
+
+--ISBN je důležité.
+
+–-Vylepší introduction, ve kterém zmíní MT jako hlavní aplikaci.
+
+- V chapter 1 vysvětlí pojem overfitting.
+
+-–Dopíše tam, že CNN neřeší, neprobuje se, tím se vysvětlí, proč píšou jen o dvou architekturách.
+
+-V chapter 2 přepíše introduction, první odstavec, aby tomu bylo líp rozumět.
+
+–-V probing section musí přepsat pojem probing na něco jinýho, ale supervised learning se jim taky moc nezdá.
+
+-V chapter 3 musí pozměnit první odstavec, není z toho jasný, že Word2vec není transformer.
+
+--Zjistí, co tím myslela,  jakými dalšími metodami dělat clustering.
+
+-V chapter 4 už stačí jenom doplnit citace.
+
+–-Ukáže jak definovat sentiment.
+
+-V chapter 5 otázky na straně 72 úplně předělá, je jich tam až moc.
+
+-V chapter 6 vytvoří stručný, ale výstižný úvod o historii, sestaví to z obsahu.
+
+–-Má zmínit, že feature extraktory jsou dobrý jen na něco, např. na sémantický tasky jsou dobrý contextual embeddings. 
+
+–-Měl by psát nejen to, co jde, ale i to, co nejde.
+
+–-Doplnit komponent analýzu, chybí.
+
+-Do summary každý shrne svou část.
+
+-Závěr knihy má krásnou recenzi.
+
+-Bude to chtít vymazat starý to-dos, nechat tam jen aktuální, ať se v tom dá vyznat.
+
+-Každý se postará o svoji kapitolu podle sých to-dos a komentářů.
+
+-Všechno to musí přejet přes Grammarly, kdyby se nestihl proofreading, aby tam hlavně nebyly chyby.
+
+-Deadlajn je 30/11, ale bude lepší to mít o týden dřív na doladění, kdyby selhali editoři a museli by si to editovat sami.  Ideálně v pondělí 23.11.
+
+- Knihy budou barevné a vyjdou na 45k.
+
+
+-příprava na seminář
+
+–-Přednáška se bude stavět na prezentacích z loňského výjezdního semináře.
+
+--Úvod bude obecný, shrne se, co vymysleli v knize.
+
+–-Bibliografie se vylepší novou šablonou.
+
+-- Použijí prezentaci z výjezdního semináře a shrne se tři roky práce k tomu, celé se to pak zkrátí.
+
+–-Ukáže transformer a co všechno se dá analyzovat: embeddingy, attentiony.
+
+--Ukáže se jak se co dá analyzovat: un/supervised, probingem, pécéáčkem, ícéáčkem apod.
+
+--Za kontextový embeddingy tam může být jak se probuje WordNet a trénuje se to dohromady, to je zajímavý.
+
+ –-Zmíní memorizaci i nekontextový embeddingy, které určitě už jsou v nějaké prezentaci.
+
+--Vysvětlí attentiony, souvisí s kontextovými embeddingy a dělalo se toho hodně, přidá poznatky z Helsinek.
+
+–-Ukáže konvoluční sítě a jejich engramová pravidla, to taky zaujme.
+
+–-Změna reprezentací podle obrázků v multimodálních překladačích tam může být, ale musí se to zjednodušit, většina lidí to nechápe.
+
+-Hlavně mají vždycky říct, jak se k výsledkům dospělo. Když bez výsledku, nezmiňovat.
+
+---Lepší metoda je neřízená, probingy jsou nedůvěryhodný kvůli memorizaci.
+
+--Promyslí se organizace přehazování slova, aby to dobře vypadalo.
+
+--Neměli by si skákat si do řeči, ale přes Zoom to nebude problém, titulky běží v jiné aplikaci a stejně jim přijdou špatné.
+
+-poznatky a ostatní témata
+
+-Proběhl hovor o supervised and unsupervised, různě se ty pojmy zaměňují: unsupervised learning je divný, líp zní supervised probing, ještě se na tom shodnou.
+
+–-Unspervised learning je divný, líp zní supervised probing.
+
+-Nejdřív bude preface, pak introduction, summary se vylepší.
+
+–-Foreword je hloupost, nebudou ho tam dávat.
+
+-Super je, že black box je v Thomsonu, budou mít dvě déčka navíc.
+
+--Abstrakty tam nejspíš nebudou.
+
+--Byli by rádi, kdyby tam byly jejich findings.
+
+--Mohly by se tam objevit jejich findings, ty v Thompsonu bývaj.
+
+-Bylo by fajn se společně koukat na EMNLP přes Zoom, když tam všichni nemůžou, protože je to drahý.
+
+--Jeden bude chodit od posteru k posteru a ostatní uvidí, co se tam děje.
+
+--Ale ukázalo se, že to nefunguje, možná když budou se sloučí postery, to bude ještě zajímavé.
+
+
+-akce při meetingu
+
+--Dohledaly slajdy na přednášku, 
+
+–-V chapter 3 smazal 2dd mark.
+
+–-Spároval komentáře ke správným kapitolám pro lepší přehlednost.
+
+--Někde nebylo jasné, k čemu odkazují všechny recommendations, k jakým kapitolám.
+
+--Objasnil, kam šly finance, jak byly rozdělené, všechno se vyčerpalo.
+
+–-Magdě poslal abstrakt.
+
+--Zjistili společně přes autor search, že tam jsou jejich findings: loňské VMT, ACL, workshopy.
+
+
+-finální souhrn
+
+–-Vydá se kniha, proběhne přednáška a vše je hotovo.
+
+--Recenzi by jim měli poslat za týden.
+
+–-Další meeting bude ve čtvrtek v 11 hod, jen on bude na EMNLP.
+
+–-Domluví se společně na nějakou příští online konferenci, další má být v prosinci.
+
+
+zápis odevzdala: [ANNOTATOR12]

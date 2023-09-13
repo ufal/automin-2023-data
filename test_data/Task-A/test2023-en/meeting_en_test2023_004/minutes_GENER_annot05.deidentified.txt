@@ -1,0 +1,52 @@
+Date:
+Attendees: [PERSON53], [PERSON27], [PERSON54]
+Purpose of meeting: Consultation of the following steps
+
+
+
+- Waiting for the next team member to join
+-- Suggesting that a call be made to him.
+- It is necessary to replan everything
+-- No participation in (fisher) sessions.
+-- Request for translation of the Czech text.
+- Technical communication meeting held
+-- The papers for special sessions should fill the same criteria as all other papers and the same timelines.
+-- In the case of planning a special insurance session these rules should be followed.
+-- If it would be a satalit event, it would need to be coordinated with something like (umes).
+-- The articles are not in the Proceedings of Intra Speech.
+-- This is usually for some full fledged  workshop, not really for shared tasks, which are very focused.
+-- This gives much more flexibility and freedom to choose the event, or also like accept papers.
+-- Almost double work has to be done with this.
+-- The track will be handled alone, it is like a mini conference.
+-- It is entirely independent of interspeech to program committee.
+-- Inters speech will only be there.
+-- The workshop will only be promoted on the webpage.
+- Refining the proposal
+-- There are a lot of things to figure out.
+-- It is possible to make a shared task.
+-- It should also be done shared task at (sick dial).
+-- If it's used, it should be accepted.
+-- If sick dial is not accepted, there is language technology workshop.
+-- There is no thing like no concept of speech there, it is worked directly with the text.
+- The proposal for a statistical workshop this year is over
+-- It was in September, it was too early.
+-- The next proposal would come for 2022, it would be too late.
+-- Better to get either of the two um sectile or interspeech.
+-- It can motivate participants to submit.
+-- In three months an email will be sent to all the participants to take part into it.
+-- The data should be ready, but it is necessary to to get an isd endorsement that the speech community is endorsing the proposals.
+-- The workshop proposal may then be submitted.
+-- The result will be known by 15 March.
+-- Before submitting a proposal, it is necessary to get everything ready, like the website uh our program committee, key notes, the program, everything.
+-- The deadline for satelite is February 28th.
+- Question whether it is necessary to take [ORGANIZATION237] membership to submit the proposal
+- It is necessary to pay two, fourteen rows for institutional membership
+- Proposal content for the workshop
+-- It will be prepared as part of the content that is required.
+-- It is necessary to do management and the program committee and make a website for the shared task.
+-- Discussion on whether participants will be interested in publication.
+
+
+
+
+Minutes submitted by: [ANNOT05]
