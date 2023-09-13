@@ -19,7 +19,7 @@ This repo contains all test data (source and target) in the directory **test_dat
     - ``ep-yyyy-mm-dd-ch<chapter_no>-<part_no>.txt`` - transcript file
     - ``min-yyyy-mm-dd-ch<chapter_no>-<part_no>.txt`` - minutes file
 
-In the directory **submissions-and-evaluation** you will find participant submissions and manual alignments and evaluation scores.
+In the directory **submissions-and-scores** you will find participant submissions and manual alignments and evaluation scores.
 
 For **training data** see [ELITR Minuting Corpus](https://ufal.mff.cuni.cz/elitr-minuting-corpus) and [Europarlmin](https://github.com/ufal/europarlmin).
 There you will also find a detailed description of the data format.
