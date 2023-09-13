@@ -1,0 +1,140 @@
+\nEh, a potom, eh, [PERSON278] a [PERSON279] dělali nějaký ty podněty.\nAle, eh, třeba, třeba tam, eh -\nNa území Kbel, tak, eh, tam něco nezahrnul, jo?\nTak, eh -\n[PERSON267] dodělala statistiku a [PERSON270] poslala 3D zákres.\n[PERSON316] má v 11 hodin nějakého opraváře, [PERSON264] je u lékaře a [PERSON288] má prodlužovanou neschopenku.\n[PERSON348] se stává ředitelem [ORGANIZATION195].\n[ORGANIZATION196] má 18. jednání a [PERSON280] převezme agendu [PERSON285].\n[ORGANIZATION199] dělá pasport veřejného osvětlení a [PERSON350] je v pracovní skupině.\n[ORGANIZATION200] má schválený tisk.
+- Důležitým termínem je schválení mezinárodní soutěže do konce roku 2022 a zřízení projektové dokumentace do roku 2025.
+- Proběhlo jednání s památkáři ohledně [PROJECT100].
+- [ORGANIZATION201] [ORGANIZATION129] doporučuje, aby se před podáním návrhu konzultovalo s památkáři.
+- [PERSON351] bude garantem studie [PROJECT101], [PERSON286] bude konzultovat s památkáři.
+- [PERSON266] a [PERSON272] se budou scházet každý týden kvůli finální studii a návrhu podnětů.
+- [PERSON304] bude obesílat [PROJECT102].
+- [ORGANIZATION205] potřebuje pomoc s posunem metropolitního plánu a odůvodněním záborů ZPF a PUPF.
+- [PERSON291] a [PERSON266] hledají někoho, kdo by jim s tím pomohl.
+- Kolegové budou mít připravené vzory odůvodnění a příští pondělí udělají prezentaci.
+\n
+
+- Město se chystá podat podnět na změnu všech nebo vybraných ploch, aby se tam nemohla stavět obytná výstavba.
+PERSON272 se ptala, zda se na to má připravit, protože v pátek je poslední den.
+- Město se bude snažit jít cestou domluvy a ne papírování.
+- Veřejné projednání včera bylo dramatické, protože pořizovatel nezvládal moderovat dotazy.
+- Město by mělo zajistit mediální školení pro pořizovatele a koordinovat odpovědi na dotazy.
+- Při velkých změnách by měl být přítomen pan PERSON366.
+\n
+
+1. Projektant je závislý na tom, jakým způsobem pořizovatel projektu vede.
+2. Ředitel projektu bude probírat změny na poradě vedení.
+3. Moderátor nebo facilitátor by mohl pomoci s tříděním otázek a odpovědí.
+4. [PERSON286] dostal pochvalu ze sekretariátu [PERSON318].
+5. [PERSON286] se účastní komise [ORGANIZATION178] na [ORGANIZATION151], ale účast nepřináší žádné výhody.
+6. [PERSON289] se zachoval špatně a [PROJECT79] bude mít ještě dohru.
+\n<other_noise/>\nTakže, eh, to je všechno.\n
+
+- Diskutuje se o pořízení nových notebooků pro oddělení
+- Předpokládá se, že by měly být výkonné a splňovat určité standardy
+- Náklady na pořízení se odhadují na 300 korun
+- Je nutné zlikvidovat notebooky, které už nefungují, aby se dodržovaly veřejné hospodářské zákony
+- Někteří zaměstnanci mají notebooky z jiných oddělení
+\n
+
+1. Pracuje se na projektu a v létě se očekává jeho dokončení.
+2. Byla vypsána veřejná zakázka na získání nové IT techniky.
+3. Někteří zaměstnanci neměli v kancelářích notebooky.
+4. Byla specifikována technika pro GIS, CAT, Photoshop, Microsoft a nadstandardní vybavení pro vedoucí pozice.
+5. [PERSON274] neodpověděl na požadavky a žádná zpětná vazba nebyla poskytnuta.
+6. [PERSON284] poslala tabulky před Vánoci.
+7. [PERSON304] bude prezentovat mrakodrap na schůzce.
+\n(PERSON279) No, to je dobrý.\n(PERSON266) Takže to je všechno.\n
+
+- Setkání se zúčastnili PERSON266, PERSON291, PERSON304, PERSON278 a PERSON279.
+- Diskutovali o projektu PROJECT116.
+- PERSON304 se zavázal do vyjádření přidat zmínku o studii, kterou zpracovala městská část.
+- PERSON279 navrhl, aby se z toho vytvořil vzor pro budoucí projekty.
+- PERSON266 informovala o usnesení, které bylo schváleno s drobnými chybami a o tom, že se bude čekat na nové usnesení.
+- PERSON266 také informovala, že se bude hodnotit pouze finanční kompenzace.
+\nTakže, eh, to by bylo, to by bylo asi takový, takový, takový, eh, doporučení, že by se to mělo, mělo by se to vzít v potaz.\n(PERSON266) Ano.\n(PERSON279) A, eh, to by bylo asi tak všechno.\n(PERSON266) Dobře.\n
+
+1. Person266 a Person279 diskutovali o projektu, který se týká 6,5 hektarů území.
+2. Person279 navrhl, aby se vzala v úvahu frekvence dopravních spojů v obytné lokalitě.
+3. Person266 a Person279 se dohodli, že se na příštím setkání budou zabývat prezentací od [ORGANIZATION223] od 3 hodin.
+4. Person279 se bude snažit připojit se k prezentaci přes mobil.
+5. Person279 bude mít v práci upgrade Argisu, aby se dal používat.
+- PERSON266 a PERSON279 se baví o dopravním vyjádření, které by mělo být přidáno do doporučení
+- PERSON266 navrhuje, aby to bylo na stole ředitele v pondělí
+- PERSON279 se zavazuje, že se o to postará
+- Oba se loučí
+- PERSON266 pozdravuje PERSON267
+\n
+
+- Projednává se, jak odůvodnit zábor ploch v malých obcích a ve velkých městech.
+- [PERSON266] se bude s účastníky schůzky individuálně bavit o tom, co by to obnášelo.
+- [ORGANIZATION205] by měl uvolnit některé zaměstnance na půl dne nebo jeden den v týdnu, aby mohli zkontrolovat své spisy a zúčastnit se schůzek.
+- Zaměstnanci by měli mít území na okraji města, kde se předpokládá nejvíce záborů.
+- [PERSON265], [PERSON304], [PERSON264] a [PERSON278] by mohli být vhodní kandidáti.
+- Úkol je časově omezený na dva měsíce.
+- [PERSON296] má zadání územní studie [PROJECT103], ale není jasné, jak dál.
+- [ORGANIZATION146] a [PERSON352] a [PERSON353] pracují na general [PROJECT103].
+- [ORGANIZATION146] by měl zadat studii pro rozhodování v území.
+- Většina území je v ochranném pásmu policejní stanice.
+\n(PERSON287) No, já myslím, že to je dobrý, že to tam je.\nA já myslím, že to je dobrý, že to tam je.\nA já myslím, že to je dobrý, že to tam je.\nA já myslím, že to je dobrý, že to tam je.\n
+
+- Připravit se na jednání se zástupci [ORGANIZATION207] ohledně směny pozemků na [PROJECT87], [PROJECT104] a [ORGANIZATION180]-Troji ve formě pro mě secvičné schůzky v pátek dopoledne.
+- Schůzka se bude konat ve V-boxu mezi 11 a 12 hodinou.
+- Téma schůzky bude směny s [ORGANIZATION207].
+- Účastníci schůzky budou [PERSON271], [PERSON287], [PERSON266], [PERSON344], [PERSON264] a [PERSON267].
+- [PERSON291] se zeptá na posunutí termínů s městskými částmi a návrhy.
+- [PERSON291] se zeptá na podnět [PROJECT105] a [PROJECT106].
+\n(PERSON291) No, no, no, no.\n
+
+- Zkontrolovat, zda je studie [PERSON355] v souladu s projektem [PROJECT106]
+- Zítra se zeptat [PROJECT106], jak důležité je to pro ně
+- Zkorigovat hodnocení, aby se umožnilo [PROJECT106]
+- Zjistit, jak [ORGANIZATION209] vyhovělo části [PROJECT106]
+- Aktualizovat informace o vývoji [PROJECT106]
+- Zjistit, zda [ORGANIZATION210] má vyjasněné postupy
+- Zdůraznit, že čtyřka není pouze z naší strany
+- Zvážit možnosti vzhledem k ZPF
+- Zkontrolovat, jak to vypadá v metropolitním plánu
+- Zjistit, proč se zabírá veškerá půda v Praze
+\n
+
+- Pracovníci koncepčního pracoviště mají jako primární cíl zajistit kvalitní život v Praze
+- Budou muset zpracovávat podněty a změny a všechna odůvodnění budou veřejně dostupná
+- Musí být schopni odůvodnit nově zastavitelné plochy v metropolitním plánu
+- Některé pozemky jsou v restitucích nebo v dědictví, takže se s nimi nedá manipulovat
+- Malé městské části potřebují nějakou plochu rozvojovou, aby mohly fungovat
+- Pracovníci se zamýšlejí nad každým případem zvlášť
+- Schůzka se posouvá na pátek od 11 do 12 hodin
+- [PERSON287] řeší situaci s [ORGANIZATION204] v Horních Počernicích
+- [PERSON287] bude odpovídat na e-mail zástupce generálního ředitele
+- [PERSON287] ještě potřebuje ověřit něco u městské části
+- Po odstranění zásadních návazností projektu se pracovníci budou více souznít s návrhem
+\nTakže, eh, myslím, že to bude v pohodě.\n
+
+- Projektové setkání se zabývalo chodníky, které by vedly podél komunikace na pozemcích městských částí.
+Cílem je začít s městskou částí komunikovat.
+- [PERSON287] se bude snažit ověřit, zda s nimi začali mluvit.
+- [PERSON267] a [PERSON270] pomohou s projekty [PROJECT87] a [PROJECT86].
+- [PERSON267] spočítala průměry, jak dlouho trvá zpracování jednoho spisu.
+- [PERSON319] se zeptala na nabíječky ve veřejném prostoru, které přišly minulý týden.
+- [PERSON357] z [ORGANIZATION188] se ujal toho, [PERSON350] z [ORGANIZATION214] řeší v rámci katalogu.
+\n(PERSON291) (Aha.)\n
+
+- Projekt se týká přístupu pro imobilní pacienty do nemocnice
+- [PERSON266] a [PERSON272] diskutovali o tom, že by měly být zavedeny pravidelné schůzky
+- [PERSON319] se vrátila z kontrol s [PERSON359] a bude konzultovat projekt na [ORGANIZATION216]
+- [PERSON266] poslala [PROJECT107] panu [PERSON360]
+- [PERSON319] bude posílat odkaz na studii, kterou obdržela přes datovou schránku
+- [PERSON266] a [PERSON265] diskutovali o [PROJECT108] a [PROJECT109]
+- [PERSON265] požádal [PERSON270] a [PERSON267] o pomoc s hledáním informací ve spisovce
+null
+
+\n
+
+- Čas do pátku je limitem pro rozhodnutí o podání námitky.
+- PERSON266 a PERSON272 diskutují o tom, zda mají podat námitku.
+- PERSON291 a PERSON272 se domnívají, že námitka nebude podána.
+- Diskutuje se o tom, že město má nástroje, jako je vyhlášení stavební uzávěry, které by mohlo omezit stavbu bydlení.
+- Město tyto nástroje nevyužilo.
+- Diskutuje se o tom, že město může zahájit změnu územního plánu.
+- Město také toto neudělalo.
+- PERSON266 iniciovala jednání s PERSON317, aby se poradili, jak dál.
+- PERSON272 se ptala, zda už nepadlo rozhodnutí o podání námitky.
+- PERSON291 a PERSON272 se domnívají, že námitka nebude podána.
+- Diskutuje se o tom, že jednání může být lepší než písemné kroky.

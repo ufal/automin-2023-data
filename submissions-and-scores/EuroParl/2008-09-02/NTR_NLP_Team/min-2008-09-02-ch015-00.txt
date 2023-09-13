@@ -1,0 +1,11 @@
+Meeting KeyPoints:
+
+- We announced our Blockchain 2.0 Product Roadmap and here are the key milestones:
+  - 1.3.0: Establish Enterprise Trust framework for Inter-Blockchain Communication
+  - 2.0.0: Support for Cross-Chain Trading
+- We will continue to expand and improve Kawa (our blockchain language) and introduce more dApps.
+- We launched our first-ever
+The European Network and Information Security Agency (ENISA) will be extended until the end of 2012.  The extension was approved by the European Parliament and the Council.  In my view, the agency should be transformed from a temporary foundation into a permanent one; this should be accompanied by an increase in staff and an update of the extremely important Articles 2 and 3 in its Rules of Procedure.
+- ENISA is essential to better implement the regulatory framework for telecommunications services
+- The Greek Government has undertaken to cover the maintenance expenses of an ENISA office in Athens
+- Anni Podimata, Jorgo Chatzimarkakis, on behalf of the ALDE Group

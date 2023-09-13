@@ -1,0 +1,75 @@
+Date: 23.10.2022
+👥 Attendees: PERSON2, PERSON1, PERSON7, PERSON6, PERSON10, PERSON11, PERSON8, PERSON4
+
+
+🔷 Microphone and writing the question
+	🔹 [PERSON6] and [PERSON2] have some issues with the microphone
+	🔹 Some files are wrong
+	🔹 [PERSON1]'s mother is writing the question for the German subtitle user study until December the 10th.
+
+🔷 Process of subtitles
+	🔹 The target size is the subtitles which are created for the hearing-impaired
+	🔹 The people from the seminar are processing prefixes
+	🔹 They generate the first word at a time
+	🔹 They stop generating after some time
+
+
+🔷 Gather data
+	📅 [PERSON4] is away from 11 to one on Friday
+	🔹 He is trying to gather the data
+	💬 [PERSON6] suggests to have a dry run of some past similar talks to have the same thing with adaptation for two domains
+	🔹 [PERSON8] can operate two machines
+
+
+🔷 Edit of the pipelines
+	📅 [PERSON4] will update the models on Friday
+	📅 [PERSON6] will update each of the pipelines on Monday for the two different domain adaptations
+	🔹 Some videos are not properly converted into a 16 c– format
+	🔹 Some audio files get converted to MP3 format when passed to the system
+
+
+🔷 System of help
+	💬 [PERSON8] will have a call with [PERSON6] today to discuss the system
+	📅 [PERSON1] is very busy, because he is organising an event tomorrow and over the weekend, so he can't help
+
+
+🔷 Development of language model substitute
+	🔹 [PERSON4] and [PERSON6] are working on developing a language model substitute for Watson
+
+
+🔷 Accuracy of the training set
+	🔹 [PERSON2] has doubts about the accuracy of the training set
+	🔹 There are some serious errors in the ASR output
+	🔹 The training set has less than 300 hours
+	🔹 The language model can be used for the decoding
+	📅 The decision on the model will be made on Monday
+	🔹 There is a lot to be done in the coming days.
+
+🔷 Converting the files into 16-bit format
+	🔹 [PERSON8] has problems with converting the files into 16-bit format
+	📅 On Monday they will choose the best ASR worker in quality
+	🔹 On the other hand, a set of rainbow workers with the lowest latency and the best flicker were better.
+
+🔷 Working on the German ASR
+	🔹 [PERSON1] and [PERSON11] are working on the German ASR
+	🔹 The interpreter doesn't support the format
+	🔹 The transcripts don't have the right length, so they were processed incorrectly
+
+
+🔷 Working on a project
+	🔹 [PERSON1], [PERSON2] and [PERSON11] are working on a project
+	📅 They are going to finish it by tomorrow
+	🔹 Some of the files are not in alphabetical order
+	🔹 There were some phonemes that were not converted into the alphabet
+	🔹 The format of the ASR is in public format.
+
+🔷 Provision of pronunciation problem
+	🔹 [PERSON2] and [PERSON4] are trying to solve a pronunciation problem
+	🔹 They need to substitute each phoneme with a different one
+	🔹 There is a chart in Wikipedia that shows the nearest, nearest phonemes to this one
+	📅 [PERSON2] needs to take a call tomorrow.
+
+🔷 Change of IPA
+	🔹 [PERSON4] wants to change the IPA to the alphabet phonemes.
+
+✍ Submitted by: Darbarer

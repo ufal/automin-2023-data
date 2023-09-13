@@ -1,0 +1,16 @@
+- The team discussed holiday plans and decided to cancel meetings on December 21st and 28th due to most members being on vacation.
+- They briefly discussed the last meeting with partners and mentioned that they have been assigned to review one of the deliverables.
+- The team is still trying to collect data for the multi-source project and will start working on it once they receive data from [PERSON1].
+- [PERSON9] is working on preparing data for negative constraints and will test the implementation provided by [PERSON2].
+- [PERSON2] mentioned a simple baseline method for positive constraints and is waiting for the dataset reprocessing from [PERSON9].
+- [PERSON2] pointed out a possible reason for the slow processing of the dataset in [PERSON9]'s code and suggested a more efficient approach.
+- The team plans to reconvene on January 4th for their next meeting.
+- Problem with speed identified, possible solution discussed
+- Changes to be made in the project to save time
+- Work on analysis and output of attentional weights almost finished
+- Further discussion on updates during Monday meetings
+- Deliverables expected on 21st, with the deadline for submission at the end of the year
+- Email to be sent to check on deliverable progress
+- No urgent issues for [PERSON6] at the moment
+- [PROJECT2] considered good and safe from the team's side
+- Wishing each other a nice holiday and planning to reconvene next year

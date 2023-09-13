@@ -1,0 +1,73 @@
+Date: 15.8.2022
+👥 Attendees: PERSON22, PERSON17, PERSON10
+
+
+🔷 Projekt byl financován grantem, odkud recenzenti jsou
+	🔹 [PERSON22] a [PERSON10] pracovali na projektu
+	🔹 [PERSON22] je překlad a osoba10 je překlad také
+	🔹 Projekt byl financován grantem, ale neříká, odkud recenzenti jsou.
+
+🔷 Potvrzení v knize
+	🔹 [PERSON17] a [PERSON22] se hádají o délce potvrzení v knize
+	🔹 Chtějí poděkovat spoluautorům za jejich práci.
+
+🔷 Text of vylepšil obrázky
+	🔹 [PERSON17] a [PERSON22] pracují na projektu
+	🔹 Osoba14 nedotkl text, ale vylepšil obrázky
+	🔹 OSOBA10 přečíst text a komentoval.
+
+🔷 souhlasí s tím, že začátek dokumentu by měl být přepsán.
+	🔹 OSOBA22 a OSOBA17 souhlasí s tím, že začátek dokumentu by měl být přepsán.
+
+🔷 [PERSON22] má nejvíce stolů z devíti.
+	🔹 [PERSON22] má nejvíce stolů z devíti
+	🔹 [PERSON17] a [PERSON10] mají nejméně.
+
+🔷 Musí zkontrolovat knihu k publikaci
+	🔹 OSOBA10, [PERSON22] a [PERSON17] připravují knihu k publikaci
+	🔹 Musí zkontrolovat, zda položky, kde citují archiv se stalo, že šel někam jinam a česat odkazy v bibliografii.
+
+🔷 Organizaci Frýd, která pořádá velký svátek 6. července a slaví spisovatele.
+	🔹 [PERSON17], [PERSON22] a [PERSON10] hovoří o organizaci Frýd, která pořádá velký svátek 6
+	🔹 července a slaví spisovatele.
+
+🔷 diskutovat o technických otázkách s překladem.
+	🔹 [PERSON17], [PERSON22] a [PERSON10] diskutovat o technických otázkách s překladem.
+
+🔷 GPT významu GPT
+	🔹 [PERSON17], [PERSON10] a [PERSON22] se hádají o významu GPT.
+
+🔷 psát na začátku knihy
+	🔹 [PERSON17] a [PERSON22] se dohadují o zkratkách, které nemají psát na začátku knihy
+	🔹 [PERSON17] navrhuje přidat BLEU a GLS do seznamu zkratek.
+
+🔷 Processus strojového učení
+	🔹 [PERSON17], [PERSON22] a [PERSON10] pracují na projektu strojového učení
+	🔹 Mají spoustu předškolených modelů a zaměřují se na MT a MT.
+
+🔷 Knize hledá informace o knize, kterou čte.
+	🔹 [PERSON22] hledá informace o knize, kterou čte
+	🔹 Nedíval se doopravdy na to, co lidé psali v < jiné_jazykové > produkce.
+
+🔷 Poděkování poznámky pro recenzenty
+	🔹 OSOBA10, [PERSON17] a [PERSON22] jsou psaní poděkování poznámky pro recenzenty
+	🔹 Mají hodně práce dělat ve svých kapitolách.
+
+🔷 Organizací stránek ve knihách
+	🔹 OSOBA17 a OSOBA22 mají problémy s organizací stránek ve svých knihách.
+
+🔷 Liste des listů
+	🔹 [PERSON22] a [PERSON17] budou dělit Bibli na osm listů
+	🔹 Jeden list je 16 stran
+	🔹 Stranjak píše, že pokud tam byly dvě strany méně, to znamená sto šedesát-osm stran.
+
+🔷 OSOBA17 provést <dalším_jazykem>
+	🔹 OSOBA17 se bude zabývat <dalším_jazykem>, aby mohl tento seznam provést.
+
+🔷 [PERSON17] a [PERSON10] mají nesouhlas s použitím smajlíků a unikódů ve zprávách
+	🔹 [PERSON17] a [PERSON10] mají nesouhlas s použitím smajlíků a unikódů ve svých zprávách.
+
+🔷 Požadavky a přezkumy
+	🔹 OSOBA10 se podívá na postup s požadavky a přezkumy.
+
+✍ Submitted by: Darbarer

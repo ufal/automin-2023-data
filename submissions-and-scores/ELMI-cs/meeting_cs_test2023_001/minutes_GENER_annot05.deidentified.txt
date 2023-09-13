@@ -1,0 +1,71 @@
+Zápis ze schůzky
+
+Datum schůzky: 17. 2. 2021
+
+Téma: Porada [ORGANIZATION138], informace týkající se celkového chodu kanceláře a jednotlivých projektů
+Vedoucí schůzky: [PERSON266]
+Účastníci: [PERSON286], [PERSON287], [PERSON270], [PERSON272], [PERSON304], [PERSON279], [PERSON278], [PERSON265], [PERSON267], [PERSON275], [PERSON291], [PERSON271], [PERSON319]
+
+Zápis:
+
+- Statistika
+-- Dokončeno, doplňovány průměry koncepčních a nekoncepčních vyjádření.
+-- S výsledkem se bude dále pracovat.
+-- Velké prodlevy v podepisování.
+-- Jedná se o spisy za rok 2020, nejsou však zatím všechny a agenda se bude průběžně aktualizovat.
+- Od 1. března nastoupí nový ředitel [ORGANIZATION195]
+- Zítra se bude konat porada celé sekce
+-- Budou podány informace o aktivní záplavové zóně.
+- [ORGANIZATION196]
+-- 18. proběhne poslední jednání, poté se komise bude transformovat dle požadavků radní.
+-- Agendu převezme jiný zaměstnanec.
+- [ORGANIZATION199] zpracovává pasport celého osvětlení v Praze
+-- Bude následovat nový koncepční přístup k veřejnému osvětlení.
+- [ORGANIZATION200]
+-- Byl schválen tisk, na žádost bude poskytnut, jelikož obsahuje termíny vývoje projektové přípravy.
+-- Do konce roku 2022 by měly být schválené výsledky mezinárodní soutěže.
+-- Další termíny budou souviset se zřízením projektové dokumentace.
+- Proběhlo jednání ohledně [PROJECT100]
+- Studie na [PROJECT101]
+-- Budou vyžádany konzultace.
+- Žádost o spolupráci s [ORGANIZATION205]
+-- Nově se budou odůvodňovat i zábory.
+-- Jedná se o nárazovou, zhruba dvouměsíční práci.
+-- Proběhne prezentace a představení problematiky.
+-- Mělo by se jednat o kolegy, kteří mají území na okraji města.
+- Územní studie [PROJECT103]
+-- Dotaz na průběh.
+-- Proběhla verifikace území.
+-- Většina území se nachází v ochranném pásmu policejní stanice.
+- Směny pozemků na [PROJECT87], [PROJECT104] a na [ORGANIZATION180]
+-- V pátek v 11:30 proběhne secvičná schůzka.
+- [PROJECT106]
+-- Proběhlo jednání ohledně probíhajících změn a návrhu metropolitního plánu.
+-- Upřesňuje se postup.
+-- Návrh zmírnit hodnocení.
+- Debata o postupu [ORGANIZATION204] v Horních Počernicích
+- Jednání s [ORGANIZATION215] bylo úspěšné
+- Odeslána [PROJECT107]
+- Měly by přijít informace ohledně [PROJECT108]
+- [PROJECT110]
+-- Probíhá zpracování soutěžních podmínek.
+-- Návrh, aby město nechalo vyrobit model širšího území na vlastní náklady.
+-- Bude se projednávat, žádost o zaslání odhadu ceny.
+- [ORGANIZATION218] [PROJECT86]
+-- Námitka se podávat pravděpodobně nebude, nedostatek argumentů.
+- Proběhlo veřejné projednání týkající se [PROJECT112]
+-- Organizačně nezvládnuto.
+- Diskuze týkající se účasti v [ORGANIZATION178]
+- Diskuze týkající se služebních notebooků
+-- Stávající technika je pro práci nedostačující.
+- Usnesení o kompenzacích
+-- Vyjádření budou přehodnocena.
+-- Usnesení bylo schváleno v pondělí, ale jsou v něm drobné chyby.
+
+
+
+
+
+Zapsala: [ANNOTATOR5]
+
+

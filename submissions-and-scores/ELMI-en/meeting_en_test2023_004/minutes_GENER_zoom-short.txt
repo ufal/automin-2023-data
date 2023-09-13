@@ -1,0 +1,5 @@
+PERSON1 and PERSON3 are discussing the proposal for a satellite event for a spoken language technology workshop.
+They discuss the need to follow the same criteria as other special sessions and the timelines for the submission of papers.
+They agree to submit two papers, one for the satellite event and one for a full fledged workshop.
+PERSON2 offers to help with some potential things, but PERSON3 reminds him to do double work.
+They decide to go for sigdial for the machine translation corpus linguistics and morphologies workshop in Texas, as the proceedings would be indexed with ethylanthology.

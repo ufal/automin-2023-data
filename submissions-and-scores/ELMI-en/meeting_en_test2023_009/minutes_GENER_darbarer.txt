@@ -1,0 +1,37 @@
+Date: 24.12.2022
+👥 Attendees: PERSON2, PERSON1, PERSON10, PERSON5, PERSON3, PERSON8
+
+
+🔷 Making a visa and go alone
+	🔹 [PERSON3] wants to come to Czech Republic during the week of April
+	🔹 He has a visa valid for one hundred eighty days
+	🔹 He will go alone.
+
+🔷 PCR test and options for analysis
+	🔹 [PERSON8] is in Slovakia
+	📅 He is moving to Prague tomorrow
+	📅 He will go to the PCR test on Wednesday
+	📅 If the result is negative, they will meet on Friday in person to discuss the options for the analysis
+
+
+🔷 Comparison of sentence and paraphrase
+	💬 [PERSON8], [PERSON10] and [PERSON5] discuss the difference between a sentence and a paraphrase and how to represent the context in a document.
+
+🔷 Proposal of the postediting task
+	🔹 [PERSON2] wants to improve his amenity score by just appending phrase based output
+	💬 [PERSON8] and [PERSON1] discuss the proposed solution to the postediting task
+
+
+🔷 Writing paper
+	🔹 [PERSON1], [PERSON5], and [PERSON3] are going to write a paper for the ASL conference
+	🔹 They are also going to train an English-Portugese model.
+
+🔷 Creation of dedicated data sets
+	🔹 [PERSON1], [PERSON2] and [PERSON3] want to create dedicated data sets for Portugese within their asset
+	🔹 [PERSON5] wants to collect data from institutes and their web pages
+	🔹 [PERSON8] suggests a conference in NLP or comprehension linguistics.
+
+🔷 Share the link
+	💬 [PERSON1], [PERSON5] and [PERSON3] are discussing how to share the link from the agenda.
+
+✍ Submitted by: Darbarer

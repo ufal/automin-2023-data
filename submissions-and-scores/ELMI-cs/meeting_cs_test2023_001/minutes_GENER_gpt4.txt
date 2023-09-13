@@ -1,0 +1,136 @@
+- Byla zmiňována možnost podání podnětu na změnu ploch SV nebo na nerušící výrobu
+- V pátek proběhne další jednání s PERSON272 ohledně této záležitosti
+- PERSON286 měla dramatickou situaci na projektu PROJECT112 s mnoha dotazy od veřejnosti
+- Veřejné projednání bylo komplikované kvůli špatné organizaci ze strany pořizovatele (ORGANIZATION146)
+- PERSON291 plánuje vznesout problém s organizací veřejných projednání a možností zlepšení
+- Další změny v projektech jsou očekávány a mohou být komplikované
+- PERSON286 navrhuje, aby pořizovatelé získali mediální školení a zlepšili své dovednosti v komunikaci s veřejností
+- Paní [PERSON363] z [ORGANIZATION146] nezvládala moderování veřejného projednání
+- Pan [PERSON366] by měl chodit na velké změny a pomáhat s koordinací
+- Celkově byla diskuse zaměřena na zlepšení komunikace a organizace veřejných projednání v rámci projektů
+- Projekt závisí na způsobu vedení pořizovatele
+- PERSON291 zvažuje probrání situace na poradě vedení
+- PERSON286 navrhuje zvážit moderátora pro velké změny
+- PERSON291 a PERSON286 dostali pochvalu za prezentaci studie
+- PERSON286 komunikuje s PERSON346 ohledně připomínek k projektu
+- Možnost opakovaného veřejného projednání a koordinace připomínek
+- PERSON286 zmiňuje účast na schůzce ORGANIZATION178 a ORGANIZATION151
+- Diskuze o zbytečnosti účasti na komisi a možném negativním dopadu
+- PERSON291 zvažuje probrání situace s komisí a možné změny v účasti
+- Očekávání dalších dohr ve vztahu k projektu [PROJECT79] a památkové péči
+- Projednávali možnost získání nových notebooků pro oddělení, které by byly optimální pro jejich potřeby a podporovaly potřebný software.
+- Zmínili problém s použitými notebooky, které nejsou dostatečně výkonné pro jejich práci a způsobují problémy.
+- PERSON291 zmínil, že poslal úpravu specifikace standardu pro notebooky, ale zatím nedostal odpověď.
+- Diskutovali o tom, že majetek nad 10 000 korun musí být řádně zlikvidován, což vede k posouvání výkonných notebooků mezi odděleními.
+- PERSON304 nabídl, že se poradí s IT ohledně požadavků na nové notebooky.
+- PERSON267 upřesnila, že diskuze o notebookech začala kvůli potřebě nového notebooku pro PERSON268 a problémům s výkonem stávajících notebooků.
+- PERSON291 souhlasil s tím, že by měl být stanoven standard pro notebooky, který by splňoval očekávání pracovníků.
+- Zmínili, že někteří pracovníci stále používají notebooky z [ORGANIZATION210].
+- Schůze se týkala notebooků a IT techniky pro zaměstnance.
+- Bylo zmíněno, že některá oddělení neměla notebooky pro práci z domova.
+- Došlo k špatné specifikaci ve veřejné zakázce na konci loňského roku.
+- Byla diskutována potřeba konzultace s uživateli ohledně jejich potřeb.
+- Před Vánoci byl zaslán seznam požadavků na IT techniku.
+- Byla zmíněna [ORGANIZATION219] a její konzultace s PERSON304.
+- PERSON304 plánuje informovat o situaci na kopci v dubnu.
+- Byl zmíněn projekt mrakodrapu skloněného, který bude prezentovat PERSON318.
+- Schůze se týkala připomínek k vyjádření a plánům projektu.
+- PERSON291 navrhl zmínit prověření kompozice [ORGANIZATION219] v dokumentu.
+- PERSON304 souhlasil s přidáním zmínky o [ORGANIZATION219] do vyjádření.
+- PERSON278 čeká na výstupy z jednotlivých kanceláří ohledně projektu Eja.
+- PERSON266 a PERSON279 diskutovali o přidání odstavce týkajícího se hospodaření s dešťovou vodou a řešení vnitrobloku do vzorů.
+- PERSON266 informovala o usnesení [ORGANIZATION149] týkajícím se kompenzací.
+- Bylo zmíněno, že usnesení obsahuje drobné chyby a bude pravděpodobně vydáno nové usnesení.
+- Do vyřešení nového usnesení nemají účastníci schůze nic řešit ohledně hodnocení kompenzací.
+- PERSON266 informuje o problémech s usnesením, které poslala včera
+- PERSON279 diskutuje o územích a parkových plochách v rámci ORGANIZATION203 a ORGANIZATION221
+- Zítra je prezentace s ORGANIZATION223 a ORGANIZATION224
+- PERSON279 zmíní problémy s GISem na svém počítači a potřebu upgradu
+- Diskuse o výhodách pevných stanic oproti notebookům
+- PERSON266 děkuje za účast a přeje všem zdraví
+- PERSON279 navrhuje upozornit na vytíženost veřejné dopravy, zejména tramvajové dopravy, v souvislosti s projektem ORGANIZATION221
+- Navrženo zahrnout doporučení ohledně veřejné dopravy do vyjádření projektu
+- Dopraváci upozorňovali na problém dříve
+- Navrhováno přidání dovětku k vyjádření pro zaznění upozornění
+- (PERSON266) souhlasí s přidáním do doporučení
+- (PERSON279) se zavazuje zformulovat a připsat dovětek
+- Důležité, aby ředitel měl doporučení na stole v pondělí
+- (PERSON279) slibuje, že to zařídí během dneška
+- (PERSON266) děkuje a přeje hezký den
+- (PERSON279) se loučí a přeje na shledanou
+- (PERSON266) zdraví všechny, včetně (PERSON267)
+- Projednávání záborů ploch se netýká jen Prahy, ale i ostatních velkých měst
+- V malých obcích je odůvodnění záborů jednodušší než v Praze, kde je tisíce různých ploch s různými kódy
+- [PERSON266] možná probere problematiku individuálně s kolegy
+- Kolegové, kteří by se ujali záborů, by museli pozdržet svou práci nebo jinou činnost
+- [ORGANIZATION205] by měl uvolnit kolegy na okraji města pro práci na záboru ploch
+- Kolegové by se měli seznámit s metropolitním plánem, což by mohlo napomoct k urychlení jeho projednávání
+- Časově omezená práce na záboru ploch trvá zhruba dva měsíce
+- [PERSON291] se ptá na pokračování územní studie [PROJECT103], [PERSON304] nemá informace
+- [PERSON291] se zeptá [PERSON296] na další postup ohledně územní studie [PROJECT103]
+- [PERSON304] upozorňuje, že většina území je v ochranném pásmu policejní stanice
+- Plánované jednání ohledně směny pozemků na projektech [PROJECT87], [PROJECT104] a [ORGANIZATION180]-Troji s [ORGANIZATION138] a zástupci [ORGANIZATION207] v úterý
+- Navrhovaná přípravná schůzka v pátek nebo pondělí dopoledne
+- Paní architektka [PERSON271] má dovolenou, preferuje pátek
+- Spolupráce s [PERSON287] na projektu [PROJECT104] a příprava materiálů do pátku
+- Diskuze o realizovatelnosti projektu [PROJECT104] kvůli sítím a koordinace s [PROJECT63]
+- Otázka ohledně termínů s městskými částmi a návrhy, zatím žádný posun
+- Děkující za finální úpravy u podnětu [PROJECT105] a otázka k [PROJECT106]
+- Jednání s [PERSON354] a panem ředitelem o přístupu k probíhajícím změnám a návrhu metropolitního plánu
+- Otázka k lokalitě severně od centra [PROJECT106], sportoviště a veřejná vybavenost, zda není dikce příliš ostrá a zda se nezmění plány s metropolitním plánem.
+- Projednávání souladu projektu se studií, kterou dělá [PERSON355]
+- Zvažování konzultace s [PROJECT106] ohledně důležitosti projektu pro ně
+- Diskuze o rozšíření [PROJECT106] v návrhu metropolitního plánu
+- Nejistota ohledně souladu s návrhem architekta [PERSON355] a přijetí jeho studie
+- Nutnost zjistit aktuální informace o postupu [ORGANIZATION205] v metropolitním plánu
+- Diskuze o postupu podle "pyžama" a možném nesouhlasu s ním
+- Kritika studie jako špatně zpracované
+- Upozornění na nutnost zamyslet se nad zábory ZPF a odůvodněním pro nové plochy v Praze
+- Plánovaná diskuze na vedení ohledně postupu [ORGANIZATION157] a jejich role v procesu
+- Schůze se týkala koncepčního pracoviště, které má zajistit kvalitní život v Praze.
+- Diskutovali o zpracovávání podnětů a změn, které souvisí s metropolitním plánem.
+- Zmínili potřebu odůvodnit nově zastavitelné plochy v metropolitním plánu.
+- Hovořili o dostupném bydlení a plochách pro rozvoj města, které jsou ořezávány dotčenými orgány.
+- Zmínili problém s nevyřešenými restitucemi a dědictvím pozemků, které omezují možnosti rozvoje města.
+- Diskutovali o potřebě zohlednit potřeby malých městských částí při hodnocení projektů, jako je [PROJECT106].
+- Plánovali schůzku na Zoomu v pátek od půl 12 do půl 1.
+- Mluvili o [ORGANIZATION204] v Horních Počernicích a komunikaci s nimi.
+- [PERSON287] se zavázal(a) odpovědět na e-mail od zástupce generálního ředitele a poslat kopii [PERSON291].
+- Diskutovali o potřebě řešit zásadní návaznosti projektu [ORGANIZATION204] a očekávali další změny v návrhu.
+- Jednání o chodnících vedoucích podél komunikace na pozemcích městských částí, zatím bez úspěchu
+- [PERSON287] chce ověřit, zda proběhla komunikace s městskými částmi
+- [PERSON267] a [PERSON270] pomáhají s projekty [PROJECT87] a [PROJECT86]
+- [PERSON270] čeká na podepsání dopisů panem ředitelem
+- [PERSON266] požádá [PERSON306] o podepsání prvních dvou dopisů pro [ORGANIZATION158] a [ORGANIZATION213]
+- [PERSON267] zajišťuje schůzky s městskými částmi pro [PROJECT87]
+- [PERSON267] spočítala průměrnou dobu zpracování spisů, [PERSON266] pošle výsledky s komentářem
+- Nabíječky ve veřejném prostoru: [PERSON357] z [ORGANIZATION188] se ujal přípravy, [PERSON350] řeší v rámci katalogu
+- [PERSON272] se ptá na interakci s [ORGANIZATION215], jednání o drive-through proběhlo úspěšně
+- Hlavním důvodem projektu je zlepšení dostupnosti nemocnice pro imobilní osoby
+- Vedení nemocnice vymyslelo novinku, která se ukáže, jestli bude úspěšná
+- Nejde tolik o testování covidu, ale spíše o zlepšení dopravní plochy
+- Komunikace s vedením nemocnice probíhá a v případě úprav nám dodají informace
+- V pátek je schůzka s [PERSON317] ohledně [PROJECT86]
+- Plánují se pravidelné schůzky, ale nejlépe mimo pátek
+- [PERSON319] konzultuje projekt kulturního centra, zatím nejasné, zda bude potřeba vyjádření
+- [PERSON266] odeslala [PROJECT107] panu [PERSON360]
+- Možná spolupráce s panem ředitelem [PERSON361] ohledně [PROJECT108]
+- [PERSON265] potřebuje pomoc s hledáním informací o pozemcích pro [PROJECT109]
+- Právník zastupující majitele pozemků položil dotaz ohledně plánovaných aktivit v blízkosti pozemků u trati na Rudnou.
+- Byla diskutována obava majitelů pozemků z možných negativních dopadů na jejich pozemky.
+- Hovořilo se o soutěžních podmínkách projektu [PROJECT110] a požadavku na model od soutěžících.
+- Diskutovalo se o možnosti, že model by mohl být financován městem Praha nebo [ORGANIZATION138].
+- Byl zmíněn náklad na model projektu [PROJECT63], který činil 200 000 Kč.
+- Byla diskutována možnost financování modelu z rozpočtu [ORGANIZATION138].
+- [PERSON275] poděkoval za rychlou reakci na námitku ohledně projektu [PROJECT111].
+- Byla diskutována možnost podání námitky k projektu [ORGANIZATION218] v [PROJECT86].
+- Do pátku je čas na podání námitek k projektu.
+- PERSON266 navrhuje mluvit s ORGANIZATION218, aby byli vědomi, že vlečka zůstává v oblasti.
+- PERSON272 zmiňuje dílčí problémy, jako nesrovnalosti s rampami a úrovní uliční čáry.
+- Diskutují o možnosti podání námitek a politickém tlaku na řešení problémů s bydlením v průmyslové oblasti.
+- PERSON291 říká, že město mohlo řešit problém změnou územního plánu nebo stavební uzávěrou, ale neudělalo tak.
+- Podání námitek do územního řízení s odůvodněním probíhající studie je považováno za divné.
+- V pátek bude jednání s PERSON317, aby se poradili, jak dál.
+- PERSON272 se ptá, zda již bylo rozhodnuto o podání námitek, ale PERSON291 si myslí, že spíš nepřijde pokyn k podání.
+- Souhlasí, že jednání s účastníky řízení je lepší než písemné kroky.
+- Všechny otázky budou řešeny v pátek s PERSON317.

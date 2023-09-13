@@ -1,0 +1,94 @@
+- Prezentace LSD proběhla, diskuse o obsahu a formátu
+- [PERSON16] zmínil aktualizaci šablony a zlepšení bibliografie
+- Pondělní seminář má být dlouhý asi hodinu, možná trochu kratší
+- Plán obsahu prezentace: ukázka Transformeru, analýza embeddingů, kontextových embeddingů, attention mechanismu
+- Zmínka o Tomášově práci s WordNetem a probingem závislostních stromů
+- Diskuse o memorizaci a překladovém modelu word-based transformer mezi angličtinou a češtinou
+- Zmínka o práci s [PERSON16] a Tomášem na attention mechanismu
+- Jindřichův článek <?another_language?> také zmíněn, souvisí s kontextovými embeddingy
+- Plán předávání slova mezi účastníky prezentace, diskuse o technických aspektech (Zoom, titulky)
+- Diskuze o titulkování a překladu v Zoomu, shoda na tom, že kvalita není ideální.
+- Hovor o výzkumu v Helsinkách, zaměření na attention a kontextové embeddingy.
+- Zmínka o práci na sentiment analýze a konvolučních sítích, výsledky prezentovány na Blackboxu.
+- Diskuze o spolupráci s Pranavem z Londýna/Sheffieldu na téma změn reprezentace v multimodálních překladačích.
+- Plánování prezentace: začít s obecnými informacemi, poté prezentovat výsledky výzkumu.
+- Důraz na důležitost neřízeného učení a podezření z memorizace v probing klasifikátorech.
+- Plán aktualizovat prezentaci z minulého výjezdního semináře a přidat nové informace.
+- Nutnost poslat abstrakt prezentace Magdě.
+- Bude probíhat prezentace projektu, je třeba napsat abstrakt a poslat ho.
+- Do 30. listopadu je nutné mít hotovou knihu, včetně ISBN a dalších detailů.
+- Původně se předpokládalo, že tisk knihy bude trvat několik měsíců, ale nyní je potřeba ji mít hotovou co nejdříve.
+- Zatím je k dispozici pouze jedna recenze, druhá by měla být hotova příští týden.
+- Všechny doporučení z recenze byly přidány do knihy jako úkoly.
+- V úvodu knihy by mělo být zmíněno, že hlavní aplikací je strojový překlad (MT).
+- Momentálně kniha obsahuje pouze předmluvu, chybí úvod a závěr.
+- Diskuse o možném motu knihy, ale někteří členové týmu se domnívají, že navrhované motto není vhodné.
+- Stále se plánuje napsat další části knihy, jako je úvod a závěr.
+- Na konci knihy máme dvě věci - afterword a summary, na začátku chybí něco jako introduction.
+- Jindřich poskytl recenzi, kterou chceme projít a podívat se na knihu.
+- Navrhujeme mít foreword, preface a introduction, ale ještě nejsme rozhodnuti o pořadí.
+- V jedné kapitole chybí vysvětlení pojmu "overfitting", což by mohlo být důležité pro některé čtenáře.
+- V kapitole o architekturách chybí zmínka o CNN, které jsme se rozhodli smazat, protože je nikde neprobíráme.
+- V kapitole o Word2vec je možná chyba, kterou je třeba prověřit.
+- Ruda navrhuje přepsat první odstavec jedné kapitoly, ale nejsme si jisti, co přesně tím myslel.
+- Projdeme recenzi a zvážíme návrhy, ale ne všechny změny musíme nutně udělat.
+- Schůze se týkala projektu a připomínek k němu.
+- Diskutovali o problémech s přihlášením na GitHub a sdílením obrazovky.
+- Hovořili o kapitolách projektu a jejich obsahu, zejména o "recommendations" a "chapter 3".
+- Zmínili se o technických aspektech projektu, jako je Word2vec a Transformer.
+- Diskuse o názvech a pojmech, jako je "supervised learning", "unsupervised methods" a "probing".
+- Navrhli si vzít na starost jednotlivé kapitoly projektu a zodpovědnost za ně.
+- Jindřich opustil místnost, ale vrátil se později.
+- Hovořili o obsahu kapitoly o "clusteringu" a možných alternativních metodách.
+- Zmínili se o chybějících citacích a dalších připomínkách recenzenta.
+- Projednávání sentimentu a komentářů v textu
+- Diskuze o straně 65 a poznámkách k ní
+- Potřeba projít a promazat to-do boxy v textu
+- Přeposílání původního PDF souboru pro kontrolu stran
+- Procházení jednotlivých kapitol a zpětná vazba
+- Úprava otázek na straně 72 na oznamovací věty
+- Diskuze o úvodu kapitoly 6 a možných úpravách
+- Návrh na přidání subsekce nebo úpravu prvního odstavce v kapitole 6
+- Porovnání délky úvodů v jednotlivých kapitolách
+- Ruda má dvě a půl stránky textu k projednání
+- Dneska je ve školce slavnost, ale kvůli koronaviru slaví jen děti, ne rodiče
+- Martinská slavnost: Martin přijede na bílém koni s pochodní
+- Projednávají komentáře v textu a hledají způsob, jak je vyřešit
+- Potřebují projít svoje sekce a zkusit vyřešit všechny komentáře
+- Plánují dát text do Grammarly pro kontrolu gramatiky
+- Ruda si nebyl jistý, kde skončil při čtení textu, ale našel si poznámku
+- Black box workshop je v Thomsonu, což pomůže z hlediska GAČRu
+- Zvažují možnost poslat text do jiného místa, ale nakonec se rozhodnou to neudělat
+- Zjišťují, že v indexu jsou jen abstrakty, ne celé texty
+- Projednávali se články a konference z roku 2019
+- Diskutovalo se o tom, zda jsou abstrakty zahrnuty v databázích
+- Zmínka o black boxu v Thomsonu
+- Řečeno, že některé konference a workshopy začaly být zahrnuty v databázích
+- Martin Popel potvrdil vydání druhého článku v PMML
+- Plán dokončit knihu a přednášku pro LSD projekt
+- Diskuze o financích projektu, včetně odměn a nákladů na konference
+- Plán na vydání knihy za 45 000 Kč a nákup kancelářských potřeb za zbývajících 5 000 Kč
+- Výzva k procházení a řešení to-do položek v knize
+- Plán na kontrolu textu knihy pomocí Grammarly
+- Diskuze o možném dalším setkání, ale Jindřich není k dispozici; ostatní účastníci jsou flexibilní.
+- Děkují za práci na projektu a zkracování názvů u obrázků
+- Diskutují o překládání textu a připojování k lepší kameře
+- Projednávají obsah knihy, ISBN a děkování (reviewerům, grantu, prababičce, pratchýni)
+- Zvažují, zda děkovat SVV, GAČRu nebo jiným lidem a organizacím
+- Hovoří o afiliacích a způsobu, jak je uvést v knize
+- Zmínka o Danu Zemanovi a jeho řešení pro uvádění afiliací a děkování
+- Diskutují o možnosti změny barvy obálky knihy
+- Hledají inspiraci v jiných knihách, např. Radka Čecha
+- Plánují napsat něco podobného jako Dan Zeman v acknowledgements
+- Hajič doporučil uvádět reviewery bez titulů a s přesným názvem instituce.
+- V acknowledgements bude poděkování ústavu, aby bylo jasné, odkud autoři pocházejí.
+- Motto zatím nemají a nemusí ho mít, pokud nenajdou nějaké úžasné.
+- Ruda přidal něco do úvodu, který bude projednán později.
+- Jindřich nepracoval na části o deep learning, ale vylepšil obrázky.
+- Komentáře k afterwordu byly přesunuty, ale nikdo s nimi nic neudělal.
+- Autoři si navzájem poděkují v acknowledgements.
+- Diskuse o počtu stránek a formátování knihy, zda je dělitelný šestnácti nebo jiným číslem
+- Zmínka o rezervě 5 000 Kč na projekt
+- Rozhovor o možných úpravách map a zelených obdélníků v textu
+- Plán na kontrolu a úpravu jednotlivých kapitol knihy mezi členy týmu
+- R (PERSON1) má na starosti kontrolu a úpravu úvodu (introduction), D (PERSON2) má na starosti shrnutí (summary)

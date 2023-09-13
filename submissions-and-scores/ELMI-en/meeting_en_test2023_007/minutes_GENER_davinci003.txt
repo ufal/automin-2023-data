@@ -1,0 +1,33 @@
+
+To create a dictionary from the <unintelligible/> domain.
+And then we can also talk about the nominal <unintelligible/>.
+
+
+- Project meeting discussed progress on two sessions: [PROJEC210] and [PROJECT2]
+- [PERSON2] was asked to summarize impressions from finishing of the <unintelligible/>
+- [PERSON2] suggested representing a language in addition to the number of words
+- [PERSON2] also suggested adding a complimentary metric for ASR, such as profanity filtering and rare words evaluation
+- [PERSON1] has compiled a translation dictionary which will be shared soon
+- [PERSON2] will make a call with [PERSON8] next Monday and consider if they have the capacity to extract a dictionary from the <unintelligible/> domain
+- Discussed nominal <unintelligible/>
+
+
+
+- Ask [PERSON3] to extract positive and negative lists from domain documents
+- Improve segmenter to increase scores
+- Talk to partners on Wednesday about delay calculation
+- [PERSON2] to get delay scores from [PERSON3] for [PROJECT3] test set
+- [PERSON2] and [PERSON3] to prepare for Wednesday call with partners by getting SLT scores, delay, and flicker on one of the LSSLT dev files
+- [PERSON5] and [PERSON12] to work on [PROJECT1] and ASR training
+- [PERSON12] to use all available data sets for experiment
+- [PERSON5] to view video recorded by [PERSON6]
+- [PERSON2] to have call with [PERSON8] on Monday and include [PERSON5] and [PERSON12] in the mail
+- Person11 needs to respond to Person9
+- Person13 presented a summary of their work
+- Person11 and Person13 discussed the subtitler study and aiming for an end of the month deadline
+- Person11 suggested a multi-lingual MT model with multiple ASRs and a language ID worker
+- Person2 mentioned a multi-lingual model that does not involve English as an intermediary language
+- Person11 suggested synthesizing data for a direct language pair based on an English-centric dataset
+- Person13 will write down the language ID integration suggestion
+- Person11 and Person13 discussed the ladder climbing for continuous evaluation
+- Person11 suggested meeting to start writing the book in the middle of the year

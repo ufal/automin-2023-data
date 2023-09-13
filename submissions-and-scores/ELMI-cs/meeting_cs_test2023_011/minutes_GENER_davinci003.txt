@@ -1,0 +1,104 @@
+null
+
+\n(PERSON279) Jo.\n
+
+- [PERSON266] a [PERSON272] se domluvili, že si zavolají, aby začali řešit [ORGANIZATION141] a ještě jiný projekt.
+- [PERSON278] se setkal s projektem [PROJECT64], ale nikdo mu ho nepředložil.
+- [ORGANIZATION146] dal souhlasné stanovisko projektu [PROJECT64], kvůli kterému se teď kreslí konečná [PROJECT65] blíže.
+- [PERSON275] dostal informace o poslední variantě [PROJECT66] nad hlavním nádražím, která se dopravákům nelíbí.
+- U [ORGANIZATION147] bude probíhat jednání na úrovni náměstků o novém oddělení zelené infrastruktury.
+- [PROJECT67] bude příštích 5 let v Moravském Krumlovu a poté 20 let v [ORGANIZATION148], během které se bude uvažovat o dalších lokalitách v Praze.
+- [PERSON285] se chce zeptat, jestli má ještě zopakovat agendu okolo umění.
+- Všichni mají dávat pozor na své věci, protože minulý týden někdo zcizil peníze z kabelky.
+\n(PERSON291) No, to je jedno.\n(PERSON275) No, to je jedno.\n(PERSON291) To je jedno.\n
+
+- Projednávání žádosti od vodařů o koordinační zápis
+- Podpisování má na starosti [PERSON308] z [ORGANIZATION150]
+- [PERSON286] mu ulehčuje agendu
+- [PERSON291] podepíše za [PERSON308], pokud nemá elektronický podpis
+- [PERSON286] pošle e-mail [PERSON291] s potvrzením, že je vše v pořádku
+- [PERSON275] navrhuje, aby šlo s průvodním dopisem
+null
+
+\n
+
+- Nebyla vypořádána soutěž, kterou vyhrál [PERSON310].
+- [ORGANIZATION158] má za úkol najít variantu, která by vyhověla hlukovým normám.
+- [ORGANIZATION138] představil prověření na základě pověření [PERSON310], aby do [PROJECT81] byla integrována cykloopatření.
+- [ORGANIZATION169] zjistilo, že by most musel být rozšířen na 31 metrů.
+- To vzbudilo vzruch mezi účastníky.
+- [ORGANIZATION163] je investorem.
+- [ORGANIZATION138] má za úkol najít ideální řešení, které by znamenalo sejmutí památkové ochrany z části [PROJECT81].
+- [ORGANIZATION166] a [ORGANIZATION167] projektují stavební povolení, které je prodloužené do srpna 2022.
+\n
+
+- Schůzka se zabývala cyklostojany u stanic metra, které byly řešeny minulý týden s ORGANIZATION172 na ORGANIZATION129.
+- K tomu bylo vydáno koncepční vyjádření na žádost ORGANIZATION158.
+- Byla domluvena lepší komunikace s ORGANIZATION172, když budou posílat záměry mailem.
+- PROJECT86 má málo času na zpracování, proto by bylo dobré si udělat schůzku a vytvořit harmonogram práce.
+- PROJECT87 bude muset být posunut dál.
+- Výsledný dokument nebude klasická územní studie, ale spíše generel a textový materiál.
+- Setkání se účastnili [PERSON272], [PERSON266], [PERSON267], [PERSON275], [PERSON288], [PERSON291] a [PERSON317].
+- Diskutovalo se o možnostech změn územního plánu a metropolitního plánu.
+- Bylo zmíněno, že představy účastníků a městské části mohou být protichůdné.
+- Bylo navrženo, aby se skončilo ve variantách a nechalo si zadat dopracování nějaké varianty.
+- Bylo zmíněno, že je třeba vyslechnout představy [PERSON317] a sekretariátu [PERSON318].
+- [PERSON291] měl schůzku s náměstkem [PERSON310] a [PERSON318].
+- [PERSON267] měl dotaz na [PERSON291] ohledně dotazníku o Japonsku.
+- Setkání skončilo pozdravem.
+\n
+
+1. [PERSON286] navrhl, aby [PERSON285] představila informace o projektech, na kterých se podílí.
+2. [PERSON288] by ocenila, kdyby [PERSON285] představila informace o [PROJECT70].
+3. [PERSON286] informoval o soutěži na prvek v souvislosti s koncepční studií [PROJECT69], kterou vypsala městská část.
+4. [PERSON291] informoval o projektu [PROJECT70], na kterém se [PERSON285] podílí.
+5. [PERSON286] informoval o tom, že [ORGANIZATION152] si vyžádala 3 lidi z [ORGANIZATION138] do pozice expertů pro soutěžní komisi.
+6. [PERSON266] se domluvil s [PERSON290], aby [PERSON285] předala informace o projektech, na kterých se podílí.
+7. [PERSON266] se dozvěděl, že [ORGANIZATION138] zatím nemá žádné oficiální zadání na zpracování studie pro [ORGANIZATION153].
+\n(PERSON287) No, já myslím, že to bude, eh, všechno v pořádku.\n
+
+- Projektové setkání se zúčastnili PERSON278, PERSON266, PERSON288, PERSON291, PERSON273, PERSON268, PERSON287 a PERSON296.
+- Cílem setkání bylo diskutovat o projektech PROJECT72, PROJECT73, PROJECT74 a PROJECT75.
+- Setkání se týkalo také spolupráce mezi městskými částmi Letňany, Kbely, Praha 9 a Čakovice.
+- Bylo také zmíněno školení na home office, které nabízí PERSON273.
+- Byla také diskutována úvaha o branickém projektu PROJECT75.
+- PERSON287 mluvila s PERSON296 o participaci na projektu PROJECT76.
+- Bylo také zmíněno, že je potřeba urychlit práci, aby bylo hotovo do začátku února, než bude ORGANIZATION156 svolaná.
+- PERSON298 bude zodpovědný za participaci na projektu PROJECT76.
+null
+
+- Snažit se dodržovat lhůty
+- Státní orgány nedodržovaly lhůty, ale po novele správního řádu a stavebního zákona se pokud se do 30/60 dnů nevyjádří, má se za to, že souhlasí
+- Důležité je zaznamenávat všechny věci, které se týkají projektu (záznamy, e-maily, korespondence, jednání s investorem)
+- U důležitých věcí je potřeba si nechat poslat potvrzení e-mailem
+- U zakázek je potřeba mít souhlas vedení
+- Cílem je, aby od územáře k řediteli to nebylo 14 dní, ale 10 a od vás ne 30, ale 20 dnů
+- Koncepčka můžou být těch 45.
+- Lhůty pro dokumentaci k územnímu rozhodnutí a koncepční vyjádření se liší.
+- Doba potřebná pro vypracování spisu je 1-2 týdny.
+- V únoru se bude s ředitelem řešit filtr a zredukovat některé vyjádření.
+- Rozlišovat se bude mezi okrajem města a vnitřním kompaktním městem.
+- Někdy je týden, kdy není možné napsat vyjádření.
+- Pomoci by mohlo předpřipravené vyjádření k sítím.
+\n
+
+- PERSON264 a PERSON291 diskutovali o tom, že filtr nemůže fungovat úplně univerzálně na celé město.
+- PERSON287 navrhla, že by se to dalo nastavit univerzálně na základě struktury zástavby.
+- PERSON266 a PERSON275 se bavili o lhůtách, které se vztahují na dotčené orgány v momentě, kdy běží územní řízení.
+- PERSON266 navrhl, že by se mělo jednat jako koncepční pracoviště a být rádi, že se o názor někoho zajímá už v předstihu.
+- PERSON275 navrhl, že by se mohlo vyjednávat a domlouvat připomínky, když stavebník podá žádost ze své vůle v předstihu.
+\n<other_noise/>\n
+
+- Úřednická práce musí být do 30 dnů vydána.
+- Je potřeba zaznamenat do spisu, že proběhlo jednání a byla dodána aktualizace.
+- Z deseti připomínek bylo osum vyhověno a dvě se zváží.
+- Cílem je zlepšit kvalitu vystavěného prostředí a dodržovat lhůty kolem 30 dnů.
+- Všechny dokumentace se odesílají elektronicky, pouze velká dokumentace se odesílá poštou.
+- Před vyřizováním spisu se záměr projednává neformálně.
+- Projektové schůzky se účastní různí lidé s různými úkoly a záměry, které mohou trvat až 4 roky.
+- Je důležité mít zaznamenané od kterého dne se projekt projednává s konkrétním investorem.
+- Je důležité mít zaznamenané všechny verze a fáze projektu.
+- Každý má svůj vlastní systém pro zaznamenávání informací o projektu.
+- Je důležité mít zaznamenané, kdy projekt přišel, kdy byl odeslán na [ORGANIZATION140] a kdy má být vypraven.
+- Priorita vyřízení spisů se může měnit v průběhu času.
+- Důležitější je prosazovat urbanistické zásady než administrativa.

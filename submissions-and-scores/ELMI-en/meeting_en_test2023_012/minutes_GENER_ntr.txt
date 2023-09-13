@@ -1,0 +1,83 @@
+Meeting KeyPoints:
+
+1. PERSON3 is going to join the meeting
+2. PERSON4 tried out the one minute dry run of the keyword extraction, but it gave horrible results
+3. PERSON4 agrees that the two words used by the keyword extraction tool are funny
+4. PERSON3 has written a new tool called TD ID which is used for summarising the conversation from multiple audio files into a single one
+- The common words which are occurring in the meeting data gives very high probability words.
+- The summarizers are giving random sentences as output because the input is not meeting data but some random text.
+- We can include in the motivation to share a paper, why these are the common words occurring in the meeting data.
+1. Another for SIGDial is like - Uh the papers that would be submitted in our shared task would be reviewed by the program committee of SIGDial.
+2. The papers would be submitted around the time of the submission deadline for Interspeech.
+3. There is a possibility of having resources for all these yellow things, like scientific community members, invited speakers and submission for process, if
+1. Several years ago, there was a system called PBML that published papers as a special issue of the journal PBML.
+2. After integrating PBML with normal issues, there was a system called SIGDial to submit papers for MT marathons.
+3. Recently, it seems like the submission process of SIGDial is too complicated and too late.
+4. In the future, if there is a similar system
+
+- P3 wants the deadline to be later rather than earlier.
+- P7 feels that having 4 months buffer time makes sense.
+- P3 agrees with P7 that having a application proposal prepared beforehand will be simpler.
+- P3 thinks it makes sense to have the submission deadline at Interspeech but before SIGDial, because one has the two weeks for preparation and the other one has already attracted more participants.
+
+-  PERSON3 thinks that it's possible to prepare the data for the shared task and have exactly what needs to be done already done for the meeting.
+-  PERSON3 thinks that it would be more useful to have later deadlines for the papers associated with WMT since this would be an exception rather than a regular occurrence.
+-  PERSON4 thinks that it's not possible to prepare the data for
+1. MT marathons are known.  Invite people you know beforehand.  Thought of additional topics for the side panel.  
+2. Invite the program committee.  If not accepted to Interspeech, apply for SIGDial proceedings.
+3. Authors can submit to either proceedings.  PBML only accepts submissions from PBML proceedings.  
+4. Authors are free to create a proceeding independent
+a. P3: Yes..  If someone manages to that's good..  So if someone manages to do it in time, for the SIGDial deadline, yes, they should go through the SIGDial submission deadline..  And if they fail, we invite them to to send it to PBML..  And eh yeah..  We will
+1. They are applying for the ORGANIZATION7 membership to be a member of the PBML shared task organization
+2. They cannot apply for the PBML shared task organization for themselves
+3. Someone from their team can apply on their behalf
+4. It will need to be a person who is a member of the PBML organization
+1. The institutional membership is more than sufficient for ORG-A
+2. For student price is one twenty for twenty days.
+3. For institutional membership it is two fourty for one year.
+- PERSON3 estimates that the number of students and researchers from the institution is between 10 and 20 people
+- PERSON3 suggests PERSON1 to extract the desired information
+- PERSON1 is the former head of the department and is aware of all the current projects
+- SIGDial is a similar conference run by ORGANIZATION7 and has similar registration policies.
+- There is a proposal to create a new scientific committee for ALST
+- If you are interested, please contact PERSON5 for details
+- It is recommended to reach out to existing members to fill key positions on the committee
+- If you have recommendations for other members, please share them with PERSON1
+- For information on how to create a website and prepare a call for papers, please email PERSON5
+* Key point 1: PERSON8 had shared the code, not outputs.
+* Key point 2: PERSON3 noticed that the most frequent words were extracted.
+* Key point 3: PERSON3 checked if the outputs were decent.
+The transcript does not contain any confidential information. 
+
+
+* The transcript does not contain any confidential information.
+* During the call, a transcription was created by a third party service and is publicly available.
+* The summarization method that was implemented by Person 7 is available for public use.
+1. PERSON4 knows how to prepare the extracted named entities from the previous mail that person3 received.
+2. PERSON3 promised to follow up with the person4 to clarify the content of the mail.
+3. PERSON4 will ask the person3 to share with them the evaluation metrics that was run on one of the datasets.
+4. The current document is messy because there are too many results and there is not
+- We need gold standard for our annotation process to know if our annotation is accurate
+- So we split the meetings into three parts: training, development, and test
+- We can choose one gold standard for all three parts
+- Multiple references for the same meeting can work
+- We can even choose two gold standards to have multi-reference metrics
+- One minute randomly selected from each meeting was evaluated against the gold standard (the minute of the meeting with the highest score).
+- The minute with the highest score is considered the gold standard (the answer).
+- People in the meeting tend to evaluate the minutes similar to the one they are in (submission).
+- There are multiple summarization methods that can be used to summarize the meeting.
+- These summarization methods can
+- A meeting with duration of 1 hour was recorded.
+- The recorded meeting produced 3 short summaries of 1 hour each.
+- The recorded meeting produced 3 full-length documents of around 600 lines each.
+1. PERSON6 and PERSON3 are the chairs of the session.
+2. PERSON6 implemented the summarization system that PERSON3 studied in their research.
+3. PERSON3 re-implemented the summarization system from the paper as part of their research.
+4. They both have the code for their respective systems.
+5. The code for PERSON3's system is not anonymized yet.
+1. The quality of the transcript depends on the quality of the annotation. Having multiple annotation should be done to improve the quality.
+2. It is important to have multiple implementations of the algorithm and compare their outputs to discover bugs in the algorithm and improve its performance.
+3. The timeline should be set with the help of PERSON7 and PERSON10 for every file to know when it should be processed and to which level.
+- PERSON3 mistakenly discussed confidential details of the project with a non-participant PERSON7
+- PERSON3 asked PERSON4 to discuss the project details with non-participant PERSON10 before releasing any alignments
+- PERSON7 wants the meeting to finish by advising PERSON3 to discuss the project details with non-participant PERSON10 before releasing any alignments

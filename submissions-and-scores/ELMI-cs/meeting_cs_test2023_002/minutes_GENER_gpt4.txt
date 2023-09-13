@@ -1,0 +1,80 @@
+- Schůzka proběhla s účastí PERSON267, PERSON265, PERSON275, PERSON266, PERSON319, PERSON279 a PERSON291.
+- PERSON319 informovala o jednání s architektem, které proběhlo dobře a byly probrány připravené body.
+- Byla zmíněna potřeba kontaktovat PERSON320 ohledně sítí a kanalizace v dané lokalitě.
+- Projektanti budou řešit studii a spojit se s ORGANIZATION129.
+- PERSON266 zmínila plánované změny ředitele, sloučení dvou kanceláří, které podrobněji vysvětlí PERSON291.
+- Nutnost ukončit rozpočet do konce roku a vyřešit peníze za model na PROJECT87.
+- PERSON266 informovala o neúspěšném odvolání v soudu ohledně ORGANIZATION173 a možnosti dalšího postupu s právníky.
+- PERSON291 přišel na schůzku a byl požádán o vysvětlení restrukturalizace.
+- Většina zaměstnanců pracuje z domova
+- Uvolnilo se místo ředitele [ORGANIZATION189] po odchodu [PERSON323] z [ORGANIZATION138]
+- Pan ředitel navrhuje sjednotit strategické a územní plánování
+- Cílem je mít plány související s časem, penězi a lidmi
+- Vypsáno výběrové řízení na pozici ředitele [ORGANIZATION188], která integruje kanceláře a agendy sekce plánování města a sekce strategií a politik
+- [ORGANIZATION176] přešla k [ORGANIZATION138]
+- [ORGANIZATION177] bude pod [PERSON281]
+- Nový ředitel by měl být vybrán do konce roku a nastoupit od 1. ledna
+- [PERSON324] byla informována o změnách a souhlasila s nimi
+- Výběrové řízení je otevřené, pokud má někdo vhodného kandidáta, může dát vědět [PERSON291] nebo [PERSON266]
+- Diskuze o zahrnutí tématu krajiny ve všem, co dělá [ORGANIZATION138]
+- Na projektovém setkání se diskutovalo o účasti PERSON286 na komisi ORGANIZATION192.
+- Komise se skládá z nestranných odborníků a účast PERSON286 je pro ně přínosná z hlediska informací.
+- PERSON286 se však musí zdržet hlasování v některých případech, což zpochybňuje její účast v komisi.
+- Bylo navrženo, aby místo PERSON286 šla na jedno zasedání PERSON266, aby se vyhodnotilo, jak to funguje.
+- PERSON286 upozornila, že komise nefunguje s náhradníky a neví, zda by to bylo pochopeno.
+- PERSON291 nabídl, že by mohl jít na zasedání místo PERSON286, protože zná některé členy komise.
+- Bylo zmíněno, že členové komise mají různorodé osobnosti a názory.
+- Diskutovalo se o možnosti poslat někoho jiného z týmu na zasedání, když se bude probírat změna 2600.
+- PERSON286 je uvedena jako členka komise, což komplikuje situaci s náhradníky.
+- Zatím nebylo rozhodnuto, jaký postup zvolit ohledně účasti PERSON286 v komisi.
+- Projednávali možnost sdílení informací s dalšími stranami a jak to ovlivní projednávání změn
+- Diskutovali o prezentaci a připomínkách z minulé komise
+- Plánují účast na výboru, kde se budou probírat připomínky komise
+- Zmínili další komisi 18.11.
+- Plánují spolupráci s panem architektem [PERSON332] na analýzách [PROJECT89]
+- Spolupráce s [ORGANIZATION159] na vytipování ploch parkovišť pro městskou výstavbu
+- Diskutovali o studii [PROJECT90] a zda se mají vyjadřovat pro [ORGANIZATION146] nebo jen pro pana architekta
+- Zvažují, jak moc se vysilovat v připomínkování studie [PROJECT90], která je zamotaná a obtížná
+- Plánují se domluvit s [PERSON335] na dalším postupu ohledně vyjadřování k studii [PROJECT90]
+- Připravují jednání s panem [PERSON345] ohledně připomínek ke studii [PROJECT91] a požadují zahrnutí funkčních ploch a veřejné vybavenosti.
+- Projednávání připomínek k projektu od různých stran, včetně [PERSON304], [PERSON264] a zelinářů, čeká na připomínky od dopravy
+- Diskuze o studii, která se nezměnila, pouze přibyla část [ORGANIZATION181] s navýšením kapacity bydlení
+- Připomínky vycházejí z původního vyjádření, některé se mezitím vyjasnily
+- Rozvržení funkčních ploch zatím není kompletní, pouze dopravní a VV
+- Politická reprezentace se více kloní k akceptaci postupu
+- Návrh na vyhrazení minimální plochy pro služby, jako autoservis nebo truhlářská dílna
+- Domluva odborného jednání mezi architekty k [PROJECT92], bez investorů a městské části
+- Městská část ví o plánovaném odborném jednání
+- Nutnost najít způsob, jak naznačit, že investoři nemají být na jednání přítomni
+- Schůze se týkala odborných architektonických otázek a plánování projektů.
+- Byla zmíněna studie urbanistická na projektu [PROJECT93] a konzultace s architektem [PERSON331].
+- Městská část [ORGANIZATION155] se rozhodla zadat novou studii pro úsek západního závěru u Bílé Hory.
+- Radní [PERSON339] z [ORGANIZATION155] požádala o poskytnutí studie k projektu [PROJECT94].
+- Byla diskutována účast na strategické komisi a možnost pozvání [PERSON324] nebo [PERSON340].
+- Dotaz na soutěžní workshop na [PROJECT74] a poskytnutí podkladů pro fakultu.
+- Materiály a podklady pro workshop budou poskytnuty v nejbližší době.
+- Soutěžní workshop na [PROJECT74] bude zadán v letním semestru.
+- [PERSON288] se zotavila z nemoci a je zpět v práci.
+- Schůze se týkala námitky na byt v rámci projektu [PROJECT95]
+- Námitka bude zpracována a odeslána zítra
+- Hlavním problémem je výška krajního objektu, která bude rozporována
+- Stejně jako [ORGANIZATION182] a [ORGANIZATION142] plánují proti tomu odvolání
+- Zástavba nereaguje na kontext sídliště a způsob zástavby
+- [PERSON287] se dnes odpoledne připojí k pracovní schůzce krajinářského charakteru nad urbanistickou studií [PROJECT76]
+- Zítra bude prezentována studie
+- Diskuze o změnách územního plánu v návaznosti na návrh
+- Projednávání koordinace procesního charakteru projektu
+- Plánované odevzdání materiálů na konci listopadu
+- Diskuze o dnešní schůzce s panem PERSON343, předpokládá se online formát
+- Práce na občanské vybavenosti a výhledech infrastruktury
+- Plynovod je nejzásadnější prvek, který by měl být zohledněn
+- Příprava tisku na PROJECT97, spolupráce s ORGANIZATION149 a ORGANIZATION185
+- Potřeba konzultace s PERSON291 ohledně několika témat
+- Plánované jednání s ORGANIZATION186 a ORGANIZATION129 ohledně tramvajové trati PROJECT98
+- Diskuze o vejškových limitech v souvislosti s projektem PROJECT87
+- Práce na studii PROJECT65 a vyjádření k ní
+- PERSON278 potvrdil, že výstavba projektu pokračuje a nelze ji zastavit
+- Konflikt se stanicí PROJECT65 by nyní neměl nastat
+- Stanice PROJECT65 se nachází v nové poloze, což by mělo problém vyřešit
+- Změna polohy stanice PROJECT65 byla zřejmě důležitým krokem pro pokračování projektu
+- Účastníci schůzky diskutovali o dalších krocích v projektu a možných problémech

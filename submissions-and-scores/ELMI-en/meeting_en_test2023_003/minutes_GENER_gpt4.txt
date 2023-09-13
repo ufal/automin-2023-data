@@ -1,0 +1,56 @@
+- Meeting attended by PERSON1, PERSON4, and PERSON5; unsure if others will join
+- PERSON5 reviewed the web page and discussed concerns about [PERSON7]'s availability to help with the project
+- [PERSON7] may be too busy with a potential Ph.D. program and move to Canada
+- Discussion about the annotation process and the need for detailed documentation of each step
+- PERSON4 will finish the annotation themselves since the annotator has stopped working on it
+- Need to get in touch with [PERSON7] to double-check their ability to help with processing at the token level
+- Suggestion to proceed with annotation at both word type and word token levels for efficiency
+- Aim to have a clean and well-documented process for named entity removal
+- Some entities, like names of months, will be handled separately and later in the process
+- Emphasis on the importance of understanding the current stage of the process and moving forward as quickly as possible
+- Discussed the difference between word type (word as it appears in the dictionary) and word token (a particular instance of the word in context)
+- Currently working on word types and will later work on contexts
+- Aim to have token-level annotation in the end, but some words can be done all at once (e.g., clear names)
+- Concerns about [PERSON7] being unavailable as the system operator for bulk processing of documents and insertion of annotations into XML
+- Open problems include the addition of new documents, multi-word entities, and ensuring no named entities leak into the final data
+- For the sake of time, they can ignore tracing chains for projects but should not ignore it for speakers and persons referred to in the text
+- Errors in preserving identities are less important than ensuring no true named entities leak into the data
+- Need to put the project outline on a time frame and assign tasks to specific people
+- Get in touch with PERSON7 to check if they can help with the project, otherwise, PERSON1 will handle the programmatic parts.
+- The team is not too worried about anonymizing the corpus, as it is doable with clever text editors and scripting.
+- PERSON1 will have a session with PERSON4 to discuss input and output for the data.
+- PERSON4 needs to discuss identification guidelines and potential new concerns with PERSON6.
+- PERSON6 needs to read regulations and determine what exactly is considered personal data, which must be removed from the dataset.
+- PERSON4 and PERSON6 also need to discuss consent forms, with two stages: permission to work with the data and permission to publish the data in deidentified form.
+- Focus on the second consent form (permission to publish) and provide samples for participants to review.
+- Once the corpus is finished and released, revisit the first consent form for new meetings that will be collected.
+- Focus on obtaining permission to publish anonymized data (second form) before returning to the first form (consent to process and deidentify data)
+- Simplify process by giving everyone access to the full dataset
+- Prepare a fully deidentified dataset as a directory with documents for people to browse
+- Extract names of participants from meeting minutes and create a master sheet
+- Send consent forms to participants, allowing them to check their own data and report any issues
+- Aim to have a sample document ready by the end of January and the full dataset by the end of March
+- Obtain consents from meeting participants by the end of February
+- Allow participants one week to respond to consent forms and three weeks to handle any issues
+- Complete data deidentification by the end of February
+- Adjust timeline depending on whether [PERSON7] is available to help with deidentification
+- PERSON4 will finish word type level annotation in two days
+- Coding of XML is needed for items 3 and 6; item 3 can be delayed if necessary
+- Removal of original text from the document (items 6 and 7) should happen by mid-February at the latest
+- Discussion about the new webpage created during Christmas holidays; some members dislike the quickly changing elements
+- Scientific Committee members need to be finalized; some concerns about including master's students and needing to ask potential members for their consent
+- Proposal submission deadline suggested for January 7th or 8th
+- Goal to have at least 15 people in the Scientific Committee
+- Call ended to focus on working on the request to participate and contacting potential committee members
+- Emails to potential committee members should be sent today, aiming for the deadline in two days
+- PERSON4 had a question about an email they sent, which was answered and transferred to PERSON1
+- Data questions transferred to PERSON1
+- PERSON5 expects to be in the call, not PERSON1
+- Discussion about finding a keynote speaker for the event
+- Suggestions to ask experienced people from 2006 event as keynote speakers
+- Plan to send proposal to Iska by January 10th and to Sikdad by January 15th
+- PERSON4 to get response from PERSON6 and PERSON7
+- PERSON5 to send pre-prepared letters to three Russian candidates as the leader of the committee
+- Cooperation with foreigners is a financial consideration for the Russian candidates
+- Letters to be sent in English, not Russian
+- Plan to complete tasks this afternoon

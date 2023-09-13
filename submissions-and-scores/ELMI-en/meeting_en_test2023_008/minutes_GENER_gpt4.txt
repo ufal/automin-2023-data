@@ -1,0 +1,27 @@
+- [PERSON5] is not attending the meeting due to a hackathon for another project.
+- [PERSON4] has limited time and will leave in 20 minutes.
+- Discussion about the ACL paper and reproducibility checklist.
+- Results are better, but automatic metrics are not good enough.
+- [PERSON4] suggests the approach is trivial and already works, considering adversarial evaluation or other ways to make the task more challenging.
+- [PERSON3] suggests cross-domain experiments and using out-of-vocabulary terminology databases.
+- [PERSON6] is working on improving the dataset corpus for the Portuguese language model, currently has around 200 manually checked abstracts.
+- [PERSON6] plans to find a model to translate from Portuguese to English and include more papers in Portuguese.
+- The team is considering different evaluation metrics and ways to make the task more challenging.
+- The meeting discussed the training and evaluation of a translation model, focusing on finding papers and resources in Portuguese and English.
+- PERSON6 is waiting for a response from PERSON7, who may have knowledge of relevant conferences and papers due to her Brazilian background.
+- PERSON1 suggests forwarding the email to them to try and get a response from PERSON7.
+- PERSON6 will also check with another researcher in Brazil for potential resources.
+- The team discusses the possibility of using style transfer data for English-Czech translations and the constraints to enforce gender of the speaker in translations.
+- PERSON1 shares a screen to show examples of documents and translations, discussing the potential for extracting terminology and using markables.
+- PERSON2 provides an example of a translation issue with the words "tenant" and "sub-tenant" in Czech.
+- The team considers using the WMT [PROJECT1] test suite and other documents to find examples of terminology and translation issues.
+- Discussed preserving gender in agreement between two parties
+- Mentioned auditing domain and possible (CL) domain with little or no reference translations
+- Discussed annotations for 90 lines of audit and 30 lines of unintelligible data
+- Talked about manually checking translations or trusting annotators
+- Discussed using spoken and written documents from (sao) domain speeches for (Bles core) evaluation
+- [PERSON4] left the meeting to attend to other tasks
+- Discussed English-Portuguese data and its potential as a low-resource domain
+- Mentioned multi-source data from [PERSON8] and plans to review it with [PERSON5]
+- Planned a call for next week to discuss data further
+- [PERSON5] has been busy with annotation work for the University of Sheffield

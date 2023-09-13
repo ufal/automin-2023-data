@@ -1,0 +1,86 @@
+Zápis ze schůzky
+
+Datum schůzky: 20. 1. 2021
+
+Téma: Koordinační schůzka [ORGANIZATION138], informace týkající se celkového chodu kanceláře a jednotlivých projektů
+Vedoucí schůzky: [PERSON266]
+Účastníci: [PERSON286], [PERSON287], [PERSON272], [PERSON288], [PERSON279], [PERSON278], [PERSON265], [PERSON264], [PERSON267], [PERSON275], [PERSON291], [PERSON271]
+
+Zápis:
+
+- Bude podepsáno [PROJECT59] v původním znění, pouze s dnešním datumem
+- [PROJECT60]
+-- V řešení, nutno zkonzultovat dopravu.
+-- Dnes bude nafoceno.
+- Nařízení nevynášet interní informace
+- Příští koordinační schůzka se bude konat od půl 10
+-- Bude probíhat prezentace o pražských nemocnicích.
+-- Dřívější termín bude zaznamenán do kalendářů.
+- Nová aplikace na zakreslování studií
+-- V řešení, proběhne krátké setkání.
+-- Studie by mělo být možné ukázat na obrázcích a mělo by být možné projektování na dálku.
+- Elektronizace spisů
+-- Bude se o ni usilovat, na začátku února se začne řešit agenda.
+-- Proběhla schůzka o zakreslování do mapy [ORGANIZATION140].
+- Většina týmu [PROJECT61] nyní funguje jako investor
+-- Na dalším setkání budou požádáni o prezentaci.
+- [PROJECT62]
+-- Obdrženy další pokyny a vyjádření od místostarosty.
+-- Byl vypracován plán.
+- Železniční zástavka v [ORGANIZATION141]
+-- Dopraváci pravděpodobně budou žádat o spolupráci.
+-- Byly poskytnuty podklady.
+-- Nyní se jedná pouze o úvahu, pravděpodobně se bude ještě měnit.
+- Záměr [PROJECT64]
+-- Před dvěma lety obdrženo na vědomí závazené stanovisko na úrovni dokumentace k územnímu rozhodnutí - neodsouhlaseno, jelikož garáže byly umístěny v ploše ZP.
+-- Poté už projekt nebyl předložen.
+-- Nebylo by dobré projekt vázat na stanici [PROJECT65].
+- [PROJECT66] nad hlavním nádražím
+-- Předložena poslední varianta, se kterou však dopraváci nesouhlasí.
+-- Proběhne jednání.
+- Proběhne jednání na úrovni náměstků ohledně nového oddělení zelené infrastruktury u [ORGANIZATION147]
+- [PROJECT67]
+-- Příštích 5 let bude umístěna v Moravském Krumlově, poté 20 let v [ORGANIZATION148].
+-- Bude se uvažovat o lokalitě, kde by mohla být umístěna natrvalo.
+-- Proběhne jednání s majitelem, mělo by být vystaveno usnesení.
+- V jedné z kanceláři došlo ke krádeži peněz, každý by si měl hlídat své věci a kancelář při odchodu zamykat
+- Možnost prezentace agendy týkající se umění
+-- Žádost o poskytnutí informací k aktuálním projektům.
+- Informace o soutěži týkající se koncepční studie [PROJECT69]
+- [PROJECT72]
+-- Zatím neobdrženo oficiální zadání, bude se projednávat.
+-- Jedná se o problematické území.
+-- Za týden proběhne představení studie [PROJECT73], které se bude týkat i dalších největších nemocnic v Praze.
+- Zatím není znám termín schůzky ohledně [PROJECT74]
+-- Nutno urychlit a vyřešit před začátkem února, kdy proběhne [ORGANIZATION156].
+- Nabídka školení Jak se nezbláznit na home officu
+- Participace [PROJECT76]
+-- Obdržen předběžný harmonogram, upravují se termíny.
+-- Nepředpokládá se žádná další změna.
+- [ORGANIZATION138] Cloud
+-- O přístup mohou požádat i ostatní pracovníci.
+- Nová směrnice [ORGANIZATION160]
+-- Nutno dodržovat stanovené lhůty.
+-- Pokud se státní orgány nevyjádří do 30, respektive 60 dnů, bude jejich stanovisko považováno za souhlasné.
+-- Nutno ve spisech zaznamenávat e-mailovou korespondeci, či záznamy z jednání.
+- Diskuze o lhůtách a postupu při zpracovávání spisů
+- Obdržena žádost o koordinační zápis
+-- Nutno elektronicky podepsat.
+-- Třeba přiložit vzor průvodního dopisu.
+- Změna mateřské školky
+-- Žádost o souhlasné vyjádření pro veřejnoprávní smlouvu.
+- Dotaz, zda je nutné koncepční vyjádření pro základní školu, která chce zřídit stojan na kola
+-- Pokud se nejedná o veřejné prostranství, pak vyjádření není nutné.
+- Poskytnutí informací o proběhlém jednání ohledně [PROJECT81]
+- [PROJECT86]
+-- Na zpracování zbývá málo času, nutno sjednat schůzku a zpracovat harmonogram.
+-- Není specifikované, jak má výsledný dokument vypadat.
+-- Ostatní účastníci sdělí své představy.
+
+
+
+
+
+
+Zapsala: [ANNOTATOR5]
+

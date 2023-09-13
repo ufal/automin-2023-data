@@ -1,0 +1,19 @@
+- Meeting held to discuss organization of a shared task or workshop for [ORGANIZATION1]
+- [PERSON1] attended the meeting from the office
+- [PERSON3] joined the meeting late, but everything was fine
+- Discussed the possibility of organizing a satellite event or special session at Interspeech
+- [PERSON1] translated an email regarding the requirements and timelines for special sessions at Interspeech
+- Discussed the possibility of submitting a shared task proposal to both Interspeech and SigDial
+- Concerns raised about the workload involved in organizing both events and finding enough participants
+- [PERSON3] mentioned that they have experience organizing such events and believes it is possible to manage both
+- Discussed the need for institutional membership to submit a workshop application to [ORGANIZATION2]
+- [PERSON2] mentioned receiving an email reply agreeing to some discussed points
+- Discussed the need for membership to [ORGANIZATION4] to submit a proposal
+- Considered paying fees for a workshop and contacting Andre and Hero for more information
+- Discussed preparing content for the workshop proposal and studying other satellite events
+- Talked about the need for management and creating a website for the shared task
+- Discussed potential publication options, including [PROJECT2] Linguistics, archive, and [PROJECT1] from Elsevier
+- Mentioned the possibility of publishing as part of the () community and deferring the discussion to [PERSON4]
+- Agreed to revise the proposal and list additional tasks needed for the satellite event
+- [PERSON1] offered to help with writing chapters for the proposal and reviewing it
+- Agreed to meet again tomorrow to discuss further

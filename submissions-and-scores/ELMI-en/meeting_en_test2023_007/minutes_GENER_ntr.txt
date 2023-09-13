@@ -1,0 +1,48 @@
+Meeting KeyPoints:
+
+
+- PERSON2 is still facing an electricity shortage in the village.
+- PERSON5 is a resident of the student residence, and has provided PERSON2 with a tour of the residence.
+- PERSON5 talks about her student life in the village, and her apartment in the city.
+1. PERSON2 plans to discuss the Project 2 about holocaust survivors
+2. PERSON5 said he would help with project related work
+3. PERSON11 recommended PERSON2 to talk to PERSON2 about seeking help
+- input: PERSON2 will provide evaluations to be cleaned up by others (PROJECT3 test set);
+- input: PERSON2 will create a conversion from the tables into HTML similarly to the tech conversion;
+- input: PERSON2 will regularly submit the results to a public HTML website;
+- ORGANISATION242 is not recommended by PERSON7;
+- a conversion from the
+1. PERSON2 will summarize her impressions from the finishing of the D one point five and D six point three. 
+2. PERSON2 feels that the numbers of words reported in D one point five is good metric to represent the number. 
+3. PERSON2 would also like to represent a language by another metric such as the word ratio of two languages for a given transcript.
+4. PERSON2 suspects there
+In summary, PERSON2 and PERSON11 agreed to perform the following actions:
+1. Provide a (single) document from their own project to PERSON2 for improvement of the document segmenter.
+2. Share the SLT scores with PERSON2 for a sample of their own project documents.
+3. Implement delay and flicker scores in the lagger-climbing and regular reports for their project.
+
+- PERSON2 wants a system that the pipeline from some choice is considered based on some numbers.
+- PERSON11 celebrates Christmas.
+- PROJEC210 and PROJECT2 are the names of the sessions that PERSON2 was talking about.
+- The data set ORGANISATION243 is needed to train the models but it is also important to use data sets with non-native speakers.
+- There was a concern that using all the data sets would make the model too large.
+- The decision on what model to use should be based on the results from the baseline and the cutting model.
+1. PERSON5 and PERSON12 should first view the video which PERSON6 recorded before he left
+2. Some of the paths in the model that was provided are not yet exist, so we should check if they can still work before running the whole thing
+3. The call with PERSON8 will continue after this call
+
+- PERSON2 is happy to add PERSON12 to the list of people informed about the upcoming call with PERSON8
+- PERSON2 will ask PERSON8 to include PERSON12 in the call with him and PERSON5
+- PERSON2 will respond to PERSON11 that PERSON9 is Vi PERSON12
+- PERSON11 will decide what to do with the
+
+- PERSON11 and PERSON13 created a summary of the meeting for PERSON2.
+- PERSON2 wants a summary of the meeting for her.
+- PERSON2 is interested in the subtitler study and language identification.
+- PERSON11 and PERSON13 would like to create a multi-source training for the PROJECT4 corpus for PERSON7.
+
+
+Text Aspect is not bilingual, because it translates from one language to another, not necessarily from one language to another.
+1. The idea of using language ID to show language prevalence in the documents could be an interesting approach.
+2. It is recommended to plan the language event in the middle of the year.
+3. It is recommended to record some suggestions in the document as well.

@@ -1,0 +1,9 @@
+PERSON3's visa is valid for one hundred eighty days from the day she got it. She's coming to the Czech Republic in April. She doesn't have a fixed date for her arrival.
+PERSON8 is in Slovakia, he's moving to Prague tomorrow and waiting for the PCR test on Wednesday. The next week he has a Hacathon on universal coreference with other people, so he's not going to be available for the next week. 
+PERSON10 and PERSON8 discuss the role of the context encoder in the document translation. They discuss how to improve the performance of the encoder.
+Marian's translation was much lower than Martin's because of the concatenation method. 
+PERSON8 tried to use two tokens in the concatenation settings to distinguish between the source and the context. There is a deadline for the EACL demo on Friday the fifteenth of January and there is an ACL deadline at the end of the month. The abstract for the
+PERSON10, PERSON1, PERSON5, PERSON6 and PERSON3 are planning to have at least a short paper for the ASL, try to submit, well or let is move on to the embed list navigation to see to just recap the what is progressed so far, and
+PERSON1 wants PROJECT2 to collect and train on the same data as PROJECT3 experiments. He wants to create a dedicated English to Portugese model and a dedicated data set for Portugese. 
+PERSON3 will gather the data from the spreadsheet shared by PERSON2. She will write the results into the paper. She has already shared the link for the new paper. 
+PERSON1 wants to share the unintelligible link to the new paper with the rest of the participants. 

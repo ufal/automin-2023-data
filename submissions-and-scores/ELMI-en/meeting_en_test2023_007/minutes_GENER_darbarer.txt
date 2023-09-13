@@ -1,0 +1,44 @@
+Date: 13.6.2022
+👥 Attendees: PERSON2, PERSON13, PERSON5, PERSON11, PERSON12
+
+
+🔷 Sound settings of the holocaust session
+	🔹 [PERSON11] is back to work after holidays
+	🔹 [PERSON12] is trying to figure out his sound settings
+	💬 [PERSON11] wants to talk about the holocaust session, which has been postponed by a month.
+
+🔷 recording for PROJEC210 event
+	🔹 [PERSON11] needs someone to take care of the recording for the PROJEC210 event on the 26th of February
+
+
+🔷 Translation dictionary
+	🔹 [PERSON11] and [PERSON2] are working on a transcript
+	🔹 They need to improve their segmenter and create a translation dictionary.
+
+🔷 Preparation of the Wednesday call
+	📅 [PERSON11] asks [PERSON2] to prepare files for the Wednesday call with other partners
+	🔹 [PERSON11] wants to use more data sets
+	🔹 [PERSON12] wants to revamp the pipeline and choose the data set for the experiment.
+
+🔷 Preparation of paper
+	🔹 [PERSON12] wants to use all the data sets available to prepare a paper
+	🔹 Organisation5 is owing them the list of LDC data and other links
+	🔹 One of them is publicly available
+	🔹 The other one is published
+	🔹 [PERSON8] has already written the traces for the system, so he was able to run it
+
+
+🔷 Call for e-mailing
+	🔹 [PERSON2] will send him an e-mail today
+	🔹 [PERSON12], [PERSON5] and [PERSON13] will also be included in the call
+
+
+🔷 Integration of language ID
+	💬 [PERSON11] and [PERSON12] discuss multilingual MT models and how to integrate the language ID into the models
+	🔹 [PERSON11] suggests building blocs
+	🔹 [PERSON2] suggests direct models with no intermediate language.
+
+🔷 Preparation of the event
+	📅 [PERSON11] will talk to [PERSON2] next Thursday about the preparations for the event.
+
+✍ Submitted by: Darbarer

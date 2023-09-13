@@ -1,0 +1,24 @@
+Meeting KeyPoints:
+
+
+- PERSON4 and PERSON5 agreed to review a deliverable assigned to PERSON4.
+- PERSON4 will be away on holidays on 21st and 28th of July, so the meeting on those days can be cancelled.
+- PERSON7 volunteered to volunteer to participate in the meeting on 21st and 28th July.
+- PERSON5 is still working on the multi-source aspect of the project
+- PERSON7 plans to prepare baselines for the multi-lingual, multi-source translation
+- There are no other options to work on the multi-source aspect of the project
+- PERSON5 plans to finish the side project about PDT to help with the alignment of PCEDT in the last PCVT
+- PERSON9 will start to investigate the
+- PERSON2 was focused on the analysis of the system, while PERSON7 was waiting for the dataset reprocessing from PERSON9.
+- PERSON9 told PERSON2 that the English term in the Europar dataset was corrupted. Therefore, PERSON9 started the reprocessing of the dataset from the beginning.
+- Once PERSON9 finished the re
+* Monday meetings are the regular weekly meetings that happen every week.
+* During the week is probably referring to the week of the deadline for delivering the notes.
+* 21st is the first version and the deadline to deliver the notes.
+* We will get an e-mail on Monday for review.
+* We will probably not get the complete notes until the first week of January.
+
+1. PERSON4 wanted to send the link for the email asking for the support team to provide the access details for Project 2 before the meeting.
+2. PERSON7 agreed and would be happy to receive the link for the email after the meeting.
+3. There were no other urgent issues to discuss.
+4. PERSON6 should not worry about his or her paraphrasing skill, as it was not discussed

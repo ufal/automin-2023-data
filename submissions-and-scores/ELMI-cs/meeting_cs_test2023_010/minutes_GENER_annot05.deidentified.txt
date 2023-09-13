@@ -1,0 +1,77 @@
+Zápis ze schůzky
+
+Datum schůzky: 10. 2. 2021
+
+Téma: Porada [ORGANIZATION138], informace týkající se celkového chodu kanceláře a jednotlivých projektů
+Vedoucí schůzky: [PERSON266]
+Účastníci: [PERSON286], [PERSON287], [PERSON270], [PERSON272], [PERSON304], [PERSON279], [PERSON278], [PERSON265], [PERSON264], [PERSON267], [PERSON275], [PERSON291], [PERSON271]
+
+Zápis:
+
+- Zpracovány součty a přehled
+-- Průměr je zkreslující, spisy nejsou stejné a nevyžadují stejnou péči.
+-- Vše bude prostudováno a bude určeno využití.
+-- Je dobré znát pozadí jednotlivých spisů.
+-- Vše je vidět ve společné tabulce.
+- Obdržena žádost o informace podle zákona 106
+-- Požádáno o zrušení žádosti.
+-- Polovina věcí se týká letiště.
+- Účast na [ORGANIZATION191]
+-- Doporučeno další projednání podnětu týkajícího se kryté [PROJECT117] s komplexem.
+-- Výsledek zatím není jasný.
+-- Byla schválena potřebná změna [PROJECT118].
+-- Některé věci byly odloženy na březen a květen
+-- Hodně věcí bylo schváleno.
+- Dnes od 13:30 se koná prezentace Nový [PROJECT87]
+-- Prezentace je dokončena, pokrývá všechna témata.
+- Do konce února je nutné připravit rozpočet a předpoklad čerpání prostředků
+- Nová projektová manažerka [ORGANIZATION136]
+-- Bude mít na starost přípravu a fungování nové sekce.
+-- Pravděpodobně budou požadovány konzultace studií.
+- Řešeny informace z projektu veřejného prostoru
+-- Proběhně prezentace na sekční poradě příští týden, účast nutná.
+-- Prezentace se bude týkat aktualizace [PROJECT119] Vltavy i Berounky.
+-- Očekávají se důsledky pro rozhodování v území i pro změnu platného plánu.
+-- Vyšší limit pro výstavbu.
+-- Jsou zasažena 3 území.
+- [PROJECT75]
+-- Poslány výstupy na zpracované prověření.
+-- Obdržena pozitivní reakce.
+-- Obdrženy připomínky, nebudou se aktualizovat.
+- Lávky
+-- Budou doupraveny a dnes odejdou.
+-- Námitka bude prověřena.
+- Elektronabíječky
+-- Rozeslán seznam.
+-- Třeba stanovit postup a najít systémové řešení.
+- [PROJECT120] v Libni nebyl schválený
+- [PROJECT121]
+-- [ORGANIZATION158] zaslal vyhodnocení hlukové studie od hygieny.
+-- Tramvaj není možné dle metodiky hluku zřídit.
+-- Očekávaný dopad na plánovaný záměr [ORGANIZATION200] a na celou studii [PROJECT122].
+-- Bude zpracováno nové hlukové posouzení.
+- Na severu se kreslí velké rozvojové území
+-- Do pátku bude předložena podoba výkresu 4.
+- [PROJECT112]
+-- Odpoledne proběhne prezentace v [ORGANIZATION126].
+- Paralelně proběhne schůzka [ORGANIZATION163] a [ORGANIZATION158] ohledně ulice [PROJECT123]
+-- Zmínit problém osvětlení a trakčních sloupů.
+- 18.2. bude prezentována [ORGANIZATION200] [ORGANIZATION194] hl. města Prahy
+- Pozvánka na online jednání s [ORGANIZATION158] ohledně koncepce využití alternativních paliv
+-- Nutno nahlásit účast do pátku.
+-- Konání v úterý 16.2. v půl 3.
+-- Žádost o zaslání odkazu celé kanceláři.
+- Zásadní přepsání Eji na [PROJECT131]
+- [PROJECT133]
+-- Neschváleno.
+- Problém cyklostezky v [ORGANIZATION226]
+-- Občanům vadí.
+-- Nutno dospět ke shodě, není možné upředsnostňovat žádnou ze stran.
+- Ve druhé polovině února budou představeny projekty týkající se tématu Umění pro město
+
+
+
+
+Zapsala: [ANNOTATOR5]
+
+

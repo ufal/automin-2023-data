@@ -1,0 +1,64 @@
+
+So, this is something that should be removed.
+(PERSON8) Okay.
+(PERSON17) Yeah.
+
+
+- Project meeting discussed the progress of experiments being conducted by Person19, which involve running the same setup Person11 told them a while ago on other cards
+- Person17 expressed concern about the multi-source status for Project4 and asked if Person19 had configured it in any way
+- Person11 explained that they were waiting for input from Organization3 and that they needed to finish the executive summary and comment on Person3's paper
+- Person17 suggested that Person19 should work on replicating the multi-source experiments on larger text-only data after the baseline
+- Person11 suggested that multi-source text may not be a challenge because the text is already very disambiguated
+- Person17 suggested that this should be tested empirically
+- Person17 suggested that Person19 and Person11 have a separate call to double check the exact plans and look at what Person19 is working on at the moment
+- Person19 and Person11 agreed to have the call at 3:30 PM the next day
+- Person17 mentioned that Person9 is leaving and that Person8 should be in touch with Person9 early next week
+- Person17 suggested that Person4 should test the profanity filtering on logs and then on the live pipelines
+- Person17 suggested that Person8 should explain to Person4 how to do it so that Person4 can test it himself
+- Person8 agreed with the idea of do-it-yourself integration and said they would discuss the exact logistics of that in a call with Person4 later that day
+- Person17 suggested that the profanity filtering should be employed twice on each path, first after the ASR and second after the MT
+- Project meeting discussed profanity filtering, domain adaptation, multi-accent English, and the pipeline set up
+- Profanity filtering should be done by ASR itself, and domain adaptation should be done by [PERSON8]
+- Multi-accent English should be worked on by [PERSON14]
+- [PERSON9] has started preparing for the upcoming Monday seminar
+- [PERSON5], [PERSON8], and [PERSON16] should have a call to discuss how to make the pipeline set up less error-prone and more modular
+- [PERSON6] should make one script with different parameters for the English to Czech model
+
+(PERSON17) Yeah so, summarize the meeting.
+
+
+- Project meeting discussed the use of tensor to tensor for a subtitling platform, and the possibility of limiting the number of languages to improve speed.
+- It was suggested that a fallback solution should be to use [PROJECT2] models running as a worker on the cluster.
+- [PERSON6] is currently working on shortening and extending models, and is running out of storage quota on Mala Strana.
+- [PERSON8] and [PERSON16] will look into running [PERSON15]'s model, and [PERSON19] will be a source of information.
+- Technical issues should be discussed on the [PROJECT9] [ORGANIZATION2] mailing list.
+- [PERSON6] should check the quota on Troja, as the better GPUs are located there.
+
+So, I would like to double check that.
+(PERSON8) Yeah, I can do that.
+
+
+- Project meeting discussed the progress of the project and the need to secure important people for important sessions. 
+- [PERSON8] is working on automating the ASR evaluation and will have a call with [PERSON2] to discuss the specifics. 
+- [PERSON16] mentioned an Indian guy interested in joining the group as a PhD or full-time job and [PERSON17] gave instructions on how to apply. 
+- [PERSON17] highlighted the immediate lessons and to-do list from the last week's session, including the need to record results and store them somewhere. 
+- [PERSON17] also mentioned the need to practice the skill of shuffling text files and the need for someone to be responsible for it. 
+- [PERSON17] discussed the need to debug the domain adaptation for the [PERSON18] toolkit and to confirm that the dictionary is well included and the substitute words are being used.
+
+(PERSON8) Yeah.
+
+
+- Convince [PERSON8] that the project is doing its job with outputs and numbers
+- [PERSON17] suggests using a domain-adapted model for keyword spotting and an end-to-end ASR
+- [PERSON6] suggests scraping [ORGANIZATION5] for data
+- [PERSON14] suggests using sentiment analysis to detect negative sentiment
+- [PERSON8] suggests using a profanity filter to detect and remove any negative sentiment
+- [PERSON17] suggests finding someone to supervise a student for the task
+- [PERSON6] suggests using a model from a competition to detect hateful comments
+- [PERSON8] suggests using students already in [ORGANIZATION2] for the task
+- [PERSON17] suggests reading the experience of others and the problems in the Monday tests document for ideas
+- You will be the first one to make it to Prague.
+- We will have one more call next week and then two weeks of break for Christmas and New Year's.
+- We will meet again on the 7th of January.
+- Thanks for the attendance and patience.
+- Talk to you individually next week.

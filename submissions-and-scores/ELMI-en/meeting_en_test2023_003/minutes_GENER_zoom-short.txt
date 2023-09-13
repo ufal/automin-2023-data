@@ -1,0 +1,6 @@
+PERSON1 and PERSON4 are discussing the annotation of a document with PERSON5 and PERSON7.
+They discuss the timeline for the data deidentification and the need for full samples for the task.
+They decide to leave the mock entities in English and Czech, but leave the names of the entities in the mock languages.
+They also discuss the need to connect the basic operator to the lexical grafers in the seminars, and PERSON4 mentions that he will try to connect it to PERSON7's.
+Finally, they discuss how to ensure no N I leaks into the final data and the open problems of the edition of new documents.
+PERSON1 suggests that they submit the proposal within PERSON4uary 7th or 8th and contact the people who have declined or accepted the invitation.

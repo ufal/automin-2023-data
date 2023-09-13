@@ -1,0 +1,67 @@
+Date: 18.5.2022
+👥 Attendees: PERSON2, PERSON16, PERSON19, PERSON6, PERSON9, PERSON11, PERSON17, PERSON14, PERSON8, PERSON4
+
+
+🔷 Running experiments on the same setup
+	🔹 [PERSON19] is starting to run experiments on the same setup as the one [PERSON11] told him about
+	🔹 [PERSON11] is waiting for the input from the organiser of [PROJECT2]. ⌛
+
+🔷 Discussion of experiments
+	📅 [PERSON11], [PERSON17] and [PERSON9] will have a separate call tomorrow afternoon to talk about experiments with the multi-source text.
+
+🔷 Integration of profanity filtering
+	🔹 [PERSON17] wants to make sure the results are integrated so that he can integrate and test it himself
+	🔹 The profanity filtering was tested on logs, but now it's time to test it on the live pipelines
+
+
+🔷 Preparation of the upcoming Monday seminar
+	📅 [PERSON17] wants to discuss with [PERSON9] the preparations for the upcoming Monday seminar
+
+
+🔷 Record the experience of training
+	🔹 [PERSON17] wants everyone to record the experience of the training on disrupted inputs and on ASR and MT worker
+
+
+🔷 Making the configuration cleaner
+	💬 [PERSON16] and PERS asks [PERSON17] to discuss how to make the configuration cleaner
+	🔹 PERS is not here at the moment
+
+
+🔷 technical issues with Project [PROJECT2].
+	🔹 [PERSON6], [PERSON17] and [PERSON8] are having technical issues with Project PROJET2
+	🔹 It takes too long to train the shortening models
+
+
+🔷 Edit of rainbow models
+	🔹 [PERSON8] will send [PERSON16] and [PERSON17] an email with the path to add rainbow models
+	🔹 [PERSON6] is working on the shortening and extending models
+
+
+🔷 Call for joining the group
+	📅 [PERSON6], [PERSON17] and [PERSON16] will have a call tomorrow at 2 pm
+	🔹 [PERSON6] will be on the call
+	🔹 An Indian PhD student is interested in joining the group
+	📅 The deadline is at the end of the year ⚠️
+
+
+🔷 Automating ASR evaluation
+	💬 [PERSON8] will have a call with [PERSON2] later to discuss automating the ASR evaluation
+
+
+🔷 Data adaptation and development of toolkit
+	🔹 [PERSON17] and [PERSON8] are looking for someone to help with the immediate domain adaptation, the data crunching and the development of the toolkit.
+
+🔷 Working on artificial intelligence
+	🔹 [PERSON17], [PERSON14] and [PERSON6] are working on a paper on artificial intelligence
+	🔹 They need a colleague or friend to help them with their research.
+
+🔷 Topic of sentiment analysis
+	💬 [PERSON8], [PERSON14] and [PERSON6] discuss the topic of sentiment analysis
+
+
+🔷 Bachelor's thesis and the visa
+	🔹 [PERSON14] and [PERSON17] haven't agreed on the bachelor's thesis for [PERSON14]'s student
+	🔹 [PERSON8]'s visa has been approved and he'll probably be in Prague in January
+
+
+✍ Submitted by: Darbarer

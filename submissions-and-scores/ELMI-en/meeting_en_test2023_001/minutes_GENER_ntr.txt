@@ -1,0 +1,76 @@
+Meeting KeyPoints:
+
+
+1. PERSON6 has a hard time hearing the other participants. 
+2. PERSON2 can hear PERSON6 and helps PERSON6 reconnect to the audio. 
+3. PERSON6 rejoins the audio several times, which frustrates PERSON6 and may be annoying to other participants.
+4. PERSON2 is happy to help PERSON6 hear again and tries to help PERSON6 reconnect
+- We can train German ASR system for the German transcriptions.
+- We should train empty systems to shorten the German transcriptions.
+- We can also locate some data which has natural shortening in the architecture.
+- The team has started working on sequence to sequence model that processes the entire input sentence and generates the output sentence.
+- They are processing the prefixes first before generating the actual words so they can generate one word at a time.
+- They have asked PERSON9 to implement this model for speech translation.
+- PERSON3 is not ready and has no specific things for speech translation.
+So the person who has the most knowledge about the infrastructure would be the one who could rewrite the code.   It would be a very big ask, but it would be feasible.  It would be a risk, but it could be feasible for the right candidate.  He would have to be aware of the challenges and be willing to put in the required effort.
+1. PERSON4, PERSON6 and PERSON8 agreed to plan the testing for tomorrow afternoon (Czech time).
+2. PERSON8 agreed to use two local laptops to conduct the testing.
+3. PERSON8 agreed to use Black Bird remote access hardware for the testing.
+4. PERSON8 operated two remote local devices at the same time for the testing.
+5. PERSON8 agreed to
+1. Both PERSON4 and PERSON6 have very different types of work to do during the call, and PERSON4 is the only person who can complete it in a timely manner.
+2. PERSON4 will complete the work assigned to her, but PERSON8 will need to provide two copies of the presentations, each with different paragraphs, to the meeting rooms in a timely manner.
+3. The first presentation will be to
+- PERSON8 was asked to compile some days, are tasked for that and was facing issues with some videos not being properly in a 16 cave format
+- PERSON6 asked PERSON8 to seek help from PERSON10 to help PERSON10 with this issue
+- PERSON10 was asked to help PERSON8 with this issue
+- PERSON8 was asked to help by PERSON6
+1. PERSON8 has not thoroughly evaluated the system yet. He plans to do it together with PERSON1 on Sunday.
+2. PLEASE do not rely on PERSON1 for this important task, because he is very busy with some event during the weekend. 
+3. PERSON1 will join the call today at 5PM. 
+4. PLEASE invite PERSON10 also who can help PERSON1
+* PERSON8 will send the numbers for the 2020 dataset to PERSON6
+* PERSON6 wants to receive the numbers for the two SL domain datasets
+* PERSON4 is working on adapting the two SL domain datasets for use in the ASR system
+1. Input: PERSON4: No, I don't know yet..  And, so, I think there are some things to discuss about the, the multiple dictionaries..  I received your email yesterday with, the thing I was – I mentioned in the mail, that the (ASR) system without using people's pronunciation was better than the one used with people's generated pronunciations.PERSON6: So,
+1. PERSON6 suggested to split the dictionary into smaller dictionaries based on the number of times the word appeared, and only include the words which were pronounced correctly 5 times in a particular variant.
+2. PERSON4 shared a version of the dictionary, which PERSON2 can play with to assist with converting the dictionary that PERSON4 emitted to the format PERSON2 needs.
+3. PERSON2 mentioned that it would be helpful if
+- We need to find out what words are in the dictionary the AI system will generate
+- The dictionary will have three columns: the grapheme, as it is output; the phonemes, as proposed by PERSON2; and multiple lines with different phoneme variations
+- We need to know the dictionary so we can create the multiple lines with different phoneme variations
+- Pieces of knowledge and putting them together is
+1. The German ASR that Dominik is going to use for time stamping may have around 300 hours of training data, but the actual training set used for development contains around 200 hours of data.
+2. It is possible to enrich the language model by texts if we just want to infer the transcripts.
+3. The ASR can generate time stamps for the transcript only. If we need the time stamps for the whole speech,
+
+1. PERSON4 and PERSON8 will prepare the double systems for the ASR tasks
+2. PERSON4 will focus on preparing the domain adaptation model for ASR tasks
+3. PERSON8 will focus on preparing the systems and performing the evaluation on Monday.
+4. PERSON10 has a busy schedule so she can't help with ASR task.
+
+- PERSON8 is the only person who has a working ASR in their company
+- There are two ASR options available for comparison: a K80 and a next-generation ASR
+- PERSON10 mentioned that there could be issues with the files that do not get converted into 16 format easily
+- There is one worker available for comparing the K80 ASR model vs the next-generation model
+1.	PERSON5 compared this course between rainbow and summer set of workers and rainbow set of workers and found the latter performed better.
+2.	Rainbow workers had better scores, in short, yeah.
+3.	So, basically, you can use the individual translation workers, and see if they are performing better.
+There were several points discussed during the meeting:
+- The ASR sometimes could not correctly recognise certain words in the source audio
+- The ASR sometimes produced transcripts with the wrong length
+- It could be caused by the speaker not speaking clearly or there being accent in the transcript
+
+
+1. PERSON2: well – I am – continuously saving checkpoints so I can already run the ASR.. So if you provide me a la– language model, then I –PERSON1: I can only provide you the texts.. The monolingual German text.. The – In the European domain.. And so it will be in domain.. And then I hope there will be good quality for the recognition.PERSON
+
+
+2. The format of the dictionary used by the ASR contains the word
+- The phoneme under investigation is the vowel /a/.
+- The word they sent to demonstrate the phoneme is “cha” in Cantonese.
+- The chart that shows the nearest phonemes to the vowel under investigation is in the paragraph called “vowels” in the Wikipedia page on Cantonese.
+- The nearest phonemes to the vowel /a/ are the vowels /
+1. PERSON2 accepts PERSON4's offer to convert IPS into CMU phonemes.
+2. PERSON4 asks PERSON2 to convert the provided IPS into the CMU alphabet phonemes.
+3. PERSON2 accepts PERSON4's offer and agrees to do so tomorrow.
+4. PERSON11 ends the meeting.

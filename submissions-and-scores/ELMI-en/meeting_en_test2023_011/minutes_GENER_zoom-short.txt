@@ -1,0 +1,6 @@
+PERSON7 and PERSON9 are discussing the holidays in Brazil and the Czech Republic.
+They decide to cancel the meetings on the 21st and 28th as most of them will have holidays or days off.
+PERSON9 is preparing data for the negative constraints and training the model for negative constraints.
+PERSON2 is almost finished with changing Marion to outputs all the attentional incoder decoder attentional weights.
+PERSON4 explains that they should get the first complete version of the deliverable on the21st of December and PERSON8 may need to submit a PDF before the New Year's evenings.
+PERSON7 suggests sending PERSON3 an e-mail to get a preview of the full version.

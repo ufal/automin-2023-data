@@ -1,0 +1,8 @@
+4 5 None
+6 6 None
+7 6 None
+8 6 None
+9 6 None
+10 6 None
+11 6 None
+12 6 None

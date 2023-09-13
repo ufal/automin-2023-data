@@ -1,0 +1,40 @@
+Meeting KeyPoints:
+
+* The automatic metrics currently do not evaluate the translation quality well.
+* The results reported in the paper are apparently better, but the automatic metrics used in the evaluation are not good enough to validate it properly.
+* The evaluation focuses on forms provided in the training data, but the system needs to be able to correctly inflect the given input according to the surface forms provided in the reference.
+
+- PERSON6 does not have the reference material to check the model's outputs
+- PERSON4 thinks the problem is about model evaluation and does not have a solution
+- PERSON2 does not understand the long paper the model is learning from
+- PERSON3 suggests to consider adversarial evaluations and attention analyses
+1. The evaluation of Czech language based on European law terminology is fairly easy and does not require further testing. 
+2. To perform a cross-domain evaluation, it would be helpful to evaluate a Czech dataset on a terminology from another domain such as names of laws and names of European institutions.
+
+1. Although general domain translation might not work because of a problem of typos and wrong translations, it is still worth trying as it may be possible to fine words that are translateable but not usually translated wrongly.
+2. One good idea that can be explored is to check if the terms in the vocabulary database are also in the Czech training data, and if so, to remove them since they may already be out of
+1. PERSON6 estimates that it takes around 2 hours to check 200 sentences from a training data.
+2. PERSON3 plans to use the checked data for the evaluation of PERSON6's model.
+- We can locate the resources ourselves
+- PERSON6 is quite far away and may not really know any more than we do
+- Master's thesis and universities publishing them may be a source of information
+* PERSON1 has no knowledge of any Czech language style transfer data.
+* PERSON3 is aware that the Czech language does not haveinflected forms for mathematical nouns.
+* PERSON4 is
+Dusan means that he wants to perform text-to-text style transfer where the style or the tone of the source text will be transferred to the target text. He has only a limited knowledge about the task but he can imagine that you would want to replace a sentence that is written by a male but said by a female or like you could say that there could be a scientific and an unscientific explanation of certain phenomena. He is not too familiar with the exact data sets and what they cover
+1. Person 1 and 3 would like to focus on improving the representation of Speaker gender in the model's output.
+2. Person 1 proposes to train a new model on the updated dataset to better represent the Speaker gender.
+3. Person 1 and 3 will prepare the new dataset and training details.
+- It is not necessary to use the words tenant and tenant-subtenant in Czech when documenting agreements between entities in the legal (Real) Estate space.
+- Documents do not need to include the word tenant when it refers to a tenant (a person or entity that has leased or will lease space in a building or other structure) in an agreement.
+- The word subtenant is a less popular translation of
+- A sub-lease agreement between two persons: parties that are being leased and the person who is leasing them
+- The gender of the parties in the agreement has to be preserved in the translation in order to make sense
+- The written audits contain annotations for 90 lines and 30 lines of the original English source and the sub-lease agreement
+- We could manually check what is their correct translation for each line of the written audit
+- There is a need to extract reference markers for the specific evaluation of Bles core tasks.  This can be done by using manually validated translations of the reference material for the Bles core tasks.
+- There is also a need to extract reference markers for the evaluation of Bles specific terms.  This can be done by using manually validated translations of the reference material for Bles specific terms.
+- There is also a
+- PERSON5 plans to review the provided data from PERSON8 to see if it is suitable for use in their research
+- PERSON1 would like to participate in the review of the data from PERSON8
+- PERSON3 will schedule a call to review the data from PERSON8

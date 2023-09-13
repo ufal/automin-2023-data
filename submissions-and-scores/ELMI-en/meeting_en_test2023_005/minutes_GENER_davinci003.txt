@@ -1,0 +1,55 @@
+
+
+
+- Person2 arrived late to the project meeting
+- Person2 discussed the status of the deliverables and the upcoming sessions
+- Person12 reported that the report on multilingual machine translations was almost complete and waiting for input from Person14
+- Person15 reported that the report on integration was done for the per voice site and they were waiting for Person17 to provide the numbers
+- Person8 reported that their part was not yet complete but they would do it today
+- Person2 asked Person9 about the status of D1.5 and Person9 reported that it was ready for review
+- Person2 asked Person18 about the status of the training and Person18 reported that they had English and German to German, English, French, Italian, Spanish and Li said they should have 5-5 by the end of the year
+- Person2 asked if the model was deployed and Person18 confirmed that it was integrated with the mediator
+- Person2 asked Person15 if there was any possible optimization so that [Organization3] did not have to deploy 10 workers and Person15 reported that it was planned but not done yet
+
+So, [PERSON1], please, eh, please, eh, contact them and see what they need.
+And then, eh, we will have to, eh, to prepare for that.
+So, yeah, that's it.
+
+
+- Discussing milestone number twelve, which is called Improved ASR systems
+- [ORGANIZATION3] will deploy two to five system as a pair of workers, one from English to five and one from German to four
+- Evaluate the workers with the updated text client
+- Trade fair of student companies in March as a possible source of non-native English speech
+- [ORGANIZATION5] part 1 in mid-April, online, with unknown technical means
+- [PROJECT5] 2021 towards the end of the year, with non-native English to target languages
+- Smaller event on January 25th with Center for Visual History of Malach, domain adaptation possible
+
+
+
+- Discuss management of project events, including Monday seminars, test sessions, [PROJECT5], and [ORGANIZATION5] congress
+- Recordings of important sessions are necessary for evaluation and analysis
+- Nominate someone responsible for making recordings of important sessions
+- Test platform and recording device for each online event
+- Mid-January call with [PERSON5], [PERSON2], [PERSON4], [PERSON18], [PERSON10], and [PERSON15] to discuss status of project
+- Discuss making project more robust and scalable
+- Discuss running models in the cloud and cost implications
+- Project meeting discussed the need for significant effort to input data into PROJECT3
+- It was discussed that for single sentence translation, comparable speeds can be achieved on CPU and GPU
+- The easiest route would be to have servers hardware on premises within the consortium that can run dockerized packages and use own GPU
+- The complexity lies in the pipeline which involves source languages, target languages, and set up of what has been done by both models
+- Regularly testing the given pipeline and running it on existing instances of mediator and workers is important
+- As a fallback solution, dockerized systems can be deployed on paid servers
+- Research angle discussed was simultaneous SLT and how it could be made better
+- Europe- [ORGANIZATION1] speech interpretation corpus, Esic, compiled by [PERSON12] will be suitable for this
+- [PERSON12]'s corpus has audio of the original speaker and the interpreter, as well as text translation of the English transcript
+- Collaboration between [PERSON12] and [PERSON18] is needed to squash the data and do the experiment with data augmentation
+- Experiment with different improvements of MT for the purposes of online translation should be done
+- Agree to have a weekly call between [PERSON18] and [PERSON12] on the abridging topic and another support call with [PERSON4] for online translation
+- Consider merging the two calls into one
+- Create a subteam within the project to run experiments and write papers
+- [PERSON2] will set up a Doodle poll to find a regular slot in the week for the calls
+- Cross-partner team will include at least [PERSON4], [PERSON18], [PERSON12], and [PERSON2]
+- [PERSON12] will compile first beta version of the corpus and pass it to [PERSON16]
+- [PERSON18] has answers from [PERSON11] and [PERSON6] with a complete five to five pipeline, including ASR, for German, English, French, Spanish, and Italian
+- [PERSON18] also has a strong MT model for English to Portuguese, Dutch, Croatian, Slovenian, Polish, and Turkish
+- [PERSON2] will update [PERSON16] on the call updates

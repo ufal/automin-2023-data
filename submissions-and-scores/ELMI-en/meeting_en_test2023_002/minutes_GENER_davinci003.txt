@@ -1,0 +1,61 @@
+
+<laugh/>
+(PERSON2) Yeah, I think that it's it's it's really hard to to to finish it in time.
+But I think that it's possible.
+
+
+- Person 1 and Person 2 discussed the progress of the Czech ASR and the paper Person 2 wants to write for EMNLP.
+- Person 1 offered to help Person 2 with the Flask part of the project after June 10th.
+- Person 2 explained that they need an HTTP server that can receive a stream of audio and send back a stream of text for multiple users at the same time.
+- Person 2 suggested using Flask, but Person 1 suggested using Hypercore instead.
+- Person 2 suggested having two connections for the server, one for streaming audio and one for getting audio back.
+- Person 1 and Person 2 discussed their exams, with Person 1 having two exams and Person 2 having four or five assignments.
+- Person 1 and Person 2 discussed the difficulty of their courses, with Person 1's course allowing Python and Person 2's course requiring C++.
+
+
+
+- They discussed the difficulty of exams and how they are easier to read for.
+- They discussed the difficulty of the course [PERSON5] was taking and how it was not graded.
+- They discussed the difficulty of low latency translation and how it can lead to lower quality translations.
+- They discussed the use of (BLEU) and (COMET) metrics for translation quality.
+- They discussed the possibility of using a data set with human evaluation for compression.
+- They discussed the possibility of shortening translations for faster reading.
+- They discussed the possibility of isometric translation to match the length of the source.
+- They discussed the use of isometric translation for comedy shows with fast dialogue.
+- [PERSON7] is done with IWSLT and is in Paris for an internship.
+
+- Meeting discussed the potential of text compression and machine translation compression
+- Discussed the potential of shortening sentences while preserving the information
+- Discussed the differences in language pace and how it affects the length of sentences
+- Discussed the potential of using different grammar in different languages to save words
+- Discussed the challenges of dubbing movies in different languages to match the original pace
+- Discussed the potential of removing unnecessary information in complex sentences
+- Discussed the potential of using special words in some languages to describe something that would need a description sentence in other languages
+
+
+- Online speech translation should have low latency and high quality
+- Shortening of speech is not recommended
+- Translation should commit to something and correct itself if the guess is bad
+- Compound words and context can affect the translation
+- Retranslating systems are not recommended
+
+
+- Retranslating systems are a standalone thing and not necessarily the state of the art
+- Retranslating systems are an artificial construct created by developers
+- Retranslating systems are not necessarily useful or stable
+- Retranslating systems are not necessary for live speech to text translation
+- Retranslating systems should not be used to flicker between unstable hypotheses
+- The model should correct itself in a way a human translator would if they had the time to think about the mistake
+- The model should produce a general translation with reduced context and then specify it with more context
+- The model should not cut off the sentence in the middle of a word and restart the sentence
+- The model should finish the sentence and then try to recover from the mistake
+- Goal is to have a one-time translation that cannot be undone
+- System should do lengthening, not necessarily shortening
+- Monotonization of sentences should be used
+- Output should be as fluent as possible
+- Low latency should be a priority
+- Reference should not be monotonous
+- Reordering network should be used
+- Authors handpicked examples looked good
+- Brainstorming session was successful
+- Retranslating system should not be focused on

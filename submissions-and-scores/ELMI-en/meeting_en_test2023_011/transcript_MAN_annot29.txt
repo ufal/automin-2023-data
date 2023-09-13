@@ -1,0 +1,327 @@
+<another_language/>
+(PERSON7) Hi [PERSON9], or it's the -
+<another_language/>
+(PERSON9) Hey guys.
+(PERSON7) Hi.
+So hm how is it with the holidays? 
+Or they're they're not until -
+Oh how is it in Brazil with with Christmas?
+Do you do you have holidays before the Christmas Day or or only Christmas Day and the following days?
+(PERSON9) Um I think it is just some Christmas Day?
+(PERSON7) (Oh really?)
+Okay.
+(PERSON9) Yeah, because everybody works until -
+(PERSON7) M-hm.
+(PERSON9) 24th.
+(PERSON7) M-hm.
+(PERSON9) (?? 24th then ??)
+(PERSON7) So -
+(PERSON9) But this period is like people are not really really working.
+It's just like a lazy work.
+(PERSON7) Yeah like yeah, I do understand.
+So, like, good news is that basically we do have holidays officially until or 24, 25, 26, right?
+That's the official state holiday in Czech.
+So don't expect any any additional work on those days.
+(PERSON9) I will consider I'm I'm in in Czech Republic.
+(PERSON7) Yeah yeah yeah you know, you are paid by us, so you can follow our our holidays.
+(PERSON9) And you have a lot of holidays in fact.
+(PERSON7) Yeah. 
+(PERSON9) Maybe -
+(PERSON7) That that's why we do not have many things done. <laugh/> 
+(PERSON9) (You guys don't work a lot.)
+(PERSON7) Yeah.
+It depends.
+Okay, so we're waiting for [PERSON2] I guess. 
+(PERSON9) (?? he's)
+(PERSON7) Probably for -
+(??) is here so possibly for [PERSON4] because he was on the lecture today.
+And maybe [PERSON6].
+But since [PERSON6] is still not online, I guess he's not connecting today.
+(PERSON2) Hi guys.
+(PERSON7) Hi.
+(PERSON9) [PERSON2].
+Hi
+(PERSON7) So, maybe like what we can start (with) is next meetings.
+So next week it's still workday but I have officially vacation.
+I'm on vacation, so I'm not sure whether I will be joining.
+But yeah technically I will.
+(PERSON5) (I'm also on vacation.)
+(PERSON7) Yeah so I -
+(PERSON2) (I believe I) me too I think I think I (wrote) something like that so technically I'm also on (vacation).
+(PERSON7) Okay so so if if most of us is on vacation so let's cancel the meeting on 21st?
+(PERSON2) If I'm by me I I don't really care.
+(PERSON7) Mhm.
+(PERSON9) I agree.
+(PERSON7) And how about 28th?
+Like again, people might have just uh vacation or or days off on the on the day.
+(PERSON5) Yeah, I have vacation. <laugh/>
+(PERSON7) Okay, so technically ah 21st and 28th uhh will be cancelled, I can ask [PERSON4] whether he has different plans or something but yeah i guess (??).
+Mmm okey mmm.
+So. 
+Good.
+Other than that.
+So regarding the last meeting with the partners.
+Ah good news is that yeah they were not bothering us with paraphrasing or over integration, so it's not that (hot).
+We got additional work.
+But it's not that much like basically since we are not writing (any) deliverables now ah we will -
+We (??) to review one of the deliverables.
+I'm not sure, whether we were assigned, which one.
+There's a dissemination and mmm quality estimation or -
+Hi [PERSON4]!
+(PERSON5) Yes yes yes, quality estimation or (?? to) [PERSON4].
+(PERSON7) Okay good so we have the more fun deliverable.
+Uhh.
+(PERSON5) Like it was first assigned in the other way around but then uhh [PERSON4] asked for the other deliverable and - 
+(PERSON7) ([PERSON4] faught for us) and and now we -
+During the -
+(PERSON5) (??) said that he would also like this deliverable but then -
+(PERSON7) Yeah obviously.
+(??)  what's the review dissemination. 
+<laugh/>
+Okay so so basically I guess me and [PERSON4] and maybe [PERSON5] we can we can review it but but we don't need more more than two or three people on that.
+Even two people should be more than enough, right?
+(PERSON4) Two is definitely more than enough.
+Like that's -
+(PERSON7) Yeah.
+(PERSON4) It will be good to have someone aside from me, because I'm a -
+(PERSON7) Mhm okay, I can -
+(PERSON4) So -
+(PERSON7) I can I can (vulunteer).
+Ahhh yeah.
+And back to back to the vacation I was discussing with others uh that on 21st and 28th most of us will have uh holidays or days off so we can cancel these meetings?
+(Or) do we want to have them anyway?
+[PERSON4]? 
+(PERSON4) Yeah well I'll I planned to be at work on 21st but the kids got their extended school vacation very likely.
+So it would be hard for me probably anyway.
+(PERSON7) So so -
+(PERSON4) So let's cancel those two.
+(PERSON7) Yeah, since there is nothing urgent until the end of the year I think we can we can have these two meetings cancelled?
+And the next one will be on the January - January the 4th, right?
+So I guess we can agree on that, right?
+Yeah, okay.
+So other than that, let's discuss the multi-source and (??) navigation, so -
+Regarding multi-source [PERSON5] we we are still trying to collect the data.
+Like I I wrote an email to [PERSON1] and she said that we should bother her after New Year's because she has some other deadlines.
+And you probably didn't get (in) any response from the [ORGANIZATION1], right?
+(PERSON5) No, I did not. 
+(PERSON7) Okay, so are there any other options?
+Or like technically when we get the data from [PERSON1] we can start working on it.
+(PERSON5) Mhm.
+(PERSON7) So that's fine.
+And I can try prepare at least some baselines for the multi-lingual multi-source translation, which can be like separate set of experiment.
+(PERSON5) Mhm.
+(PERSON7) But I still haven't got to that.
+Hmm but I guess that that's it regarding (this task) right now.
+(PERSON5) Yeah, I'm like I'm not working on it much.
+Or I I have't been working on it much this week because I'm still ah working on the like side project of PDT we just -
+They asked me to help them since I'm li-
+I was working on the alignment in PCEDT on the last (PCVT) so -
+Yeah but so, so I hope, like this week I will finish it then and I can again concentrate on on this stuff.
+(PERSON7) Mhm.
+(PERSON5) Like in January.
+(PERSON7) Okay yeah so I guess I guess that's that's uh all regarding the multi-source.
+And or so let's move to the (??) navigation.
+Uh so if I'm correct you are focused on the (positive constraints) rigt now, right?
+Or are you -
+(PERSON9) Yeah so -
+(PERSON7) Yeah, mhm.
+(PERSON9) We're still working on the the negative co-
+Now in order to to train the model for negative constraints.
+So hmm as (to) generating the data for that actually we're using a (??) as as we have discussed and it's almost done but it's still processing.
+And at the same time now I'm going to start to investigate if the problem with (foreign flection) happens or and with negative constraints (??) constrain the code, right.
+(PERSON7) So you're preparing data for the negative constraints, because you already have the data for the positive constraints.
+(PERSON9) Yeah, yeah perfect but -
+(PERSON7) Okay.
+(PERSON9) [PERSON2] has to train the model -
+(PERSON7) Mhm. 
+(PERSON9) Using negative constraints in the input.
+So 
+(PERSON7) Mhm.
+(PERSON9) (I need) to prepare that data, and ah so it's too it's too processing.
+Ah, I have the ah the (test set of ??) but need (to) train set as well, (a translaton of that so) -
+I'm preparing it and I think it'll be ready uh soon. 
+Uh a part of that I'm using the the (Marion) implementation of negative constraints to to -
+(PERSON2) Did you manage to get (it done)?
+(PERSON9) (??)
+(PERSON2) (Does it work?)
+(PERSON9) S- Sorry?
+I I I didn't -
+(PERSON2) Did you manage to get (it run)?
+(PERSON9) (test that yet.)
+(PERSON2) Okay okay.
+Yeah I didn't I didn't test that.
+I would try it today.
+(PERSON2) (Perfect.)
+(PERSON9) And because I I'm I'm still finishing the the the (code) to the rappel so I was -
+(PERSON2) Yeah sure, of course.
+(PERSON9) (??)
+(PERSON2) Because I think you you will run into some problems, because I'm not that (??).
+(PERSON9) Oh yeah. 
+<laugh/>
+(PERSON2) (Probably but -)
+(PERSON9) (I asked ??) 
+(PERSON2) (??) something feels weird, tell me, because I did not really test it that properly.
+But it should work, somehow.
+(PERSON9) Yeah it should.
+(PERSON2) I'm not sure about the (batching). 
+I didn't look into that.
+I know I wanted to implement (batching) but right now I'm not sure because I think it didn't feel worth it because all the sentences were separate in the files either either way.
+So I think I only use it separate sentences.
+So I'm not sure if you can -
+Like if the if the input files format for the constraints allow for more than one sentences or input but that that's like a really easy fix.
+But right now I'm not sure if it will work with more than one sentence.
+But if it doesn't just tell me and I'll fix it right away.
+(PERSON7) It just can -
+Can I uh just just to make make it clear for myself.
+Uhh.
+You you're saying that you can process only one sentence at the time.
+But yet on the other hand, you (also were) training systems for the constraint (decoding).
+Or is that is that something different?
+(PERSON2) No, I I mean for the for the constraints that are done in the dec- (Marion) decoder for my -
+Uh for the modification (sided) to decoding for the negative constraints with ah the trees and the stuff we discussed like months ago.
+(PERSON7) Oh I see, okay so so -
+(PERSON2) Because all the all the test set was just uh one sentence.
+Each file was one sentence.
+I think I did it like the stupid way.
+I called (Marion) each time for each file and -
+I think it's possible.
+I didn't implement using more than one sentences profile but - 
+(PERSON7) Oh yeah yeah.
+(PERSON2) I's like probably the format so.
+(PERSON7) Oh I I I see.
+So so the other other, the the more efficient method was just ah (appending) the constraints.
+(PERSON2) Yeah, yeah, yeah.
+(PERSON7) The training is like this (??)
+(PERSON2) (??) is just about the modification of the decorder.
+(PERSON7) Mhm.
+(PERSON2) I'm I'm not sure about that, but it -
+If it doesn't work it is easily fixable.
+But the (Marion) constraining is inference only li- right?
+You do not need it for -
+(PERSON2) Yeah -
+(PERSON7) Training so -
+(PERSON2) Yeah yeah yeah.
+(PERSON7) So I think it's not such problem that you can only process one sentence at the time.
+Okay.
+(PERSON2) We'll see.
+Well, either way -
+(PERSON4) That's for the that's for the negative contrains because for the - 
+(PERSON2) Yes.
+(PERSON4) Positive constraints, it's only data manipulation.
+You just say that in the training data what in the source -
+(PERSON2) Oh yeah I I tried like really really simple baseline method that I used all the subwords from the constraint and add it some (bonus) to the soft (pocks) for these tokens in each steps but -
+(PERSON4) So that's the positive constraints.
+It's or -
+(PERSON2) Yes, that's that's the only stuff I did for positive constraints .
+With the negative constraints I did something a little bit more complicated in the decoding.
+Like filtering out the beams and replacing the beams with different beams.
+And for like multi-token constraints and this kind of stuff.
+But for the positive constraints I only tried -
+Or I only compared the training approach with yeah just this very simple stuff.
+Just modifying the scores in each step in the same way.
+(PERSON7) Okay, so back back to the positive constraints.
+Were you already focusing on the analysis of the system?
+(PERSON2) Yeah right now I'm I'm kind of waiting on the dataset reprocessing from ([PERSON9]).
+Also [PERSON9] I had a look at the (code) and I think I know why it's so slow.
+Because you for for you for for each -
+Yeah for for each entry in the terminology in the (Europar) reprocessing.
+You open the dataset, tokenize it, read it line by line, tokenize it line by line and then close it.
+But you only you do that -
+(PERSON9) Oh yeah (??)
+(PERSON2) Like (14000) times -
+(PERSON9) Yeah
+(PERSON2) And you can do this only once, right?
+So 
+(PERSON9) Yeah -
+(PERSON2) We are doing it like (14000) times.
+So I think that that that is probably the problem with the speed.
+So if you just move that before the (four loap), it's probably -
+(PERSON9) Yeah.
+(PERSON2) It's probably okay.
+(PERSON9) I will check that.
+(Europro) I had to start it over again because of the what you said about the English term, right?
+So -
+(PERSON2) Yeah. 
+(PERSON9) Since it it has just started I can I can change it in and save some time.
+(PERSON2) I think it should be much faster than that.
+Like yeah, for for the analysis I started to work on -
+Or, I'm almost finished with changing (Marion) in a way that it outputs all the (attentional incoder decoder attentional weights).
+So we see what the decorder (look set) when it generates some work.
+And we can check if it really looks at the constraints when generating the target constraint.
+If it looks at the source constraints.
+And yeah, so that's (important issue ??) that's almost done.
+And then we have to figure out what we are looking for and what we want to see there, I guess.
+(PERSON7) Okay so technically ah, yeah, we can, we can discuss it even like (??) Monday meetings.
+You can update me.
+(PERSON2) Yeah yeah.
+(PERSON7) During the course.
+During the (week).
+Yeah okay, so that's fine.
+And I guess that's that's everything like -
+Is there anything else we need to discuss now?
+[PERSON4] do you know when when are we supposed to get the deliverables from the -
+(PERSON4) I haven't checked that -
+(PERSON7) (?? We we -)
+(PERSON4) (Do we have that ?? flink) already?
+Is there (??)
+(PERSON7) Probably not.
+I guess we would get an e-mail.
+Okay I will -
+(PERSON4) (??)
+(PERSON7) I will keep an eye on the on the on the updates.
+(PERSON4) If I remember correctly it was on uh in a week from now, the the first complete version.
+That's (what I) asked for, 21st. 
+Uhh and then some updates still may come over the over the Christmas break.
+(PERSON7) Mhm.
+(PERSON4) But hopefully no later than on the 21st, we should get the the full version.
+And I hope I actually - 
+Please ask [PERSON3] earlier, because I think it would be better to have an a preview already during this week.
+(PERSON7) Yeah (I will do that).
+Basically just at least some text to review, even if it's not complete.
+(PERSON4) Yeah.
+(PERSON7) Yeah okay.
+So I will I will check the (??) and try to keep the (eye on it).
+And you said 21st?
+Or when should we get that?
+(PERSON5) 21st is the first version and I think the deadline, like for the deliverable to be submitted is the end of the year.
+(PERSON4) Yes.
+(PERSON5) (31st.)
+(PERSON4) So, I remember that for [PROJECT1] I was doing this from last year ah, from some cottage in the mountains.
+And I just realized, shortly before the the New Year's evenings that I need to submit it.
+And ah <laugh/> so this is also something that will happen to [PERSON8] I'm afraid that he could be -
+Well, no party, but maybe at the remote party.
+And then suddenly he would realize that he has to submit a (??). 
+So there will be no review of like at that point. <laugh/>
+He would simply take the PDF and upload it so. <laugh/>
+(PERSON7) Well, okay.
+So, Yeah, I will check on 21st, and otherwise I will send them an e-mail (??)
+(PERSON4) Please I think better to send them an e-mail right now and just ask for that link ah, ah in in advance.
+(PERSON7) Okay, mmm okay.
+(PERSON4) Yep thanks.
+(PERSON7) Do we have other issues to discuss today, or is that is that everything until the New Year?
+(PERSON6) Yeah, so for the (??) 
+(PERSON7) Okay [PERSON6].
+(PERSON6) I hope there was't anything for me?
+Or?
+(PERSON7) Not not specifically.
+(PERSON6) Okay.
+A good news is that the paraphrasing or (??) was not brought up last Thursday so-
+(PERSON6) <laugh/>
+(PERSON7) There are other or urgent things right now so it is fine.
+Okay so if that that's all I guess yeah see you see you next year I guess.
+And have have a nice holiday.
+(PERSON4) Yeah yeah yeah exactly.
+So [PERSON6], if if if we could maybe stay here for a little (??) for for the (outings). 
+(PERSON6) (Okay okay.)
+(PERSON4) Otherwise, I agree with [PERSON7].
+I think [PROJECT2] is good and safe from our side.
+(PERSON7) Okay so -
+(PERSON4) Okay, thanks.
+(PERSON5) Have a nice Christmas if possible.
+(PERSON4) Have a nice Christmas (??)
+Yeah.
+If possible, exactly. <laugh/>
+Bye bye.
+(PERSON2) Bye.
+(PERSON5) Bye.
+<another_language/>

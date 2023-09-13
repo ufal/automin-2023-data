@@ -1,0 +1,104 @@
+já tam dám, že to vzniklo na ÚFALu, na MFF, <unintelligible> in Prague a že to bylo fundováno grantem GAČR.\n(R) Jo.\n
+
+- Práce na projektu probíhala na ÚFALu, MFF, <unintelligible> in Prague
+- Byla fundována grantem GAČR
+- V acknowledgements se děkuje rodině a spolupracovníkům
+- Na titulní straně je uvedeno nakladatelství
+- Na stránce s obsahem se vyplňují reviewři
+- ISBN se získává naklikáním
+- Názvy obrázků byly zkráceny
+- Překlad se provádí před zapnutím lepší kamery
+\n(R) No, to je dobrý.\n(D) No, takže to je dobrý.\n
+
+- Projednává se, jak správně uvést identifikátory v projektu.
+- Diskutuje se o tom, jak uvést poděkování v projektu.
+- Projednává se, zda je potřeba motto v projektu.
+- Projednává se, jak upravit úvod projektu.
+- Projednává se, jak upravit obrázky v projektu.
+- Projednává se, jak upravit závěr projektu.
+\n(D) Tomáš může mít <other_language>related work</other_language>, a-\n(T) Hm.\n(D) a <other_language>conclusion</other_language> můžu mít já.\n(T) Hm.\n
+
+- Projektové setkání se zabývalo návrhem knihy s identifikátory PERSONnumber.
+- D (D) a R (R) diskutovali o počtu stránek knihy a jejím rozdělení.
+- T (T) a D (D) se zabývali finančními prostředky, které byly vynaloženy na projekt.
+- D (D) a T (T) diskutovali o zelených obdélnících a číslích, které byly v knize.
+- D (D) navrhl, aby každý člen týmu měl na starosti jednu kapitolu knihy.
+\n
+
+- Jindřich má na starosti deep learning a kapitolu 2
+- Tomáš má na starosti kapitoly 3 a 4
+- David má na starosti kapitolu 5 a shrnutí
+- Ruda má na starosti úvod a kapitolu 6
+- Každý má zodpovědnost za to, aby jeho část byla bez chyb a prohnaná alespoň Grammarly
+- Ruda má na starosti zkontrolovat všechny části před tiskem
+- Tomáš a Ruda mají diskutovat o tom, jak se chovat k emodžisům jako k slovům
+\n
+
+- Tým T a R diskutoval o tom, jaký postup použít pro pool requesty a reviews
+- Tým se domluvil, že Jindřich by měl udělat něco s tím, co si myslí, že je na něj, příští týden
+- Tým se dohodl, že T se podívá na GitHub, protože se tam něco děje
+- Tým se dohodl, že Odušek má deadline v pondělí a od středy do soboty bude reviews response
+- Tým se dohodl, že se setkají znovu zítra
+- Tým se dohodl, že by měl být způsob, jak může člověk pushovat blbosti bez review, ale to se nakonec vypne
+\n
+
+- Jindřich napsal polemickej závěr a David přesunul komentáře, aby byly u polemickejho závěru
+- Tomáš a David se domluvili, že Tomáš rozepíše tři a čtyři a David zkrátí pět
+- David a Robert se domluvili, že Tomáš napíše <other_language>summary</other_language> a David ho přepíše do přítomného času
+- Robert navrhl, aby se do <other_language>summary</other_language> daly závěry, co se zjistilo
+- David a Robert se domluvili, že <other_language>summary</other_language> bude na webu u knížky a že se smažou <other_language>chaptery</other_language>
+- Robert navrhl, aby se do <other_language>summary</other_language> daly i <other_language>list of figures</other_language>
+\n
+
+- Projektové setkání se zúčastnili R, D a T.
+- D a R diskutovali o tom, jak zkrátit texty a tabulky v knize.
+- T navrhl, aby se zkontrolovaly citace z archivu a zjistilo, zda neexistují jiné verze.
+- D navrhl, aby se zeptal Stranjaka na barvy v tisku.
+- R navrhl, aby se stránka vytištěla a zkontrolovala barva.
+- T navrhl, aby se napsal skript pro automatizaci kontroly citací.
+\n(D) <other_language>hidden states</other_language> jsou definovaný, a pak ještě tam jsou <other_language>hidden states</other_language> dvacet jedna a šestnáct.\n
+
+- Projednává se bibliografie a index pro projekt
+- Bibliografie by měla obsahovat odkazy, ale nemusí být nutně v tisku
+- Tomáš neslyší, co se říká
+- Dan Zeman má v bibliografii neučesané odkazy
+- Dan Zeman má v indexu pouze jazyky
+- Miriam Frýd je učitelka Aničky
+- Nikoletta <unintelligible> organizuje <unintelligible> s pánem Kalit Šourky
+- Aravin Joshi možná už zemřel
+- Index by měl obsahovat pojmy, které jsou v textu definovány
+- <other_language>Hidden states</other_language> jsou definovány ve dvaceti jedné a šestnácti sekcích
+\n(R) No, já bych to taky používal, ale já jsem si říkal, jestli to není nějaký oficiální zkratka, kterou bychom měli používat.\n
+
+- Setkání se týkalo kontextových vkládání a jejich pochopení
+- Diskutovalo se o odkazu na stránce 116
+- Odkazuje na stránku 139
+- Odkaz na stránku 139 skončí na abreviacích
+- Diskutovalo se o tom, že je třeba v každé kapitole rozepisovat zkratky
+- Jindřich nastavil, aby se všechny zkratky rozepisovaly
+- Diskutovalo se o GPT, ELMo a BERT
+- GPT dva se píše jako Generative Pre-Training Transformer
+- GPT jedna se píše jako Generative Pre-Training
+- Wikipedie není spolehlivý zdroj
+- GPT by mělo být používáno jako Generative Pre-Trained Transformer
+null
+
+\n(D) No, tak to je divný.\n
+
+- R a D diskutují o XLMR, což je <other_language>cross-lingual language model</other_language>.
+- R navrhuje ignorovat poznámku Péti o používání hlavně MT a předtrénovaných modelů.
+- T navrhuje zahrnout do úvodu informaci o používání MT a předtrénovaných modelů.
+- D navrhuje překopírovat část z <other_language>summary</other_language> do úvodu.
+- R navrhuje smazat část od Jindřicha, protože je zkopírovaná do úvodu.
+- D navrhuje podrobnější úvod a zkoumá úvod u Dana Zemana.
+null
+
+\n
+
+1. Tomáš a David diskutovali o tom, jak zvětšit velikost písmen v knize.
+2. Tomáš navrhl rozdělit stránky na dvě a David se domníval, že to nebude o moc větší.
+3. David a Tomáš se shodli, že by bylo lepší odkazovat přímo.
+4. Tomáš navrhl, aby se stránky neotáčely, ale David a Rohan se domnívali, že to bude pro uživatele horší.
+5. David a Rohan diskutovali o tom, jak se číslují stránky a jak se dělají popisky u dvoustránkových obrázků.
+6. David a Tomáš diskutovali o tom, že počet stránek v knížce musí být dělitelný nějakým číslem.
+7. David a Tomáš se podívali na knížku, která byla svázaná po osmi stránkách.

@@ -1,0 +1,53 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON4, PERSON5
+
+
+SUMMARY
+- PERSON1, PERSON4 and PERSON5 are meeting today to prepare data.
+- There are only two of them, so they don't know if anyone else will join them.
+- PERSON5 was about to join, because he wants to be in the meeting.
+- PERSON3 is not PERSON4 and PERSON5 are working on an online document.
+- The annotator stopped working on it, so PERSON4 will finish it himself.
+- They need to get in touch with PERSON7 to double check if he can do the processing.
+- They can either put it to the master plan PERSON5 explains the annotation process to PERSON4 and PERSON1.
+- PERSON5 and PERSON4 are working on a project to remove all named entities from the collection of documents and replace them with placeholders.
+- They need to do it at two levels: the word type level and the word token level.
+- PERSON5 is worried that PERSON7 will not be available to do the bulk processing of the documents.
+- The collection of candidates that was done by PERSON7 is not complete.
+- There are many typos in the list.
+- PERSON5 and PERSON4 are working on a project involving the revision of documents, preservation of conferencing chains and conference chains.
+- PERSON5 and PERSON4 discuss how to preserve the identity of projects, speakers and other people.
+- PERSON5 will get in touch with PERSON7 to check if he can preserve the identities of the data.
+- If he can, he will deidentify the corpus himself.
+- If not, then it will be up to PERSON1 to do it.
+- PERSON5 is waiting for PERSON4 to finish.
+- PERSON6 needs to start deidentifying people.
+- PERSON4 wants to get in touch with PERSON6 as soon as possible.
+- She needs to read the regulations and agree on a timeline.
+- She also needs to discuss the annotation of the consent forms and something totally different related to that.
+- The project consists of two consent forms: one for working with data and one for publishing it.
+- The first consent form is about working with the data, the second one is about publishing.
+- The consent forms are not perfect, but they are signed by 30% of participants.
+- PERSON5 proposes to focus on the second form only for the purpose of the release of the corpus and forget about the first form for the new meetings.
+- PERSON4 suggests to prepare the special samples for every consent for every participants.
+- PERSON4 and PERSON5 explain to PERSON4 how to extract the names of participants from the meeting minutes.
+- PERSON1 suggests to create a master sheet where the names are extracted from the minutes and give them to all the participants.
+- PERSON5 and PERSON1 are going to prepare individualized master sheets for the task.
+- They need to have the full dataset by the end of March.
+- If there are any outstanding pieces of information, they will be deleted from the master sheet.
+- PERSON1, PERSON5 and PERSON1 are discussing the timeline for the det deindetification of the participants.
+- PERSON5 has created a webpage during Christmas holidays.
+- Master's students should not be in the Scientific Committee, because they are probable participants and they could be the potential reviewers.
+- PERSON4 and PERSON5 are working on a project for Ph.D. students.
+- They need to prepare a list of potential candidates, send an e-mail to them and keep track of who has declined or accepted the invitation.
+- PERSON5 wants to make several copies of the invitation e-mail.
+- PERSON1 wants to submit the proposal within January 7th or 8th.
+- PERSON4 and PERSON5 are going to take part in the call.
+- They are also going to ask the keynote speakers from the 2006 Dami, Corpus Jean Kaleta and Jung Hun Chou as the background knowledge from the past.
+- PERSON4 will come to ORGANIZATION2 at Thursday and will write to PERSON6 if she also will speak.
+- He will also send letters to his candidates in English.
+- He is Russian.
+- PERSON1, PERSON5 and PERSON1 say goodbye.
+
+
+Minuted by: Team Synapse

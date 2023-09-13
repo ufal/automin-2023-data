@@ -1,0 +1,39 @@
+
+
+
+- Person 8 has returned to Iran and is using their phone for the project meeting
+- Person 1 and Person 7 are discussing the progress of the project
+- Person 1 is working on automating the project data set and is using the Petri environment
+- Person 7 suggests running the project in slices and collecting the output files before running the evaluation
+- Person 1 is running the script they wrote in two different folders and is trying to parallelize the output
+- Person 7 wants Person 1 to prepare a table in the delebl with the language pairs and systems they are reporting on
+- Person 7 also wants Person 1 to paste the path name to the file with the results in the search document
+- Person 5 is starting work on the last letter sent by Person 7, which is about evaluating the calsru modules
+
+(PERSON7) Yeah, yeah, yeah.
+(PERSON8) we want.
+(PERSON7) Yeah, yeah, yeah.
+(PERSON8) So, yeah.
+
+
+- Work on the evaluation of existing systems for domain adaptation and multi-source machine translation
+- Evaluation is common to both tasks
+- Focus on evaluation rather than training new systems
+- Evaluation should be done by [PERSON1] and [PERSON5]
+- Discuss upcoming events such as the Malach conference and student companies fair
+- [PERSON11] should learn Caldi and get a head start with existing models
+- [PERSON10] can help with launching Caldi and understanding model components
+- [PERSON8] and [PERSON9] should have a meeting to discuss SLTV and [PROJECT1] test
+- [PERSON8] will meet [PERSON9] in person for two or three days to discuss small details
+- Project meeting discussed whiteboard, templates of tables, and evaluation
+- [PERSON1] to prepare tables and [PERSON4] to work on evaluation
+- [PERSON2] to prepare repository for output
+- [PERSON9] to have access to cluster and run evaluations
+- [PERSON5] to help with evaluation
+- [PERSON1] to generate results with script
+- [PERSON7] to review (delebls)
+- [PERSON7] to review CVs
+- No call next week or on New Year's Eve
+- Meet again on 7th of January
+- Linguistic Mondays on 4th of January
+- [PERSON7] to work on long term goals

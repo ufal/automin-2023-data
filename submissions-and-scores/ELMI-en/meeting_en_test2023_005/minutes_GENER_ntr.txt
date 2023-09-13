@@ -1,0 +1,88 @@
+Meeting KeyPoints:
+
+- The last call before the Christmas was for the purposes of further improving the models that will be used for the purposes of the project.
+- I would like to hear about the experience running the sessions, namely PROJECT5 and PROJECT4.
+- We had a harsh week a few weeks ago, which is when we realized that we need to stabilize expectations from all participants in the sessions.
+- The upcoming sessions will
+
+The definition of the test set is given in the release note for D six point three.
+A table or an existing model that describes scores of older systems deployed in the mediator for the language pairs of interest is not yet available.
+Both PERSON8 and PERSON15 acknowledge that this table should be available soon, as PERSON8 will complete his part of the task and PERSON15 is waiting
+- PERSON5 has received an almost complete version with sections for ASR, MT, NSLT, but not including the automatic minuting section
+- There is a potential update that should be included for testing project2
+- PERSON9 said that PERSON3 is the main one who can add that information, and PERSON7 should also be able to add that information
+- PERSON2 also knows that it is their fault,
+
+- PERSON18 is not sure whether PERSON16 has the models integrated with the mediator.  This indicates that PERSON16 may not have complete control of the platform and could be at risk of including proprietary information.
+- PERSON18 agrees that PERSON16 should evaluate PEDSYS models and agrees to share the results with other models owners.
+- PEDSYS models should be evaluated against available consortia resources to
+- There is a case to be optimized where all the translations are done on the same model but the output of the model needs to be different for each target language
+- There is a plan to optimize the model's computation so that it can output the translation in parallel.
+- There will be a call for concrete plan updates in January.
+Organisation3 will deploy that two to five system as a pair of workers, where one of those goes from English into five, and the other goes from German into five. There are two copies of each system, so sixteen systems in total. Each system will be made up of twoMTM workers, so the total number of workers will be eight.
+
+* PERSON2 invited PERSON18 to the meeting to discuss the status of languages for AI system integration (delbl).
+* PERSON2 asked PERSON18 to summarize the discussion for PERSON11 before the end of the year.
+* PERSON2 would like to know the status of the languages before he ticked off the integration for the previous milestone.
+* PERSON2 wrote to Tyson to discuss the status of
+
+Next, we will have a brief Q&A session to conclude the meeting.
+- The trade fair of the students companies will be organised via online platform this year.
+- The main comment from the organisers of the competition last year was that participants had to wear the headset so that the recording could be slow.
+- Since the trade fair will be online this problem should be solved by the participants having the headset already, hence we should be able to record the speeches.
+- We will have to do something at
+1. PERSON1 and PERSON2 will focus on the PROJECT2 Clearest voice to ensure the data gathering and organizers' willingness. 
+2. For the dissemination into high school students, it is less of an impact to use non-native English speech. 
+3. It is more important for PERSON1 to do the PROJECT2 Clearest voice and check the plenary program for subtitling.
+1. PERSON2 needs to be involved in the planning of the sessions so that they are comfortable.
+2. A test session is not mandatory. It is better to avoid any tests as it can hurt the model performance.
+3. Having a booth at the ORGANIZATION5 event is a good thing. It can be used to reduce the models training time.
+4. PERSON5 needs to determine the input languages
+
+1. They plan to record feedback from the users during the interview stage.
+2. They will submit a report based on the feedback to EuroSci.
+3. They will also record feedback in a user study.
+4. They will measure the impact of the submitted report to EuroSci.
+5. To improve their system, they plan to conduct a test on January 25th, using the survivors of Holocaust as a
+1. We need to have someone responsible for recording these important sessions. This means we should test the platform and device that will be used for online event in practice.
+2. The recording device should have sound level compatibility across different operating systems.
+3. The person recording should take care of discs running out of space and files getting lost.
+A couple of participants were interested in the Malach test session and the holocaust survivors conference.  While not everyone was interested, it does appear that this could be a fruitful area for ML/DL research.  On the other hand, a play written by GPT2 and produced by authors from one of the theatres in Prague did not appear to be of great interest to the audience.
+
+* PERSON4: Yeah, actually I mean, the first one leads on from what you were saying a few minutes ago, that, you know, basically just we were talking about this on Monday because on Monday I think- Was it Monday?
+* PERSON2: Yeah
+* PERSON4: And and I think, I think, on Monday, PERSON9 managed to (fill it) I think it was
+1.  Mid January call planned for this topic with PERSON5 and PERSON9
+2.  Plan is to have PERSON5 in early stage of this topic
+3.  Architecture of the pipeline has to be flexible to support multiple inputs and targets, but not too flexible
+4.  Multiple models suppliers required for this topic
+5.  Include PERSON18 and PERSON15 in the call
+6.
+- The new transformer models that they are running require code reviews which increases cost
+- Running transformers in a cloud would require spending money on cloud computing
+- It would require significant effort to enter an ASR models into the model review tool which would not run in time on a CPU
+- For single sentence translation, it would be possible to parallelize the workload and use GPUs to run as fast as CPUs
+- person 2 thinks the dockerized systems can be tested on hardware they own (paid or unpaid).
+- person 4 agrees that the dockerized systems can be tested on hardware they own.
+- person 2 thinks the dockerized systems deployment on paid hardware is a high priority.
+- person 4 thinks the dockerized systems deployment on paid hardware is a high priority, but not a high priority for the project.
+- person 2 thinks
+1. The complexity lies in in a different thing for PERSON7, and that's something that he is aware from the very beginning. There is some pipeline which involves some source languages, some target languages, some set up of what has been done by both models. And for this pipeline, three things are needed. You need to evaluate it, eh, regularly, eh, so that these components are, are good in quality. So
+1. There is a problem with simultaneous language translation (SLT) system which is that the target language has different word order from the source language.
+2. There exists reorderings of English which are valid but not optimal and there are reorderings of English which are invalid but understandable.
+3. Text to text translation is typically performed by a machine translator that sees the entire sentence and then translates it. A simultaneous language translation
+The
+The group agreed that it would be useful to compare the translation outputs of the MT system and the ASR system. They could compare the translation outputs using standard evaluation measures (e.g. BLEU) and also analyze the similarities between the outputs from the two systems.
+1. PERSON18 may or may not have been talking about data augmentation when asking for support on data augmentation
+2. The weekly calls between PERSON18 and PERSON12, PERSON4, me, and possibly other stakeholders would lead to a sub-team within the project dedicated to the topic of data augmentation
+3. If the weekly calls between PERSON18, PERSON4, me, and possibly other stakeholders were successful in
+- A doodle poll will be setup for the regular weekly calls
+- A beta version of the corpus will be made available to the cross-party team including Person 4, 18, 12, 2
+- Person 12 will prepare the pipeline with ASR models for 5 languages: English to Portuguese, Dutch, Croatian, Slovenian, Polish and Italian
+- Person 9 would be able to summarize the updates for Person 16
+Here is a summary of the most important points from the meeting transcript:
+- PERSON2 thinks the ASR is a promising project
+- PERSON2 would happily work on the ASR milestone
+- PERSON18 thinks PERSON2 is happy with the above two points
+- PERSON18 would like to see more concrete actions towards the ASR milestone from PERSON2
+- OTHER PERSONS will manage the outstanding delibls

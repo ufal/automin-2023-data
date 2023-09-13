@@ -1,0 +1,51 @@
+Meeting KeyPoints:
+
+
+* PERSON2 invited PERSON1 to the meeting.
+* PERSON1 accepted the invitation and attended the meeting.
+* PERSON2 is aware that PERSON1 is in the office and is enjoying her walk.
+* PERSON1 is enjoying the walk and deciding to enjoy it more by visiting an unfamiliar location.
+* PERSON2 wanted to mention that PERSON1 is joining ORGANIZATION1 for
+- There will be 3 papers for the satellite event
+- The 3 papers should follow the same submission criteria as other papers
+- If it's for a satellite event, the authors should follow the rules
+- Authors should not submit the papers to the Interspeech proceedings
+1. The last time a shared task was held at (sick dial) was in August of 2022.
+2. The workshop for statistical theory in 2021 was held in September of 2022.
+3. The workshop for statistical theory in 2022 would be too late for Thumbtack.
+4. P3 preferred to apply for the special session for the workshop for statistical theory in 2021 instead of 2022.
+5
+- PERSON1 wants to conduct a workshop, rather than a special session, for their shared task
+- The workshop should be advertised as such - "Please take part in the shared task. We will provide you with the necessary tools and guidelines."
+- PERSON1 wants to conduct a 3-month long programme, during which time they will provide the workshop participants with a pre-prepared programme, the workshop data and the workshop's results
+- The deadline to submit the workshop proposal is March 15th, 2022
+- In order to get an ISBD endorsement, the organizers need to submit a proposal to conduct a workshop at the interspeech conference by January 15th, 2022
+- To submit the workshop proposal, the organizers will need to do the following steps:
+    - Submit the proposal and get the endorsement from the speech community
+    - Write the call for
+- The person who will do the coding/data extraction is unsure. They think that they have to code/extract the data but they don't know how to do it. They need someone who knows the system and who will extract the data for them.
+- Three people are going to the online workshop but they need to settle down first. 
+- The person who responded to the email also agreed to do the workshop.
+-
+So the meeting participants decided to seek advice from a senior colleague regarding the following:
+*	Which aspects of the organizational structure are unclear to PERSON1
+*	How much it will cost to register for the workshop
+*	How to approach (german name) about financial aspects
+*	What are the main tasks of the program committee
+*	How to make a website for the shared task
+1. P4 is the technical lead for the project.
+2. P1 is the project manager.
+4. P2 is aware of P3's interest and suggests that P4 can inform whether the journal is indexed.
+5. P4 is able to provide some information regarding the journal
+bblt?
+it?
+is not indexed..
+keaboard, distant noise
+Less work -
+Less work and intent- more intensive output.
+P
+1. The proceedings from El Severe will be indexed in Cosmopile and Google Color
+2. Also, the quality of papers published in the pvl journal is very good
+3. The pvl journal is open access and is directly indexed by journals that offer open access to publications
+1. PERSON3 and PERSON2 disagree on the feasibility of the proposed project.
+2. PERSON3 will double the work required compared to the original proposal.

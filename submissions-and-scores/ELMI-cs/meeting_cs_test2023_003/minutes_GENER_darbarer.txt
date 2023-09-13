@@ -1,0 +1,79 @@
+Date: 22.8.2022
+👥 Attendees: PERSON16, PERSON9, PERSON10, PERSON20
+
+
+🔷 Kanceláři každý den, někdy o víkendu
+	🔹 [PERSON16] je v kanceláři každý den, někdy o víkendu
+	🔹 Kancelář je tichá a nikdo v ní není.Je tam soubor Word2vec, ale ještě tam není
+	🔹 Osoba16 již dala všechna doporučení v knize jako úkol.
+
+🔷 Editáře na recenzi knihy
+	🔹 [PERSON16], [PERSON20], a [PERSON7] jsou čeká na recenzi knihy
+	🔹 Recenze má být příští týden
+	🔹 Bude je to stát nějakých čtyřicet pět tisíc
+	🔹 Musejí vyřešit komentáře, které mají
+	🔹 Divadlo již připravilo scénáře na leden.
+
+🔷 prezentaci o prezentaci
+	🔹 OSOBA16, [PERSON20] a [PERSON9] diskutují o prezentaci, která byla předložena před rokem.
+
+🔷 kontextové technologii v článku
+	🔹 [PERSON20], [PERSON16] a [PERSON9] budou mluvit o kontextové technologii v článku.
+
+🔷 praccí na knize
+	🔹 [PERSON16], [PERSON20] a [PERSON9] pracují na knize
+	🔹 Musejí mít knihu připravenou 30
+	🔹 června
+	🔹 Budou prezentovat výsledky práce redaktorovi.
+
+🔷 OSOBA16 bude sdílet odkaz na recenzi, kterou dala s ní do konce listopadu. Nemají žádné řádné představování.
+	🔹 OSOBA16 bude sdílet odkaz na recenzi, kterou dala s ní do konce listopadu
+	🔹 Nemají žádné řádné představování.
+
+🔷 Textem knihy prochází textem knihy.
+	🔹 [PERSON10], [PERSON16] a [PERSON9] prochází textem knihy
+	🔹 Autor chce napsat předmluvu a představení
+	🔹 Předmluva bude napsána důstojným fanouškem autora
+	🔹 Produkce bude kapitola dvě
+	🔹 CNN nikam nepůjde.
+
+🔷 Učení pod dohledem
+	🔹 OSOBA16, OSOBA20 a OSOBA9 se hádají o učení pod dohledem.
+
+🔷 Postar o kapitolu trois
+	🔹 [PERSON10] se postará o kapitolu tři
+	🔹 Je tam příliš mnoho do-do-do boxů.
+
+🔷 Prošla kapitola čtyři, pět, šest a sedm
+	🔹 [PERSON16] a [PERSON10] prošla kapitola čtyři, pět, šest a sedm
+	🔹 Neviděla otázky na konci kapitoly úvod
+	🔹 Nelíbí se jí, že není krátký úvod
+	🔹 Osoba16 se podívá na úvod.
+
+🔷 Vytahovače a kontextové vkládání
+	🔹 [PERSON20] a [PERSON16] se hádají o vytahovače a kontextové vkládání do své knihy
+	🔹 [PERSON16] chce, aby prošli své sekce a vyřešit všechny komentáře, které jsou tam.
+
+🔷 [PERSON16] má dva články ve dva tisíce patnáct.
+	🔹 [PERSON16] má dva články ve dva tisíce dvacet devět ze dvou tisíc devatenáct
+	🔹 abstrakty tam nemusí být
+	🔹 Má dílnu v ACL dva tisíce patnáct
+	🔹 EMNLP dva tisíce osmnáct není tam
+	🔹 [PERSON16] má Teddy, LREC, některé časopisy.
+
+🔷 Budou kupovat kancelářské potřeby EMNLP
+	🔹 [PERSON16] rozdělil peníze rovnoměrně mezi sebe, [PERSON20] a některé náhrady
+	🔹 Budou kupovat nějaké kancelářské potřeby a sledovat EMNLP
+	🔹 Budou mít schůzku ve čtvrtek v 11:00.
+
+🔷 Participants na on-line konferenci
+	🔹 [PERSON16] a [PERSON20] jdou na on-line konferenci
+	🔹 [PERSON9] není registrován tam
+	🔹 [PERSON20] přijde pro něj a přivést ho.
+
+🔷 Musí koordinovat v pondělí seminář
+	🔹 [PERSON16], [PERSON9] a [PERSON20] se scházejí příští čtvrtek v 11
+	🔹 Mají dva a půl týdne na roztřídění komentářů
+	🔹 Musí koordinovat v pondělí seminář.
+
+✍ Submitted by: Darbarer

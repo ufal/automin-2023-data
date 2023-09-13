@@ -1,0 +1,41 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON6, PERSON8, PERSON11, PERSON1 and PERSON12 are on a conference call.
+- They are discussing technical issues with the call.
+- PERSON6 supports the idea of training empty systems to do speech translation.
+- PERSON11 is thinking about joining the call.
+- There are no students in Edinburgh who would have the time to do that.
+- The only other candidates would be, PERSON13 from the PROJECT1, who works halfway in Prague and halfway in Brno.
+- The webpage for PROJECT2 PERSON6 suggests to have a dry run of some past similar talks to PROJECT2 talks and to do the same thing with the Supreme Audit talks.
+- PERSON4 is afraid the files won't be ready till tomorrow.
+- PERSON8 can operate two local machines, Ark and blackbird, PERSON8 is compiling some ASR files for the leader test set.
+- Some of the videos are not properly converted into a 16 c format and some audio files are not working properly.
+- PERSON6, PERSON8, PERSON1 and PERSON11 are working on a system evaluation.
+- It's their last chance to get it running before the weekend.
+- PERSON8 will send the numbers for the data set to PERSON6 today.
+- PERSON4 is working on the adaptation for the two domains.
+- PERSON2 sent the files with the four words, the IBM Watson, three kinds of Watson and the phonemes spoken in them to PERSON4 PERSON4 explains to PERSON6 how the phoneme to grapheme list was prepared and compared with the other models.
+- PERSON4 and PERSON2 are on a conference call.
+- They are discussing how to create and store a dictionary.
+- PERSON2 is finishing training of a German ASR that may be used for time stamping.
+- The training set contains around 300 hours of recordings.
+- There are possibilities to enrich the language model by texts and to use language model.
+- The first test of the system will take place tomorrow at PERSON6, PERSON1, PERSON4, PERSON10 and PERSON8 want to compare the ASR numbers today and the improved numbers on Monday, so they can decide which of the models to use.
+- The rainbow MT models had better scores than the MT models of PERSON3, PERSON11 and PERSON4 during the month of August.
+- Some of their files are okay, others are terrible.
+- PERSON11 is having problems with converting OGG files.
+- The length of some of the transcripts is incorrect.
+- People 1 and 2 are working on the German ASR.
+- PERSON1 will send the monolingual German text to PERSON2 tomorrow.
+- They will focus on PERSON2's high quality on the others.
+- PERSON4 asks PERSON2 and PERSON3 to help her with some pronunciation problems with her language.
+- PERSON2 asks PERSON4 to help him with pronunciation of vowels and consonants.
+- PERSON2 also asks PERSON4 to convert IPA and CMU phonemes into the alphabet sounds.
+- PERSON2 and PPERSON4 will have a call tomorrow.
+- PERSON4 wants to end the meeting with PERSON11.
+
+
+Minuted by: Team Synapse

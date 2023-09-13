@@ -1,0 +1,45 @@
+- Meeting began with greetings and wishing each other a happy new year
+- [PERSON3] asked how to say "Happy New Year" in Czech
+- [PERSON3] asked about the length of their visa
+- [PERSON2] worked on a different project during the holidays
+- [PERSON8] suggested forwarding the message to other co-alters
+- [PERSON10] suggested focusing on [PERSON12]'s data set
+- [PERSON10] suggested sending [PERSON12] an email and arranging a call
+- [PERSON8] mentioned they will be in Slovakia and then Prague for a PCR test
+- [PERSON8] mentioned they will be unavailable for other tasks due to a Hackathon
+
+so it's like it's like a different way of doing it.
+
+- Project meeting discussed the possibility of making initial experiments for short reach before the ASR deadlines.
+- Discussed a paper analyzing the usefulness of a context encoder in document translation.
+- Concluded that the context encoder does not encode the context, but helps introduce noise which helps robustness.
+- Discussed the possibility of swapping the sentence and the paraphrase in their scenario.
+- Discussed the possibility of sampling random sentences instead of the paraphrase.
+- Discussed the possibility of appending the paraphrase to the original sentence.
+- Discussed the possibility of concatenating the context with the input sentence.
+
+
+(PERSON1) Yeah, so.
+
+
+- Project meeting discussed the difficulty of testing a method that combines two encoders
+- It was suggested that the method should be tested in contrast with two encoders
+- It was noted that the method could behave differently for RNNs and Transformers
+- It was discussed that the method should be tested with single input sentences and one paraphrase
+- It was mentioned that the EACL deadline is on January 15th and the ACL deadline is on February 1st
+- It was suggested that the team should aim to submit a short paper for ASL
+- It was discussed that the team should focus on English-Portuguese and use the same domains as in the [PROJECT3] experiments
+- It was suggested that the team should use the constraints for the [PROJECT3] use case and for the use case of terminology
+- It was mentioned that the team should use the OPUS data and data from [ORGANIZATION2] websites
+- It was suggested that the team should scrape institutes and their web pages and do back translation from monolingual Portugese only data
+- Person 3 found a few domains to use but needs to talk about it
+- Person 8 suggested looking for conferences in NLP or comprehension linguistics in Brazil or Portugal
+- Person 5 has finished implementation of printing out attention weights from all layers and heads in Marian
+- Person 5 has shared a link for a new paper with Person 3
+- Person 5 needs to write results into the paper for Person 3 to look at
+- Person 5 needs to do a breakdown analysis to find out if there's something they can do about certain types of errors
+- Person 1 needs a link to the new paper
+- Person 5 shared the link in the chat
+- Person 1 suggested putting an editable link in the comments of the document
+- Person 10 reminded everyone of the call on Thursday at 4 CET and sent out a reminder from <unintelligible/>
+- Person 2 asked Person 1 and Person 8 to <unintelligible/>

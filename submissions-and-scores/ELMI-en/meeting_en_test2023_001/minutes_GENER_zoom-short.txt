@@ -1,0 +1,7 @@
+PERSON1 and PERSON11 are discussing the transcripts for the German subtitle user study.
+PERSON6 suggests using the tutorial from the NLP project for the upcoming sessions to train the system to do offline subtitling.
+PERSON4 is trying to gather data from the PROJECT2 talks to prepare for the two setups.
+PERSON1 suggests using a language model and forced alignment for the fantast set for around 100 hours and running 100 workers in parallel on one machine.
+PERSON2 is finishing training a German ASR for time stamping on Libry Speech, but there are still some serious errors in the ASR output.
+PERSON8 is having issues with converting videos into a 16 cave format and PERSON6 suggests that PERSON10 should do it.
+PERSON8 then leaves the call and has lunch.

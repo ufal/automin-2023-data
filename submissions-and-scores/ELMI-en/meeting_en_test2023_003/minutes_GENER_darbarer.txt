@@ -1,0 +1,66 @@
+Date: 2.10.2022
+👥 Attendees: PERSON5, PERSON1, PERSON4
+
+
+🔷 Organization of the meeting
+	🔹 [PERSON1], [PERSON4] and [PERSON5] are having a meeting today
+	🔹 [PERSON7] is joining them
+	🔹 There is a problem with the annotator of the document.
+
+🔷 Making the agenda.doc
+	🔹 [PERSON1], [PERSON4] and [PERSON5] are looking for the agenda.doc in the master documents
+	🔹 The last one is from the middle of December
+	🔹 [PERSON5] wants to know exactly what has been touched by people with what result.
+
+🔷 annotation of documents
+	🔹 [PERSON5] and [PERSON4] are working on the annotation of documents
+	🔹 They need to proceed at the two levels: the word type level and the word token level
+
+
+🔷 Improvement of output
+	💬 [PERSON4], [PERSON5], and [PERSON8] are discussing how to improve the output of the project.
+
+🔷 Preservation of identities of speakers
+	💬 [PERSON5], [PERSON4] and [PERSON7] are discussing how to preserve the identities of the speakers
+	🔹 They are worried that some named entity will leak into the data
+
+
+🔷 Process of anonymizing data
+	💬 [PERSON4], [PERSON5], and [PERSON6] are discussing the procedure for anonymizing data
+	🔹 They need to agree on a timeline and the identification of documents.
+
+🔷 Process of the consent form
+	🔹 [PERSON5] has two consent forms
+	🔹 The first one is about publishing the data in the deidentified form
+	🔹 The second form is about processing the data and deidentifying it with the forcing goal of publication
+	🔹 The consent forms are signed by 30% of participants
+
+
+🔷 Pre-release of corpus
+	🔹 [PERSON5] is preparing a web page with a pre-release of the corpus
+	🔹 People will be allowed to browse any of the data
+	🔹 They will be able to check if they are a participant of a meeting
+	🔹 Some of the participants' names are incorrect.
+
+🔷 details of the task
+	💬 [PERSON1] and [PERSON5] discuss the details of the task
+	🔹 They agree that the data should be ready for the participants by mid-February and the full dataset by the end of March.
+
+🔷 Preparation of the agenda document
+	🔹 [PERSON4] and [PERSON5] are preparing the agenda document
+	🔹 The removal of text from the document should take place at the end of February at the latest
+	🔹 The majority of participants in the Scientific Committee are master's students.
+
+🔷 Process of the Scientific Committee
+	🔹 [PERSON5] and [PERSON1] will send e-mails to all the candidates for the Scientific Committee
+	🔹 They have to submit the proposal within January 7th or 8th.
+
+🔷 Summarization of the proposal
+	🔹 [PERSON1], [PERSON5] and [PERSON4] are going to ask the old dinosaur world for speakers for the summarization
+	🔹 [PERSON1] will send the proposal to the prospective people
+
+
+🔷 [PERSON1], [PERSON4] and [PERSON5] say goodbye
+	🔹 [PERSON1], [PERSON4] and [PERSON5] say goodbye.
+
+✍ Submitted by: Darbarer

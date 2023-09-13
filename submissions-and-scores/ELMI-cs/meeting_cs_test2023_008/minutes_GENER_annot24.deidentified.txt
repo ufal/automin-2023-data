@@ -1,0 +1,152 @@
+
+Datum: ?
+Účastníci:[PERSON266],[PERSON291], [PERSON270], [PERSON271], [PERSON265], [PERSON275], [PERSON286], [PERSON264], [PERSON304], [PERSON316], [PERSON267], [PERSON272] + ??
+Účel schůzky: Pravidelná schůzka oddělení
+
+- Úvod.
+--Kontrola připojených účastníků.
+--[PROJECT87]
+---Ujasnění začátku další schůzky.
+--Rozvaha na [PROJECT114] by měla být odevzdána v nejbliší době.
+--Kabely na [PROJECT158]: bude splněna podmínka, čeká se nový podklad, který už dorazil.
+--Účastník schůzky se nemůžu zúčastnit jednání s [ORGANIZATION250], druhý účastník tam bude sám.
+
+- Ujasnění projektu [PROJECT159].
+--Výrobce není vybraný.
+--Zjistí se více podrobností.
+--Budou napsány věty, na koho se obracet a že ještě nebyl výrobce vysoutěžen.
+--Taková formulace už existuje a podrobnosti o ní.
+--Mohli by dostat oficiální informace k přístřeškům a zábradlím a předpokládaný harmonogram výměny.
+
+-Přivítání všech účastníků.
+--Tabulky spisů byly zkontrolovány, je třeba trochu urychlit práci.
+
+-Nový ředitel [ORGANIZATION253].
+--Postup při podávání žádosti o vyřízení spisu.
+---Popis a ukázání tabulky.
+--Spis [PERSON427] asi nebyl nikomu přidělen.
+--Diskuze, zda je nový postup vyhovující.
+---Bude použit nový systém a v únoru se vyhodnotí, jak funguje.
+---[ORGANIZATION157] se tento nový systém ještě netýká.
+--Je to předstupň před aplikací.
+
+-Práce z domova.
+--Kdo uděluje výjimky a kdo může chodit do kanceláře.
+--Jaká opatření se musí v budově dodržovat.
+
+-Koordinace spolupráce s [ORGANIZATION128].
+--Oznámení ve spisovce přiřadi k vyjádření [ORGANIZATION128].
+--Vznikne tabulka, kdy se označí, že vyjádření našli.
+--Bude to v tabulce excel se spisy v podobě dodatečné kolonky.
+--Zpětně se vyhledávat nebude, pouze problematické případy.
+--Vyzkouší se a vyhodnotí, zda bude fungovat.
+
+-Další neformální schůzka.
+--Nezávazná, asi v pondělí po obědě.
+--Diskuze o neformálních věcech, aktuálních problémech a zkušenostech.
+
+-Příští týden setkání sekce.
+--Chce tam někdo prezentovat?
+--V tuto chvíli je lidí na prezentaci dost, ale kdo by chtěl, tak může.
+
+-Debata u koho sněží.
+
+-Názor [ORGANIZATION159] na případnou směnu pozemků doazil.
+--Je pozitivní.
+--Pošlou to, bude to v rozdělovníku.
+
+-Pracovní skupina pro prezentování projektů/koncepčních zadání.
+--Kdo se chce zapojit a co to obnáší.
+--Přihlásili se tři účastníci.
+
+-Čerpání koeficientů.
+--Budou se měnit finanční náhrady developerů namísto stavby hřiště apod.
+
+-Dohoda mezi [ORGANIZATION204] a [ORGANIZATION203]
+--Veřejně prospěšná stavba se nebude měnit.
+--Doladí se studie a bude akceptována.
+
+-[PROJECT162]
+--Územní plán se nebude brát úplně vážně kvůli častým změnám.
+--Uvede se tam [PROJECT67].
+--Dojde ke změnám ploch s různým způsobem využití.
+--Situace s [PROJECT67] bude ověřena.
+--Mělo by se tam dát místo pro národní knihovnu.
+
+-[PROJECT67].
+--Schůzka pracovní skupiny proběhla.
+--Soutěž vyhráli mladí kluci z [ORGANIZATION260].
+--Dědic [PERSON431] se soudí s [ORGANIZATION262].
+--[PROJECT67] se má vrátit z Krumlova do Prahy, avšakne v šádu několika let.
+--Hledá se místo-[PROJECT163]?
+--[PROJECT164] brzdí postup všech projektů.
+
+-Podjatost [ORGANIZATION129].
+--[ORGANIZATION160] potvrdilo napadení z podjatosti.
+
+-[PROJECT163].
+--Před 3 lety se dělala urbanistická studie.
+--Do dnešní doby se nic neděje.
+--Je to způsob organizace naší společnosti.
+--Popis práce architekta v tomto kontextu- stres, změny.
+
+-[PROJECT91].
+--Připojení z ulice [PROJECT167].
+---Až se najde malůvka, bude se hodnotit podnět.
+--Napojení z ulice Plzeňské.
+---Přejezd přes železnici.
+
+-[PROJECT171] po celé Praze.
+--Kauza otevřena včera, už tento problém vidí více lidí.
+--Bude se řešit na schůzce s [ORGANIZATION163].
+
+-Veřejné osvětlení.
+--Připraví se fotografie ze [PROJECT173].
+--Bude prezentováno na jednání.
+
+-[PROJECT174].
+--Dali nesouhlasné vyjádření, ale městská část chce realizovat.
+--Bude třeba probrat s ředitelem, jak v tomto postupovat.
+--Připraví se výtah s malůvkama.
+
+-Lékárna [ORGANIZATION215].
+--Přišel spis se žádostí o drive through lékárnu.
+--Nesouhlasíme s tím, kontroverzní spis.
+--Nabourává chodník a dělá smyčku, ale je tam dost parkovacích míst.
+--Chybí časový plán realizace-v době ústupu Covidu již nebude aktuální argument.
+
+-Žádost o schůzku [PROJECT51]- [PROJECT176].
+--Bude naplánována a dána do kalendáře.
+
+-Urbanistická studie [PROJECT76].
+--Souhlasíme a vyčleníme finance.
+--Bude veřejné projednání, které způsobí zpoždění asi měsíc.
+--Počká se na odsouhlasení.
+
+-Schůzka ředitele s ředitelem [ORGANIZATION163].
+--Měla proběhnout v tramvaji,ale neproběhla.
+
+
+
+-Participace ke [PROJECT135] by měla proběhnout po 22. únoru
+--Bude distanční formou, ale ještě to není úplně jisté.
+
+-Závěr a rozloučení.
+
+
+
+
+
+
+Zápis předložila [ANNOTATOR19]
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,517 @@
+<another_language>
+(PERSON8) Čautě.
+(PERSON10) Čau, šťastný nový rok.
+(PERSON8) Aj těbe.
+(PERSON2) Ahoj, ahoj.
+(PERSON8) Šťastný nový rok aj těbe.
+(PERSON5) Ahoj, hi.
+(PERSON8) Hi [PERSON3].
+</another_language>
+(PERSON3) Hi guys, how're you doing? 
+(PERSON8) Yeah fine, happy new year. 
+(PERSON3) Happy new year. 
+I was trying to say that in Czech but <another_language>šťastný nový rok všem</another_language>.
+Something like this.
+(PERSON8) Yeah.
+(PERSON5) Yeah great.
+(PERSON3) How is my pronunciation? 
+(PERSON5) Pretty good I would say. 
+(PERSON8) Pretty good. 
+(PERSON3) Took me some minutes. 
+(PERSON8) I think like equal to mine pronounc- pronounciation of Czech words. 
+<laugh/> 
+<unintelligible/>
+(PERSON3) Ambition.
+(PERSON10) How was your holiday? Hi. 
+(PERSON3) Hi. Happy new year. 
+It was okay. 
+(PERSON10) Okay. Good to hear that. Uh. 
+(PERSON3) Yeah.
+(PERSON10) I need to log into my computer. 
+(PERSON1) is joining shortly. 
+<parallel_talk><another_language/></parallel_talk>
+(PERSON10) So, in the meantime, [PERSON3], you you sent an e-mail that you've got visa your ready, right?
+(PERSON3) Yes. 
+(PERSON10) So uh like tell us uh told me to ask you or like to check how how long the visa is going to be valid
+like from from the the
+(PERSON3) Uh
+(PERSON10) the day that you've got them to the day you can actually enter the country.
+(PERSON3) Oh it's uh one hundred eighty days. 
+(PERSON10) Okay, good. 
+(PERSON3) And -
+(PERSON10) That's that's half a year, right?
+(PERSON3) Yeah, perfect, yeah. 
+(PERSON10) Yeah.
+(PERSON3) That's correct. 
+(PERSON10) Correct. 
+Okay, so just keep an eye on that but I think that should be fine, right?
+Because you definitely wants to come here before summer or like 
+(PERSON3) Yeah, yeah. 
+(PERSON10) that would be that would be great
+(PERSON3) Yeah. 
+About the the email I just uh asked uh because maybe you would be better but if - 
+As I As I told you uh 
+if there is no uh other way, I can go alone and there is no problem about that.
+So just making sure uh there is an oppur- an an option to go to go after.
+But I think it's fine. 
+(PERSON10) Yeah, also uh we probably need to do arrange the accommodation uh 
+the moment you will be ready. 
+So again 
+I haven't I haven't gone - 
+(PERSON8) Can can you hear [PERSON10]an? 
+(PERSON3) No. 
+(PERSON10) Okay so so the question is, do you do you have any fix date or <unintelligible/> for for the for the arrival or not? 
+(PERSON3) Uh no, I don't have it now but
+We can think about that uh as [PERSON1] suggested on April  
+(PERSON10) Mhm. 
+(PERSON3) Maybe you can you can think on the date on April.
+(PERSON10) Okay. 
+(PERSON3) I don't I don't want to cause any problems.
+Actually actually uh as I told you if it needs to be uh earlier,
+(PERSON10) Mhm. 
+(PERSON3) it can be earlier. 
+(PERSON10) Okay. If if [PERSON1] was suggesting April, let's let's work with April for now and we can we can talk about details later 
+or during the week. 
+(PERSON3) Okay, yeah. 
+ Okay, great. 
+Thanks
+(PERSON3) Thank you. 
+(PERSON10) The next thing is 
+Okay so uh
+Well I guess I guess the question is like was anyone doing anything during the holiday?
+Project related?
+Like it's understandable if not but ye, I guess we can start from here. 
+And than we can talk about the further plans from now on. 
+(PERSON8) [PERSON2] was doing something. 
+(PERSON10) Okay so let's start with [PERSON2].
+(PERSON2)? Can you hear me?
+(PERSON8) We cannot hear you [PERSON2]. 
+(PERSON10) Yeah, yeah. Mm. 
+But now he's muted. 
+(PERSON8) Now you are muted. If you unmute - 
+(PERSON2) Yeah I know but I still - 
+(PERSON8) Ah we can hear you but very very -
+(PERSON10) Okay, okay. 
+(PERSON8) Try to speak up or like
+(PERSON2) Okay, well, I worked on other stuff, not this project so sorry. 
+(PERSON8) Okay I I thought that the the thing you send to us it's somehow like uh 
+connected to the 
+(PERSON2) Well it
+I mean, it's for some other project uhm and it uses just uh uhm urine models. That's it.
+(PERSON8) Okay. 
+(PERSON2) Uhm
+(PERSON8) Okay, then then I didn't say anything, sorry for that. 
+(PERSON10) Well okay so that that's covered. 
+Uhh
+Let let's move on to the multi source I guess. 
+We were... 
+Last time we were discussing that we're waiting for the or try to get the some relevant data for the task, right?
+So, [PERSON8], I guess you you.. 
+Did you get the uhh response from 
+(PERSON8) No. 
+(PERSON10) the [ORGANIZATION3]?
+(PERSON8) No response. 
+Maybe I should try to uhm 
+(PERSON10) hm? 
+(PERSON8) to forward this message to the other alters of the paper
+because I sent it only to the first alter, 
+who is [PERSON7] and he didn't reply me
+or haven't replied me so far. 
+So.. yeah, maybe I should give it another try to forward it to other co co-alters.
+(PERSON10) Okay yeah, that that that will definitely - 
+(PERSON8) But
+(PERSON10) not hurt so.
+(PERSON8) Yeah yeah yeah.
+(PERSON10) So okay so we can we can try focusing on the [PERSON12]'s data set.
+Like she said that she should have some time...
+Like she was busy until the New Year's but now she should be available. 
+So I will try to... 
+Well I'll send her e-mail that we want to discuss it and we'll see what what her response or,
+I guess I guess we can we can try to arrange the a call with her, 
+where we can discuss like the details about the data set
+and and maybe what are options for that minute
+(PERSON8) Okay. 
+(PERSON10) So... yeah. 
+I think that's our top priority right now because otherwise we will have to rethink the our options right. 
+So... okay. Uh - 
+(PERSON8) Uh maybe 
+(PERSON10) Uhm? 
+(PERSON8) because I'm uh I'm now I'm in Slovakia uh,
+I'm like moving to Prague tomorrow, 
+then going to the PCR test on Wednesday, 
+waiting for the uh till Thursday to the result
+and so we can, if there is all this negative, 
+so we can meet on Friday in person or something or
+or just discuss it like I mean through Zoom. 
+(PERSON10) Yeah yeah we can definitely do that 
+but I think [PERSON12] is currently working from home so we will still have to -
+(PERSON8) Okay, okay.
+(PERSON10) But yeah, definitely an an option. 
+(PERSON8) Uh because like uh I'm saying that,
+because the next week we have like Hacathon on universal let's say universal coreference with [PERSON4], [PERSON9] and [PERSON13], 
+so I'm not going to be like available for like other things I guess. 
+(PERSON10) Okay, that's fine. 
+(PERSON8) For the next... during the week. 
+(PERSON10) As long as as we're able to make the call with [PERSON12] I think it's it's going to be alright. 
+(PERSON8) Uhm, okay. 
+(PERSON10) I'm thinking that the thing is that we probably.
+We have like three maybe four weeks until the ASR deadlines, 
+so I'm not sure whether we can make some initial experiments for short vapor.
+This is it's quite sh- like
+(PERSON8) Short reach? 
+(PERSON10) Short reach. 
+(PERSON8) Uhm. 
+(PERSON10) Hm. Since we don't don't even have a baseline right now.
+(PERSON8) Yeah. 
+(PERSON10) Uh 
+Well so we'll see. 
+Uh I also uh included to the to the to the minutes that I found a paper, 
+they where they were analyzing the usefulness of the of the context encoder in the document translation. 
+So it's not the same thing we're doing but we can definitely be like the conspiration about... for the analysis. 
+Like the idea was that they have architecture with two encoders,
+the one is to for including the input sentence 
+and the second encoder includes the uhh context 
+so the sentences I guess in front and and behind the same the input
+(PERSON8) Aha, okay. 
+(PERSON10) And... 
+And they like - 
+(PERSON8) Is it like,
+do do encoders of the same language yeah?
+(PERSON10) Yes and I'm not sure whether they tried both shared ways and separate encoders, 
+but the thing was that they also tried to replace the context with just the randomly sampled sentences and the results were similar.
+And also the results were were somehow better I think about one point better one point bl- better than the single included baseline,
+so I think their conclusions were, that the second encoded does not really encode the uh context, 
+(PERSON8) Uhm. 
+(PERSON10) but it does help to introduce some noise which which helps the robustness. 
+I think they were evaluating on the IW - assaulted data set
+(PERSON8) It's just like regular regulazation or something. 
+(PERSON10) Yeah, yeah, yeah, yes. 
+Something, something not not not like drop-out but definitely there's- 
+(PERSON8) Yeah. 
+(PERSON10) some regulazation.
+(PERSON8) Yeah. 
+(PERSON10) So, so we can for example chat whether in our scenario it has similar role but,
+in our case when we are translating paraphrases,
+I think the assumption is that we can definitely swap the sentence and the paraphrase, 
+they should be interchangeable from the definition, right?
+(PERSON8) Yeah. I think I tried it in my experiments 
+(PERSON10) Uhm, uhm. 
+(PERSON8) but I don't remember the results now, 
+but I think it was uh
+yeah. I just don't remember now.
+(PERSON10) Yeah, yeah. 
+So so that's one thing, 
+we can also try sampling some random sentences instead the paraphrase and and - 
+Well, we can do similar experiments and see how it behaves in our in our scenario. 
+Uhh yeah okay, so so that's that and I think that's that's everything for multi-source, 
+if you don't have anything to add. 
+(PERSON5) Yeah, I just want to say that I had basically the same results in my last aesthesis,
+when I used second encoder for the context 
+and even will sample the random sentence from the data sets
+and you get basically the same enclosing blue as with uh as with the correct sentence, 
+so... yeah, two encoders work better but even with the with the random sentences.
+And it worked the same with the random sentences as with the correct ones so.
+It was so- maybe some kind of regulazation or maybe just more perimeters and yeah I don't know what...
+(PERSON10) Yeah, yeah, it's kind of tricky 
+because the se- two encoder setting kind of works uh with the multi-model translation,
+or at least there were some uh adverse serial input experiments,
+that's shown that certain architectures can actually exploit the images,
+so I guess the question is - how to exactly represent the context, 
+or in our case the second second input sentence.
+Again, this this might be easier cause we're just imputing two semantically similar sentences,
+so so uh the encoding of these should be easier than encoding like uh contextual sentences or something. 
+(PERSON2) And sorry uh, what's wrong by just like appending the paraphrase to the original sentence? 
+(PERSON10) No, no-
+(PERSON8) It doesn't work.
+(PERSON2) It doesn't, okay-
+(PERSON8) Or I tried it with Marian just attending it and it's it's...
+I don't know how much BLEU points lower but it was wa-
+(PERSON2) Because, because like the way I believe Martin does his <unintelligible/> little translation so
+He translates more sentences at once and then picks only the center one and goes like this for the whole document.
+So the context is like in one <unintelligible/> together with uh uh sentence we actually want to translate.
+(PERSON10) Yeah, I think was wasn't even uh hm Dominik doing some experiments like that like with the uh, what was her, with Ivana?
+I think the last year or two years ago for double empty where they again,
+like they were attending the context uh or concatenating the context
+with input sentence and doing some sort of document level translation.
+But the the the thing is with this with the concatenation is not completely,
+uh sure whether it has the same effect as we do multi encoder setting-
+(PERSON1) Like everybody is different, it's definitely, different calculation,
+different leader, but it's uh I'm surprised that [PERSON8] says that it doesn't work full stop-
+I think that's uh that it's it cannot-
+(PERSON8) Yeah, okay, so sorry, maybe I should be more correct that uh uh it didn't work like in the way I did it <laugh/>
+(PERSON1) Yeah, because I think it's a method which is very easy to test
+and it always should be tested in contrast with the two encoders
+and I would expect sometimes to be better and sometimes to be worse than than the two encoders set up
+depending on the exact task like what exactly is the second thing that you are encoding uhh.
+So, so maybe if you have two copies two paraphrases of the same sentence,
+maybe it is somehow confusing for uh for the attention so whatever i don't know. 
+I, I it also behaviour also could be different for uh for the old sequence to sequence uh uh methods compared to transformer,
+so for RNN then it behaved differently maybe with transformer it's uh yeah, it's harder to train so you maybe maybe like you need to whatever increase warm-ups uh number warm-up sets or uh.
+(PERSON2) Yeah, so just know like-
+(PERSON8) I don't remember, so I don't remember exactly but this is like what-
+when I started in summer with those multi-source experiments.
+The first thing I started with was concatenating the paraphrase and source and maybe I, I don't remember now,
+I can check it uh till the next meeting whether I tried also,
+I defenitely tried uh when the sources are on the first position then some delimiter and the paraphrase on the second position uh
+I might have also tried that I shuffled the two things randomly,
+yeah and uh I just remember that it did abunt- abundant this compenetration stuff and tried multi multi encoders.
+(PERSON2) Yep.
+(PERSON8) And it was it was probably due to low scores.
+(PERSON2) <unintelligible/> uh that you like can improve your amenity score by just appending phrase based output and the attention is like double diagonal so the attention is not an issue, so like I believe you but it's suprising that it didn't work.
+(PERSON8) Yeah okay-
+(PERSON10) So, if if you if you uh input the phrase based output uh that's basically post editing, right? You can think about it as a postediting like you are postediting phrase based output, right? Or like depends on the point of view, rigt? 
+(PERSON1) <unintelligible/> that you like fully rewrite it but technically it fits exactly the postediting task, you can you can plug this as a solution to the postediting task.
+(PERSON10) Uhm, okay so so one one question just for for me just to make sure in the concatenation settings you you insert the sentence seperator token, right?
+You have a special token to uh distinguish like which is the source and which is the context or or the other sentence or do you just concatenate them without anything?
+And hope that the system learns it? 
+(PERSON8) I tried to, I guess two tokens and yeah like
+because in the first first version we had the like we thought that or or,
+uhm sorry, uhm we had a suspicion that the token
+could be also tokeni- tokenized itself so then I replayed it with another token which is not,
+uhm, like uh it's not only for this propose because we used some pretrained dictionary
+and this dictionary didn't like contain like seperator token or yeah.
+So I used some token that I I assume that it it wouldn't be like tokenized into several pieces and so it will appear and like in once but
+I had I had no guarantee that this token couldn't could not appear at the other place in the senctence that is the only place it could appear.
+So it could be done more properly, yeah I agree. 
+(PERSON10) No, we we we definitely should consider these like constructive or baseline, we should probably- 
+(PERSON8) The other problem was with the sentence lenth,
+because you have to specify the <unintelligible/> maximum sentence lenth and when I like,
+it was like one hundred tokens or something and so if you compenetrate, okay like,
+compenetrating two sentences is okay but if you have multiple paraphrases then it's, uh yeah
+(PERSON10) Uhm.
+(PERSON8) You can easily exceed.
+(PERSON10) So.
+(PERSON8) One hundred.
+(PERSON10) So but we we are. 
+Are are we going to. Aren't we going to limit the experiments to only like a sentence and single paraphrase?
+Like basically bars of sentences input, 
+just for simplicity or can are we going to consider multi- sentence input? 
+Like I guess for start is we can just work with bars-
+(PERSON1) Like single input sentence, like no sentential context.
+And how many paraphrases that is a question but to start with one is also okay.
+(PERSON10) Yeah, I think so.
+Okay. 
+Well okay so so basically these are the details we can discuss later,
+like the top priority right now is getting the data set from [PERSON12],
+and hopefully it will be suitable for our- us,
+and we can talk about the the next steps like the baselines and the variations of the-
+(PERSON1) Sorry that I joined late but I was in another meeting
+and I heard [PERSON10]an talking about the deadlines,
+so uh the the uh uh is that a EACL deadline? 
+No EACL is uh only a DEMO deadline in on Friday the fifteenth of January,
+and then there is uhm uh ACL at the end of the month if I'm not mistaken,
+so like first of-
+(PERSON10) Yeah-
+(PERSON1) I see it's I see it's-
+(PERSON10) First, first of February
+(PERSON1) Yeah-
+(PERSON10) But there's an abstract submission a week before-
+(PERSON1) Uhm.
+(PERSON10) Something like that,
+so I'm not sure whether you can submit the paper,
+if you don't submit the abstract before like I think it is mandatory to submit the abstract,
+or I'm, I'm, I'm not sure I'm, I'm not familiar of this format so so.
+(PERSON1) Anyway my question,
+anyway my question was uh if uh uh with what are you aiming for this if anything uh uh,
+also if anybody could check the future deadlines uh uh,
+how many will there be in the coming months, 
+so that we have uh other plans uh,
+so we have like a pipeline of attempts.
+(PERSON10) You mean for confeerences? 
+Uhh, I guess we can like I hope that [PERSON6] will update the NLP conferences calendar,
+or it seems that he was updating it because there's some conference,
+yeah interspeech in February or maybe March so,
+I will ask him whether he was updating it
+I think he will handle it this year also,
+oh there's an interspeech on twenty six March,
+but I'm not sure whether is interspeech relevant to us is more like [PROJECT2], right?
+(PERSON10) Yes, I guess so
+(PERSON1) So we should search for more that's what I was saying so the also beyond what [PERSON6] <unintelligible/>.
+(PERSON10) Yeah, right now it seems like there's nothing until June so so so it it's probably not filled in so.
+(PERSON1) So there is TSD as well but is not even listed in conference's list and the recent advances of NLP <unintelligible/> became Bulgaria only so.
+So jus- just as a reminder like [PROJECT1] does not ask us for much.
+So we should make use of this opportunity to do good research uh kind of connected to the [PROJECT1] itself,
+so whatever ideas you you have uh it's good to export them now. 
+(PERSON10) Uhm, yeah, I guess as far as plans go uh like,
+if I remember correctly John and [PERSON5] are planning to have at least a short paper for the ASL and try to submit,
+well or uh uh let's let's move on to the embed list navigation to see to just recap the what are the what is progressed so far and-   
+(PERSON5) We already submitted the sh-
+Sorry,
+we already submitted the short paper for <unintelligible/> so I think we hope to do a proper paper but, yeah.
+We didn't really start writing yet but we should,
+I have some results-
+(PERSON1) There would be the conference, then would be the conference,
+so full version of the short version
+(PERSON5) Yes.
+(PERSON1) And the reviews uh will be returned in two weeks from now or uh-
+(PERSON3) Yeah. It's like uh twenty-
+(PERSON1) No uh really will be the twelfth or-
+Arrive, okay so there is a review deadline, yes, on the twentieth, yeah.
+(PERSON5) Yeah.
+(PERSON3) Yeah.
+So now we are we are going to write this paper but we need some results,
+so I think that use of this training model for negative constant along with the input,
+and for my side I I started looking for data sets to train an English-Portugese model,
+so I can help with the something else maybe because,eh
+this was one one idea from <unintelligible/> gave me to,
+maybe to train a model that I I can eh,
+see the output and now and advice how we- how we can improve the output,
+or or regarding the reflections or something like that because in Czech I can help much, right,
+so that's the point,
+and at the same time I was trying to to know more about C++ let's say,
+because I want to help since everything is is in m- armenian, eh,
+I I need to at least understand the cons and maybe can edit properly,
+so that's what I'm doing now and I think that I can start training the model this week and-
+(PERSON1) Yeah.
+(PERSON3) I'm just proccessing the data sets I found so I can-
+(PERSON1) So there are also further data that [PROJECT2] is already like collecting anyway,
+and since the domain is probably not very relevant like you can uise any domain for youe experiments eh,
+then maybe we could- well- eh so the point is that you want to use the same domains as are in the [PROJECT3] experiments, right?
+So the IT domain-
+or what domains will you be aiming at?
+What's the model?
+Or you train on anything you can get?
+(PERSON3) Sorry?
+So well you are going to focus on English-Portugese?
+No, no-
+Because that's the language you can read that's clear,
+that makes very good sense.
+You are going to focus on constraints because
+that-
+(PERSON3) Yeah.
+(PERSON1) Is what [PROJECT1] needs but then question is what will be the domain of the underlined text,
+and since you mentioned one more language,
+this language is also Portugese is-
+(PERSON3) Oh.
+(PERSON1) Among the languages that we need to target in [PROJECT2] and if you edit also the domains that [PROJECT2] is interested in,
+which is eh for eh like fun reasons, comprehension linguistics
+and for [PROJECT2] reasons eh auditing and eh [PROJECT2] could also benefit from edition model 
+so we could have like a dedićated English to Portugese model,
+and the positive constraints eh that could be essentially replicating or building up on what [PERSON5] has done,
+eh they could be used to improve the terminology in in the partical <unintelligible/> domain.
+(PERSON3) Yeah, yeah.
+(PERSON1) So.
+(PERSON3) So yeah.
+(PERSON1) So just like I just wanted you to benefit from that,
+also from the [PROJECT2] side and eh.
+(PERSON3) Yeah, perfect.
+(PERSON1) And one of the use cases in the [PROJECT2] because the congress
+which was supposed to be in the auditing domain is now like,
+due to Covid split into two parts and and whatever,
+we are probably going to add the comprehension linguistics as another domain,
+and there we could benefit from from the constraints eh for for terminology.
+(PERSON3) Yeah.
+(PERSON1) So before you start training please make sure to extract from me
+and especially my colleagues [PERSON11], eh,
+you probably also were in touch with him, right?
+(PERSON3) [PERSON11]? 
+(PERSON1) Yeah [PERSON11], yeah.
+(PERSON3) [PERSON11], I don't remember now but eh maybe I will check.
+(PERSON1) Yeah, then please also extract further data eh and also,
+let's make sure that we test that we create dedicated data sets also for Portugese within our [PROJECT2] asset,
+that maybe you can rewise also the the domain of comprehension linguistics,
+so you will have to invent Portugese words for eh well <unintelligible/> and these things eh,
+and then yeah, yeah so I assume that OPUS thanks,
+thanks [PERSON2] for the OPUS data eh,
+there is also in addition to this there is also the data from [ORGANIZATION2] websites,
+and what we- will be very short of would be Portugese comprehension linguistics eh data,
+and maybe you could help with that if we scraped some institutes and their web pages
+and did back translation from monolingual Portugese only data.
+(PERSON3) Okay.
+(PERSON1) So like.
+(PERSON3) Yeah, yeah.
+(PERSON1) Let's eh, I I definitely support the idea of eh having a dedicated English to Portugese model,
+and eh I would like to make sure that you use the constraints not only for the [PROJECT3] use case,
+but also for the use case of terminology and then the experiments, like like would be doubled,
+they would be eh done from these two sides,
+and the terminology would be best tested in the auditing domain and in the eh comprehension linguistics domain,
+so that would be beneficial for [PROJECT2].
+(PERSON3) Yeah, I I haven't think about that when I was just trying to make-
+(PERSON1) Yeah.
+(PERSON3) the data so just whatever I I find and I would use that but this is this makes sense,
+I will I'll try to get the correct domain or define-
+(PERSON1) Yeah.
+(PERSON3) the proper domain and data sets for that, eh,
+about the the spreadsheet shared [PERSON2].
+(PERSON1) That was not spreadsheet it was Corpus OPUS the web page.
+(PERSON3) Okay, I didn't check it, okay-
+(PERSON2) Ehh.
+(PERSON3) This I, I, sorry go on.
+(PERSON2) I just wanted to say that like <unintelligible/> or something like that but the linguistic's domain or that's kind of hard, right?
+(PERSON3) Well, eh yeah, I found a few, I'm I don't know exactly, yeah I would have to talk about that,
+and and see what I'm going to use I didn't define that so um which domains I can use but um,
+okay is good to know about that so and if I can help with would be better yeah if in both projects so there's no-
+(PERSON8) Maybe just to add due to [PERSON1]a suggestion how to get the domains or comprehension linguistics domain in Portugese maybe there is,
+there might be some conference in NLP or comprehension comprehension linguistics,
+that's help in Brazil or Portugal that we don't know about eh like which language,
+one of the languages Portugese because we had su- such a conference here in Czech republic or Slovakia and some of th-,
+like there are very few of the papers but some of them are in Slovak or Czech so there might be something in like Portugese as well.
+So that-
+(PERSON3) Okay, I will check it-
+(PERSON8) Could be another source of of the comprehension linguistics or the linguistics domain.
+(PERSON3) Okay, perfect I'll look for that, 
+I think that's the plan, okay.
+(PERSON10) Okay, anything else? Eh I guess again like everyone was on holiday so you know, [PERSON5] is there and the progress with the single set tadada.
+(PERSON5) No, not really I, yeah I've already disscussed that before the holidays,
+I think we did I finished implementation of the of printing out the attention weights,
+from all the layers all the heads in Marian so I want to analyze that,
+and but first I think I should eh somehow gather all the results I have on the new data from [PERSON3],
+and I think I've already shared the link for the new paper with [PERSON3], right?
+(PERSON3) Yes, yes.
+(PERSON5) On slide but I didn't write anything in there, 
+it's just the same document as as-
+(PERSON3) It's just the outcome.
+Yeah, yeah, but I will soon put up, put in all the results and I'll try to figure out some kind of explanation for them,
+but basically what I found out is that the method works somehow but it's definitely not the complete solution,
+it's better than not using it but it's far from like getting correct core, correct force eh from of the consraints,
+and yes, so that's good because we can show that maybe we are on the right track,
+but there's still work to do and we can analyze <unintelligible/>,
+okay what I want to do is now is to the our breakdown analysis,
+and find out if there's something we can do about edit some type of errors,
+so yeah I I think that the the thing I should do first is to write the results I have into the paper,
+so [PERSON3] can look- have a look at that and yeah.
+(PERSON1) Yeah.
+Still over you the reveal we are previous submission knuckle one,
+and I'm really planning to do that I just didn't got into that,
+maybe if you could share the <unintelligible/> link as well,
+so that I would be edit already in the new paper <unintelligible/> than in the old one.
+(PERSON5) Oh, yeah, it will I think you don't have to read all the <unintelligible/> paper,
+It's will be basically the same but we bettering new results so I think it will be better just to read the old one.
+(PERSON1) So do I have a link or you shared it so far only with [PERSON3]-
+(PERSON5) I think I think it should be somewhere publicly but maybe you are not in the channel,
+I will have a look I, I posted it on slide but I'm not sure where channel off-
+(PERSON1) Yeah, I don't really follow slide because it's-
+(PERSON5) I can I started-
+(PERSON1) <laugh/> Too tiring.
+(PERSON3) You can share it into chat.
+(PERSON5) I shared it into chat.
+(PERSON1) Yeah, thank you.
+(PERSON3) Turn the shared in the chat.
+(PERSON1) Eh, n- actually no so this is this is the way it doesn't work, so.
+(PERSON3) Yeah, you are correct, yeah, you told us to to share it in a different way, yeah.
+(PERSON1) And I think it's only [PERSON5] the one who created the project who can find out the link.
+(PERSON3) Yeah
+(PERSON1) So the way I do it is that,
+I put this eh editable your L in comment on the second line of the document so that's so that later on one can always find it easily.
+(PERSON5) Okay
+(PERSON8) Maybe share the link through the document from the agenda-
+(PERSON5) Yeah-
+(PERSON1) The notes, the agenda.
+(PERSON5) So it's persistent or more less persistent.
+(PERSON10) So is it this one? Like from I think the one in [ORGANIZATION1] working.
+(PERSON5) Um I don't, [ORGANIZATION1] doesn't work for me at all right now- so I don't know but-
+(PERSON10) Okay, but but the link is accessible, right? Okay I will fix the formatic.
+(PERSON5) Hope so.
+(PERSON3) Actually it is, but I can share it.
+It's there.
+(PERSON10) Well so, yeah, let me know if the link is working or or if if I guess [PERSON5] should check it and if not just please fix the link,
+okay other than that I think that's everything or,
+okay just just a reminder there will be probably call on Thursday at 4 CET so if you want to join definitely eh you are invited as as ussual,
+and I think there will be reminder from <unintelligible/> on on Thursday so,
+but other than that I think yeah, everything we needed is covered so yeah, let's let's see each other next week.
+(PERSON2) So just for [PERSON1] and [PERSON8], could you please <unintelligible/>.
+(PERSON10) Hm, okay so the rest of us can leave, right?
+(PERSON3) Yeah, thanks.
+(PERSON10) Okay, thanks, bye.
+(PERSON8) Okay, see you guys.
+(PERSON2) See you.

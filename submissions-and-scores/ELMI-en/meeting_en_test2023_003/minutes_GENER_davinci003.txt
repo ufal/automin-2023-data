@@ -1,0 +1,71 @@
+
+so, eh, do you have any questions?
+
+- Project meeting was held between Person 1, Person 4, and Person 5
+- Person 5 was concerned about Person 7's availability to help with the project
+- Person 4 was in communication with Person 7 and had sent a chain of emails
+- Person 5 reviewed the web page and wanted to know how far Person 7 had gotten
+- Person 5 suggested to get in touch with Person 7 and double check his availability
+- Person 4 found the agenda document in the master documents
+- Person 5 outlined the process of annotation at the type and token level
+- Person 5 suggested to replace all named entities with placeholders
+- Person 5 suggested to handle the small close set entities separately and quickly
+- Person 5 suggested to proceed at the two levels of word type and word token level
+
+(PERSON5) And person frame, yeah.
+
+
+• Person 4 and Person 5 discussed the difference between word type and word token.
+• Person 5 mentioned that word type is the word as it appears in the dictionary, and word token is a particular instance of the word in a context.
+• Person 5 mentioned that they need a system operator to do the bulk processing of the documents and the insertion of the annotations into the XML.
+• Person 4 mentioned that there are a lot of typos and most of the output is not a named entity.
+• Person 5 mentioned that they need to focus on preserving the identity of people, but can afford to ignore the identity of projects.
+• Person 5 mentioned that they need to put the outline on a time frame and person frame.
+
+
+
+- Get in touch with [PERSON7] to check if the information is in some document with him
+- [PERSON1] is responsible for the programmatic parts
+- [PERSON3] may need to offload some of the water modelling ideas
+- [PERSON4] and [PERSON6] need to agree on a timeline and discuss the identification guidelines
+- [PERSON6] needs to read the regulations and tell what is considered personal data
+- Guidelines will say that personal names must not appear in the data set
+- [PERSON6] needs to discuss the consent forms with [PERSON4]
+- There are two types of consent forms: one for working with the data and one for publishing the data in a deidentified form
+- Participants should be able to browse the meetings they took part in and check if they are still represented in the data
+
+so-
+
+
+- Focus on second form to get permission to publish data in anonymized form
+- Create a master sheet to extract participants from each meeting minutes
+- Create individualized sheets with remarks column
+- Send consent forms to participants at the end of February
+- Have data ready for participants to browse by mid-February
+- Participants should do consent in the first week of March
+- Ask participants for bug reports when sending links
+- Do a second pass of data to remove any extra pieces of information
+- Release data by end of March
+I just said that I will not be able to answer it,
+but I will forward it to [PERSON1],
+so I don't know if [PERSON1] has answered it or not.
+
+
+- Person 4 will finish the word type level annotation in two days
+- Item three can be delayed if necessary, but it would be better to do it so that the xml markup can be used to extract token level instances
+- Item six and seven should not happen later than mid-February
+- Person 1 will increase the timer
+- Person 1 created a list of potential Scientific Committee members, but half of them are master's students
+- Person 5 suggested that the list be kept elsewhere and discussed separately
+- Person 1 will forward an email template to Person 5
+- Person 5 suggested that the invitation email be personalized in some way
+- Person 5 will delete some names from the list and Person 1 will add some more
+- Person 1 proposed that the proposal be submitted by January 7th or 8th
+- Person 5 suggested that the emails be sent today or within two days
+- Data questions were transferred to [PERSON1]
+- [PERSON4] assured [PERSON2]
+- [PERSON5] suggested experienced people from 2006 (DAMI) and Corpus (Jean Kaleta) as keynote speakers
+- [PERSON5] suggested asking [PERSON6] and [PERSON7]
+- [PERSON1] suggested sending proposal to [ORGANIZATION2] by January 10th and to [ORGANIZATION3] by January 15th
+- [PERSON4] suggested [PERSON5] send pre-prepared letters to three Russians
+- [PERSON5] agreed to send letters in English

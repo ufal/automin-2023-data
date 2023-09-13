@@ -1,0 +1,108 @@
+- Jindřich napsal polemický závěr a přesunul komentáře
+- Diskuse o tom, kdo napsal určitý text a jak ho přesunout
+- Potřeba upravit souhrn (summary) a zjistit, co je v něm důležité
+- David možná píše příliš podrobně, Tomáš naopak moc stručně
+- Návrh na změnu čísel kapitol v souhrnu
+- Rozdíl mezi abstraktem a souhrnem není jasný
+- Tomáš rozepíše kapitoly 3 a 4, David zkrátí kapitolu 5
+- Změna textu do přítomného času
+- David se pokusí dát souhrn dohromady, aby měl nějaký tvar
+- Schůze se týkala formátování textu, zkracování popisků a úpravy barev v dokumentu.
+- Diskutovali o možnosti říct GLS, aby používal pouze zkratky.
+- R (PERSON1) a D (PERSON2) si všimli překlepů a chyb v textu, které je třeba opravit.
+- D (PERSON2) plánuje použít Grammarly pro kontrolu gramatiky a opravy chyb.
+- Zmínili se o seznamu tabulek a zda je jich dostatek pro knihu.
+- T (PERSON3) navrhl nastavit barvy pro tisk, aby byly odkazy a citace černé místo modré a zelené.
+- R (PERSON1) navrhl zkontrolovat, zda citované archivní články nevyšly někde jinde.
+- Diskutovali o možnosti napsat skript pro kontrolu verzí článků v bibliografii.
+- D (PERSON2) se chce zeptat Strnjaka (PERSON4) na názor ohledně barev v dokumentu.
+- V bibliografii projektu nejsou dlouhé věci s dlouhými odkazy, možná jsou zbytečné.
+- Někteří účastníci schůzky mají problémy se slyšitelností.
+- Diskuse o tom, zda ponechat odkazy v textu nebo ne, s odkazem na jiné knihy a autory.
+- Hovoří o editorech knihy a zjišťují, že někteří z nich možná nežijí.
+- Po bibliografii je v knize index s nějakými divnými věcmi.
+- Porovnávají index s indexem v knize Dana Zemana, který obsahuje pouze jazyky.
+- Diskutují o použití makra "pojem" pro definice pojmů v textu.
+- Zvažují, zda by měli důsledně používat makro "pojem" pro vytvoření indexu.
+- Příklad pojmu "hidden states" a jeho použití v textu.
+- Diskuze o kontextových vloženích a poznámkách pod čarou v dokumentu
+- Zjištění, že první poznámka pod čarou je celá odkaz a odkazuje na abreviace
+- Hledání příčiny problému s odkazem v logu
+- Nastavení rozepisování zkratek v každé kapitole dle Jindřicha
+- Diskuze o zkratkách BERT, ELMo a GPT a jejich významech
+- Zjištění, že GPT a GPT2 mají různé významy písmen v zkratce
+- Rozhovor o spolehlivosti informací na Wikipedii
+- Shoda na použití GPT jako "generative pre-trained transformer"
+- Schůzka se zabývala akronymy a zkratkami používanými v projektu.
+- Diskutovali o generative pre-trained transformer (GPT) a transformers.
+- Hovořili o BERT, RoBERTa, XLMR a MBERT.
+- Zmínili se o recurrent neural network (RNN) a ELMo.
+- Diskuse o tom, zda rozepisovat některé zkratky v textu nebo je nechat zkrácené.
+- Navrhli rozepsat některé zkratky pouze na začátku textu.
+- Přidání BLEU do seznamu zkratek, ale možná ne vysvětlení v textu.
+- Zmínka o odkazech na vědecké články pro vysvětlení některých zkratek.
+- Diskuse o seznamu zkratek a jak je generován.
+- Zmínka o tag LM a kontextovém embeddingu.
+- XLR není v projektu
+- Diskuse o použití BERT, RoBERTa a XLMR v textu
+- XLM je zkratka pro cross-lingual language model
+- Hlavní zaměření na strojový překlad (MT) a předtrénované modely
+- Projednávání struktury a obsahu úvodu a závěru
+- Návrh na rozšíření úvodu a závěru
+- Porovnání s jinými pracemi, např. Dan Zeman
+- Dan Zeman má ve své práci chybějící kapitolu 2
+- Připomínky a návrhy na úpravy textu
+- V průběhu schůzky se diskutovalo o chybějících stránkách v PDF souboru a zda se jedná o náhled nebo celý dokument.
+- Zmínili se o klikacích a neklikacích odkazech v různých dokumentech.
+- Hovořili o poděkování recenzentům a dalším lidem, kteří se podíleli na projektu.
+- Diskutovali o transformerech a jak se hledají na internetu, včetně obrázku Martina Popela s transformátorem.
+- Projednávali komentáře od Rudy v kapitolách a jak s nimi naložit.
+- Projednávali možnosti zlepšení čitelnosti obrázků v dokumentu
+- Diskutovali o tom, zda je lepší mít odkazy přímo v textu
+- Zmínili problém s malým písmem a čitelností
+- Hovořili o možnosti rozdělit obrázky na více stránek
+- Diskutovali o formátování popisků u dvoustránkových obrázků
+- Zvažovali možnost změny uspořádání stránek v knize
+- Hovořili o svazování knih a počtu stránek v knize
+- Zmínili několik konkrétních knih jako příklady
+- Nebyli si jisti, jakým způsobem se dnes knihy svazují
+- Hovořili o Stranjakových návrzích a názorech na formátování
+- Schůzka proběhla s účastí PERSON267, PERSON265, PERSON275, PERSON266, PERSON319, PERSON279 a PERSON291.
+- PERSON319 informovala o jednání s architektem, které proběhlo dobře a byly probrány připravené body.
+- Byla zmíněna potřeba kontaktovat PERSON320 ohledně sítí a kanalizace v dané lokalitě.
+- Projektanti budou řešit studii a spojit se s ORGANIZATION129.
+- PERSON266 zmínila plánované změny ředitele, sloučení dvou kanceláří, které podrobněji vysvětlí PERSON291.
+- Nutnost ukončit rozpočet do konce roku a vyřešit peníze za model na PROJECT87.
+- PERSON266 informovala o neúspěšném odvolání v soudu ohledně ORGANIZATION173 a možnosti dalšího postupu s právníky.
+- PERSON291 přišel na schůzku a byl požádán o vysvětlení restrukturalizace.
+- Většina zaměstnanců pracuje z domova
+- Uvolnilo se místo ředitele [ORGANIZATION189] po odchodu [PERSON323] z [ORGANIZATION138]
+- Pan ředitel navrhuje sjednotit strategické a územní plánování
+- Cílem je mít plány související s časem, penězi a lidmi
+- Vypsáno výběrové řízení na pozici ředitele [ORGANIZATION188], která integruje kanceláře a agendy sekce plánování města a sekce strategií a politik
+- [ORGANIZATION176] přešla k [ORGANIZATION138]
+- [ORGANIZATION177] bude pod [PERSON281]
+- Nový ředitel by měl být vybrán do konce roku a nastoupit od 1. ledna
+- [PERSON324] byla informována o změnách a souhlasila s nimi
+- Výběrové řízení je otevřené, pokud má někdo vhodného kandidáta, může dát vědět [PERSON291] nebo [PERSON266]
+- Diskuze o zahrnutí tématu krajiny ve všem, co dělá [ORGANIZATION138]
+- Na projektovém setkání se diskutovalo o účasti PERSON286 na komisi ORGANIZATION192.
+- Komise se skládá z nestranných odborníků a účast PERSON286 je pro ně přínosná z hlediska informací.
+- PERSON286 se však musí zdržet hlasování v některých případech, což zpochybňuje její účast v komisi.
+- Bylo navrženo, aby místo PERSON286 šla na jedno zasedání PERSON266, aby se vyhodnotilo, jak to funguje.
+- PERSON286 upozornila, že komise nefunguje s náhradníky a neví, zda by to bylo pochopeno.
+- PERSON291 nabídl, že by mohl jít na zasedání místo PERSON286, protože zná některé členy komise.
+- Bylo zmíněno, že členové komise mají různorodé osobnosti a názory.
+- Diskutovalo se o možnosti poslat někoho jiného z týmu na zasedání, když se bude probírat změna 2600.
+- PERSON286 je uvedena jako členka komise, což komplikuje situaci s náhradníky.
+- Zatím nebylo rozhodnuto, jaký postup zvolit ohledně účasti PERSON286 v komisi.
+- Projednávali možnost sdílení informací s dalšími stranami a jak to ovlivní projednávání změn
+- Diskutovali o prezentaci a připomínkách z minulé komise
+- Plánují účast na výboru, kde se budou probírat připomínky komise
+- Zmínili další komisi 18.11.
+- Plánují spolupráci s panem architektem [PERSON332] na analýzách [PROJECT89]
+- Spolupráce s [ORGANIZATION159] na vytipování ploch parkovišť pro městskou výstavbu
+- Diskutovali o studii [PROJECT90] a zda se mají vyjadřovat pro [ORGANIZATION146] nebo jen pro pana architekta
+- Zvažují, jak moc se vysilovat v připomínkování studie [PROJECT90], která je zamotaná a obtížná
+- Plánují se domluvit s [PERSON335] na dalším postupu ohledně vyjadřování k studii [PROJECT90]
+- Připravují jednání s panem [PERSON345] ohledně připomínek ke studii [PROJECT91] a požadují zahrnutí funkčních ploch a veřejné vybavenosti.

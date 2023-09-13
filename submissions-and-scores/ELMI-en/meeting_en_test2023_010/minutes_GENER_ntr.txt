@@ -1,0 +1,28 @@
+Meeting KeyPoints:
+
+1. PERSON1 (Ali) is in the Prag region and went back to Iran yesterday morning.
+2. PERSON8 (Forouzran) is from Iran and just arrived a little bit earlier.
+3. PERSON7 (Male colleague) is curious about the problems PERSON1 (Female colleague) is possibly experiencing.
+
+- Ideally, the numbers should be collected in separate files, and then a script that combines these numbers into one table would be useful so that the preparation of the table is quick and it can be regenerated if needed.
+- Coping individual numbers is always prone to errors.
+- Right now, the results for some of the tests are included in a DTSV file, but I will just copy paste the
+1. PERSON1 needs to separate the execution of the code among multiple workers/computers. To do so, he should create multiple versions of the code (stored in different folders) and assign each worker to work on a different version.
+2. After running the code on a separate computer/worker, PERSON1 needs to retrieve the result files from all the workers. He should also ensure that all the workers generate a
+Okay, so after we open with the intention to evaluate P580 to P5, we see that both of them are busy with other work and not available.  P580 also mention that we need to evaluate the letter they send to P1 and P4.  P1 replied that we need to evaluate the multisource experiments and P580 should share the data needed for that evaluation.  P4 also replied that we should share the baselines and training data needed for evaluation.  P
+- Input from PERSON7: Four point two, four point two, eh, eh, evaluations of existing eh, models eh, would be eh, great, eh, we do not really expect eh, any results of eh, newly trained systems..  So PERSON5, this merges the eh, eh, the eh, yes, simply focus on the evaluation..  Focus on the evaluation of existing syst-PERSON5: Okay.
+- The next important events for the student would be the Part-1 of the Your Sicogres in mid-April and the Meta-forum that would probably be December.
+- The two most important events for the next year would be the congress part one in mid-April and the Meta-forum that would probably be December.
+
+- PERSON7 suggested that PERSON1 should run the scripts and put the output somewhere (probably a file on the cloud storage)
+- PERSON7 also suggested that PERSON2 should be in contact with PERSON1 to further discuss the working of the scripts.
+- PERSON2 created a script that runs a SR and takes care of storing the output
+- PERSON2 was not in contact with PERSON1 but
+- There is a calendar containing the date and time of the meeting.
+- PERSON7 sent a calendar for the date and time of the meeting to PERSON2 and PERSON1.
+- There is no need to discuss anything else at this time.
+- There will be no next call.
+- No call on the last day of the year.
+- There will be a Zoom call on the 7th of
+
+* Input from PERSON7: for the reminder, yeah, that’s, that’s important..  So (delebl), CVs eh, and sh- and the, the meetings that are planned..  Okay, yeah, so thanks to you all and if you’re celebrating Christmas, which half of us are doing, then eh, enjoy Christmas, otherwise enjoy holidays if you take them, and if eh

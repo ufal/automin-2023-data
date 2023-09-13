@@ -1,0 +1,37 @@
+
+(PERSON6) Yeah, I'm, I'm going to use it for the evaluation.
+
+
+- Person3 and Person4 discussed the ACL paper and the reproducibility checklist
+- Person4 mentioned that the model works almost perfectly and that it learns to inflect the constraints properly
+- Person3 suggested adversarial evaluation and attention analysis to further analyze the model
+- Person6 suggested that the problem with the automatic evaluation is the lack of references with the correct word surface
+- Person4 mentioned that the (European) dataset is quite easy because there is not much ambiguity
+- Person3 suggested cross domain experiments to train on one domain and test with terminology from another domain
+- Person6 mentioned that they are manually checking the Portugese language model and have around 200 sentences so far
+
+So, ah, this is the document that [PERSON2] was referring to.
+
+
+- Project meeting focused on training data for a project involving English-Portuguese translation
+- Person6 suggested using editor auditing and coding domain in the training as training data
+- Person3 asked if Person6 had received a response from Person7 yet
+- Person1 suggested forwarding the email to Person7 and suggested looking for master thesis repositories
+- Person3 suggested testing the system in a cross-domain scenario and avoiding retraining the model
+- Person4 suggested using artificial examples and looking for math terminology for translation of math books into Czech
+- Person1 suggested using the [PROJECT1] test set, which is organized according to indices, and suggested focusing on gender transformations
+- Person2 suggested using the sub-lease agreement document as an example of terminology that needs to be translated in a distinct way
+- Two parties in an agreement have their gender and the gender must be preserved
+- Links will be pasted for auditing domain and possibly (CL) domain
+- Little or no reference translations, so manually checked
+- OST equals English source, TTCS star equals check reference or more
+- Written audits in a directory
+- Annotations for 90 lines of audit and 30 lines of <unintelligible/>
+- Export markables or manually check what is the correct translation
+- Sentences with correct label manually validated
+- WMT [PROJECT1] test set for (Bles core) evaluation
+- WMT 20 testsuite markables by [PERSON2] for specific terms evaluation
+- [PERSON8] data for English Portuguese data
+- Multi source data from [PERSON8] with no comments
+- Word document conversion
+- Call about data on Monday after meeting

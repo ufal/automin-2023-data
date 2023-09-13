@@ -1,0 +1,69 @@
+
+But you have to give them enough time to prepare the system.
+And if the system is not ready, then the paper is not ready.
+So I think it's better to have a later timing.
+
+
+- Project meeting discussed the TD ID of keyword extraction and summarization for meeting data
+- Commonly occurring words such as "hello" and "mhm" are extracted, resulting in poor summarization
+- Discussed the possibility of SIGDial or Interspeech for the shared task
+- SIGDial is earlier than Interspeech, but may attract more participants
+- SIGDial timeline is not yet published, but may follow the same timeline as previous years
+- Interspeech has a later timeline, but requires more preparation
+- It is preferable to have at least four months buffer time for the shared task
+
+(PERSON3) Yeah.
+(PERSON7) And package B is four hundred eighty euros for one year.
+(PERSON3) Yeah.
+(PERSON7) So -
+(PERSON3) So let's let's try the student one.
+(PERSON7) Yes.
+
+
+- Project meeting discussed the timeline for a shared task project
+- Need to have three months of sitting, just or like having it on their to do lists
+- In two weeks, they will do it
+- Participants may come up with problems that need to be fixed and re-published
+- WMT is a rare example of test sets and training data being updated
+- SIGDial 2021 is in June, with paper submission deadline in March
+- Interspeech has a special track set up, but doesn't fit the project's needs
+- Need to apply for [ORGANIZATION7] membership, either student or institutional
+- Student membership is 20 euros, institutional is 240 euros
+- Need to submit proposal soon for Interspeech, with PBML as backup plan
+- Authors can choose to submit to Interspeech or PBML, with PBML as the preferred option
+
+(PERSON6) So we don't have anything like that.
+So we need to create something like that.
+(PERSON3) Yeah, yeah, yeah.
+So that's that's the thing that we need to do.
+
+
+- Estimate for Interspeech registration is 4 researchers and 2 students
+- Ask [PERSON1] at [ORGANIZATION5] what type of membership is preferred for the department
+- Email [PERSON5] at [ORGANIZATION5] for website setup
+- Browse for existing projects at [ORGANIZATION5], [ORGANIZATION4], and [ORGANIZATION8]
+- [PERSON6] to run [PERSON8]'s code on meeting data to check if results are decent
+- [PERSON7] to share evaluation metrics on dry run minuting data
+- Create gold standard for automatic metrics
+- [PERSON10] to have access to transcribed data for anonymization
+
+(PERSON3) Yeah.
+(PERSON4) So, yeah.
+(PERSON3) So, yeah, so, okay, so, I think, we are done.
+So, yeah, so, please, make a timeline and share it with [PERSON10].
+And then, yeah, we can continue.
+
+
+- Prepare an automatic metric without gold reference
+- Split the data into training, development, and final test parts
+- Choose one or two gold standard metrics
+- Implement summarization methods
+- Contact authors of recent [ORGANIZATION3] paper to validate implementation and invite them to shared task
+- Make a timeline for data preparation and share it with [PERSON10]
+- Anonymize data with help of annotators
+- Alignments are useful for evaluation but not for anonymization
+- Need to anonymise and publish data in time
+- Do not release any alignments
+- Data will be used for evaluation
+- Host to discuss with [PERSON7] and [PERSON10]
+- Meeting concluded with goodbyes

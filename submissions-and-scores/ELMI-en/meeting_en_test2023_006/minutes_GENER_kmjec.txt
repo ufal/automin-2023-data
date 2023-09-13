@@ -1,0 +1,21 @@
+PERSON17, PERSON14, PERSON11, PERSON2, PERSON6, PERSON9, PERSON19, and some other people are trying to talk to each other. They need to complete the GPU test to know which version of PROJECT2 really works, it trains on floating point
+PERSON17, PERSON11 and PERSON19 will have a separate call tomorrow afternoon at 2 PM. They will discuss the multisource research.
+PERSON17 will send the link to the ORGANIZATION4 calendar. PERSON9 is leaving and will finish the language model checking of ASR outputs. The integration will be on PERSON5, PERSON8 and PERSON9. The other person on the call is not PERSON9, it is
+The profanity filtering is not integrated. It was tested on logs, but now it is time to test it on the live pipelines. It is important to first debug it using the log files and then to debug it in the pipeline. 
+PERSON8 is having a call with PERSON9 later today. They will discuss profanity filtering and domain adaptation.
+PERSON9 has already started preparing for the upcoming Monday seminar, which is going to be given by a famous Italian guy, the author of PROJECT6. He will be talking about verb f frames. On Monday we will hear the Italian English, Japanese English and the ASR will
+PERSON14 is working on creating new sentences by unintelligible words that were spoken by different speakers. This will improve the robustness of the ASR system. 
+PERSON9 will be leaving the team. There is a lot of work to be done. People need to record the experience from the PROJECT1, S G one and PROJECT2 sessions. When PERSON8 was still in hospital, the pipeline had to be started by PERSON9
+PERSON5, PERSON16, PERSON8 and PERSON17 are having a call to discuss how to make the configuration cleaner.
+The multilingual model for the English to Czech model was trained using tensor to tensor, so it's very slow. It's possible to limit the number of languages, but it's impossible to pass these parameters to the generator when it's running on a cluster. There are two
+PERSON16, PERSON17, PERSON6, PERSON8 and PERSON19 are discussing technical issues at the ORGANIZATION2 mailing list. 
+PERSON16 had several path conflicts with PROJECT2 and couldn't backtrack eaeach of them. He needs to replace the wrong paths with the correct ones. (PERSON17) suggests using the PROJECT9 ORGANIZATION2 list for that.
+PERSON6 is working on the shortening, extending models. He's running out of storage space on Mala Strana and needs to ask for more on Troja. 
+PERSON12 would like to have a call with PERSON12 tomorrow afternoon at 2. (PERSON6, PERSON17, PERSON19, PERSON11, and a man from Saarbrücken. He is interested in joining the group. The deadline for applying for PhD is
+PERSON8 is working on a project. He has a call at two thirty Prague time with PERSON4 to discuss the unintelligible capability of downloading files. He will have a call with PERSON2 later to discuss automating the ASR evaluation.
+The management of important sessions is the first lesson learned from the last week sessions. It is important to make sure that important people around the globe are available for important sessions. The fallback solution if one of them is unavailable is to put their names next to their names.
+PERSON17 is looking for someone to help with the immediate domain adaptation, the data crunching and the dictionaries for the PROJECT5 toolkit.
+PERSON17, PERSON8, PERSON14 and PERSON6 are working on developing a fully neural ASR. They need a colleague or friend to help them. 
+(PERSON17, PERSON14, PERSON8 and PERSON6 discuss how to improve the profanity filtering on social media.
+PERSON8, PERSON17 and PERSON6 discuss the unintelligible task. The task is similar to the competitions, but the setting is slightly different. In their case, they do not expect the speakers to use abusive language. The bad words arise only as errors of ASR,
+PERSON8's visa is approved and she will probably be in Prague in January. (PERSON17) wants to ask unintelligible students who are already in their first or second year if they are interested in working on the task of shortening MT.

@@ -1,0 +1,7 @@
+PERSON6 and PERSON4 are discussing the TD ID for keyboard extractor in the minute group.
+PERSON3 joins the conversation and suggests that they pre-process the occurrances to remove sentences which are not relevant.
+They discuss the submission deadline for the SIGDial application and the possibility of running a parallel session for a special session.
+They also discuss the best way to prepare the website for the project and the best page for the ORGANIZATION5 project.
+PERSON7 suggests contacting PERSON5 at PTAL to ask for preferred membership for the department.
+They decide to apply for the student membership, which costs two hundred fourty euros for one year, and the institutional member package, which is for five researchers and two students.
+They agree that if they do not get into Interspeech, they will apply for SIG Dial.

@@ -1,0 +1,25 @@
+Date: 28.7.2022
+👥 Attendees: PERSON2, PERSON7, PERSON9, PERSON6, PERSON5, PERSON4
+
+
+🔷 Holidays and cancels the meeting
+	🔹 [PERSON7] is in Brazil
+	🔹 [PERSON9] is in the Czech Republic
+	🔹 They have holidays officially until 24, 25, 26, 27, 28
+	🔹 People have holidays before the Christmas Day and the following days
+	🔹 [PERSON7] cancels the meeting with the partners on January 21st.
+
+🔷 Constraints of PDT
+	🔹 [PERSON7] is trying to collect the data
+	🔹 [PERSON5] is working on the side project of PDT and [PERSON9] is preparing data for the negative constraints.
+
+🔷 System training and analysis
+	🔹 [PERSON2] and [PERSON7] are working on the training and analysis of the system
+	🔹 The training method is efficient, but the analysis is slow
+
+
+🔷 submitting the deliverable
+	🔹 [PERSON4] needs to submit the deliverable before the end of the year
+	🔹 He will send them an e-mail.
+
+✍ Submitted by: Darbarer

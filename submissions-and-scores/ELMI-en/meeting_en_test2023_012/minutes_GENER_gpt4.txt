@@ -1,0 +1,42 @@
+- Meeting attendees: PERSON6, PERSON7, PERSON4, and PERSON3
+- Discussion about using TD ID for keyword extraction in meeting data and its poor results
+- Consideration of including the issue of common occurring words in meeting data as motivation for shared task or paper
+- Debate over whether to choose SIGDial or Interspeech as the venue for the shared task
+- Concerns about the timing and deadlines for both SIGDial and Interspeech
+- Advantages of SIGDial: potentially attracting better participants and easier application process
+- Advantages of Interspeech: later timing, allowing for more buffer time between deadlines
+- PERSON7 suggests having at least four months buffer time for the shared task
+- PERSON3 prefers the later timing of Interspeech, but acknowledges the benefits of SIGDial
+- Participants discussed the importance of having a longer deadline for their project, as it allows time for potential issues to be addressed and republished.
+- The possibility of submitting papers to both Interspeech and SIGDial was discussed, with Interspeech being the preferred option.
+- The team needs to apply for [ORGANIZATION7] membership in order to submit their proposal.
+- There was a discussion about whether a student membership or institutional membership would be more appropriate for their needs.
+- The team will need to prepare their proposal soon, as the deadline for submission is approaching.
+- Four members from the institution are involved, including four researchers and two students.
+- Institutional membership for [ORGANIZATION7] may provide reduced conference fees for Interspeech.
+- [PERSON1] should be contacted to determine the preferred membership type for the department.
+- [PERSON7] will check past Interspeech conferences for information on reduced fees.
+- The team needs to prepare a website, reach out to people for the scientific committee, and prepare a call for papers.
+- [PERSON5] should be contacted for help with setting up the web page.
+- [PERSON6] has evaluated keyword extraction methods and will run [PERSON8]'s code on their data.
+- The team needs to work on anonymization of the data and ensure it is available in January.
+- [PERSON7] has shared evaluation metrics for minuting data, but the team needs a gold standard for comparison.
+- The team should continue working on evaluation metrics and summarization methods.
+- The team discussed preparing their own automatic metric without a gold reference, as they don't have a gold standard.
+- They plan to split the meetings into training, development, and final test parts after data anonymization.
+- The gold standard will be available for training data and development set.
+- They discussed various semantic level metrics like bird score and sentence mover similarity.
+- The team plans to evaluate different summarization methods and compare their outputs to find the best one.
+- They will contact the authors of a recent paper on meeting summarization to validate their implementation and possibly invite them to the shared task.
+- A timeline for data preparation needs to be created and shared with the team to ensure progress.
+- Anonymization of the data will be done with the help of annotators and then sent for second consent.
+- Alignments are less important for the January and March release but will be useful for evaluation.
+- Need to anonymize and publish data sooner
+- No release of alignments, only for evaluation
+- Better to release data if available
+- Decision not yet made on releasing data
+- [PERSON4] assigned a task
+- [PERSON3] accidentally disappeared from the meeting
+- [PERSON3] returned and apologized for disappearing
+- Discussed with [PERSON7] and [PERSON10]
+- Meeting concluded with goodbyes

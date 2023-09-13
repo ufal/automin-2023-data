@@ -1,0 +1,54 @@
+
+With the domain elected models.
+And then, on Monday, we will have the Monday seminar.
+So, [PERSON4], you will have to update the model for the Monday seminar.
+And then, we will have the two concurrent sessions.
+So, this is the plan.
+
+
+- Person 6 attempted to connect to the meeting but had difficulty hearing others
+- Person 11 was asked to do transcripts for German ASR
+- Person 6 suggested Person 11 think about training a system to do shortening
+- Person 4 was asked to check the programme for Project 2 and gather relevant data
+- Person 8 was asked to plan for a Zoom test for two YouTube videos to be played concurrently
+- Person 8 was asked to set up two presentations on Quest Plus virtual machines
+- Person 4 was asked to provide a link for the two videos
+- Person 6 suggested running the same pipeline for both videos but keeping them separate
+- Person 4 was asked to update the model for the Monday seminar
+- On Monday, the two concurrent sessions will take place
+- Two pipelines are being developed for two different domain adaptations
+- Person 8 is compiling data for evaluation and is facing issues with some videos not converting properly into a 16 cave format
+- Person 10 is helping with the audio files and Person 8 is writing a script to keep track of the files that need to be manually converted
+- Person 6 is emphasizing that the evaluation should be run from scratch every time
+- Person 8 is having a call with Person 1 today and Person 10 may join
+- Person 8 will send numbers for the Khan Academy dataset today
+
+But I'm not sure.
+
+- [PERSON4] and [PERSON2] need to collaborate to figure out how to use the dictionary [PERSON2] sent
+- [PERSON4] needs to figure out what words are in the language model and copy them into the dictionary
+- The dictionary should have three columns: grapheme, recognised, and phonemes
+- [PERSON2] is training a German ASR that may be used for time stamping
+- The training set contains around 300 hours of data, but [PERSON2] is unsure if it contains similar or same sentences spoken by different speakers
+
+So I think that's why it's so hard to transcribe it.
+(PERSON1) Yes.
+
+
+- Discuss the use of language models to process interpreters
+- Compare the performance of different ASR workers
+- [PERSON4] and [PERSON2] to synchronize and [PERSON10] to follow
+- [PERSON8] to focus on getting the systems running and [PERSON10] to focus on getting the numbers
+- Decide which model to use on Monday
+- [PERSON11] to use sox for conversion and run 100 workers in parallel
+- [PERSON2] to provide ASR with lowercase and without punctuation by tomorrow
+- Project meeting discussed the issue of speaking the wrong person
+- Discussed the possibility of applying a filter to cut off low volume
+- Discussed the possibility of asking the annotator if the transcription work helped
+- Discussed the focus on [PERSON2]'s high quality
+- Discussed the format of the CMU dictionary
+- Discussed the issue of phonemes not being converted into alphabet phonemes
+- Discussed the possibility of substituting phonemes with other words
+- Discussed the link of Wikipedia for a chart of phonemes
+- Discussed the possibility of converting IPA to alphabet phonemes
+- Discussed the possibility of having a call tomorrow

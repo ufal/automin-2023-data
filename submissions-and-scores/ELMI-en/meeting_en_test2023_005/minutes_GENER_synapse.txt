@@ -1,0 +1,51 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON12, PERSON15, PERSON18, PERSON2, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON2 and PERSON9 are in the last call before Christmas.
+- They want to discuss the models they need to improve.
+- The payment has been received.
+- The report of multilingual machine translations is almost complete and ready for review.
+- PERSON2 wants to make sure that they have the actual systems for the sessions prepared.
+- PERSON15 and PERSON8 have finished their parts.
+- PERSON3 is the person who should put it there.
+- PERSON5 has received an almost complete version with sections for ASR, MT, NSL PERSON2 and PERSON9 want to know about the status of PROJECT2.
+- PERSON2 will make sure to submit the delbls before the end of the year, on the New Year's Eve at the latest.
+- PERSON12 is reporting some minor bugs with the ASR system PERSON2 wants to know if they can run some tests on evaluation.
+- They agreed that they're going to do English to five models 9 times to cover the 43 target languages.
+- There'll be another PROJECT2 call in January.
+- Organizing3 does not want to deploy too many workers PERSON2 will talk to PERSON17 and they will evaluate the Improved ASR systems.
+- PERSON2, PERSON15 and PERSON18 are working on improving the machine translation system.
+- They are also working on improve spoke language translation prototype.
+- The trade fair of the students companies will be held in March.
+- There will be the same competition 90 seconds in a lift as last year.
+- PERSON1 and PERSON2 want to record the speeches of non-native speakers who use English and use it as a test set for their project.
+- The next important session to get ready for the ORGANIZATION5 part 1 is going to take place in mid-April, not in May as originally planned.
+- It's to have the management bits of the organiser completed and the transition of the presidency of the Czech Republic completed.
+- According to PERSON2, PROJECT5 2021 will be similar to this one, except that they will go public and make the system available to all their target languages.
+- There will be many smaller events next year.
+- One of them will be on January 25th.
+- The survivors of Holocaust will have The PROJECT5 2020 event is taking place in December.
+- There will be two test sessions: one for small participants and one for bigger ones.
+- The participants need to be ready and attend to the point.
+- They need to practice also these preparations.
+- PERSON2 wrote a document about the recording of PROJECT4 and PROJECT5 2020.
+- He wants to nominate someone responsible for making recordings of these important sessions.
+- PERSON2, PERSON4, PERSON5, PERSON18, and PERSON9 will have a technical call in mid January to discuss dockerizing MT models for PROJECT2.
+- PERSON2, PERSON4 and PERSON15 agree that they need to be dockerized in order to run their projects in the cloud.
+- They also agree that the online text flow should be also dockerized.
+- The new transformer models that they are running tend to need reviews so that PERSON2 and PERSON4 discuss the implementation of dockerized systems for PROJECT2 project.
+- They discuss the complexity of the project and its implementation.
+- PERSON2 will ask PERSON7 to do a Doodle poll about simultaneous SLT and how it could be made better.
+- PERSON2 and PERSON4 are waiting for Dominik to prepare a large corpus of speech interpretation data.
+- They want to compare their models with the minimal translation units from the interpreters in PERSON12's corpus to be able to improve their systems.
+- PERSON18, PERSON2 and PERSON4 discuss how to improve the quality of their online translation experiments.
+- They agree to make weekly phone calls between themselves and PERSON12 on the abridging and the collaboration of their data.
+- PERSON2 will set up a doodle poll to create a cross-team within the project.
+- It will include at least four people, possibly more, and they will start regular weekly calls.
+- They will do experiments and write papers.
+- PERSON2 will get in touch with PERSON9 and PERSON16 to update them about the ASR.
+
+
+Minuted by: Team Synapse

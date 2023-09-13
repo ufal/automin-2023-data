@@ -1,0 +1,43 @@
+Surge GMT 
+Date: 20. 05. 2022
+Attendees: [PERSON177], [PERSON167] Kumar, [PERSON394]
+Purpose of meeting: brainstorming and discussing the validity shortening, retranslating systems, isometric translation, internal sync – papers and projects in progress
+
+- [PERSON177] asked [PERSON167] for help with his paper on speech recognition.
+-- [PERSON167] will create a HTTP server that can receive an audio stream, using Flask.
+-- [PERSON177]'s idea: the person's speech is being sent as an audio stream in small chunks (100–200 milliseconds) to the HTTP server. 
+--- On the HTTP server, the audio is put in a queue which will be handled later with ASR. 
+-- Discussing difficulties with scaling and other details of the project.
+
+- Discussing the exam period, courses and school assignments.
+
+- [PERSON394] inquires about [PERSON177]'s current work.
+-- [PERSON177] is comparing the COMET and BLEU metrics, analyzing how interference influences low latency, translation quality etc.
+-- He prefers BLEU over COMET overall, COMET resulted in extremely low scores, even for an offline model.
+-- [PERSON394] would like to look at [PERSON177]'s results, but his logs are only in English-German, [PERSON394] does not speak German.
+-- [PERSON394] found a good data set related to compression, there are five levels of compression, the data is annotated by humans (in terms of quality, fluency). 
+
+- Discussing shortening. 
+-- Doing high quality shortening means large latency. 
+-- Interpreters shorten: it's a human limitation, we are not computers, we do not have infinite capacity. 
+-- [PERSON177] believes that generating more text usually results in low latency and generating less results in losing important information. 
+-- Isometric translation: its goal is to match the length of the source. 
+--- Use cases: offline dubbing, different languages having different paces
+---- TV show with Zelensky: the pace was extreme and [PERSON177] was constantly reading the subtitles and could not enjoy the show.
+
+- [PERSON394] is in Paris for an internship, working on machine translation compression. 
+-- The compression ratio is probably language dependent.
+--- Discussing English vs German: 1 word in English can be 4 words concatenated in German.
+
+- Preparations for IWLTS 2023.
+
+- Discussing retranslating systems. 
+-- [PERSON394], [PERSON177] and [PERSON167] are very sceptical about retranslating systems, discussing the shortcomings. 
+--- Flickering, tiring and difficult for the reader.
+-- Retranslating systems are good from the POV of the developer, but they are not user-friendly. 
+-- To decrease latency, simply lower the quality instead of flickering. 
+-- They recommend systems that committ to an output and correct themselves if necessary, just like human translators would.
+-- Humans cannot 'unsay' things.
+-- Retranslating is illogical in many ways. 
+-- [PERSON177] suggests the best approach for low latency: monotonous speech translation, 'monotonization' of sentences.
+--- Dicussing a paper about this topic on IWLST.

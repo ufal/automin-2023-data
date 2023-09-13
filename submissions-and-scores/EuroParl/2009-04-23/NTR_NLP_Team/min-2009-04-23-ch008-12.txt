@@ -1,0 +1,9 @@
+Meeting KeyPoints:
+
+Linda: Hi everyone, thank you for joining us today for another data engineering webinar from the team. My name is Linda and I will be your host for today.
+
+We’ll be discussing using Apache Spark for data engineering, and specifically for loading, transforming, and cleansing data for a data warehouse. We’ll also be touching on the topic of stream processing and how to use Spark’s streaming engine, Spark Streaming, for this task.
+
+I’d like
+I wish to raise a point of order based on Article 168.  Our group has submitted an amendment on the change in the legal base, and a number of other groups have done likewise.  The change means that now only Article 95 on the internal market, and thus only economic interests, are included as a legal base and not Article 152 on public health, in which the patient is taken as the starting point.  In principle, the Committee on the Environment, Public Health and Food Safety asked for
+Following the introduction and report by Philip Bushill-Matthews, a number of amendments were tabled and voted on.  A number of those amendments suggested legal base changes and were considered by the president as valid, given the previous amendment adoption.  The amendments that were considered not valid were the amendments suggesting changes to the scope of the amendment (Article 15).  Finally, one proposed amendment was accepted as a clarification of the previous decision and did not change the legal basis (Article 17).

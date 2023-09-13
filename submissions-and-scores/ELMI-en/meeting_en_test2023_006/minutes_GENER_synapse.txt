@@ -1,0 +1,51 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON11, PERSON14, PERSON16, PERSON17, PERSON19, PERSON2, PERSON4, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON19 is starting to run the experiments that PERSON11 told him about.
+- They are to complete the GPU test and to know which version of PROJECT2 works and which one needs to be used.
+- PERSON11 is waiting for the input from ORGANIZATION3.
+- He promised PERSON17, PERSON19 and PERSON11 will have a separate call tomorrow afternoon at 2 PM or 3 PM.
+- They will talk about the multi-source research.
+- PERSON17 will send a link to the ORGANIZATION4 calendar.
+- PERSON8 will get in touch with PERSON9 about integrating some of the tasks that PERSON9 has developed and integrating tools that PERSON5 and PERSON8 should use.
+- The integration will probably take place on the Tuesday PERSON17 has started to prepare a do-it-yourself integration for the profanity filtering.
+- It has been tested on logs, but now it's time to test it on live pipelines.
+- PERSON8 will call PERSON4 later today to discuss the logistics of that.
+- PERSON8 is having a call with PERSON9 later today.
+- After that, PERSON8 will get in touch with PERSON5.
+- PERSON9 has already started preparing for the upcoming Monday seminar.
+- On Monday we will hear the Italian English and on yesterday we had a chance to hear the Japanese English.
+- The ASR system was struggling with that, so the current idea is to create new sentences by words that were spoken in other PERSON9 will be leaving the team.
+- The system needs users and the more diverse users the better, because it will be robust to the different conditions of the users.
+- Yesterday, the pipeline had to be started by PERSON9 and PERSON5, but they failed, so it was restarted PERSON5, PERSON16 and PERSON8 will have a call with PERSON5 to discuss how to make the configuration cleaner.
+- PERSON15's rainbow worker was better in speed, but was not better in scores.
+- The multi-lingual model was trained using tensor to tensor, which makes it slow.
+- PERSON6, PERSON17 and PERSON8 are having technical issues with PROJECT2.
+- As a fallback solution, they should have the PRO PROJECT2 models running as a worker on their side.
+- PERSON6 is working on shortening and extending rainbow models.
+- He is trying to vary the amount and length of data and to create synthetic data from PROJECT7 dataset.
+- PERSON6 has 50 gigabytes of data on Troja.
+- ORGANIZATION97 takes a lot of space, organization97's one hundred language models take a lot, they take like fifty gigabytes themselves.
+- ORGANIZATION2 has space, they give it away only after people have thought about it.
+- PERSON16 will have called at half past three with PERSON11 and PERSON19.
+- There is an Indian student interested in joining the group.
+- The deadline for PhD applications is at the end of the year, but others may have the capacity to apply.
+- The group has not had a call PERSON8 has a call at two thirty Prague time with PERSON4 to discuss the capability of downloading files.
+- The code is almost finished.
+- After that, he will have a call with PERSON2 to discuss all the things that he put in the script and then he will write it into the There are two lessons learned from the last week sessions: 1.
+- Management and 2.
+- Ensuring that important people are available for important sessions.
+- PERSON17 is looking for someone who can work on the non-native accent thing.
+- PERSON8, PERSON9 and PERSON14 are learning how to do domain adaptation for the PERSON18 toolkit.
+- PERSON17, PERSON8 and PERSON6 discuss the development of a fully neural ASR and how to improve it.
+- PERSON14's friend will help with the profanity and then the positive speak.
+- There was a competition for people to develop a classifier to detect tweets or sentences which were harmful in some ways.
+- The task was one of the tasks in which people had to make models to detect hateful or harmful sentences.
+- In our case, we do not expect speakers to use abusive language PERSON6, PERSON17, PERSON14, PERSON8, PERSON10, PERSON16 and PERSON13 are interested in doing the task of shortening MT.
+- PERSON14 can't do it, because he hasn't agreed on the bachelor's thesis yet.
+- He should stay with the non person19 thanks person19 for the compliment.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,14 @@
+PERSON2 and PERSON9 are in the last call before the Christmas. They want to discuss the models that they need to improve. The report of multilingual machine translations is almost complete and ready for review. The payment has been received. The results of the PROJECT2 test set
+PERSON15, PERSON17 and PERSON8 are going to choose the actual systems for the sessions based on PROJECT2 test set. There is no table, in the unintelligible at the moment. PERSON8 has not finished his part yet, but he will do it today.
+PERSON2 wants to know the status of the delbls. (PERSON17) is busy, he rejoined PROJECT2 from the beginning of December and he should be able to work on it again. 
+PERSON2 wants the evaluation of the models to take place. They are going to do English to five models 9 times to cover the 43 target languages. There will be another PROJECT2 call in January. 
+The models are running as individual workers. There are six workers, six copies of each of the two to two to five system, two of them going from English into five, and the other one goes from German into four. The system does not do German to German. Organization 3 will
+PERSON2, PERSON15, PERSON17 and PERSON18 are working on improving the machine translation system. The next milestone is the improve spoke language translation prototype.
+The trade fair of the students companies will be held in March. There will be a competition 90 seconds in a lift, but it will be online only. The participants will have to take the headset, so they will be able to record their speeches. Personal 1 and Personal 2 will focus
+PERSON4 and PERSON2 are planning a mid January technical call to discuss how to make the unintelligible working.
+PERSON5, PERSON2, PERSON4, PERSON15, PERSON18, and maybe also PERSON5 should be involved in the project. The project needs to be more robust, scalable and dockerized. It would cost a lot of money to run the servers in the cloud.
+PERSON2 and PERSON4 do not see the deployment of dockerized systems on paid hardware as a priority for the project. 
+PERSON2 will ask PERSON7 to do a poll about the technical aspects of simultaneous SLT. 
+Dominik is working on a paper. There is ten hours of manually revised data between English, Czech, and German interpreters. The research partners in the consortium want to collaborate more with their models to be better at this. They will try to train a data augmentation system to mimic
+PERSON2, PERSON12, PERSON18 and PERSON4 want to create a subteam within the project to work on the data augmentation, the shortening and the improvement of the Of MT for the purposes of online translation.
+PERSON12 is going to compile first betaversion of the corpus, pass it to PERSON16, PERSON4, PERSON18, and PERSON2. They will start regular weekly calls. They have a complete five to five pipeline with ASR for German, English, French, Spanish,

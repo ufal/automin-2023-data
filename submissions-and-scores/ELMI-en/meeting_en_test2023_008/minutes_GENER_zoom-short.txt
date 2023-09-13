@@ -1,0 +1,5 @@
+PERSON3 and PERSON4 discuss the ACL paper and automatic metrics they are using for translation.
+They discuss the possibility of using adversarial evaluation to improve the reproducibility of the system and manual evaluation of the model.
+PERSON3 suggests using a terminal database and dataset to look up bilingual vocabulary, and general domain tranlation to pick general, rare words from a bilingual dictionary.
+PERSON1 and PERSON3 discuss the data for Bles core evaluation, including the WMT 20 testsuite markables by PERSON2 for specific terms evaluation, English Portuguese data from PERSON8, and sentence compression data for English Czech.
+PERSON6 will help with the navigation and PERSON3 suggests having a call about the data next week after the school.

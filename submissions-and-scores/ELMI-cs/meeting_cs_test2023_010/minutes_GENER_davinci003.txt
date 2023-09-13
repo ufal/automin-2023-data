@@ -1,0 +1,72 @@
+\n(PERSON267) Ona si ji našla, ale já jsem jí říkala, že jí to vyřídím.\n
+
+PERSON267 a PERSON270 se snaží vyřešit problém s neslyšitelností.
+
+PERSON279 se připojuje k diskuzi a vysvětluje, že je potřeba podat žádost o konzultační činnost.
+
+PERSON267 a PERSON266 diskutují o průměru za jednotlivé územáře a o tom, že je potřeba znát pozadí jednotlivých spisů.
+
+PERSON270 se připojuje a oznamuje, že se musí o půl 12 odchýlit na dovolenou.
+
+PERSON275 se ptá, kam jede na dovolenou.
+
+PERSON267 se ptá, zda si s PERSON287 mluvila včera a nabízí, že jí dá její telefonní číslo.
+
+PERSON266 se ptá, zda někdo shání spisy.
+\n(PERSON266) No.\n
+
+1. [PERSON267] si našla pracovní telefon, ale nemůže se jí dovolat.
+2. [PERSON287] má dostat e-mail.
+3. [PERSON264] vyřídil žádost o informace podle zákona 106.
+4. [PERSON266] zjistila, že [PERSON319] jde s [PERSON359] k lékaři.
+5. [PERSON291] byl na výboru jako zástupce [ORGANIZATION138] a [ORGANIZATION191] doporučil [ORGANIZATION194] podnět na [PROJECT117].
+\n
+
+* Schválena změna na [PROJECT118]
+* Některé věci odloženy na březen a květen
+* [ORGANIZATION138] bude mít práci sladění s metropolitním plánem
+* [ORGANIZATION136] bude mít na starosti přípravu fungování nové sekce
+* [PERSON376] bude mít na starosti řízení [ORGANIZATION228]
+* Bude prezentace na sekční poradě o aktualizaci [PROJECT119] Vltavy a Berounky
+* [PERSON275] se bude muset podívat na námitku
+* [PERSON377] poslal spoustu informací a připomínek k [PROJECT75]
+* [PERSON266] rozeslala seznam elektronabíječek z [ORGANIZATION214]
+\n(PERSON278) Tak to bylo, to bylo včera?\n(PERSON266) Ano.\n(PERSON278) Aha.\n(PERSON266) Jo.\n(PERSON278) Tak to bylo včera.\n(PERSON266) Ano.\n
+
+- Setkání se týkalo několika projektů, včetně [PROJECT120], [PROJECT121] a [PROJECT122].
+- [PERSON275] upozornil na oznámení o umístění nabíječky, které bylo potřeba řešit systémově.
+- [PERSON266] požádal [PERSON275] o poslání informací o nabíječce.
+- [PERSON291] požádal [PERSON266] a [PERSON317] o poslání krátké informace.
+- [PERSON266] informoval o tom, že [PROJECT120] v Libni nebyl schválen a že [ORGANIZATION158] poslal vyhodnocení hlukové studie, která potvrdila, že tam tramvaj bejt nemůže.
+- [ORGANIZATION138] bude zpracovávat nové hlukové posouzení.
+- [PERSON294] má do pátku připravit podklad pro další jednání.
+- [PERSON278] byl informován o rozvojovém území na severu.
+null
+
+\n(PERSON266) No.\n(PERSON304) A, eh, takže já jsem jí říkal, že to je, eh, vlastně jenom taková, eh, polooficiální cesta, že jo.\n
+
+- Prostřednictvím webu se budeme zviditelňovat navenek.
+- Vytvoříme přehled o tom, co kdo dělá a jak.
+- [ORGANIZATION150] bude vyplňovat karty, aby byl přehled o práci.
+- [PROJECT127], [PROJECT111], [PROJECT128] a [PROJECT129] budou zahrnuty do přehledu.
+- [ORGANIZATION230] bude mít hlavní slovo v umístění dočasného zastřešení.
+- [PROJECT130] bude vyzkoušen jako prototyp.
+- [PROJECT131] byl zásadně přepsán [PERSON281].
+- [PROJECT132] a [PROJECT133] budou zahrnuty do přehledu.
+\n
+
+- Setkání se týkalo projektu [PROJECT133], [PROJECT60] a [ORGANIZATION226]
+- [PERSON266] poslala [PERSON384] obrázky a průvodní dopis ve wordu
+- [PERSON304] vysvětlil, že investor chce postavit velké bytové domy na pozemku kontaktním s Holyní
+- [PERSON267] se zeptal, zda [PERSON266] poslala průvodní dopis ve wordu
+- [PERSON268] se zeptal na pozemky v [PROJECT60], které město chce prodat nebo směnit
+- [PERSON279] informoval o tom, že občané v [ORGANIZATION129] se angažují proti cyklostezce
+- [PERSON266] a [PERSON279] vysvětlili [ORGANIZATION191], jak se mohou zapojit do procesu pořizování změny územního plánu
+- [PERSON279] a [PERSON266] odpověděli diplomaticky na stížnosti občanů v [ORGANIZATION172]
+null
+
+- PERSON278 a PERSON279 diskutovali o změně 1000 a vručku.
+- PERSON279 navrhl, aby PERSON278 zavolal PERSON294, aby jim poslal odkaz na to.
+- PERSON279 také navrhl, aby byli v obraze, i když do toho nebudou moci zasahovat.
+- Diskuze skončila s pozdravem.
+- PERSON278 a PERSON279 se rozloučili.

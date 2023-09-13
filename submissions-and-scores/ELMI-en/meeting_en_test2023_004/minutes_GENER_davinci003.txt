@@ -1,0 +1,28 @@
+
+
+
+- Project meeting was held between [PERSON1], [PERSON2], and [PERSON3]
+- [PERSON1] was at the office and had decided to enjoy walking there
+- [PERSON3] joined the meeting late
+- Discussed the possibility of submitting a proposal for a special session or a satellite event at [ORGANIZATION1]
+- [PERSON1] suggested submitting a shared task at [ORGANIZATION2]
+- [PERSON3] proposed doing both the special session and the satellite event
+- [PERSON3] suggested that the proposal for the workshop should be submitted as soon as possible and get endorsement
+- [PERSON3] also suggested that the workshop should be entirely independent and the program committee, keynotes, and program should be ready before submitting the proposal
+- Deadline for the satellite event is February 28th
+- Deadline for submitting the full papers of participants is January 15th
+- [PERSON3] suggested doing both the special session and the satellite event
+- Need to contact [PERSON4] for membership to [ORGANIZATION4]
+- Need to pay fees for workshop
+- Need to discuss proposal content for workshop
+- Need to create website for shared task
+- Need to study satellite events accepted to Interspeech last year
+- Need to do management and contact program committee
+- Need to decide between SIGDIAL and Interspeech workshop
+- SIGDIAL has more intensive output and indexed with Ethylanthology
+- [PERSON4] can provide more information about [PROJECT2]-Linguistics
+- [PERSON2] suggests [PROJECT1] from Elsevier
+- [PERSON2] suggests [PROJECT2] from PVML
+- [PERSON2] suggests [PROJECT3] from BBLT
+- [PERSON2] suggests [PROJECT4] from Open Access Journals
+- Need to discuss with [PERSON4] for better proposal

@@ -1,0 +1,34 @@
+- Meeting began with connection issues and making PERSON8 the host temporarily.
+- PERSON1 reported progress on transcripts, German transcriber working alone until December 10th, and mother writing questions for German subtitle user study.
+- PERSON11 added transcripts for first 30 parts, working on next 10 parts, some audio format issues.
+- Discussed possibility of training empty systems for shortening, but unsure if realistic due to low-level code.
+- Preparation for two setups for PROJECT2 and another project discussed, with gathering data and working on Monday seminar model.
+- Plan for Friday afternoon: test two concurrent subtitlings without domain adaptation, using two laptops and two local machines (Ark and Blackbird).
+- PERSON8 to set up two presentations for paragraph setting on virtual machines.
+- Friday test time for two concurrent sessions, one following a "saw" video and one following a "CL" video.
+- Two separate pipelines will be used, each running the same thing, and updated with domain-adapted models later on Friday or Monday.
+- The team is working on domain adaptations and ASR evaluation, but facing issues with video conversion and audio file formats.
+- [PERSON8] is working on resolving the issues and will seek help from [PERSON10] if needed.
+- [PERSON6] emphasizes the importance of running evaluations from scratch every time to identify potential problems.
+- [PERSON4] is working on adaptation for two domains and will participate in a call with [PERSON1] to learn about evaluation.
+- [PERSON2] has provided phonemes for custom dictionaries, but [PERSON4] found that performance was similar with and without them.
+- [PERSON6] suggests using [PERSON2]'s longer word list and filtering it to reduce noise and improve performance.
+- [PERSON4] and [PERSON2] will work together to convert the generated dictionary into a format that the system can accept.
+- [PERSON2] is finishing training a German ASR for time stamping but is unsure of its quality due to a smaller training set and potential duplicate sentences.
+- Discussed enriching the language model with relevant texts from parliament for decoding
+- Considered using transcripts and forced alignment for different sets, and recognition for around 100 hours
+- Discussed splitting tasks between team members to manage workload and reach goals
+- Aim to obtain ASR numbers today and improved numbers on Monday, then decide which models to use
+- Discussed potential issues with file formats and conversion, suggested trying sox for conversion
+- Discussed training a language model for German ASR, considering lowercase and without punctuation
+- Noted that some files contain both interpreter and original speaker audio, which may cause issues
+- The team discussed potential issues with the wrong person speaking during the project.
+- They considered applying a filter to cut off low volume efforts if the problem persists.
+- Person1 will send an email to Person2 and focus on high-quality work from others.
+- Person4 and Person2 discussed the format of the dictionary used by the ASR, including word pronunciation and special marks.
+- They talked about converting IPA to alphabet phonemes and potential issues with certain phonemes not being in the alphabet.
+- Person2 suggested substituting problematic phonemes with similar ones to produce variable pronunciation.
+- They looked at a Wikipedia chart to determine which phonemes are near each other in pronunciation.
+- Person2 agreed to remap their dictionary to CMU and convert the list into alphabet phonemes.
+- Person4 and Person2 will be in touch tomorrow to discuss further.
+- The meeting ended with Person4 asking Person11 if they can end the meeting.

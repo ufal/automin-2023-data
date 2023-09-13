@@ -1,0 +1,123 @@
+- Zmínka o možnosti přidání dokumentu s informacemi do složky
+- Názor, že přidání dalšího systému by způsobilo zatěžování
+- Rutinní práce vyžaduje pozornost a soustředění
+- Nechtějí zatěžovat dalšími úkoly
+- Diskuze o koordinačním zápisu pro rekonstrukci v Lipanském
+- Otázka, kdo má podepisovat koordinační zápis (PERSON290, PERSON286 nebo PERSON308)
+- PERSON291 navrhuje, aby podepsal ten, kdo měl projekt na starosti na ORGANIZATION138
+- PERSON286 zvažuje, zda by to měl být on nebo PERSON308
+- PERSON291 nabízí podepsat v zastoupení, pokud PERSON308 nemá elektronický podpis
+- Domluva na postupu s podpisem a odesláním koordinačního zápisu
+- Proběhlo jednání o podepsaném formuláři s průvodním dopisem a koordinačním vyjádřením [ORGANIZATION163].
+- [PERSON309] pozdravuje všechny účastníky jednání a potřebuje souhlasné vyjádření k formalitě ohledně změny mateřské školky.
+- [ORGANIZATION165] chce u školy umístit stojan na kola, jedná se o dotaz, zda je potřeba koncepční vyjádření.
+- [PERSON278] se domnívá, že koncepční vyjádření není potřeba, protože stojan na kola není ve veřejném prostoru.
+- [PERSON288] se účastnila online jednání o rekonstrukci [PROJECT81] a souvisejících studiích [PROJECT82], [PROJECT83] a [PROJECT84].
+- Architekt [PERSON312] uzavřel smlouvu s [ORGANIZATION168] na pokračování projektování [PROJECT84] po více než roce.
+- Byly prezentovány studie týkající se záměru na [PROJECT61] v [PROJECT85] a dopravní prověření nového úrovňového vedení [PROJECT83].
+- Inženýr [PERSON311] zpracovává dopravně-inženýrskou studii na odbočení z [PROJECT81] do Argentinské a druhé ucho směrem na Magistrálu.
+- Hlavním tématem jednání byly projekty a studie související s rekonstrukcí [PROJECT81] a dalšími dopravními projekty.
+- Soutěž na projekt nebyla důsledně vypořádaná
+- Jednání s [ORGANIZATION158] ohledně [PROJECT83] a odstranění podjezdu pod Bubenskou
+- Hledání varianty pro tramvajovou trať, která by vyhověla hlukovým normám
+- Výsledek hledání řešení by měl být do konce ledna
+- Negativní stanovisko [ORGANIZATION158] k části územní studie [PROJECT85], pokud se nepodaří najít řešení
+- Prověření integrace cykloopatření do [PROJECT81] na základě pověření náměstka [PERSON310]
+- Návrh rozšíření mostu na 31 metrů pro ideální uspořádání příčného profilu
+- Vzrušení na straně projektantů [ORGANIZATION166] a [ORGANIZATION167] kvůli památkové ochraně části mostu
+- Náměstek [PERSON310] má zájem o zlepšení [PROJECT82] na straně Karlína a Nového Města
+- Možná realizace návrhu by znamenala sejmutí památkové ochrany z části [PROJECT81]
+- Projekt je ve fázi stavebního povolení, územní rozhodnutí je prodlouženo do srpna 2022
+- Investorem projektu je [ORGANIZATION163]
+- Schůzka proběhla s účastí PERSON275, PERSON266, PERSON278, PERSON291, PERSON272 a dalších.
+- PERSON275 informoval o problémech s připojením a omluvil se.
+- Diskuze o jednání s ORGANIZATION172 na ORGANIZATION129 ohledně cyklostojanů u stanic metra.
+- Koncepční vyjádření na žádost ORGANIZATION158 ohledně cyklostojanů.
+- Domluva s paní PERSON315 o komunikaci a konzultacích prostřednictvím e-mailu.
+- Možná bude chodit více záměrů od ORGANIZATION172 pro ujištění, že je vše v pořádku.
+- Připomenutí ohledně projektu PROJECT86 a potřeba zpracování harmonogramu práce.
+- Diskuze o výsledném dokumentu pro projekt PROJECT86 a jeho formátu.
+- Návrh na odevzdání studie ve variantách a nechat ORGANIZATION149 rozhodnout o podpoře nebo dopracování jedné z variant.
+- Nutnost prověřit některé aspekty, jako je vedení sítí, ale výstup nemusí být tak strukturovaný a dopodrobna.
+- Probírali možné změny územního plánu a metropolitního plánu.
+- Diskutovali o protichůdných představách mezi nimi a městskou částí.
+- Zmínili investory a možnost skončit ve variantách.
+- Plánují splnit termín a nechat si potom zadat dopracování nějaké varianty.
+- Budou muset vyslechnout představy PERSON317 a sekretariátu PERSON318.
+- PERSON272 se zajímal o představy od sekretariátu PERSON318.
+- Plánují další jednání v menší skupině.
+- PERSON267 a PERSON291 diskutovali o dotazníku ohledně Japonska.
+- PERSON291 měl schůzku s náměstkem PERSON310 a PERSON318.
+- PERSON267 a PERSON291 se domluvili na dalším postupu ohledně dotazníku.
+- Žádný podobný projekt zatím nepřišel, ale je možnost znovu ho prezentovat
+- Diskuze o informacích k projektům, konkrétně [PROJECT68]
+- Příprava soutěže na prvek v souvislosti s koncepční studií [PROJECT69]
+- Dotaz z [ORGANIZATION151] ohledně účasti [ORGANIZATION138] v roli experta v komisi
+- Zmínka o [PROJECT70] a dalších projektech, na kterých se [PERSON285] podílí
+- Plánovaná předávka informací od [PERSON285] k [ORGANIZATION150]
+- [ORGANIZATION152] si vyžádala 3 lidi z [ORGANIZATION138] jako experty pro soutěžní komisi
+- [PERSON286] má přeposlat mail od [PERSON289] ohledně dopisu [ORGANIZATION151]
+- [ORGANIZATION138] zatím nemá oficiální zadání na zpracování studie pro [ORGANIZATION153], ale bude se o tom jednat
+- Schůzka proběhla s účastí PERSON278, PERSON266, PERSON294, PERSON288, PERSON291, PERSON273, PERSON268 a PERSON287.
+- Diskutovali o problémech spolupráce mezi městskými částmi v rámci území a potřebě koordinace.
+- Zmínili studii PROJECT73, která by měla být představena za týden a týká se několika nemocnic v Praze.
+- PERSON288 zmiňuje potíže se spojením s fakultou a šestkou, PERSON291 nabízí kontakt na kolegyni.
+- PERSON291 zdůrazňuje potřebu urychlit jednání s ORGANIZATION155 před koncem února.
+- PERSON266 informuje o školení "jak se nezbláznit na home officu" od PERSON273.
+- Diskuse o projektu PROJECT75 a možnosti navázání na okolní zástavbu a další aktivity.
+- PERSON287 hovoří o participaci PROJECT76 a předběžném harmonogramu, který se nyní upravuje.
+- Participace na projektu se začne až v dubnu, finální návrh by měl být hotov na začátku května.
+- Výsledky předchozí participace na územní studii [PROJECT77] jsou již k dispozici, neočekávají se další zásadní změny.
+- Cílem participace je spíše lepší přijetí veřejností, než zásadní změny v návrhu.
+- Změny v projektu budou probíhat a korigovat se podle známých způsobů, např. připomínkovací fáze.
+- Diskuze o přístupu k [ORGANIZATION138] Cloudu, někteří účastníci se nabízejí pomoci s vkládáním materiálů.
+- [PERSON291] hovoří o nové směrnici [ORGANIZATION160] a termínech pro dotčené orgány státní správy.
+- Tým se bude dále zabývat projektem a řešit případné problémy.
+- Situace komplikovaná kvůli Covidu a home office
+- Důležitost dodržování lhůt pro vyřizování úkolů
+- Novela správního řádu a stavebního zákona způsobuje tlak na správní úřady
+- Nutnost dodržovat lhůty a zaznamenávat komunikaci s investory
+- Evidování jednání a záznamy z jednání s externími partnery
+- Důležitost psaní záznamů a zápisů pro budoucí dohledání informací
+- Snaha zkrátit dobu vyřizování úkolů a podpisového kolečka
+- Průměrná doba vyřizování územáře je 30 dní, podpisy trvají dalších 14 dní
+- Cíl zkrátit dobu vyřizování úkolů na 20 dní a podpisové kolečko na 10 dní
+- Celkový cíl dosáhnout měsíční dobu pro běžná vyjádření
+- Projednávání koncepček může trvat až 45 dní, složitější spisy mohou ležet déle.
+- Často se jedná o složité věci na území [ORGANIZATION161], např. vyjádření k územnímu rozhodnutí nebo architektonické studii.
+- Je důležité rozlišovat mezi různými typy dokumentace a lhůtami.
+- Cílem je zkrátit lhůty pro vyřizování dokumentace a zlepšit efektivitu.
+- Diskuze o možných způsobech zkrácení lhůt a zlepšení procesu.
+- Zmíněna potřeba rozlišovat mezi okrajem města a kompaktním městem při revizi filtru.
+- Někteří účastníci zmiňují vysokou zátěž a potřebu redukce filtru nebo předpřipravených vyjádření.
+- Plánované projednání s [PERSON302] a informování ředitele o výsledcích diskuze.
+- Možné zredukování vyjádření nebo posunutí hranice výš při revizi filtru.
+- 3D body jsou zvláštní kapitolou, která může být také projednána.
+- Schůze se týkala filtru pro vyjadřování záměrů v různých částech města a jeho univerzálnosti.
+- Bylo zmíněno, že rodinný dům na okraji města má jiný vliv na své okolí než stejný záměr v centru města.
+- Diskutovalo se o tom, že filtr nemůže fungovat univerzálně na celé město.
+- Byl návrh nastavit filtr univerzálně na základě struktury zástavby (vesnická vs. kompaktní vnitřní město).
+- Zmíněna potřeba diskuse o tom, zda by měl být filtr jednoznačný pro celou Prahu nebo zda by měl být založen na struktuře zástavby.
+- Hovořilo se o lhůtách pro dotčené orgány v rámci územního a stavebního řízení.
+- Bylo zmíněno, že když stavebník podá návrh před zahájením územního řízení, může to mít vliv na lhůty.
+- Bylo uvedeno, že je dobré, když někdo žádá o názor koncepčního pracoviště v předstihu, protože to může pozitivně ovlivnit proces.
+- Zmíněn příklad [ORGANIZATION162], kde bylo žádáno o vyjádření v říjnu, ale územní řízení stále neběží.
+- Byla zmíněna potřeba koordinace uvnitř kanceláře a komunikace s dopravními specialisty.
+- Účastníci jednání zdůrazňují důležitost dodržování lhůt a termínů při vyřizování spisů a komunikaci s účastníky řízení.
+- PERSON291 a PERSON275 diskutují o rozdílech v jednání a potřebě zaznamenat informace do spisu.
+- Zmíněn je úspěch projektu PROJECT88, který byl poznamenán jen několika špatnými náměstími.
+- Cílem je zlepšovat kvalitu vystavěného prostředí a dodržovat lhůty kolem 30 dnů.
+- Překážky v procesu zahrnují přenos informací ze spisovky do ORGANIZATION140, zdržení se specialisty, ředitelem a elektronickým podpisem.
+- PERSON267 potvrzuje, že všechny dokumenty jsou nyní odesílány elektronicky, buď datovkou nebo e-mailem.
+- PERSON279 upozorňuje na dobu, kterou tráví neformálním projednáváním záměrů před evidováním spisu.
+- Účastníci jednání se shodují na potřebě zlepšit systém pro sledování termínů a usnadnit práci všem zúčastněným.
+- Projednávání záměrů může trvat až 4 roky, protože je mnoho fází.
+- Bylo by dobré vědět, od kterého dne se projednává konkrétní investor.
+- Změna investora může způsobit předělání celého projektu.
+- (PERSON279) navrhuje podávat projekty oficiálně, aby byla páka na kolegy k vyjádření.
+- (PERSON266) a (PERSON279) diskutují o způsobu zaznamenávání postupu projednávání.
+- (PERSON288) navrhuje možnost doplňování spisu o staré varianty a zápisy z předchozích jednání.
+- (PERSON266) preferuje současný způsob zaznamenávání a konzultací s kolegy.
+- (PERSON287) zdůrazňuje, že každý má svůj systém a prioritní je kvalita projednání projektu.
+- Souhlas s (PERSON287) ohledně důležitosti urbanistických zásad a kvality projednání.
+- (PERSON272) souhlasí s (PERSON287) a zdůrazňuje důležitost individuálního přístupu.

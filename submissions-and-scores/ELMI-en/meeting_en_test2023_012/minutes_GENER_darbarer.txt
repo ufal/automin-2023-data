@@ -1,0 +1,68 @@
+Date: 29.8.2022
+👥 Attendees: PERSON3, PERSON7, PERSON4, PERSON6
+
+
+🔷 Preparation of the meeting
+	🔹 [PERSON6] shares a video with [PERSON3] and [PERSON4]
+	🔹 Mike will join the meeting in about twenty minutes
+	🔹 Felix has written an email with the TD ID of a keyword extractor.
+
+🔷 Preparation of the paper
+	🔹 [PERSON3] was at the canteen when the e-mail was sent
+	🔹 He needs to move to the court
+	📅 The deadline for the paper submission is January 15th ⚠️
+	🔹 Interspeech is earlier and SIGDial is earlier
+	🔹 The special session will be a part of the program.
+
+🔷 Process of SIGDial
+	🔹 [PERSON3], [PERSON7], and [PERSON4] are going to try SIGDial
+	📅 The deadline for SIGDial is earlier ⚠️
+	🔹 The conference was in September, and the paper submission was in May, but this time it is in June
+	🔹 They have to create a programm commiteee to handle the papers
+	🔹 In the past, MT marathons used to have this system or tool papers that were published as a special issue of PBML, but it was integrated with normal papers.
+
+🔷 Deciding the later deadline
+	📅 [PERSON3], [PERSON7] and [PERSON4] agree on the later deadline for papers for their workshop ⚠️
+	🔹 [PERSON3] is in favour of the later time
+	🔹 [PERSON7] is not.
+
+🔷 Consent in Interspeech proceedings
+	🔹 [PERSON3] is worried about Interspeech
+	🔹 The program committee would choose the people that they want to appear in the proceeding
+	🔹 People who are not appearing in SIGDial proceedings are invited to send their papers to PBML
+
+
+🔷 Preparation of the interspeech satellite event
+	🔹 The Interspeech satellite event won't be held until March 15th
+	🔹 People need to prepare the proposal for both
+	🔹 They need to apply for the institutional membership for three sixty five days
+	🔹 It costs four hundred fourty euros for a year.
+
+🔷 Participants and the discount at the conference
+	🔹 Interspeech conference costs twenty euros for one year for four members from the institution, two students, four researchers and two students
+	🔹 If one has a membership for the organiser, they get a discount at the conference
+
+
+🔷 How TFIDF works
+	💬 [PERSON3], [PERSON6], and [PERSON8] are discussing how TFIDF works
+	🔹 [PERSON3] ran it on some of the meetings and the results are decent
+
+
+🔷 Implementation of anonymization
+	🔹 [PERSON3], [PERSON7] and [PERSON6] have implemented it
+	🔹 [PERSON4] is working on the anonymization of the data.
+
+🔷 Preparation of paper
+	💬 [PERSON3], [PERSON6] and [PERSON7] discuss the details of the training and development of the papers.
+
+🔷 Implementation of project management system
+	💬 [PERSON3] and [PERSON6] discuss the implementation of their project management system
+	🔹 [PERSON3] advises [PERSON6] to use VIM instead of nano and to send the implementation to the authors of the paper.
+
+🔷 Preparation of data
+	💬 [PERSON3], [PERSON6], and [PERSON4] are discussing how to prepare the data for the release.
+
+🔷 Finishing the conversation
+	💬 [PERSON4] will finish the conversation with [PERSON6] and discuss it with her.
+
+✍ Submitted by: Darbarer

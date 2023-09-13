@@ -1,0 +1,20 @@
+PERSON1, PERSON4 and PERSON5 are having a meeting today. PERSON5 wants to join, because he wants to be in the meeting. There are some position points from his end that he needs to discuss. 
+PERSON5 and Adiadam are trying to work on an online document. The annotator stopped working on it. They need to write to the agenda and put it to the master plan.
+PERSON5 will write an annotation. He wants the name to be more descriptive. 
+All named entities should be removed from the documents and replaced by placeholders. They need to have the annotation of the documents at the word type level and the token level.
+PERSON4 and PERSON5 are working on a project. They are worried about the availability of a programmer to do the bulk processing of documents and the insertion of the annotations into the xml. 
+PERSON8 used a name tag. The program did not include all the words beginning from capital. There are open problems, such as the edition of new documents, multi-word entities, preservation of conference chains and the identity of speakers.
+PERSON5 suggests ignoring the identity of project names and chaining them together for the sake of time. 
+PERSON5 is worried that some named entity will leak into the data. (PERSON4): How do we know if this is the speaker, or not?
+PERSON527 wants to know when to talk to or call or meet PERSON6. Person6 is working on ID the identification from the beginning of January. 
+PERSON5 is waiting for PERSON4 to finish the conversation. 
+PERSON4 and PERSON5 are working on two consent forms, one for working with the data and one for publishing it. The consent forms are not perfect, but they are signed by 30 of the participants.
+PERSON5 proposes to focus on the second form only for the purpose of the release of the corpus and forget about the first form for the new meetings. People will be asked for permission to publish the data in the anonymised form. 
+The preparation of the web page is tedious. The tedious part is the linking which person was mentioned where, so the metadata that is. It is a othernoise to make it manually. The manual extraction of names of participants from the minutes is tedious, but it is doable.
+PERSON5 and PERSON1 discuss the details of the task they are working on. They agree that the full dataset should be released at the end of March.
+The participants should have their data deidentification by the end of February. (PERSON5) and then one month for them to answer, so they should have three weeks to finish it. The participants should give their consent in the first week of March. The timeline depends on whether
+PERSON1 has just put the names of the potential participants in the Scientific Committee. 
+PERSON5 is responsible for editing the text of the e-mail. They need to submit the proposal within January 7th or 8th. 
+PERSON5 wants Armin Shwanford, others, and the keynote speaker for the summarization to be included in the call. 
+PERSON5 would like to try the experienced people from the 2006 event as the keynote speakers. They will send the proposal to Iska and Sikdad by January 10th and to three Russians by January 15th. If they don't respond, they will do it some other way.
+PERSON4 and PERSON5 will meet in English this afternoon.

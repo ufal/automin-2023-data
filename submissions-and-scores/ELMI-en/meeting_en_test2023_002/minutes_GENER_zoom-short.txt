@@ -1,0 +1,4 @@
+PERSON1 and PERSON2 are discussing the difficulty of writing data structures in C++ and Python.
+PERSON2 mentions that he had a lot of assignments last year, including 12 or 10 code assignments.
+PERSON7 is discussing the data set they are using for text compression and human-annotated translations.
+PERSON2 suggests focusing on extreme low latency to make the text more humanly readable and to avoid flicker flickering.

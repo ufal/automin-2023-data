@@ -1,0 +1,80 @@
+\n
+
+1. Setkání se uskutečnilo s účastí osmi lidí.
+2. Byla diskutována situace ohledně [ORGANIZATION1] a [ORGANIZATION2].
+3. [PERSON2] informovala o kompromisním řešení, které bylo přijato.
+4. [PERSON7] se zeptal [PERSON2] na [ORGANIZATION2] a [PERSON2] odpověděla, že se snaží, ale nechtějí přistoupit na jejich zásadní připomínku.
+5. [PERSON7] navrhl použití záložky Chat, aby se mohli účastníci během setkání vzájemně informovat o svých názorech.
+6. Bylo oznámeno, že [PERSON14] se stává vedoucím [ORGANIZATION4] od 1. prosince.
+7. [PERSON15] zůstává ve službě, ale už nebude vedoucím.
+\n(PERSON25) Jasně.\n
+
+- [PERSON15] bude s námi pořád spolupracovat.
+- Příští týden ve středu dopoledne bude delší schůzka, kde budeme probrat provoz kanceláře.
+- Řešit se bude, co vypustit z vyjádření a jak rozšířit filtr.
+- Do konce listopadu je potřeba nahlásit dovolenou a zmapovat, jak to bude vypadat o Vánocích.
+- [ORGANIZATION5] zpracovává analýzu [PROJECT6], která vytipuje objekty a pozemky pro nemocniční provozy a směnu se státem.
+- [PROJECT7] stále není odesláno.
+- Do 15. prosince je potřeba uhánět externí činnosti k vyfakturování.
+- [PROJECT8] bude projednáváno se [ORGANIZATION8].
+- Předtím bude půlhodinový briefing.
+- Účastníci projednávali problémy s [PERSON64] a [PROJECT41].
+- [PERSON2] a [PERSON13] diskutovali o stavbě [PROJECT19].
+- [PERSON7] a [PERSON4] se dohodli, že se setkají příště.
+- [PERSON3] a [PERSON50] se rozloučili.
+- Diskutovalo se o nekoncepčním stylu komunikace a o [ORGANIZATION] koloritu.
+null
+
+\n
+
+* [PERSON30] se zdraví a ptá se o [PROJECT18]
+* [PERSON1] a [PERSON7] se baví o chatování
+* [PERSON18] informuje o jednání s [ORGANIZATION19] ohledně [PROJECT9] a [PROJECT22]
+* [PERSON2] a [PERSON40] se pokusí utěšit [ORGANIZATION19] a vysvětlit jim koncepční zadání
+* [PERSON7] navrhuje doplnit koncepční zadání o vysvětlení
+\n(PERSON8) Ano.\n(PERSON7) Takže, eh, [PERSON3], takže to je, eh, to je všechno, co jsem chtěla říct.\n
+
+- Je potřeba myslet na to, že tam budou jezdit taxíky a autobusy.
+- Je potřeba upřesnit požadavek na chodníkový přejezd a změkčit ho.
+- Koncepční zadání nemá přinášet žádné problémy.
+- Podepisování je zablokované.
+- Je potřeba připojit dvě věty k tomu, aby byli všichni spokojení.
+- [PERSON3] se přihlásil, že nemá žádný problém.
+- [PROJECT23] nemá peníze na rozvoj, město jim umožní část pozemku prodat developerovi.
+- Je potřeba napsat obecné doporučení z hlediska rozvoje místa.
+- Je potřeba pamatovat na to, aby se rozvojová území propojila lávkou pro pěší a cyklisty.
+\nAle já myslím, že už bysme tomu neměli bránit.\n(PERSON7) No.\n(PERSON19) Eh, a já bych se chtěl zeptat, jestli někdo z vás má nějakou zkušenost s tím, jak se dělá, eh, DSPčko?\n(PERSON7) Hm.\n
+
+- [PERSON7] a [PERSON1] se setkali s projektem, který zadala [ORGANIZATION21]
+- [PERSON7] vyjádření od nás bude požadováno
+- [PERSON18] se zeptal, jakou váhu budou mít naše vyjádření a jakou formou je máme dávat
+- [PERSON7] vyjádření by mělo být interním sdělením
+- [PERSON7] při městských investicích necháme výsledné posouzení na nich
+- [PERSON19] přišel projekt [PROJECT28], který je ve fázi DSPčka
+- [PERSON19] navrhuje, abychom tomu už neměli bránit
+- [PERSON19] se zeptal, zda někdo z účastníků má zkušenosti s DSPčkem
+\n(PERSON13) Ale já se tam radši neukážu.\n<laugh/>\n
+
+- [PERSON46] ještě neposlal digitální vstupy, ale jakmile je pošle, dá vědět
+- [PERSON19] má na stole vysoké tkaničky a [PERSON4] říkala, že leží v šuplíku
+- [PERSON1] se snaží slušně vyjadřovat
+- [PERSON7] byla v kanceláři, ale papírovou verzi nenašla
+- [PERSON12] posílá pozemky a šňůrky vod asfaltek
+- [PERSON47] tiskne [PROJECT28] do Butovic
+- [PERSON25] dostal interní vyjádření od [PERSON40] k [PROJECT4]
+- [PERSON24] a [PERSON25] se účastní jednání u [ORGANIZATION22]
+- [PERSON24] a [PERSON25] se sejdou s [PERSON48] za [ORGANIZATION23] a udělají procházku na [PROJECT4]
+- [PERSON24] a [PERSON25] se sejdou s [PERSON49] a [PERSON6]
+- modeláři dali cenu a mají začít zpracovávat model, [PERSON13] bude dohlížet
+- [PERSON13] má v pátek neurologické vyšetření na [ORGANIZATION16]
+null
+
+\n
+
+- PERSON8 a PERSON51 diskutovali o někom, kdo volal na 50 čísel a chtěl informace o regulativu.
+- PERSON51 informovala o dvou projektech, které upravil [PERSON55] a které jsou v diskuzi.
+- PERSON7 a PERSON17 diskutovali o podepisování spisů.
+- PERSON4 se zmínil o tom, že některé věci jsou na hraně.
+- PERSON42 se zmínil o tom, že se bude věnovat čtení zadání projektu [PROJECT35] a že se staví v odpoledne v kanceláři.
+null
+

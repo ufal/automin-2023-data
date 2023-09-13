@@ -1,0 +1,50 @@
+Date: 24.1.2022
+👥 Attendees: PERSON2, PERSON17, PERSON34, PERSON10, PERSON24, PERSON19, PERSON14, PERSON9, PERSON27, PERSON5, PERSON31, PERSON43, PERSON8, PERSON26, PERSON37
+
+
+🔷 [PERSON19] slyšet [PERSON10]
+	🔹 [PERSON19] nemůže slyšet [PERSON10]
+	🔹 [PERSON19] měl vypnutý zvuk.
+
+🔷 Kamarádčina práce hledá spisy pro dámu, před třemi nedělemi jí poslali e-mail.
+	🔹 Kamarádčina práce hledá spisy pro dámu, před třemi nedělemi jí poslali e-mail.
+
+🔷 Lékař má pracovní hodiny ve středu
+	🔹 [PERSON37], [PERSON8] a [PERSON31] mají schůzku ve středu v 11
+	🔹 Lékař má pracovní hodiny ve středu
+	🔹 Některé věci byly odloženy na březen, některé na květen, ale hodně bylo schváleno.
+
+🔷 Zúčastní sekci zasedání
+	🔹 OSOBA5 se zúčastní sekci zasedání v pondělí
+	🔹 K dispozici bude prezentace týkající se skutečnosti, že pořadatel přijde k nim klást otázky a následné sledování
+	🔹 Tři území jsou ovlivněny průtokem aktivní části projektu
+	🔹 Výsledky již byly odeslány.
+
+🔷 postupovat s tímto problémem
+	🔹 [PERSON8] a [PERSON14] se budou muset dohodnout na schůzce o tom, jak budou postupovat s tímto problémem.
+
+🔷 Pokrokem projektu na Organizací18
+	🔹 [PERSON8] a [PERSON27] jsou znepokojeni pokrokem projektu na jejich území
+	🔹 Odpoledne od Organizace je prezentována prezentace1
+	🔹 Dnes se uskuteční paralelní koordinační setkání mezi Organizací18 a organizací6 týkající se dopravy.
+
+🔷 Zúčastní setkání v úterý v 16:30
+	🔹 OSOBA8, [PERSON14] a [PERSON9] se zúčastní setkání v úterý v 16:30 v kanceláři pořadatele.
+
+🔷 diskutují o výstavbě budovy v blízkosti vlakového nádraží.
+	🔹 [PERSON8] a [PERSON9] diskutují o výstavbě budovy v blízkosti vlakového nádraží
+	🔹 Chtějí zabalit celé nádraží a postavit vilu pro lidi
+	🔹 Setkání o kováři ještě nebylo provedeno.
+
+🔷 [PERSON8], [PERSON19] a [PERSON9] se snaží přijít na to
+	🔹 [PERSON8], [PERSON19] a [PERSON9] se snaží přijít na to, co se děje ve městě.
+
+🔷 Otjíždí pod uměleckých projektů
+	🔹 [PERSON20] odjíždí do konce března
+	🔹 OSOBA8, [PERSON10] a [PERSON9] chtějí komentovat jeden z uměleckých projektů, které odchází
+	🔹 Osoba14 se chce účastnit jednání o konceptu alternativních paliv nebo paliv pro autobusy.
+
+🔷 [PERSON9] ho zítra zavolá, aby ho požádal o odkaz
+	🔹 [PERSON9] ho zítra pošle osobě 10, osoba 27 mu zítra zavolá, aby ho požádal o odkaz.
+
+✍ Submitted by: Darbarer

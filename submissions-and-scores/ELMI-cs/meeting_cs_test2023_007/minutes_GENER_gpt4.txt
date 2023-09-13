@@ -1,0 +1,82 @@
+- Účastníci jednání jsou zmatení a unavení z jednání.
+- Dlouhodobě mají problémy s lidmi od [PERSON64].
+- [PROJECT41] znovu způsobuje komplikace a rozvrtávání situace.
+- [PROJECT19] je stavěn jako jeden z důvodů řešení problémů.
+- Komunikace je nekoncepční a často odchyluje od tématu.
+- Mladí kluci, kteří dostanou šanci něco řídit, ale neuměj to, způsobují problémy.
+- Účastníci se snaží situaci přežít a hledají způsob, jak ji zlepšit.
+- [PERSON7] se omlouvá za časový limit a potřebu ukončit jednání.
+- Všichni si přejí hodně zdraví a těší se na další setkání.
+- [ORGANIZATION34] je zmíněna v souvislosti s jednáním.
+- PERSON13 a PERSON7 plánují účast na schůzce, PERSON9 by se měl také připojit
+- PERSON18 ví nejvíce o projektu PROJECT9, soutěž by měla být organizována ORGANIZATION10
+- Soutěž by měla proběhnout v únoru, PERSON18 má problémy s ORGANIZATION12
+- PERSON8 a PERSON7 diskutují o výrobním výboru na PROJECT10 u PERSON26
+- PERSON30 a PERSON31 mají spolupracovat na projektu PROJECT11, který se týká muzejního distriktu
+- Projekt PROJECT13 zahrnuje urbanistické řešení okolí, ale stále nejde do ORGANIZATION14
+- PERSON2 má informace o jednání mezi ORGANIZATION3 a ORGANIZATION6 ohledně PROJECT14
+- Program PROJECT16 je předán ORGANIZATION15, který se tím bude zabývat
+- PERSON25 informuje o jednání s PERSON35 ohledně PROJECT17, ale nebylo nic zásadního
+- Schůzka proběhla s účastí [PERSON30], [PERSON13], [PERSON8], [PERSON36], [PERSON37] a dalších
+- Diskuze o [PROJECT18], [PROJECT19], [PROJECT20] a [PROJECT21]
+- [ORGANIZATION3], [ORGANIZATION4] a [ORGANIZATION17] se podílely na konzultacích
+- [PERSON30] měla konzultaci s [ORGANIZATION35] ohledně regulační studie na [PROJECT20]
+- [PERSON39] má odevzdávat [PROJECT21] příští týden
+- Problém s [ORGANIZATION19] ohledně koncepčního zadání na [PROJECT22]
+- Dneska další online jednání s [ORGANIZATION19], [PERSON40] a [PERSON2] ohledně problému
+- Koncepční zadání na [PROJECT22] zatím nepodepsané od ředitele
+- Možné úpravy koncepčního zadání pro uspokojení [ORGANIZATION19]
+- [PERSON7] a [PERSON2] se pokusí vysvětlit situaci [ORGANIZATION19] a najít kompromis
+- Je třeba myslet na provoz taxíků a autobusů v projektu.
+- Možná upřesnit požadavek na chodníkový přejezd a trochu ho změkčit.
+- Koncepční zadání nepřináší žádné problémy pro projekt.
+- Podepisování je zablokované, řeší se průvodní dopis a koncepční zadání.
+- Diskuze o projektu [PROJECT23] v Letňanech a možnosti rozvoje sportovišť.
+- Město nemá peníze na vykoupení pozemku pro zastavitelnou část.
+- Řešení situace s financováním rozvoje sportovního oddílu [PROJECT23] prodejem části pozemku developerovi.
+- Doporučení z hlediska rozvoje místa pro [PROJECT23].
+- Připravuje se velký rozvoj na více než 20 hektarech severně od Kbelské ulice.
+- Návrh propojení dvou rozvojových území lávkou pro pěší a cyklisty.
+- Projednávali propojení komunikace Kbelskou v rámci projektu PROJECT24
+- Zmínili studii PROJECT25, která zahrnuje propojení Proseku tramvají s Leťňanama
+- PERSON3 má seznámit se studií na základě informací od PERSON8
+- PERSON1 se setkal s malým projektem od ORGANIZATION21, zpracovaným PERSON41, nazvaným PROJECT26
+- Diskutovali o způsobu vyjadřování k projektem a jakou váhu budou mít jejich vyjádření
+- PERSON18 se ptal na formu vyjadřování k projektům a jak nastavit obecný postup
+- PERSON4 poděkoval PERSON19 za rychlou odpověď na dotaz ohledně PERSON44
+- PERSON19 navrhl, aby se kvůli drobným záležitostem nemuseli psát maily, ale stačí zavolat
+- PERSON19 zmínil, že přišel projekt PROJECT28 ve fázi DSPčka a bude pravděpodobně ještě diskutován
+- Čeká se na zaslání digitálních vstupů od PERSON46
+- PERSON7 nemohla najít papírovou verzi dokumentů v kanceláři
+- PERSON19 informoval o vysokých tkaničkách v šuplíku
+- PERSON12 posílá pozemky a šňůrky vod asfaltek
+- PERSON25 zmínil interní vyjádření k studii PROJECT4 a účast na komisi výstavby nebo rozvoje ORGANIZATION22
+- PERSON24 sdílel dojem z jednání s PROJECT17 a plán dalšího setkání
+- PERSON24 a PERSON25 měli interní koordinaci s PERSON48 za ORGANIZATION23 ohledně překládání sítí
+- Modeláři začnou zpracovávat model, PERSON13 bude dohlížet na jejich práci
+- PERSON13 čeká na psychologicko-neurologické vyšetření a zatím neví, kdy se vrátí do práce
+- Bylo zmíněno, že by si měli do kanceláře pořídit něco nového
+- PERSON13 uvedl, že záleží z 50% na něm a uvidí, jak to bude vypadat během příštího týdne
+- PERSON7 a PERSON13 hovořili o telefonátu s PERSON35
+- PERSON50 zmínila pozemky v Hostivaři a jednání s panem PERSON26, které bylo několikrát odloženo
+- PERSON50 také hovořila o projektu PROJECT1 a jednání s architekty z ORGANIZATION26 a ORGANIZATION27
+- PERSON51 informovala o rozjíždění organizace participace pro projekt PROJECT32 a komunikaci s ORGANIZATION6 a ORGANIZATION28
+- Připravuje se námitka na projekt PROJECT33 ve spolupráci s PERSON50
+- PERSON51 zmínila, že někdo volal s tím, že se nemůže dovolat PERSON8 na pevnou ani mobilní linku.
+- Volal pán kvůli regulativům, PERSON8 ho navigoval po telefonu
+- Projekty od PERSON55 upraveny, některé věci stále k diskuzi
+- Jeden projekt téměř hotov, druhý stále diskutován (zejména vejšky)
+- Čekání na podepisování, zdržení v práci
+- PERSON17 má seznam spěchajících spisů, zvažuje zaslání k podepsání
+- PERSON9 měl řešit situaci na poradě vedení, ale zatím bez zpětné vazby
+- PERSON42 pracuje na zadání pro PROJECT35 a běžných spisech, plánuje průzkum
+- Zítřejší prezentace redukovaného objemu pro PROJECT36
+- Projednávali projekt [PROJECT19], PERSON8 byl spokojen s výsledky na svém území, na rozdíl od území PERSON30
+- Řešili koncepci v [PROJECT37], čekají na zpětnou vazbu
+- Diskutovali o EJA na [PROJECT38], kterou řeší PERSON29 s politiky, upravují formulace
+- Zmínili, že [ORGANIZATION31] poslali zaměření objektu, ale ne studii, kterou si nechali udělat
+- Plánují zadání na veřejný prostor, domluví se, kdo ho bude psát (PERSON2, PERSON57 nebo společně)
+- PERSON2 informovala o jednání s [ORGANIZATION4] ohledně rekonstrukce [PROJECT39], kde [ORGANIZATION4] chtějí zrekonstruovat pouze koleje
+- PERSON63 z [PERSON64] se zapojil do diskuze bez přehledu o situaci, plácal nesmysly
+- Zmínili jednání o rekonstrukci [PROJECT40], na které nebyli pozváni, ale pozvánku dostali od PERSON61
+- PERSON63 se omluvil za nezahrnutí do pozvánky a slíbil je přizvat

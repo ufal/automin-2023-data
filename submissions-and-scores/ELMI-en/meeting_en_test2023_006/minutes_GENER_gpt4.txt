@@ -1,0 +1,54 @@
+- Meeting participants include PERSON17, PERSON14, PERSON19, PERSON11, PERSON6, PERSON9, PERSON19, PERSON2, and PERSON8.
+- PERSON19 is working on running experiments for the project, focusing on baselines and GPU tests.
+- PERSON11 is waiting for input from ORGANIZATION3 and working on the executive summary.
+- There is a discussion about the potential benefits of multi-source text and the need to test this empirically.
+- PERSON19, PERSON11, and PERSON17 plan to have a separate call to discuss plans and progress on multi-source experiments.
+- PERSON9 is leaving the project, and there is a need to integrate and test his work on language model checking of ASR outputs.
+- PERSON4's profanity filtering work needs to be integrated and tested in the live pipeline.
+- PERSON8 agrees with the idea of "do-it-yourself integration" and will discuss logistics with PERSON4.
+- Profanity filtering should be employed twice in the pipeline, after both ASR and MT.
+- There is a concern about spasms in the ASR language, which need to be addressed.
+- Incoming sentences were flooded with profanity, but it was resolved; two profanity spasm removals may be needed.
+- [PERSON8] has a call with [PERSON9] to discuss the dashboard and monitor; [PERSON5] should also be involved.
+- [PERSON14] will receive the [PROJECT5] Czech ASR from [PERSON9] for baseline experiments.
+- Domain adaptation for regular session preparations will be handled by [PERSON8].
+- Multi-accent English project is being worked on by [PERSON14] and [PERSON8] to improve ASR robustness.
+- Team members need to be able to start the pipeline independently; currently too reliant on one person.
+- [PERSON8], [PERSON16], and [PERSON5] should have a call to discuss making the pipeline configuration cleaner and more modular.
+- [PERSON6] should clean up multiple scripts for starting NMT workers to avoid confusion.
+- Team should record experiences from [PROJECT1] and SG1 sessions for future reference.
+- Next week, [PERSON5], [PERSON16], and [PERSON8] should provide the first specification of requirements for pipeline setups.
+- The team discussed using tensor-to-tensor with a limited number of languages to improve speed and performance.
+- They compared the performance of different workers, with [PERSON15]'s rainbow worker showing better results.
+- The team considered using multiple replicas of the same worker, each with a different subset of languages, as a fallback solution.
+- [PERSON6] is working on shortening and extending models, and is currently testing different amounts of data and lengths.
+- [PERSON6] encountered an issue with running out of storage quota on Mala Strana and will request more storage.
+- The team suggested using Troja for storage, as it has better GPUs and more available space.
+- [PERSON8] will look into launching [PERSON15]'s rainbow worker on their cluster.
+- The team will use the [PROJECT9] [ORGANIZATION2] mailing list for technical issues and communication.
+- [PERSON6] will work on creating synthetic data from the rest of the [PROJECT7] dataset and building the final shortening model.
+- Discussed different quotas and aliases for commands
+- [PERSON12] requested a call with [PERSON17] and [PERSON6], scheduled for tomorrow at 2 PM
+- Discussed potential PhD applicant interested in joining the group
+- Addressed the need for evaluation of all systems and files in the test set, [PERSON8] working on it
+- Discussed management issues, ensuring important people are available during sessions
+- Identified long-term focus areas: non-native accent, data crunching, and domain adaptation
+- [PERSON8], [PERSON9], and [PERSON14] to meet and discuss domain adaptation in the [PERSON18] toolkit
+- [PERSON9] confirmed that domain-adapted models were capturing domain-adapted words better than non-domain-adapted ones
+- The team discussed the need for a transcript from a Monday meeting to evaluate the performance of their models and domain adaptation.
+- They considered using an independent keyword spotting system and merging procedure to improve the fully neural ASR.
+- The idea of creating their own fully neural ASR and conducting experiments on fine-tuning was discussed.
+- The team considered using data from YouTube videos to create a training set for their models.
+- They discussed the issue of profanity filtering and the possibility of using sentiment analysis to remove negative or aggressive language.
+- A suggestion was made to use models from a competition that focused on detecting harmful sentences in social media posts.
+- The team acknowledged the need for more colleagues and students to work on various tasks, such as profanity filtering and shortening MT.
+- They encouraged each other to read and record their experiences from recent sessions and discuss any new ideas in future meetings.
+- The team briefly celebrated the approval of a team member's visa, allowing them to join the team in Prague in January.
+- First attendee to make it to Prague due to others struggling
+- Importance of arriving emphasized
+- One more call next week before a two-week break for Christmas and New Year's Eve
+- Meetings will resume on January 7th
+- Appreciation expressed for attendance and patience
+- Acknowledgment of meeting running long
+- Plans to talk individually and in next week's call
+- Attendees expressing thanks and saying goodbye

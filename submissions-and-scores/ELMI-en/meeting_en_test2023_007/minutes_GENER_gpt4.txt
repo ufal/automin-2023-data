@@ -1,0 +1,27 @@
+- Meeting began with sound setting adjustments and personal updates from attendees.
+- Discussed two upcoming sessions: [PROJEC210] (Holocaust survivors) and [PROJECT2] (postponed by a month).
+- Requested help from attendees for various tasks related to the sessions.
+- Discussed ladder climbing topic and the possibility of using simple HTML tables for evaluation.
+- [PERSON2] to work on cleaning up evaluations and creating a conversion from tables to HTML.
+- [PERSON11] working on updating demo paper submission and gathering documents for the two sessions.
+- Discussed observations from D1.5 and D6.3 preparation, including adding test set size info per language pair and complementary metrics for ASR.
+- [PERSON1] has compiled a translation dictionary and will share it soon.
+- [PERSON2] to revise the domain and create a dictionary by looking at outputs and what is missing in the outputs.
+- Discussed improving the segmenter to increase scores in the project
+- Talked about adding SLT style of evaluation and discussing it with partners next Wednesday
+- [PERSON2] will work with [PERSON3] to get delay scores for some files in the [PROJECT3] test set
+- [PERSON2] has done a significant amount of work for the project, but continuous evaluation is important and should be done throughout the weeks
+- Discussed using multiple data sets for ASR training, including [ORGANISATION243] and other recommended data sets
+- [PERSON5] and [PERSON12] will work together on non-native speech ASR training and [PROJECT1]
+- [PERSON2], [PERSON5], and [PERSON12] will have a call with [PERSON8] on Monday to discuss [PROJECT1] and ASR training
+- Discussed the possibility of including a new team member in the call with [PERSON8] if a replacement has been finalized
+- Discussed responding to [PERSON9] and presenting a project summary
+- [PERSON13] released the [PROJECT4] corpus for [PERSON7] and trained speech language identification for Czech, German, and English
+- Plan to integrate language identification into the audio-to-text worker and emit timestamps for different languages
+- Discussed the need for a multi-source tool to merge outputs from different ASR workers and language ID worker
+- Considered different ways to integrate language ID into the pipeline, including multilingual ASR and MT models
+- Discussed the possibility of using direct bilingual models instead of pivoted models for translation
+- [PERSON2] mentioned a multilingual model that can handle multiple input and output languages without an intermediary language
+- Agreed to start working on a book project after the subtitler study is completed
+- Next steps include preparing for an event and working on continuous evaluation
+- Next meeting scheduled for the following Thursday

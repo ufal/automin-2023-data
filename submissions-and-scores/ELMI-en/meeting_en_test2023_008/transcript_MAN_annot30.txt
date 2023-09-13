@@ -1,0 +1,374 @@
+(PERSON3) Hi everyone.
+(PERSON4) Hello guys.
+(PERSON3) Not sure whether [PERSON1] will be joining us <other_yawn/>
+Okay. And I think also, [PERSON5] is not joining us today because he has, eh what to this week.
+There is some hackathlone for some other project, so he will be will be busy with that.
+(PERSON4) Yeah, I will also have to leave in like 20 minutes, so. 
+(PERSON3) Okay so so, based on that. Let's let's skip to the <unintelligible/> navigation to the ACL paper.
+Because well, I was reading the email from you-
+(PERSON4) Mhm.
+(PERSON3) At least <laugh/>, and I sort of skim through the the new text.
+Well, I was looking at that section three point six and further, and still not enough comments from me.
+But, I don't know, well first thing I posted the reproducibility checklist, just the thing like to-
+(PERSON4) Hm.
+(PERSON3) I do not know, consider it like that.
+It's been probably discussed nowadays, like what needs to be in a in a proper paper, right, for a better reproducibility. 
+It is not necessary to completely follow it, because some things might not be applicable, but, you know, a good thing to consider that.
+And what I wanted to ask regarding the paper.
+So based on the email, it seems that the that the results are better, but our automatic metrics are not good enough right now.
+Right?
+(PERSON4) Yeah, yeah, it is just because the metrics just compared the forms in the (output) with the reference. 
+But, when the when the translation is different from the reference. 
+The forms are still correct, like from first 100 errors, or the examples that were marked as errors by the automatic metrics, eh.
+Actually, none of them had incorrect inflection in the in given context, so-
+(PERSON3) Hm.
+(PERSON4) I I I think that is quite a problem, because the first thing we we tried works almost perfectly, or from eh what I saw perfectly.
+And I do not know if that is worth the paper, because it is just regular approach that that already works.
+So, yeah, I'm thinking about ways how to make the make the task more challenging or to make the system perform worse, but.
+(PERSON3) But well, okay, so that's, so so you mean, it works even if we provide the lemmas instead of surface forms and it it, it inflex them correctly, right?
+(PERSON4) Right, yeah, yeah, I, I. Yeah, I didn't find an example where it did not work.
+(PERSON3) Okay, so.
+(PERSON4) Sure. Yeah, I didn't check of course all the all the examples, it is like 6000 of them but from what I see it works perfectly.
+(PERSON3) Okay okay, eh.
+So again, like eh I've I've also added a a note into the Google doc that maybe we might try some adversarial evaluation.
+Like I'm still curious, how much is it because it just learns to translate the sentence, and by accident it chooses the correct word, and how much it actually exploits the information from the constraint. 
+Like, I'm not sure whether adversarial evaluation would be the best for this, but-
+(PERSON4) Well, I I eh did something like that when I only use-
+(PERSON3) Hm.
+(PERSON4) Eh, well, it is not exactly the same.
+But I used only those sentences where the surface form of the uh of the in the reference is different from uh the form in the terminology database-
+(PERSON3) Hm
+(PERSON4) And without the lemmatization the model does not work almost at all.
+It is much worse than baseline.
+But when you had the lemmatization, it works very well still.
+So, yeah, I think this shows that the model learns to to inflect uh the constraints properly and is not just about translation.
+(PERSON3) Okay?
+Well.
+(PERSON4) Because in the manual evaluation there is, there is comparison with the baseline without any any constraints, and shows that it learns to use the constraints much more than the baseline, and he inflects them properly.
+(PERSON3) Hh.
+And am I, am I correct that the experiments with (Paracrawl?) those are the out of domain experiments like you still have the general domain model and evaluated on (Paracrawl?), or is it trained on (Paracrawl?)?
+(PERSON4) You mean the (European)?
+(PERSON3) Oh, yeah (European).
+Sorry, sorry about that.
+(PERSON4) Yeah, it is it is the same models.
+It is trained on (Czech) just without sentences that are in the (European dataset) and it is evaluated on (European).
+So, yeah, it is.
+Well, it is not out of domain, because (European is in Czech).
+(PERSON6) But what I, what I would like to ask it is.
+Well the lemmatization is working right? by the using limitized constraints words, right?
+The problem is just, ah, the lack of references with the the correct uh word surface, right?
+(PERSON4) Yes
+(PERSON6) Because the problem is that when you evaluate you don't have the reference that corresponds to that and than a you get a bad result, so to say an error.
+(PERSON4) Yeah, it could be.
+(PERSON6) Yeah, so that, I do not have (really) an idea if that now we should think a different metric, maybe because just checking the the, that the surface would be okay, right? But-
+(PERSON4) But I'm not sure if that can be done automatically.
+(PERSON6) Yeah.
+(PERSON4) I do not know if anyway- 
+(PERSON2) But this is something for us to.
+I did not read the paper (you getted), the the new.
+(PERSON4) What I think is the problem-
+(PERSON3) So, I.
+(PERSON4) What I think is the problem-
+Sorry  <laugh/>
+(PERSON3) Go on go on.
+(PERSON4) What I think is the problem is that is that it is not enough for, for long paper like that.
+It is very trivial approach.
+And it already works, so, I am trying to think of way how to.
+Yeah, maybe some kind of adversary evaluation will be a good idea.
+(PERSON3) Like a-
+The thing is, as long as we do the analysis more properly, like, yeah, one thing is the possible adversarial evaluation, just to indicate that that the constraints are actually having an impact on the actual output.
+That that would be nice and yeah possibly the attention analysis.
+But I'm not sure it might give us the same anwers, like, basically, if the if uh the model attends or does not attend to the constraint.
+(PERSON4) I I had to look just at a few examples of attention, I did not do any statistics or anything and-
+(PERSON3) Hm.
+(PERSON4) And, it, looks at the at the constraints, and, ah, yeah, when it translates the constraints it looks like the constraints ah given and I think it would be useful if the system made any errors but it in fact does not do any in that sense.
+It makes some general translation errors but not the (phenomena) we are trying to to solve.
+(PERSON3) Hm, hm. Okay.
+Well, going back to the automatic evaluation, like the problem with mismatch is that the output is correctly inflected, but the context is different.
+Therefore, it is not the same word form as in reference, right?
+(PERSON4) Yeah, but I have also checked if the contexts are valid translations and hm, so, in most cases they are.
+Like in the first 100 examples that were marked as error by automatic evaluation 91 of them were correctly inflected in correct, hm, correct contexts.
+(PERSON3) Hm
+(PERSON4) And I think only two or three sentences were correctly conflect con <laugh/> inflected in incorrect context, like the translation was wrong.
+And then there are some cases where the translation was totally wrong, because the sentence was really wrong, and the part must be <unintelligible/>, but that was just like one or two cases.
+(PERSON3) Hm, but, but you are trying to to match the divert forms when you are evaluating it, right?
+You do not do any-
+(PERSON4) Yeah
+(PERSON3) -lemmatization of the reference and the-
+(PERSON4) Both, both, both, I'm matching both the surface forms and lemma.
+(PERSON3) Oh I see, oh yeah, those are the two scores, right?
+The one is the-
+(PERSON4) It is just the dilemma score for the (European?) is not in the table because of the table like won't fit into the paper so <unintelligible/>
+Coverage is always like 97 percent.
+It just generates the correct lemmas, just-
+(PERSON3) Oh yeah, okay okay, I get it, I get it.
+So so basically the lemma coverage says like whether the constraint is there and the surface surface coverage difference, like, suggests that it might be incorrectly, hm, inflected, but that is not the case because it is in a correct, like- okay.
+Like, ah, sure.
+(PERSON4) It will need some, hm, more difficult testing. (European?) is quite easy, because <unintelligible/> a lot of terms are not very ambiguous.
+Or mhm names of it was names of laws and names of some European institutions.
+So there is not much ambiguity there, I guess.
+(PERSON3) S-so so when working with the (Czech) data, said, you only exclude the (European?) test set, not the train set.
+(PERSON4) Yeah
+(PERSON3) I think I think that hm would be a good idea to go for some cross domain experiments like train on one domain and tried with terminology from the other domain.
+And, and this might actually be an interesting scenario.
+(PERSON4) I I will try to look up some some other terminal database and some dataset.
+(PERSON3) So you need two things, right?
+You need the test set and and the list of terms, which is basically bilingual vocabulary
+(PERSON4) Yep.
+(PERSON3) Okay-
+(PERSON4) Also I I we can maybe do general domain tranlation to pick some bilingual dictionary and somehow extract just general, generally rare words, not in I specific domain.
+From some <unintelligible/>, I even tried to do that, but, ah ah (did not really) work.
+And then I have, ah, started with the (robot), so I can return to that, but there are not many rare words in in news test or anything like that and in there are, it is basically names or name entities, so.
+(PERSON3) Mhm
+(PERSON4) It might not be a problem. These are names and entities, but they are not often translated in the wrong way, because it basically just copying them most of the time.
+So we need the fine words that are translateable that I'm not just named. That is, that should be copied and <unintelligible/> yeah.
+(PERSON3) Well if if it is not too much work. It is definitely worth trying, but, ah, yeah, I'm, I'm not sure.
+Yeah, also one one question when extracting the terminology for the (European) test set, eh, did you check how many of the terms or or the words are also present in the Czech training data? Czech training data?
+But maybe, maybe-
+(PERSON4) Nope.
+(PERSON3) Like it would be interesting to to really pick the (terms) of vocabulary database that is completely out of vocabulary regarding our training data.
+Maybe that might. (That is a) little difficult.
+(PERSON4) That is a good idea. Yeah, I I will do that I will try to extract, yeah, I am not sure if we will find any because the (size of European?) is still there but I can check, or at least
+(PERSON3) Well, like getting some informations about this how many are of these are present in the training data might give us some ideas like why it is working so good, ehm.
+Okay, well other than that I'm not sure, ehm. 
+(PERSON6) Yeah, I actually have just comment about the-
+(PERSON3) Hm.
+(PERSON6) <unintelligible/> navigation, right? And I just have to comment about the the dataset corpus.
+(PERSON3) Hm
+(PERSON6) for the Portugese language model, right?
+(PERSON3) Hm.
+(PERSON6) So, ehm, I I was checking the my request because I tried to ultimate the the (description) of both abstracts in in both languages, and and and I had to mentally, ah, fix a few things.
+And ah, I found more papers now, and I'm trying to get as as much as as many as I as I can find.
+And I'm, I'm going to contact, ah, someone I know here in Brazil that knows other conferences as well.
+So maybe I can find more data about that.
+So (I am certain) I can improve our, eh, these data in in in (coupling?) domain what I, what I'm going to do now actually is just to have it correctly done, because maybe I still have some, some problems with this abstracts in both languages.
+And what I'm going to to do is try to find a model to to translate from Portuguese to English, so we can have the the papers in Portuguese also translated.
+So, eh, that is, or what I'm going to do for now.
+And at the same time, I have to to find a way to to help us this (new result rate).
+(PERSON3) [PERSON6], do do you have some estimate how many sentences in the training data do do you have available right now?
+(PERSON6) Yeah, but there, eh, it is a small number, because, ah, I'm always counting the abstracts so far so-
+(PERSON3) Hm.
+(PERSON6) I have around 200 something. But it is really small, and and I'm going to (prove that).
+But ah, the problem is that these are the ones that I really checked, and they are okay, but I have to distract more.
+(PERSON3) Hm.
+(PERSON6) And make sure everything is working.
+And unfortunately, it took, um a bit more time than than, expected as as always. <laugh/>
+(PERSON3) Hm. Well, this is, this is manually checked.
+So it it does not make sense that it is a little bit costly, right?
+(PERSON6) Yeah
+(PERSON3) So we plan to use this for, for the evaluation, right? So you already, are you also-
+(PERSON6) This is for the training part of it as it explains the document.
+(PERSON3) Well, okay.
+(PERSON6) I need just to make sure because the the idea [PERSON1] eh suggest me to just check is to use the the editor auditing to me and a coding domain in the training as training data. 
+So I'm just taking this but first to to have the training data first and then I'll go to the evaluation.
+Because I was worried that I have to find these papers first and I think that now we have something and probably we will have more as soon as I have an answer from from this-
+(PERSON3) Hm.
+(PERSON6) -person here in Brazil.
+(PERSON3) Okay, hm, also, you probably did not get any response from [PERSON7] yet, right?
+(PERSON6) No, not yet. 
+So that is why I'm I'm looking for second (list).
+(PERSON3) Okay, eh, [PERSON1], do do you have any idea should should we bother [PERSON7] more with the question about the English Portuguese data, or?
+(PERSON1) Sorry, I was not not really paying attention.
+So [PERSON7].
+Well, was it [PROJECT2] overlooked data that you were helping to get from [PERSON7], or was it some some something she would generally know about because she is Brazilian.
+(PERSON6) Yeah, the idea is that since she is Brazilia, she may know some other conferences that have papers in Portuguese and about the, the-
+(PERSON1) Yeah, yeah, yeah. And she has not responded to to your question by email?
+(PERSON6) Not yet, yes.
+(PERSON1) Maybe if I forward that email, she would respond. <laugh/>
+(PERSON6) Yeah, I I I checked it later, and I did, and I have not added you in the email, so.
+(PERSON1) Yes, so maybe maybe forward that email to me, and I'll, I'll forward it to her and will see if that makes any difference. <laugh/>
+(PERSON6) Yeah, yeah, probably, yeah. 
+But ah, as I was explaining, I, I will check with another researcher in Brazil that I know and, and maybe can help with that, because she used to work with <unintelligible/> in Portugese here, so probably- 
+(PERSON1) Yes, but also like you yourself you have been studying Portugal, so, ehm, it should be easy for you to locate this ah conferences.
+(PERSON6) Yeah, yeah. 
+Someone and that is good, ah sorry, go on.
+Go on.
+(PERSON1) Yeah, well, I just thought that you, you should be able to locate these things yourself equally well, and [PERSON7] is also quite far away, ah, for, ah, quite some time, from the research point of view as far, ah, as I know.
+So it is possible that she does not really, ah know, ah, any more than you would.
+(PERSON6) Yeah, yeah, maybe actually she, she, she used to work with that.
+Ah, I used, I did not work with Portuguese in NOP, so I, I did not have access to some of these conferences.
+Ah, but, ah, yeah, I know a few.
+And and I will try to look them down to them at first, and maybe I can.
+I can find another one set.
+(PERSON1) So, so, so maybe just just Google for well computation linguistics in in Portugal-
+(PERSON6) Yeah, I'll try that but it <unintelligible/> English and they do not accept the papers in Portugese, so that. I'm looking for that one set that have these papers in Portugese.
+(PERSON1) Another good resource will be master thesis. So University repositories, these days, generally across the world start to publish all master thesis and master thesis are often written in the like local language.
+Eh, so I would also search for, like, university master thesis repositories, because you will know the good universities, you would recognize them immediately, we would not, and then that would be a good source as well.
+(PERSON6) Okay, yeah.
+(PERSON1) So forward that email to me, I'll forward it to [PERSON7], and, eh, like do not expect much from that, eh.
+I think yourself will be also equally good in in finding these resources. 
+So maybe the master thesis are a better chance now.
+(PERSON6) Okay, thanks. 
+(PERSON3) Okay, so so the bottom line is that our system is way too good, and we should probably try testing it in the cross cross domain scenario.
+So hopefully I know.
+The thing is that we would like to extract the (European) data completely from the training set, but we want to avoid retraining the model, right?
+So uh again, maybe finding some other.
+(PERSON4) <unintelligible/> 
+I think it does not say much about (the quality) because everybody has access to (European) data, so let's (let's use) just artificial example to-
+(PERSON3) Mhm.
+(PERSON4) -to (make more) work. 
+But, I think it would be better to find something that, you know, we do not have to (implement a part) of the training data we have, we have because, <unintelligible/> 
+I'll try to certainly I'll try to find some more difficult (phonology) more <unintelligible/> anything like that, maybe <unintelligible/> our university have, ah, some maths terminology for for, ah, books for translation of math books into Czech, maybe something like that.
+But I'm not sure if the books are (really parallel). But, yeah, I can have a look <unintelligible/>
+(PERSON1) Em, can you go for the-
+I assume you are now talking about contraints experiments in the paper draft so the (baseline fell) thirty point something is quite (good as indeed), if there is a problem, eh, can you go for the (elite), eh, the (sao) domain? There is at least some, eh, specfic terminology and also-
+(PERSON4) <unintelligible/>
+(PERSON1) Yeah, the CL domain could be, eh, possibly another such resource.
+(PERSON4) Yeah, I can (finally look into that).
+(PERSON1) Ot that will be in the (eliter) test set.
+() Is it?
+(PERSON3) Oh yeah, just I do not know if you if you, if you catch <unintelligible/> when we were talking about [PERSON1], 
+but one thing, is, that, that the (blow) is better but the other thing is that the lemmas are actually properly inflected inflected manually,
+but that is that is another, no, not problem, it is actually good that is <unintelligible/> right, yeah.
+So I was thinking there might be.
+But I'm not sure whether we we have some test data for that, but we might try eh to play around with the the models with some sort of style transfer?
+Like you know, we can use a constraint and try to use a synonymous constraint instead and see or compare how, how, what is the difference between the outputs.
+But this is, like I'm just describing it vaguely because I myself do not have an exact idea how how to do it, but it might might have been might be an interesting uh like a distinct, distinct scenario.
+I do not know, [PERSON1], do you know about any style transfer data for English Czech? Do we have something?
+(PERSON4) <unintelligible/>
+(PERSON1) By by style transfer, Dusan, you mean that there would be something which is in the written language, and and you would be the target side, would be in the spoken language or something like that?
+(PERSON3) Well, that is the thing like, I have only a limited knowledge about the task.
+But I can imagine that you want to rewrite a sentence that it is not written by male, but it is written by a female instead or, like it instead, I do not know, like you can have a scientific and unscientific explanation of of certain phenomena. 
+Like I'm not I'm not really that familiar with the exact data sets and what they cover.
+But and the idea is that the style of the sentences, it gets quite quite vaguely defined.
+So again, not so sure.
+(PERSON1) We have this corpus of sentence transformations.
+Eh and eh, one thing that eh is there, eh, and could be labeled as style transfer is for example, making the sentences more general.
+So details are omitted, the sentence is like simplified, and than making the sentence sound colloquial, and ah, making the ah, making the sentence.
+Well, just a paraphrase.
+And I'm not sure if we have anything anything like shortening, ah, of the sentence. 
+For shortening, Matous is doing some experiment with english Czech but ah we do not have any reference data there
+So ah we do not have any sentence compression ah dataset.
+So maybe the ah the generalization that could be of interest but, I'm afraid that there are toom many different good generalizations, so the single reference one would be too limited to tell you anything about the quality of your eh generalization.
+And I'm not aware of any eh like gender transformations, eh, for exmple, this could be done eh <unintelligible/> for Czech, so so maybe the right person would be Rudolf Rosa to ask him if he has ever generated any such dataset.
+So there will be a (root-based) generation of um, some sentence counterpart.
+(PERSON3) Mhm I guess that is actually like interesting question whether whether we can use the constraints to enforce this kind of the like gender of the speaker in the in the translation.
+(PERSON1) That is, that is actually a very good idea.
+So we could ah focus on that and create ah a particular sub-part of [PROJECT1] test set that which would cover that.
+Ah so that we ah sometimes we know the gender of the speaker ah so the ah, the best ah, if you are, ah, maybe I'll, I'll share the screen and browse that. 
+So do I, hm, share screen.
+(PERSON3) Also also can you like eh include the links for the for the data or at least-
+(PERSON1) For the dataset-
+(PERSON3) Yeah yeah, into the document, that that would be helpful.
+(PERSON1) Yeah yeah yeah, so let me open if it ever responds to my key strokes. 
+Eh [PROJECT1] test set
+And I will actually eh include directly the eh particular document within this repository.
+So this repository is organized in eh, and you should read the reading here, it is organized eh according to indices, so ideally would use an index of some documents within this eh that would reflect what you are after.
+So multiple documents can be included in this index, and he will be evaluating against particle indices.
+But there is, at the moment, no index for, eh, this domain specificity.
+Ah, but if we look at <unintelligible/> (a certain) non native, ah, ah, spoken language translation, then within both defset, ah and also test set we have this auditing,
+so here is this auditing and that is an English the OST.
+I'm not sure if it will open the <unintelligible/>. 
+Yes, ah so this is this is the english: dear President Kala, a distinguished guests, I am very honoured as European Court of Auditors.
+So there is some term and here we have translation, we have two translations into Czech and one translation into, ehm, German.
+So if I open the German here then <another_language/> an if I open the translation into ehm, Czech than <another_language/>
+Eh, names are definitely used names as the eh, terms that could be that should be preserved, 
+ehm, than, eh, so so this this article <unintelligible/> set document is rather short, eh.
+I'm not sure if will contain much but in the test set part IWSLT nonative testset, 
+eh, the both sao-consecutive and <unintelligible/> are eh the eh auditing domain and again we can try, eh, translation into Czech, so <another_language/>
+So, here is again the the court of auditors, finance risk or, there there could be, eh, yeah, things like <another_language/>
+So there could be terms, ah, that are far away from this.
+So obviously, to extract the terminology some manual eh work would have to be done by comparing eh the outputs of the (DMT) with this.
+And figuring out, what are the common problems with the terminology.
+Ah, we also could use what [PERSON2] has worked on the remarkable, so [PERSON2], can we can, we reuse the (markables) in some way as the list of eh terminologies that should be eh translated in some way in a particle way?
+You are still muted.
+If you are saying anything, [PERSON2]?
+(PERSON2) Eh, sorry, so it is like there named entities, right? It is like-
+(PERSON1) It is, yeah <unintelligible/> it is not necessary (end entities), not at all.
+(PERSON2) I mean, mhm I guess why not try.
+Um uh
+(PERSON1) So, um.
+(PERSON2) Let me give you, I guess, some examples or,
+So, there is <unintelligible/> (your favourite) example, like the tenant and tenant-
+(PERSON1) Mhm
+(PERSON2) like, you know, it is just the word tenant and sub-tenant in Czech and it was both translated to tenant.
+And than it was both translated translated to tenant, and then it was an agreement between tenant and tenant, which loses the sense.
+So I'm not sure whether like they are very important to document, but.
+Pardon.
+(PERSON1) Yeah, so that is the particle thing eh here would be, then the WMT [PROJECT1] testsuite, also in [PROJECT1] test set,
+The document that eh [PERSON2] was referring to.
+These, these are text only documents, and they eh also contain this terminology.
+So if we look at the English and checked, eh, from some auditing report.
+Ah, the cooperation between the two supreme audit institutions and the two countries based eh are based on something.
+Eh, well, eh <unintelligible/>
+Yeah, there could be taxes.
+Ah, some types of taxes.
+Ah, so this is the audit reports and the document, ah, that [PERSON2] was mentioning.
+Is, this, ah, sub-lease agreement?
+So, ah, it is a sub-lease agreement between two persons and there is some tenant and some lessee.
+And the problem is that the tenant and lessee have to be translated in a distinct way eh and it happens very often that eh the eh tenant and lessee are eh translated both eh as <another_language/> in both cases.
+Also these two uh eh entities eh these two parties in an agreement, they have their gender and the gender has to be preserved eh in order to eh for this to make sense.
+So, eh I suggest that we, I'll I'll paste the links there.
+<unintelligible/> data.
+Ah, ah, an auditing domain.
+And, ah, ah,  also ah possibly (CL) domain ah for this we have ah little or no reference ah translations ah though so that would have been manually checked.
+So for the ah (sao) domain I do not know how to I'll probably just highlight this (sao) that is the part so it can be eh also (sao-WGVAT) next to this.
+Ah, OST equals English source
+TTCS, star equals check reference eh or more.
+Ah and then ah we have the written audits.
+And the written audits are ah in this directory, mhm.
+(PERSON2) We have annotations for 90 lines of the audit and 30 lines of <unintelligible/>.
+So I could like export markables or-
+(PERSON1) Mhm, and we could manually ah manually check what is their correct translation, or we could trust eh what the annotators did.
+So for every line, eh, we know whether there was some markable in that line identified by any of the annotators.
+And we know which of the translations eh were good ah of that particle markable, but we do not know the exact correct term on the target side.
+(PERSON2) Well, we know it has been in a (the reference extract).
+(PERSON1) Eh, the (reference) of what?
+Because we do not have the alignment.
+So people are marking the source site like the label is attached exactly only to the words on the source side.
+(PERSON2) Yeah, tha-that that is true, yes, but like, yeah, but we have we have the sentences with any (detective) sentences which contained the correct label.
+(PERSON1) Yeah, we have sentences that contain the correct, eh manually validated translation, so eh that could be quite easily extracted.
+So I think that eh that is probably the best setup.
+We know that all the systems were pretty bad with this.
+The markables experiment was done on a subset of the eh WMT [PROJECT1] eh test set, right?
+So, um for (Bles core) evaluation, ah, [PERSON4] should use eh these eh documents from the, eh the spoken ones, and the written ones (sao) domain speeches.
+Ah, and for eh for specific terms evaluation eh these could it be extracted the easiest from the WMT 20 testsuite markables by [PERSON2].
+(PERSON4) Okay, thanks, this sounds great I already have to go, I have to (supply some exams)
+(PERSON1) Yeah. 
+(PERSON4) Thanks <unintelligible/> yeah, thanks.
+(PERSON1) Yeah, Okay, [PERSON4], so well, hopefully you will be able to to understand eh this draft and ask me if you if you want any eh further assistance with like explaining which parts are which and so on.
+(PERSON4) Yeah thank you see you next time, bye.
+(PERSON1) Yeah, thank you, bye.
+(PERSON3) So, ah, okay, I do not know.
+Is there anything else regarding the <unintelligible/> navigation?
+(PERSON6) I do not think so and eh.
+(PERSON3) Okay
+(PERSON6) And I have a lot of work to do and-
+(PERSON3) Mhm.
+(PERSON6) I, I think that I can help (basically) with that.
+(PERSON3) Um-hum also also it would be.
+It would be great if you, if you if you get together that the English Portuguese data, because again, this seems like it will be smaller.
+Eh small, like eh what is what is the term, eh more (low resource) domain, right.
+So we might see that it it it helps much more eh when the amount of training data is <unintelligible/>.
+So so that will be was so nice.
+(PERSON6) I'll try to to finish as soon as (we can)-
+(PERSON3) Mhm.
+(PERSON6) And have this first adjust.
+(PERSON3) Okay, yeah, okay.
+So regarding multi source, we we have eh some data from [PERSON8] she promised without any comments, because she is also finishing some of her projects, so she is still busy.
+But we, yeah, we we do plan with [PERSON5] to to look into that and and uh finally make some conclusions about whether we can use it for our, for our experiments, or whether whether the task is is defined, which will make make sense.
+I do not know, [PERSON1], if you have seen the data like there is a thing, there are also some word document, so hopefully the conversion won't be that complicated, but-
+(PERSON1) Yeah, I have not looked at the data from [PERSON8] yet, but it it depends.
+Normally, it is doable, except for sentence boundaries and like paragraph boundaries.
+These are often screwed by the the basic text should be okay.
+(PERSON3) Mhm okay, so yeah, hopefully I will get to get to that this week and (Felix?) is going to be busy because of the hackathlon.
+And uh just, we were talking about having a call about the data.
+So probably next week, Monday, after after this meeting.
+So I do not know, [PERSON1], if you if you want to join it would be definitely possible.
+Yeah.
+Or like this is this is just a preliminary plan, like we can move the call somewhere next week, but I think Monday after after the school is fine.
+Okay.
+So there is that.
+Ah and um.
+Yeah also, [PERSON5], mentioned that, yeah, he is he is been busy with the some annotation work for the eh University of USFD, that is
+<unintelligible/>
+That is Sheffield.
+Okay, so yeah yeah he is he is doing some anotation for Sheffield.
+So that is that is why there was not much feedback from him.
+Yeah, so that is that.
+But I think other than that, there is nothing else to discuss today.
+So if no one has any any questions, we can probably leave it at at that today.
+Okay, so thanks and see you next week.
+(PERSON1) Thank you.
+(PERSON6) Thank you see you
+(PERSON3) Okay, by

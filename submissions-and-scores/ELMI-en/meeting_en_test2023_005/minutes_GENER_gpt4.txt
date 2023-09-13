@@ -1,0 +1,44 @@
+- Last call before Christmas, discussing project status and updates
+- Status of multilingual machine translation report: almost complete, waiting for input from [PERSON14]
+- Status of integration report: done for per voice site, waiting for [PERSON17] to provide numbers
+- [PROJECT2] test set to be used for evaluation and system selection, [PERSON17] to evaluate all systems available in the mediator
+- [PERSON9] to update D 1.5 with [PROJECT2] test set information from [PERSON3]
+- [ORGANIZATION3] working on training ASR systems for other languages, English and German to-end ASR deployed
+- [PERSON18] reports English and German to German, English, French, Italian, Spanish MT models integrated with the mediator, five to five model not yet confirmed
+- [PERSON17] or [PERSON16] to evaluate [ORGANIZATION3]'s MT models through the mediator
+- [PERSON15] says no current optimization for deploying multiple workers based on the same multilingual model, but it is planned for future development
+- Discussed putting project plan on a calendar and sharing deadlines
+- Talked about avoiding runtime collisions and managing translations step by step
+- [ORGANIZATION3] will deploy a two-to-five system as a pair of workers for translations
+- Discussed the status of milestone number twelve (Improved ASR systems) and the need for updates before the end of the year
+- Mentioned the upcoming trade fair of student companies in March, focusing on the Clearest Voice competition and gathering non-native English speech data
+- Discussed preparations for [ORGANIZATION5] part 1 in mid-April, aiming to have the best models available
+- [PROJECT5] 2021 will happen towards the end of the year, aiming to go public and measure impact
+- Smaller events, such as the Center for Visual History conference on January 25th, will also take place as test sessions for the project
+- Discussed the possibility of better domain-adapted systems and baseline systems.
+- Mentioned a computer-written theater play premiering in Czech with a human interpreter.
+- Discussed the management of small and large test sessions, emphasizing the need for better planning and communication.
+- Stressed the importance of recording important sessions for evaluation and analysis purposes, and the need for volunteers to take responsibility for this task.
+- Planned a mid-January technical call to discuss the implementation of a more robust and scalable system, involving key team members.
+- Discussed the need for better coordination and communication among team members supplying models.
+- Considered the feasibility of running models in the cloud, taking into account the increased cost and potential limitations.
+- Acknowledged the challenges of running transformer models on CPUs and the need for GPUs in some cases.
+- Project meeting discussed the need for significant effort to optimize single sentence translation for MT.
+- The team considered using GPU for parallelism and better performance.
+- They decided to focus on the easiest route, using server hardware on their premises that can run dockerized packages and use their own GPU.
+- Dockerization would be primarily for ease of management and not for deployment on paid hardware.
+- The team discussed testing primarily on their hardware and possibly using paid hardware as a fallback solution for hardware issues.
+- They also discussed the problem of evaluation for simultaneous SLT and the possibility of using the Europe [ORGANIZATION1] speech interpretation corpus (Esic) being compiled by [PERSON12].
+- The team considered various research collaborations and experiments to improve MT for online translation.
+- They discussed using data augmentation to make normal text translation corpora sound more like interpreter outputs.
+- The team acknowledged the need for better management to ensure these collaborations and experiments happen.
+- The team discussed having a weekly call on the abridging topic, with a separate support call for online translation.
+- They considered merging the two calls into a single call.
+- A subteam within the project will be created, including at least PERSON18, PERSON4, PERSON12, and PERSON2.
+- They plan to start regular weekly calls in the first week of January to discuss experiments and write papers.
+- PERSON12 will compile the first beta version of the corpus and pass it to PERSON16, PERSON4, and PERSON18 for feedback.
+- The team has a complete five-to-five pipeline for evaluation, including ASR for German, English, French, Spanish, and Italian, and all MT directions within that.
+- They also have strong MT models for English to Portuguese, Dutch, Croatian, Slovenian, Polish, and Turkish.
+- PERSON2 will update PERSON16 on the progress and available resources.
+- The team is optimistic about the ASR milestone.
+- They wished each other happy holidays and will be in touch for outstanding deliverables.

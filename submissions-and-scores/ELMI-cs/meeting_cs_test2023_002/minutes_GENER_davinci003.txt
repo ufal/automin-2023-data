@@ -1,0 +1,64 @@
+- Person265 a Person279 byli v přírodě a vyvěsili vlajku
+- Person319 měla schůzku s architektem, která dopadla dobře
+- Person319 slíbila, že zkontaktuje Person320 za účelem řešení kanalizace
+- Person319 se má spojit s Organizace129, která má připravit studii
+- Person291 se připojil k diskuzi o restrukturalizaci
+- Person266 se zeptal Person291 na rozpočet na Projekt87
+- Person291 má objednat Person322, aby posoudil, zda se má rozporovat územní plán
+\n
+
+* [ORGANIZATION188] a [ORGANIZATION189] uvolnily místo ředitele po 3 letech.
+* Strategické plánování a územní plánování jsou jedno a totéž.
+* [ORGANIZATION176] přešla k [ORGANIZATION138] a [ORGANIZATION177] bude pod [PERSON281].
+* [ORGANIZATION159] prověřuje pozemky a jejich potenciál v plánech.
+* Vypsáno výběrové řízení na pozici ředitele [ORGANIZATION188], která integruje kanceláře a agendy plánování města a sekce strategií a politik.
+* [PERSON324] byla informována a souhlasila s tímto krokem.
+* Výběrové řízení je otevřené a [ORGANIZATION138] bude aktivně vyhledávat.
+* [PERSON286] byla požádána o účast na [ORGANIZATION178] a [ORGANIZATION190], [ORGANIZATION191] a [ORGANIZATION194].
+- [PERSON291] a [PERSON266] se domluví, aby [PERSON266] nahradila [PERSON286] na komisi
+- [PERSON291] zná všechny členy komise a ví, že mají různé názory
+- [PERSON286] není členem komise, ale prezentuje studii
+- [PERSON291] navrhuje, aby [PERSON286] poslala náhradníka, aby se vyslechli názory členů komise
+- [PERSON286] se obává, že náhradník nebude mít dostatek informací
+- [PERSON291] zná [PERSON325] ze školy, [PERSON326] z ústavu, [PERSON328] z galerie, [PERSON329] z fakulty, [PERSON330] z [ORGANIZATION151], [PERSON331] z metropolitního plánu
+- [PERSON291] ví, že členové komise mají různé názory a [PERSON286] by měla poslat náhradníka, aby se vyslechli jejich názory
+\nAby to bylo vidět.\nAby to bylo vidět, jak to bude fungovat.\nAby to bylo vidět, jak to bude fungovat.\n
+
+- Person286, Person291, Person266 a Person271 se setkali, aby diskutovali o projektu.
+- Person264 se zeptal Person264 na studii PROJECT90.
+- Person271 doporučil, aby se nevysilovali příliš mnoho s připomínkováním.
+- Person266 informoval o tom, že se chystají na jednání s Person345, aby představili své připomínky.
+- Person264 se domluvil s Person335, aby zjistil, jak se na to dívají.
+- Person266 chce, aby Person345 do studie namaloval funkční plochy a veřejnou vybavenost.
+- Person286, Person291 a Person266 se zúčastní výboru 3.12. ve 14 hodin.
+- Person286 a Person266 budou spolupracovat s Person332 na PROJECT89.
+- Person264 se domluví s Person335 na dalším postupu pro připomínkování studie PROJECT90.
+null
+
+\n(PERSON279) Já jsem v pohodě.\n(PERSON266) Dobře.\n(PERSON279) Děkuju.\n
+
+- PERSON287 a PERSON266 se baví o tom, že by měl PERSON287 informovat svého klienta o záměru.
+- PERSON291 se ptá PERSON288, jestli by mohla napsat na workshop PROJECT74 a PERSON266 ji požádá, aby to udělala co nejdříve.
+- PERSON288 informuje o tom, že byla požádána o konzultaci architekta PERSON331 na PROJECT93, který dostal zadaný od ORGANIZATION155.
+- PERSON288 se ptá PERSON267, jestli by mohla uspořádat Zoom schůzku na 24. listopadu v rozmezí 11-12 nebo 13-15.
+- PERSON288 informuje o tom, že radní PERSON339 z ORGANIZATION155 se jí zeptala na PROJECT94 a že se obrátila na PERSON324, aby jí doporučila, koho by měli pozvat na strategickou komisi.
+- PERSON291 se ptá PERSON288, jestli jim poskytla podklady jako na fakultu a jestli je nějaký termín dřívější pro soutěžní workshop na PROJECT74.
+- PERSON266 se ptá PERSON279 a PERSON288, jak se mají.
+\n(PERSON287) Takže, eh, to bude, eh, jenom mezi náma.\n(PERSON266) Dobře.\n(PERSON287) No.\n
+
+PERSON316 a PERSON272 se budou zabývat námitkou na byt PROJECT95, kterou budou posílat zejtra. 
+PERSON266 a PERSON272 zjistili, že stavební úřad má omezené hodiny a že se tam dostanou až dnes odpoledne. 
+PERSON266 a PERSON272 budou rozporovat výšku krajního objektu, stejně jako ORGANIZATION182 a ORGANIZATION142. 
+PERSON291 požádal o poslání dokumentace ze stavebního úřadu. 
+PERSON287 se připojí k PERSON341 a PERSON342 na pracovní schůzku krajinářského charakteru nad urbanistickou studií PROJECT76. 
+PERSON279 požádal PERSON287 o diskusi o vlakových zastávkách na ORGANIZATION184. 
+PERSON287 bude mít schůzku od 11 a poslal pracovní verzi studie. 
+PERSON266 se zeptal, zda se na prezentaci studie připojí někdo za ně. 
+PERSON287 odpověděl, že se připojí jen oni a budou se dohadovat o změnách územního plánu.
+null
+
+- Projekt [PROJECT65] bude pokračovat, i přes konflikt s touto stanicí.
+- Stanice [PROJECT65] je nyní v požadované poloze.
+- Nelze zabránit výstavbě.
+- Byla diskutována možnost řešení konfliktu.
+- Byla prodiskutována další možnosti.

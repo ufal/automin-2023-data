@@ -1,0 +1,9 @@
+PERSON2 is discussing the status of the delbls, the report on integration, and the payment for the payment.
+PERSON17 is waiting for the results of the PROJECT5 session and the PROJECT4 session.
+PERSON17 will ask PERSON17 or PERSON16 to synchronize the training and run the models.
+PERSON2 and PERSON18 are discussing the progress of the Improved ASR systems and the improved models from ORGANIZATION3.
+They discuss the possibility of using cloud computing to run ASR models on their own hardware and the complexity of the project.
+They also discuss the complication of multi-source and multi-target systems and how the architecture needs to be flexible to allow these.
+They decide to plan a mid-PERSON4uary Technical call with PERSON5, PERSON2, PERSON4, PERSON18, PERSON9, and PERSON1.
+PERSON12 is going to compile the first betaversion of the corpus and pass it to PERSON16, who will pass it on to PERSON4 and PERSON18.
+PERSON9 suggests using a strong MT model.

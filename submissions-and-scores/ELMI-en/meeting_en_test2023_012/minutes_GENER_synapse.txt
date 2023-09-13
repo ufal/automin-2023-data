@@ -1,0 +1,47 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON3, PERSON4, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON3 will join the meeting in about twenty minutes.
+- Felix has written an email with bad results for the keywoard extractor.
+- PERSON6 explains to PERSON7 and PERSON3 why summarizers give bad results when summarizing meeting data.
+- PERSON3, PERSON7 and PERSON4 are planning a parallel session for SIGDial.
+- They need to make sure the paper submission deadline for the special session is similar to that for Interspeech.
+- They also need to create a scientific commission large enough to handle paper reviews.
+- PERSON3, PROJECT2, PERSON4 and PERSON7 are worried about the timing of the SIGDial conference.
+- PERSON3 and PERSON7 would like the later deadline for their submission.
+- If they get accepted for the Interspeech satellite event, they should start preparing for it in March.
+- PERSON3 has done five MT marathons.
+- He knows the people and the structure of the MT marathon.
+- Interspeech is all about speech.
+- People who are not appearing in the proceedings in SIGDial and PBML will be invited for separate proceedings in separate proceedings.
+- PERSON3 and PERSON7 have to prepare the proposal for both Interpseech and PBML.
+- Interspeech is the preferred one as they have to submit their papers by the March deadline.
+- In Interespe some of the submission papers would come later for the In PERSON7 needs to apply for the ORGANIZATION7 membership.
+- They need to send it by February twenty eight to them in Dortmund and by Misis PERSON9 in the meantime in order to apply after that.
+- The membership fee is twenty euros for full member regular rate is one The institutional member package A is two fourty euros for one year.
+- The student package is twenty euros.
+- There is a reduced fee for Interspeech.
+- People who have ORGANIZATION7 membership will get a discount at the conference.
+- PERSON3 is going to create a website.
+- PERSON7 is writing in the document at the top of it.
+- PERSON8 has shared his code with the rest of the team.
+- PERSON6 and PERSON3 want to run the code on their data to check if it's decent.
+- PERSON4 ran it on some of the meetings and the results are decent, but there's no snapshot or no results.
+- PERSON6 will contact PERSON8 if he has run on the PERSON4 will write to PERSON10 to make sure he has access to all the data that we have transcribed.
+- The data has been processed only by you and your people.
+- Now it has to go to the anonymisation.
+- PERSON3, PERSON6 and PERSON7 discuss the organization of the training, development and final test part of the project.
+- They agree to split the meetings into three parts: the training part, the development part and the final part.
+- The gold standard is the one established by anot PERSON6, PERSON3 and PERSON7 are in a chat.
+- They are discussing the evaluation of two meetings and how to do it effectively.
+- PERSON6 implemented a system for the project.
+- It is not doing the summarization as they want, but it is doing something.
+- The authors of the paper did not provide their code, so PERSON6 had to do it himself.
+- The PhD student who wrote the paper is working on it PERSON3 asks PERSON4 to make a timeline for the data preparation and share it with PERSON7 and PERSON10.
+- Some files will not make it to the release.
+- The alignments are less important for the participants and will be released for evaluation.
+
+
+Minuted by: Team Synapse

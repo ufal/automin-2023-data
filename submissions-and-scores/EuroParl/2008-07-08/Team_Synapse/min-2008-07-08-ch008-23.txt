@@ -1,0 +1,16 @@
+DATE : 2023-05-02
+ATTENDEES : PERSON172
+
+
+SUMMARY
+- The voting is closed.
+- The vote has been won.
+- The winner has not been announced.
+- The vote was won by person 172.
+- The voting is now closed.
+- The result is not known.
+- The winner is not announced.
+- It is not possible to vote.
+
+
+Minuted by: Team Synapse

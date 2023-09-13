@@ -1,0 +1,39 @@
+Meeting KeyPoints:
+
+
+1. PERSON8 and PERSON3 have equal pronunciation of Czech words.
+4. PERSON10 has a visa valid for 180 days from the day they got it to the day they can enter the country.
+5. PERSON8 and PERSON10 can go to Czech republic together
+1. No, PERSON3 did not receive any information about the date of the arrival of the satellite.
+2. PERSON3 agreed to work with April because PERSON10 asked for a fix date or a for a the arrival of the satellite.
+3. PERSON3 asked PERSON8 about the work that PERSON2 was doing related to the project.
+4. PERSON8 mentioned that PERSON2 was working on
+- PERSON8 needs help forwarding a message to other alters of a paper chain email.
+- PERSON10 can help by offering to send the email message to other alters of the chain email.
+- PERSON12 is currently working from home so PERSON8 can schedule a call with her to discuss the chain email message.
+- PERSON12 can send the message after checkin into a desk for the call.
+- During
+1. A paper has been found that analyzes the usefulness of the context encoder in document translation.
+2. The paper indicates that it does not encode the context but it does help to introduce some noise which helps the robustness.
+3. The results were similar and also the results were better than the baseline of single encoded.
+4. The authors conclude that the second encoded does not really encode the context but it does help to introduce some
+- The paraphrasing works well for the second source scenario but fails for the multi-source scenario
+- There is no proper way to represent the context for the second source scenario
+- Using two encoder works for the multi-source scenario but results in adverse serial input experiments
+A transcription of a conversational dialogue between PERSON2 and PERSON10, where PERSON2 is asking PERSON10 questions about how Martin of Google Cloud Natural Language Translator (GNMT) actually does his translating. PERSON10 is a cloud developer, and this is part of a conversation about how the GNMT model works. PERSON2 asks several questions about how GNMT actually translates text, and PERSON10 describes two related techniques that he thinks GNMT uses for translating.
+- In summer of 2020, Person 8 started working on an experiment that tries to generate multi-source paraphrases of a given input. To do that, Person 8 first tried a technique called "concatenation" where the input is concatenated with a source sentence and a paraphrase sentence and the model has to predict the appropriate placement of each sentence in the output. Person 8 did not have any luck with this technique
+The meeting transcript contains various discussions on different aspects related to the meeting including:
+* how to deal with multi-sentence paraphrase inputs;
+* the baselines and variations to evaluate;
+* the deadline of the demo and the ACL (which are different events).
+Here are some highlights from the conversation between PERSON1 and PERSON10:
+
+- PERSON1 and PERSON3 are working on a side project called PROJECT2.  PROJECT2 is collecting data and another project called PROJECT3 needs the same data.  PROJECT2 can serve as a model for PROJECT3.
+- There is not much discussion between PERSON2 and PERSON4.  PERSON4 seems to be mainly involved in the research related task while
+1. There is a need to target 6 languages in PROJECT2
+2. One of the language needed is Portugese
+3. There is need for dedicated model for Portugese to target in PROJECT2
+3.1 There is need to target Auditing and comprehension linguistics in Portugese
+3.2 There is need to add back translation as a data source
+
+* The method works somehow but it's definitely not the complete solution, it's better than not using it but it's far from like getting correct core, correct force eh from of the consraints, and yes, so that's good because we can show that maybe we are on the right track, but there's still work to do and we can analyze, what I want to do is now is to the our breakdown analysis, and

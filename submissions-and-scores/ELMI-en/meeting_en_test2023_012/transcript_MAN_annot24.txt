@@ -1,0 +1,1029 @@
+(PERSON6) Hi [PERSON7].
+(PERSON7) Hi.
+(PERSON6) So [PERSON3] is gonna be there in a meeting?
+(PERSON7) Uh, yes, I think so.
+Uh should we -
+(PERSON6) Then I keep it today, the key word.
+(PERSON7) Uh.
+(PERSON6) So he told me to share eh video.
+Hi [PERSON4].
+[PERSON4] has also joined.
+(PERSON7) Hi, hi, how are you?
+(PERSON6) Hi.
+Mike is muted, I guess.
+<laugh/>
+(PERSON4) Ah, yes, now we are unmuted.
+Hi, hi.
+<laugh/>
+[PERSON3] said that he would join us.
+He has written me five minutes ago.
+He was somewhere in the city center.
+He is running in the direction of the university, and he will have a very quick eh lunch.
+So he, I think he will join in about twenty minutes or such.
+(PERSON7) Thank you.
+Okay, okay.
+(PERSON6) So I was I wanted to discuss eh the one -
+Um, ah, [PERSON4].
+Ah, ah, today [PERSON3] did send that TD ID for keyboard extractor in the minute ah, did you did you went across that?
+(PERSON4) Oh no. 
+(PERSON6) That mail -
+(PERSON4) You sent what?
+(PERSON6) [PERSON3] [PERSON3] did send in the minute eh group.
+In the minute, a [ORGANIZATION2] group, he did send an email.
+Oh -
+(PERSON4) Aha, keyword, yes.
+(PERSON6) Yeah, so I did try it for ar- the minute which we, which we did the dry run, the dry evaluation of - 
+(PERSON4) Oh do-
+I think I should first read it.
+I don't know anything about it.
+So I - 
+(PERSON6) Okay.
+<laugh/>
+(PERSON4) Well, this is some-
+Yes, I have read it.
+(PERSON6) Okay, so.
+Ah, I detest this ah TD ID of keyword extraction.
+On the minute which we were doing the dry run.
+(PERSON4) Uhm.
+(PERSON6) For the one which we had nine minutes, and we evaluated it.
+For the same meeting, so it gave <laugh/> it gave so horrible results.
+<laugh/>
+It was, eh uhm hm which was the keywoard extractor, and laugh.
+These were the two words.
+(PERSON4) Because they are the most frequent.
+It's - 
+<laugh/>
+(PERSON6) Yeah, so so I said to [PERSON3] they are really bad.
+<laugh/>
+And [PERSON3] agreed that he said that they are they are -
+Seriously, they are hilarious.
+<laugh/>
+So so the but Felix has today written to us.
+And that this he has some TD ID of base summariser.
+So - 
+(PERSON4) Uhm uhm.
+(PERSON6) Let's try that one.
+If it gives better results.
+So he has written some TD RF based  some keyword extractor.
+His own programme.
+So we will check.
+But the one which was from eh C Uni it's not good.
+(PERSON4) C Uni.
+What is C Uni?
+(PERSON6) Aah [ORGANIZATION6].
+<laugh/>
+(PERSON4) Ahaa.
+<laugh/>
+<other_noise/>
+(PERSON6) So [PERSON3] said me to discuss with both of you.
+<laugh/>
+The- how these results came for that.
+(PERSON7) Um.
+(PERSON6) So he said that that it's all says the task is very difficult.
+(PERSON7) <laugh/>
+Yes, for sure it is difficult.
+(PERSON6) Yeah, actually be- because a meeting data, it gives you the most, the maximum probability words.
+So the most occurring result.
+(PERSON7) Meeting data?
+(PERSON6) Oh what?
+Me- meeting data.
+Yes, yes, yes.
+(PERSON7) I didn't -
+(PERSON6) Yes, yes meeting data.
+Ah like our our meeting data.
+It gives you most most commonly occurring words which are like hallo, mhm.
+All thots all those words, which we usually say.
+Because our like [ORGANIZATION1] corpora meetings are not something which are eh set up, then they are like eh in an organized fashion.
+They are not played.
+Our meeting is something which is usual meeting.
+So these are the common words which are occurring.
+And that is why the summarizers are giving such horrible results.
+(PERSON7) Okay, so uh -
+Can't we pre-process those occurrances?
+(PERSON6) Eh we can pre-process, we can remove -
+<parallel_talk/>
+(PERSON7) Summarizer.
+(PERSON6) Yeah, we can remove that.
+But anyway, still, it gives sentences which are not relevant.
+Like -
+(PERSON7) Using TF ID, right?
+(PERSON6) Using not TF ID but other approaches as well.
+So that is the problem I tell you of meeting.
+So [PERSON3] said maybe you can include in your motivation to uh, shared task or some paper, maybe.
+Ah this these results that these commonly occurring words which we saw in this TD ID.
+Like a hm and like laugh so you can include them is motivations of these are the common occurring words.
+Which usually which we usually we extract when we are doing summarization for meeting data.
+(PERSON7) Mhm.
+(PERSON6) So that is one of the biggest problem with, ah, meeting summarization.
+(PERSON7) Okay.
+(PERSON6) So you can include that point into your shared task maybe.
+So this is something we also noticed it very early.
+Ehm mm that the- these are some random words, which are eh the usual words which we speak are occurring into the summarization of -
+So  this is the biggest drawback of meeting data, which needs to be handled someway. 
+(PERSON3) Um-hum um-hum hi hi?
+(PERSON6) Oh, [PERSON3] joined us.
+(PERSON3) Hi, sorry for the delay.
+I was at lunch.
+And I need to go to the court.
+(PERSON4) You were extremely quick, [PERSON3].
+<laugh/>
+(PERSON3) Actually the the email, the the e-mail got sent only when I was already sitting at the canteen so it the email was delayed.
+(PERSON4) Aha, okay.
+(PERSON3) Yeah, this is needed because I'll have to move to the court there.
+Okay, yeah, so eh [PERSON7], about the venue.
+So, have you found these SIGDial dates?
+(PERSON4) Yes, yes, yes.
+(PERSON7) Yes.
+The SIGDial dates uh like the subm- submission deadline is January fifteen.
+And uh like the timeline for SIG Dial, all the other dates are not published yet.
+(PERSON3) Yeah, yeah, okay.
+(PERSON7) I went through.
+Yeah, but I went through the previous year SIGDial dates and possibly they will follow the same timeline.
+(PERSON3) Uhm hm.
+(PERSON7) So uh the notification comes after one month.
+So if you uh, if we say, January fifteen, by February fifteen.
+We should know that whether we are accepted in SIGDial or not.
+(PERSON3) Yeah.
+(PERSON7) Going by the other um years and uh then uh -
+(PERSON3) It is earlier than after -
+SIGDial itself is earlier eh Interspeach.
+So I think it's very eh risky.
+(PERSON7) So we-
+Yeah, so we would have three months before the paper submission deadline.
+(PERSON3) Mhm.
+So you know, like SIGDial special session is just like Interspeech special session.
+So uh like, we have to be totally dependent on the SIGDial people for uh running the special session.
+Because it will be an like integral part of the program.
+It will not run as a parallel task.
+Mhm.
+(PERSON7) Parallel session.
+It will be a part of the programme.
+(PERSON3) This is -
+This is yeah, this is preferable if we make it timewise.
+So there's there's a critical pro- problem.
+So if the timing is harsher or not any better than Interspeech, then it doesn't make sense to go for SIGDial, because the SIGDial itself is earlier.
+So if we, if we cannot get the benefit of being integral part being in their proceedings, then I would prefer Interspeech eh satellite even.
+(PERSON7) Mm, yes.
+So that's uh -
+So, um, another (?) for SIGDial is like -
+Uh the papers that would be submitted in our shared task would be reviewed by the program committee of SIGDial.
+And eh they do not guarantee that whoever our participants are.
+We can like mm like eh like in- choose and invite that who would be presenting.
+Because -
+(PERSON3) Yeah, that's that's okay, like I would not see that as a big problem.
+Increasing the quality of the shared task paper is fine.
+If there is enough time for the submission.
+So there is a critical thing.
+So So [PERSON4] I've I've read that document things already.
+I've opened it already in the morning.
+But the problem is that I haven't found the the paper submission deadline for a SIGDial, and that is critical.
+If the paper submission for SIGDial is eh similar to what was our submission for the system outputs.
+Then let let's do SIGDial.
+But if the paper submission deadline for SIGDial is earlier, if it's around the time as the submission deadline for eh for Interspeech.
+I mean their main one.
+Then there is no point in going for SIG Dial.
+(PERSON7) So eh I will just post the timeline uh for a previously there.
+So you can understand that how e-
+(PERSON3) I put I paste it to the document that we are browsing.
+Tha- tha-
+(PERSON4) Yes.
+(PERSON3) Summary.
+(PERSON7) Yes, I did.
+(PERSON4) But do we have resources for all these yellow things?
+Like scientific community members, eh invited speakers, eh submission for process.
+So are we able to do that?
+(PERSON3) To review the papers?
+(PERSON7) <parallel_talk/> 
+(PERSON4) No, to create all this around things.
+Eh scientific commission large enough to handle paper reviews.
+So it's create our  -
+(PERSON7) To make a programm commiteee.
+Yeah.
+(PERSON3) Yeah, yeah.
+I think it's we can do it.
+It's not too bad.
+Like I've done it for a few MT marathons.
+(PERSON4) Okay.
+(PERSON3) Several years ago.
+MT marathons used to have this system or tool papers that were published as a special issue of PBML.
+That was in the first year when that happened.
+And then, in the subsequent years, it was integrated with normal like there were also PBML issues which mixed empty margin papers and separate papers because of the the number of those papers.
+And we even eh had a thing like if the paper was not good enough for the PBML, but if the tool was presented at the MT marathon.
+The authors were invited to submit for another review for one for for the next PBML issue.
+So we have, even like said, your system, your tool is interesting.
+Please publish it at the MT marathon among the people.
+But your paper is too bad.
+You need to improve it, and you will get only to the next PBML.
+(PERSON4) Yes, but eh another possibility for SIGDial.
+Isn't it possible that trying SIGDial we attract kind of better participants.
+(PERSON3) That's eh yes, that is eh that is opt- like eh.
+Like I thought that I also had, but I don't know either of the the venues.
+So you have - 
+They have final paper registration July.
+So the conference was in September, and the paper submission was in May.
+(PERSON7) Was May.
+(PERSON3) So it was - 
+(PERSON7) And this time it is in July.
+(PERSON3) June, July, August, September.
+It's four months approximately.
+(PERSON4) But actually, when you create this as if somebody from outside, from good summarizes, summarizers say decides to take part in our shared task.
+A- anyway, he would never spend on it more than two weeks, isn't it?
+(PERSON3) Yeah, yeah, that's right.
+So yeah yeah.
+We cannot expect more involvement than two weeks of of person - 
+(PERSON4) No actually just the reality that the perso-
+(PERSON3) Yeah.
+(PERSON4) Works and - 
+So probably it's not such a problem.
+And the application process is definitely easier.
+And ah -
+(PERSON3) For what?
+(PERSON4) For SIGDial.
+(PERSON3) Uhm hm I don't know.
+<laugh/>
+I don't think that the I don't think that the eh eh the application procedure for us is easier.
+(PERSON4) The preparation is easier.
+You just say that we want to do that and that.
+And for s- for Interspeech we have to pre- create the separate eh action.
+(PERSON3) Yeah, but but wh- what I'm worried is that the timing of SIGDial is equally bad as the Interspeech special session.
+Or worse, perhaps.
+(PERSON7) I uh I, I personally would propose that we should have at least four months buffer time.
+(PERSON3) Yes.
+(PERSON7) Like four months time, where we done (Interthing)
+(PERSON3) Yeh.
+(PERSON7) And and the deadlines we are able to choose.
+So in that respect, I think if we get into Interspeech, that will be better for us.
+(PERSON3) Yeah, I think so.
+(PERSON7) But uh again, the SIGDial thing is probably like uh what [PROJECT2] is saying.
+That it is probably, ah, it's already established to attract more participants.
+And that the uh application proposal we already have, so it's easier.
+(PERSON3) Yeah, yeah.
+I would I would still prefer the later timing.
+I think it makes more sense.
+Because you have to -
+I agree that the people would spend two weeks eh eh working on the submissions at most in some.
+But they need to have three months of sitting, just or like having it on their to do lists.
+And then in the two weeks, they will do it.
+(PERSON7) Yes.
+(PERSON3) But they need to have this time of of not doing anything and still knowing about that.
+(PERSON7) And also, another another thing like uh, it may so happen that it happens in many shared task.
+Like we we relieved the data, and then the participants come up with many problems that we can't see right now.
+(PERSON3) Yes, yes, yes.
+(PERSON7) And then we have to fix those and then again re-publish.
+(PERSON3) Yeah, and if the time is short, then this very in in in high risk.
+(PERSON7) Yes, yes.
+So it happens in almost all the shared task like um -
+The first, the first challenge is released, and then the participants come up with, okay, these are the problems in these data.
+Then they release another version.
+Yeah, it also happens.
+(PERSON3) And it's better if this doesn't happen in WMT this doesn't really happen often.
+But that's a very established task.
+You know exactly what to do.
+And eh even when preparing the data for the shared task, everybody knows what to do.
+And so the in WMT eh there are i- it is a rare thing that the test sets are updated and also the training data.
+It's it is a rare thing rather.
+But it would be, eh I think it's it's more likely for our minuting eh, set up.
+So yeah, I'm I'm definitely in favor of the later deadlines.
+If eh so we hav- I said four months.
+So what is the um eh SIGDial twenty twenty one is already in June, right?
+(PERSON7) Yes, yes, the fifteen.
+(PERSON3) Yeh, so that means that the deadline for papers for their eh like regular papers for special session papers would be eh march.
+And that's eh the same timing - 
+(PERSON7) Let us say March, yes.
+(PERSON3) Yeah, this is the same timing as Interspeech the official one, the special track set up.
+And that doesn't fit our needs.
+(PERSON7) Yes.
+(PERSON3) So I think we, we actually have to do -
+If we get accepted, we we should try and and try to get accepted.
+And we really should do Interspeech satellite event.
+(PERSON7) Mhm.
+Think I think we should start to uh preparing for that.
+(PERSON3) Yeah.
+(PERSON7) What do you think [PERSON4]?
+(PERSON4) <another_language>Tak jo.</another_language>
+(PERSON4) No, for me it's totally unrealizable work.
+To - 
+(PERSON3) Aha, I don't see it like this.
+(PERSON4) I would not do that.
+Never.
+So I am not able - 
+<laugh/>
+No, any event - 
+<laugh/>
+(PERSON3) for this.
+We have [PERSON7].
+So I I don't - 
+(PERSON4) Okay, so for me it's very very hard work.
+So I feel just individually -
+(PERSON3) Eh, it's not you -
+(PERSON4) Hard work for less income.
+But if you think the time tha- that later time is more important, I totally agree.
+So -
+(PERSON3) I think the later time is is very important.
+(PERSON4) So if if the weigh the weigh is are such, I totally - 
+(PERSON3) Mhm.
+And I've done eh eh five MT marathons.
+And they're - 
+(PERSON4) Yes.
+You have a lot of experiences there.
+(PERSON3) So it's it's a work that has to be started soon for the invited -
+But actually an MT marathon it's eh m- m- 
+I know the people.
+So that's the difference.
+So at MT marathons it's I like just ask around, and actually I myself eh eh created the structure of what I would like to hear.
+Half or two thirds of the structure were known from the previous years, because there is this summer school aspect.
+And then, I th- like thought what other topics?
+What topics on the side would I like?
+And I specifically asked colleagues who I actually knew before if they would if they would come.
+So and they knew MT marathons.
+So there was a different situation.
+It was only logistics and the the work for like putting the program together was less of eh less of a problem. 
+Because people knew what to expect.
+They were they were willing to come kind of anyway.
+And when they were invited, then like they saved some of their travel funds or something like that.
+So eh it was it was easy because it was in the field that I know.
+Uh I -
+(PERSON7) I think I think this like inviting the program committee.
+And that, you know, because when we have a problem, we know people from the summarisation committee.
+And we can reach out technically research to them.
+(PERSON4) Yeah, that is fine.
+(PERSON7) Mhm.
+So uh the the other thing I am just a bit worried about, like because, um, Interspeech is all about speech, right.
+So for any reason, suppose if we do not get into Interspeech, what is our backup plan?
+(PERSON3) If we don't get into into so then we will apply for SIGDial, yes.
+But they also have the option of separate proceedings for SIGDial.
+(PERSON7) Yes.
+So, ah like the program committee would choose, ah the the qu- the people that they want to appear in the proceeding.
+But if we want to create our separate proceedings -
+(PERSON3) We can do that.
+(PERSON7) We are free to do.
+(PERSON3) Yes.
+So we can also run it as a SIGDial thing.
+Ah, but without -
+And again in PBML.
+(PERSON7) Yes.
+So the papers appearing in SIGDial proceedings are okay?
+We don't publish in PBML?
+Those who are not appearing in SIGDial proceedings we invite them for PBML?
+(PERSON3) Yes.
+If someone manages to that's good.
+So if someone manages to do it in time, for the SIGDial deadline, yes, they should go through the SIGDial submission deadline.
+And if they fail, we invite them to to send it to PBML.
+And eh yeah.
+We will review it ourselves.
+(PERSON7) Yes, yes.
+So -
+(PERSON3) Maybe  - 
+The same thing also for Interspeech.
+So like there would be - 
+(PERSON7) Exact for for Interspeech we have to do that.
+Eh - 
+(PERSON3) Yea l- ba- 
+Because for Interpseech we can even eh eh its- fu- 
+We could also like split it paper by paper.
+So that some papers would go to the Interspeech proceedings.
+And some Interespe- some some of our submission papers would come later for the PBML proceedings.
+And the authors would be free to choose.
+So that- we have to negotiate this with either SIGDial or Interspeech.
+If it is okay for them to have some of our papers, given that these papers are submitted by the March deadline.
+So there is an absolute strict requirement.
+And I think it's they cannot have anything against it.
+Because if the paper is worth publishing.
+Like, eh it's only a bonus that the paper has some shared task result appearing in the satellite event.
+So eh yeah, I think it's okay.
+So we do not need to ask for a special session in any of oh well - 
+In Interspeech it is called special session, we don't want that.
+In Interspeech we want the satellite event.
+But we will tell our people.
+If you manage to have your paper ready by the Interspeech deadline, send it as an Interspeech paper and you will have it within Interspeech.
+Ah, ah, if you do not, ah, do it for the Interspeech deadline, here is our deadline.
+And that is for PBML. 
+(PERSON7) Ah, okay.
+But the thing is like uh for Interspeech satellite event.
+Erm, Interspeech like won't get into any proceedings.
+(PERSON3) Yes, we will do the proceedings of PBML.
+(PERSON7) Yes, so but so you want to say, like, if someone does it earlier, so they can send it to the Interspeech.
+(PERSON3) Yeah.
+(PERSON7) Oh, okay, okay. 
+But uh that will be a total surprise thing, not  -
+(PERSON3) Yes.
+(PERSON7) Okay.
+(PERSON3) So it is then from the outside -
+<parallel_talk/> 
+From the outside it will be just a coincidence that, like in the in Interspeech they are presenting this.
+And at the satellite event they are listed as a participant in the shared tasks.
+And in the overview paper for the shared task, we are citing the Interspeech paper and not the PBML paper in the PBML proceedings.
+(PERSON7) Mhm.
+(PERSON3) And the same applies to SIGDial.
+(PERSON7) Yes, yes.
+Uh I, I think, uh it may make a bit complicated.
+Because uh we won't know uh the result of the Interspeech uh satellite event until March fifteen.
+By that time, the Interspeech deadline would already be there.
+(PERSON3) Um, ah, that's- 
+I hope that we will know.
+But, ah, but obviously, yeah, we need not -
+Maybe they will be late.
+So, maybe we will tell us only so so late.
+(PERSON7) Yeah.
+(PERSON3) But then, ah, okay, then never mind if if someone is working on the thing for, ah, for years, ah.
+Then he can do it in in the two weeks until the March deadline.
+And if someone is not working on that, then he will have the deadline for our PBML.
+Like I I don't see any big problem there.
+(PERSON7) Okay, okay, so uh -
+So the thing is like only right now we have to like prepare the proposal for both.
+(PERSON3) Yeah. 
+But the the one for Interspeech is the preferred one, in our case.
+(PERSON7) Because we have to submit it soon.
+(PERSON3) Yeah.
+(PERSON7) Because of the portal is already active.
+And uh, as the year said, that they would need at least one month for the
+<parallel_talk/>
+in Dortmund?
+(PERSON3) Okay.
+(PERSON7) And then, and then after (?) in Dortmund we have to send it by February twenty eight to them.
+(PERSON3) Mhm.
+(PERSON7) And then they will do another round of division.
+(PERSON3) Yeah.
+Yeah, so let's eh okay.
+So eh eh it's eh we need to apply for the [ORGANIZATION7] membership.
+And eh eh am I'm afraid that you cannot do it -
+Well, maybe Misis [PERSON9] could do it like for you.
+Because, ah, so it's probably bound to a person who is who is a member, a person or an institution?
+(PERSON7) An institution can take or a person can take.
+So for th eperson it si very less, for student.
+(PERSON3) Mhm.
+(PERSON7) It is just twenty euros.
+So - 
+(PERSON3) Okay.
+(PERSON7) So I I can do that yeah.
+(PERSON3) But the question is whether this would be sufficient for them, or whether they would need the institutional eh -
+(PERSON7) Ah, oh, I don't think like uh it is required institution.
+Because once you have the logging ID and password you can submit.
+(PERSON3) Okay, 
+(PERSON7) You can submit the author proposal, yeah.
+(PERSON3) But they will probably consider it differently if it's submitted from -
+I I don't know, maybe maybe you had that person responding.
+So double check with them if a student eh price would be a eh student registration for [ORGANIZATION7] would be okay.
+And uh, or whether we should do the uh, the institutional one.
+And uh also, is it annual?
+So, is it like for twenty twenty and then separately for twenty twenty one?
+Or is it for a year.
+(PERSON7) Oh I think it will be for three sixty five days.
+(PERSON3) Okay, yeah.
+So in that that case, I think - 
+And how much is the institutional? 
+(PERSON7) It's eh it's for for package it's to fourty euros.
+(PERSON3) Eh s- sorry s- say again.
+Fourty.
+Four zero.
+(PERSON7) Two hundred fourty euros.
+Two hundred fourty euros.
+(PERSON3) Two hundred fourty.
+(PERSON7) Two four zero, yes.
+(PERSON3) Two four zero versus just twenty.
+(PERSON7) Yes.
+(PERSON3) Yeah, that's a big difference.
+<laugh/>
+(PERSON7) Yes.
+(PERSON3) Um.
+(PERSON7) Yes.
+(PERSON3) Yeah, so let's let's try t- yeah the student one.
+ <laugh/>
+Right?
+(PERSON7) Okay.
+Okay I was just I was just asking that eh - 
+(PERSON3) Yeah -
+(PERSON7) Like we eh uh -
+(PERSON3) It's best to ask.
+(PERSON7) To I was just mention that we have only one membership.
+So if it's required that all the organizations have a member ship or not.
+(PERSON3) And in that case, the institutional is better, probably.
+Because the institutional is, I assume, that the institutional is kind of like for five researchers and two students.
+Or something like that, already.
+If you have the institutional one, you don't - 
+(PERSON7) Eh -
+Yes, if you have the institutional one, then you don't need that separate uh thing.
+(PERSON3) Yeah.
+(PERSON7) So eh for full mem- so full member regular rate is one year is sixty euros.
+(PERSON3) Mhm.
+(PERSON7) And for a student member for one year, it is twenty euros.
+(PERSON3) Yeah.
+So - 
+(PERSON7) And for institutional member package A it is two fourty euros for one year.
+(PERSON3) Yeah, so that corresponds to four members from the institution.
+So that's like that's eh w- without knowing these numbers, I said, it's like for four researchers and and two students.
+So  <laugh/>these two students are for free.
+So that's like I made the estimate exactly correct.
+So  <laugh/>,yeah.
+So the best thing is to eh ask also [PERSON1] eh and eh -
+So thi- this entitles people to attend Interspeech as well, right?
+No, ob-  obviously it is not not the conference fee, but it is a reduced conference fee, then.
+Right?
+(PERSON7) Like one one to -
+If one has the membership for [ORGANIZATION7].
+Yeah, they will have some, some discount at the Interspeech conference.
+(PERSON3) Yeah, so I, I suggest that, you email [PERSON1] and ask him, what is preferred for the department.
+If we should go for the institutional one, or if we should eh, go to eh - 
+Because there are more people possibly.
+Ah, also [PERSON2] or these these are the speech people kind of.
+So it does make, it can easily make sense to um eh, do the institutional in- eh registration anyway.
+(PERSON7) Okay.
+So so who should I ask I didn't get it.
+(PERSON3) Yeah, so yeah well.
+I would say I would in general ask [PERSON1].
+[PERSON1] at [ORGANIZATION5].
+Because he is the former head of the department, and also, he knows about all the projects who are here.
+So he would have an estimate like how many people could possibly be interested in taking part in Interspeech.
+(PERSON7) Okay, okay, uh.
+But uh I'm not really sure that if one has a [ORGANIZATION7] membership, they will get reduced fee sessions at Interspeech.
+So that I'm not sure.
+(PERSON3) And can we check from past eh Interspeech conferences?
+(PERSON7) Okay, okay that I can do.
+(PERSON3) And also SIGDial is also [ORGANIZATION7] and [ORGANIZATION3].
+So it's either or like et- 
+That means that the registration for [ORGANIZATION7] is also probably sufficient for SIGDial application.
+(PERSON7) Yes, yes, oh, oh, okay, I saw.
+So they have reduced fee for Interspeech, yeah.
+(PERSON3) Yeah.
+So please - 
+(PERSON7) Once you have the [ORGANIZATION7] membership.
+(PERSON3) Please put these numbers, the student versus non-student to the email eh eh to [PERSON1], so he like sees the the differences.
+And he would have an estimate like how many people potentially could take part in Interspeech.
+(PERSON7) Okay, okay, mhm.
+(PERSON3) Yeah, so that's yeah.
+I think we were all said.
+This is yeah, this is all all clear at the moment, at least to me.
+ <laugh/>
+(PERSON7) Yes.
+And now, like so since we would start preparing for uh this eh proposal, we have to the major thing that we need to is -
+Make our scientific eh committee like we have to now reach out to people.
+(PERSON3) Yeah.
+(PERSON7) Very quickly, and prepare the website, and uh like prepare the call for papers on the website, like make up website and uh do all this stuff.
+So yes.
+(PERSON3) Yeah.
+So when creating the the website, it's best if you email eh [PERSON5] so it is PTAL email at privetly.
+(PERSON7) Can you like write in that doc maybe?
+(PERSON3) Yes.
+(PERSON7) Yeah it will be better.
+I put it at the very top.
+So, ah, oh, I'll make it.
+Oh, I ca- can only suggest  <laugh/>
+Never mind.
+Contacts sorry, contacts for preparation.
+Um so [PERSON1] and eh oh ask for preferred type of membership.
+Eh give numbers to ALST meeting.
+How much we will save eh waste by institutional one.
+And [PERSON5] at [ORGANIZATION5] and always carbon copy me.
+Eh ask for the best set up of eh web page eh.
+Before that browse for some of the projects that we already have.
+So, for example, [ORGANIZATION5] [ORGANIZATION4] eh [ORGANIZATION8] CZ in the visual genome.
+So this is something like eh eh as a sample project.
+And eh eh [PERSON3] suggests eh [ORGANIZATION5] [ORGANIZATION4] [ORGANIZATION8] CZ [PROJECT1] minuting.
+Yeah.
+Okay, so I think this is also clear.
+Eh and then I'm thanks to [PERSON6] for the evaluation.
+Had so have you seen the outputs of the of the extraction of key words that [PERSON6] ran?
+(PERSON6) I discussed with them.
+(PERSON7) Not yet.
+(PERSON6) But they they did not see it.
+(PERSON3) Yes, so  <laugh/>
+It it was just y- yeah, it's it's better to see like  <laugh/>
+(PERSON6) Yeah,  <laugh/>
+So actually [PERSON8] has given some eh - 
+(PERSON3) I haven't opened them yet.
+(PERSON6) <parallel_talk/>
+(PERSON3) I haven't opened that yet.
+Have you?
+(PERSON6) So I'll try that.
+I think that's (?)
+(PERSON3) How come that it works for eh how come that it works for eh for [PERSON8]?
+Is it TFIDF based on our collection?
+So that it is m- m- like that that -
+(PERSON6) No no no.
+No, so it is eh it is like eh I haven't run it so -
+But the dictionary is not all based on our corpus.
+That is something which I saw.
+(PERSON3) Yeah, so it would be good to learn from [PERSON8].
+How come that it works, or wh- what they do.
+And it's good to have reasonable baselines.
+(PERSON6) Mhm.
+(PERSON3) So this is exactly the thing that we wanted from eh from Arion for quite a while, and we never got it.
+It was not the like when, when [PERSON4] asked for that.
+It was not the first time that I asked for for -
+(PERSON6) I'll do that.
+(PERSON3) Yeah.
+(PERSON7) So I can see, okay -
+(PERSON3) Can you share if if you are opening the [PERSON8] outputs, can you can you share that please?
+(PERSON6) Yeah, so this is something we did notice very early.
+<laugh/>
+Yeah, so this is -
+No, I haven't tried the [PERSON8] outputs.
+He has just shared his code, so that needs to be applied on our data.
+(PERSON3) Oh, so you haven't -
+I thought that he sent the outputs.
+(PERSON6) No, he did only send the code.
+He did send the code, not outputs.
+(PERSON3) But he said, that it's that the output is decent.
+(PERSON6) Yeah, he said so.
+He claimed, but ah, he hasn't any snapshot or no results.
+Something isn't there.
+So I need to run it.
+We need to run this code on our data to see how it performs.
+(PERSON3) Yeah.
+(PERSON6) So this is something already we noticed very early.
+I did when eh - 
+When I just started, I did notice that the most frequent words, which are like, mm hello, can you hear me something like those words are something extracted from the meeting data.
+So that's the maximum probability words which are most occurring words are mostly fetched by eh all these lexical methods.
+(PERSON3) Yeah, okay, yeah.
+So please, please run it yourself as well.
+Because he said, I ran it on some of the meetings, and the results are decent.
+(PERSON6) Yeah.
+(PERSON3) So -
+(PERSON6) Yeah so 
+ <parallel_talk/>
+(PERSON3) Check it if it's decent.
+(PERSON6) So so let's check.
+(PERSON3) Because what what we got from the
+(PERSON6) Yeah.
+(PERSON3) From the KER (at linda) that's not decent.
+<laugh/>
+(PERSON6) Yeah, so let's yeah, it's let's check if if they are.
+Otherwise, I'll contact [PERSON8] if he has run on our data.
+(PERSON3) Yeah.
+(PERSON6) Because that's our meeting data.
+I think he has run out our data.
+(PERSON3) Mhm.
+So I will check with him.
+Yeah, okay, so that's probably everything from me at the moment.
+I'm now opening the document by [PERSON6] the progress report.
+See any changes.
+What is interesting?
+So while we have resolved the comments of [PERSON6]. 
+Is the correct that you, for both the evaluation and also for the automatic summarization the methods you mention.
+Can you easily run them right?
+Like, birdsome or or  or -
+(PERSON6) Yeah, so actually, ah, most of the codes.
+(PERSON3) Mhm.
+(PERSON6) Yeah, actually they are already there in one paper eh implemented.
+(PERSON3) Okay.
+(PERSON6) So that's not much to implement, because that's just running their own code.
+So -
+Yeah, but eh h- but have you done it.
+I I like know it should be very simple, but it's often take some time.
+Yes, yes, yes.
+Yeah [PERSON7] also has implemented it.
+So we-
+We both have it.
+(PERSON3) So can eh maybe can [PERSON7] share his screen, like, what is the current -
+Eh, what is on your work bench, so to say.
+What what you can immediately use for eh either meeting summarization itself, or the evaluation of of that.
+What what you can do, can you can you share it on your screen?
+(PERSON7) For the you're asking for the metrics, right?
+(PERSON3) Either metrics or the summarization itself, whatever you have.
+(PERSON7) Okay, okay.
+Yes, so I shared that few eh weeks back.
+Eh -
+(PERSON3) Mhm.
+(PERSON7) About the metrics.
+(PERSON6) Yeah you have the document prepared now, yeah.
+Just -
+(PERSON7) Okay, just let me share again.
+(PERSON6) I think [PERSON3] you already had a look yeah.
+(PERSON3) Did I?
+(PERSON6) With [PERSON4] I think.
+[PERSON4] did show you.
+(PERSON3) Okay, that I don't remember that.
+It's possible.
+<laugh/>
+(PERSON6) Yeah, [PERSON4] [PERSON4] metioned  <laugh/>
+So I have better extracted summaries, actually, I will send them in the same email.
+(PERSON3) Yeah, okay.
+(PERSON6) So, ah, so better than TED ID, much better.
+So that can maybe act as a baseline.
+(PERSON3) Mhm, yeah.
+And eh well, I don't see [PERSON10] on this call.
+Are you in touch with [PERSON10]?
+Is he attending eh most of these calls, or or not?
+Or is he working separately?
+(PERSON4) No, he is not attending.
+(PERSON3) Okay and is he working on the anonymization?
+(PERSON4) Uh, last time he sent me something, then he er developed it somehow.
+So I don't know.
+(PERSON3) Yeah, so that is important, because eh it's the time is is, ah, ah, harsh.
+We really need to have quite a bit of the data available in January.
+And all the data that we want available in in March.
+But between that, we need to show it to the people for the second round of consents.
+So eh this is very, very important, so eh that we give people some time to browse the data.
+(PERSON4) Mhm, yes, I will write him.
+(PERSON3) Yeah, so that's like be be in touch with him, and and he should have access to all the data that we have transcribed.
+So it's ehm eh so far the data has been processed only by you and your people.
+So you were giving it to to the people, and you knew what is in which state.
+Eh but now the data also has to go to the anonymisation.
+And that should be done as benchwise -
+(PERSON4) Yeah 
+(PERSON3) As possible.
+So that the same style of anonymisation is applied everywhere.
+(PERSON4) I know already.
+He sent me something about three weeks ago.
+(PERSON3) Uhm.
+(PERSON4) Of extracted named entities.
+(PERSON3) Mhm.
+(PERSON4) And today he said he had some discussion with you, and he understood that he should change it somehow.
+And I make it better.
+(PERSON3) Today?
+He said that?
+(PERSON4) No, no, no.
+Three weeks ago.
+(PERSON3) Three weeks ago.
+Yeah yeah, okay.
+(PERSON4) And eh that sh- he would send another table and probably sent.
+I should check it, probably.
+(PERSON3) Mhm.
+(PERSON7) Okay, so I have shared the evaluation metrics that was run on one of our um like dry run minuting data.
+And so basically, we have now like lots of evaluation metrics from which we can choose.
+(PERSON3) Mhm.
+(PERSON7) Eh eh yeah.
+So and there are lots of results.
+If if if I was preparing the other documents, which would look better.
+It is some kind of messy now.
+Because there is so much information right here.
+(PERSON3) Yeah.
+(PERSON7) So I'm not -
+(PERSON6) But eh -
+One thing which [PERSON3] I came across was that we don't have anything called as gold standard.
+So everyone in the building automatic metric, they have something called as go- comparing eh their generated minutes with the gold standard minutes.
+(PERSON3) Mhm.
+So possibly for, eh like, preparing our own -
+If you, if you talk about preparing our own automatic metric.
+We have to eh see to something which is without reference.
+Whi- which is like without gold reference.
+Mhm.
+(PERSON6) So that's what I had in my mind that because we don't have anything which is gold standard.
+And oh, it is all made by annotators.
+So if we can consider any of them gold standard.
+(PERSON3) Yes, that's what what we can do.
+So we can split, and we have to do that anyway.
+We have to have the meetings split into the training part, the development part and the ah, ah and the final test part.
+And ah, this is something that has to be done, like immediately after we have the data anonymized.
+And then ehm the gold standard eh is available for all the training data and for the development eh set.
+And we will have it, or we have it, but we will not disclose it eh eh for that as well.
+So that's the gold standard.
+We will choose eh eh if we have more meetings mor- more minutes for a single meeting, we will choose just one.
+Or we can even have two gold standard.
+That that's also OK.
+There can be multi reference metrics.
+So  -
+(PERSON6) So that means the one which originated by anotators is the gold standard one?
+(PERSON3) Yes, yeah, yeah.
+(PERSON6) Mhm.
+Okay.
+(PERSON3) So I thought, yeah, uh [PERSON7], please go ahead.
+(PERSON7) Yes, so so uh like all these uh metrics are well and fine running, although I must say I don't know much about them.
+I look few like I've started writing a doc about the discussion of each of them after reading the papers.
+So uh but these are all running, so - 
+(PERSON3) Okay.
+(PERSON7) Any of them, we can like choose, yeah.
+(PERSON3) Yeah, that that's great.
+(PERSON7) So eh mhm so there are some semantic level metrics, like bird score and sentence mover similarity.
+So that was also there in the proposal, like we keep at least two lexical and two semantic level metric.
+(PERSON3) Yeah.
+(PERSON7) So that we can just do submission from both end.
+So yes,  <laugh/> so this is very messy, but I will prepare the like eh like like the (?) set of metrics uh like from the roots.
+We can just take the roots position for one, two, three, and then eh then also we can see the dataset metric.
+Where there are many other metrics, like overage, a density compassion ratio.
+So we don't need all of them.
+I will prepare at least like eh those which are easily understandable from this.
+(PERSON3) Mhm.
+(PERSON7) And I will I will I will send it to you with my comments.
+(PERSON3) Yeah, okay.
+(PERSON7) So one thing that I noticed, one thing that I noticed is like we took minute five, like in the dry event that minute five was the best performing one.
+Like according to all of us.
+And then and then it was meeting two, I guess.
+Ah, sorry meeting one and two.
+Eh so you can also see that um, usually for these two uh minutes, the score is higher.
+Eh - 
+(PERSON3) But eh the score against what?
+What is for the the scores are reference based.
+(PERSON7) According to the minute, minute five.
+(PERSON3) Okay, so you take minute you take minute five as the gold standard.
+And then, like you meassure minute one and minute two against a minute five.
+(PERSON7) Yes, yes, so I did it for all all the minutes, yeah.
+(PERSON3) Mhm.
+(PERSON7) That is usually, so I consider that other minutes are like submitted by our participants.
+And minute five result is the gold standard we have.
+(PERSON3) We will trully know which of the methods work best when we have the true submissions.
+So you can now use the that's what [PERSON6] mentioned.
+So [PERSON6], which of the summarization methods you have implemented.
+Can you run them?
+(PERSON6)  <parallel_talk/>
+Yeah, so can I share my screen.
+I think I have opened (?) I did on my machine.
+(PERSON3)  <parallel_talk/>
+(PERSON6) I just start.
+(PERSON3) I need to allow everybody to share their screen so that.
+How do I get away of this chat.
+[PERSON6], may closed.
+[PERSON6] guest may closed.
+(PERSON6) Hello.
+(PERSON3) And you need to mute yourself on one of the two devices.
+Yeah, okay.
+(PERSON7) So what we are currently also doing is that we are doing the same (?) evaluation of two other um uh meetings.
+(PERSON3) Uhm.
+(PERSON7) And we have created the minutes, and I'm still (?) behind it one of those, but I will do this by weekend.
+And then I will also like put the evaluation of all these three in one doc.
+(PERSON3) Mhm.
+(PERSON7) It would be easier for us to understand that what is a general train for the metric.
+(PERSON3) Yeah, so - 
+So can you eh start eh wrapping of lines in this editor?
+Or maybe, so [PERSON6], can can you exit this and open in VI instead?
+Or this control ex.
+[PERSON6], hello.
+[PERSON6], can you hear me?
+Hey [PERSON6] <laugh/>
+She is sharing and she doesn't hear anything.
+(PERSON6) Can you hear me?
+(PERSON3) You heard twice.
+So you need to mute you need to turn off the speakers eh, on the on machine, yes.
+Okay?
+(PERSON6) Okay.
+(PERSON3) So now that's good your your machine, your desktop will provide the screen and your eh Iphone will provide the sound.
+(PERSON6) Yeah,so -
+(PERSON3) Can you please can you please close this in in nano and instead open it in less?
+Or VI or VIM? 
+VIM
+(PERSON6) I usually use eh na- nano.
+(PERSON3) I I'll tell you how exit VIM.
+ <laugh/>
+(PERSON6) Okay, it is a long time when I used to use VIM.
+(PERSON3) You really should should take eh use VIM.
+Because now you will you will learn immediately that, for example, the outputs contain this bite or their mark, this F, E, F, F.
+So VIM reveals much more about the eh, the text files then the nano.
+(PERSON6) Yes.
+(PERSON3) So it's different, because then less of mess is left accidentally in the files.
+So, yes, what can I see.
+Hello everybody, hi good morning.
+<talking_to_self/>
+Mhm.
+(PERSON6)  <laugh/>
+(PERSON3) <talking_to_self/>
+Another language <laugh/>
+Oh, so this is for the whole eh eh for how long was the original session?
+(PERSON6) Ah can I open that meeting?
+Ah, I think I have it on my desktop.
+Ah, just a second.
+Um, yeah, this is the meeting.
+Here we have eh - 
+(PERSON3) Yeah.
+(PERSON6) I think it was one hour long.
+(PERSON3) Oh, and it produced these short summaries.
+(PERSON6) Yeah.
+(PERSON3) Then obviously a lot of content is, eh, is eh lost?
+It's not it's not in the summary.
+(PERSON6) Yes.
+So at least I think that's better than the like it's like baseline like better than extracting some.
+So this is actually extracting.
+So - 
+(PERSON3) Yeah.
+(PERSON6) We cannot expect much to, but still the highest probability sentences are not good, like they are not important to us.
+(PERSON3) Yeah, not important.
+<parallel_talk/>
+(PERSON6) Yes, this is [PERSON3] from the paper recent [ORGANIZATION3] paper.
+(PERSON3) Mhm.
+(PERSON6) And eh ATM net and so this is this is something I've just implemented that paper.
+(PERSON3) Okay.
+(PERSON7) So [PERSON6] is it -
+(PERSON3) And the paper -
+<parallel_talk/>
+(PERSON7) a superb?
+(PERSON6) No no <parallel_talk/>
+(PERSON3) So does the paper also provide their code or they don't provide the code.
+(PERSON6) Eeeeh 
+(PERSON3) You had to implement it yourself?
+(PERSON6) Ah, yes.
+(PERSON3) So could you also please get in touch with the authors of the paper.
+Just send them an email and say, I would like to test your eh your system on our summaries.
+(PERSON6) Mhm.
+(PERSON3) And I re-implemented but I would like to double check if I got it right.
+So ah either eh that they send you their input data so that you run it.
+And you compare the outputs with their outputs.
+Or that eh like eh but this is eh because this is non- ah not anonymised yet.
+That you would do like a test probe with only one of the meetings.
+And carefully select one which contains only the project internal people.
+Ideally only us, then eh eh and eh eh send it to them so that they run it.
+Eh and eh the the question is whether your implementation eh delivers the same results as their implementation.
+(PERSON6) Mhm.
+(PERSON3) And it's it's very unlikely that it will be the same outputs actually.
+So ehm by this contact, you will first validate whether your implementation is is correct.
+Eh eh and second, you will kind of tell them, and in- halfway invite them for the shared task as well.
+So this is also like a side goal that I have there.
+(PERSON6) Mm.
+(PERSON3) So please contact them for sure eh and try to use that eh because they are now actively working in the field.
+So hopefully they will they will see how difficult our data is.
+And and what do you.
+W- what they can do with that.
+(PERSON6) So they have actually one person, I think that is a PhD student
+And he is working he has lots of papers into meeting summarization.
+(PERSON3) Yeah.
+(PERSON6) So 
+(PERSON3) Yeah, yeah.
+(PERSON6) So I think  we can -
+<parallel_talk/>
+(PERSON3) We'll definitely 
+<parallel_talk/>
+(PERSON6) Yeah.
+(PERSON3) So just keep me in the copy and yeah.
+So that's it's very common that you learn a lot by replicating trying to replicate someone's paper.
+And and vice versa, like he learns a lot about his own paper when, when someone replicates it.
+Because there are many decisions that are never written in the paper.
+And you made them and he or she has made them differently.
+So eh by it's it's also eh like eh sometimes you get a better score by by the bugs that you have in your code.
+And sometimes you get a worse score b- eh
+(PERSON6) Yeah.
+(PERSON3) So it's it's important two very useful to have two implementations and compare their outputs, and then discover the bugs in each of the eh the implementations.
+Yeah, ah, I'm sorry I'll have to leave for the other meeting now.
+But ah, well, ah, you can continue discussing.
+I think, we are all said, so, this is this is good.
+We have something.
+It is not doing the the summarization as we want, but it is doing something.
+Ah, so p- p- yeah, please working on that.
+I s- I nice to see [PERSON4] here even with the the family.
+<laugh/>
+(PERSON3) So, eh so please make sure that we make a timeline for the data preparation and share it with [PERSON10].
+So that and [PERSON7]- [PERSON7] so that like for every file we know by when it should be processed to what level.
+<another_language/>
+So that eh for every file or every set of files, we know by when it should be processed to what level.
+And that we can check whether we are on track.
+So the timeline is very important.
+So some files which are still without the transcripts, they will probably not make it to the release.
+Some files which already do have transcript, but are not anonymised they they should get it get in there.
+So please please add columns 
+<parallel_talk/>
+(PERSON4) So it's not a pro-
+So it's quite clear result.
+(PERSON3) Yeah.
+(PERSON4) It's unclear for me at the moment with the dates.
+So we should either set it with [PERSON7] I think -
+(PERSON3) Yes.
+Make a timeline.
+<parallel_talk/>
+(PERSON4) And how many steps?
+So what are the steps?
+(PERSON3) Yeah.
+Anonymise eh -
+<parallel_talk/>
+(PERSON4) What is not clear for me at the moment.
+(PERSON3) Anonymise, eh with [PERSON7] and [PERSON10].
+Anonymise with the help of annotators.
+And then show eh for the second consent.
+(PERSON4) So once it should go through some [PERSON10] programme and then get back to me.
+And I should give it back to annotators.
+(PERSON3) Kind of, yes.
+<parallel_talk/>
+But discussed the details with [PERSON10].
+It's not eh, straightforward.
+Because it's - 
+(PERSON4) Uuuuh.
+So it's eh -
+(PERSON3) Yeah.
+(PERSON4) It seems to be q- big way to go.
+And once more we already have quite a lot of alignments.
+Eh but (?) rather discuss it with [PERSON7] later.
+(PERSON3) Yes, so the alignments are like eh they're useful for the evaluation.
+they are not so important for the anonymization.
+But for the release - 
+(PERSON4) Yes.
+So they're eh the alignments are less important for the participants.
+They're less important for the eh for the January and March release.
+Yes, for this tasks they are not, yeah.
+(PERSON3) Yes but we need the data sooner eh so we need to eh anonymise and publish them in time.
+(PERSON4) Yes, so we do not release eh at all any eh alignments.
+They will we will just use it for evaluation.
+(PERSON3) If we have them, it's better, it's nicer to release them.
+(PERSON4) Okay.
+<parallel_talk/>
+It's not so that's not decided now.
+It's rather - 
+(PERSON3) Yeah
+Okay, yeah.
+So great.
+Thanks for talking to you and now I'll now make [PERSON4] eh the -
+(PERSON4) I think we can finish now just -
+(PERSON3) Well -
+(PERSON4) [PERSON3] disappears.
+<laugh/>
+(PERSON6) I think [PERSON3]
+<parallel_talk/>
+<parallel_talk/>
+(PERSON4) He's just disappeared.
+(PERSON7) <parallel_talk/>
+(PERSON3) So that was a mistake.
+Sorry, I I did not <parallel_talk/>
+I didn't mean to disappear.
+<laugh/>
+(PERSON3) So is some of you, the host?
+(PERSON4) Eh I think we can finish it.
+Just say good by and -
+(PERSON3) Yeah, s-well but discuss with [PERSON7] and [PERSON10] as well.
+So yes, thank bye bye.
+(PERSON4) Bye bye.
+(PERSON7) Okay, bye

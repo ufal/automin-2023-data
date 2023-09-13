@@ -1,0 +1,70 @@
+\n- Takže jako to ještě jde nějak napsat líp, ale jako já už jsem to napsal, takže já už to asi nezměním.\n
+
+- Tomáš a Rudolf se pozdravili
+- David se omluvil, že nestihl přečíst to, co Rudolf napsal
+- Rudolf udělal skoro všechno, co měl
+- Potřebuje ještě probrat některé komentáře od Jindřicha
+- Má nějaké komentáře od Tomáše, které ještě neudělal
+- David četl Rudovu část a neviděl v ní žádné chyby
+- Chybí tam obrázky, které by mohl přidat
+- Tomáš neví proč by měl číst Rudu místo Belingova
+- Rudolf má svou část hotovou, ale může ji ještě vylepšit
+- David chce rychle dokončit a poslat recenzentům
+\n
+
+- Ruda PERSON1 má tři články, které chce nějak oříznout a přepsat, aby to bylo lépe.
+- Tomáš PERSON2 nemá nic napsaného na knize, ale na mítingu startu a řešení zápočťáků.
+- David PERSON3 má kapitolu, která ještě není anglicky a komentáře k ní ještě nedodělal.
+- Belingov PERSON4 má hlavní problém, že knížka se musí rychle dodělat, aby nebyla zastaralá.
+- Ruda PERSON1, Tomáš PERSON2 a David PERSON3 musí dodělat své části knížky do konce září.
+\n(R) - Protože je mrtvá.\n
+
+- Tomáš se ptal co dělal v pátek, ale naposledy do knihy komitoval v úterý.
+- Tomáš se od čtvrtka k tomu nedostal.
+- Některé věci visí už dlouho i bez toho, co se ve čtvrtek dohodli.
+- Jindřich se zeptal na názor na sumarizaci, kterou napsal.
+- Sumarizace je shrnutí úvodní věty, rozebírání otázek, které se v knize neřeší a závěrečná věta o ultimátních cílech lingvistiky.
+- Samery je čeptr s hvězdičkou a aftr vrds je pripejs.
+- Definice samery je v elesdé buks na řádce 855.
+- Rudo založí samery a do něj zkopíruje první odstavec z původního textu.
+\n(D) - No já myslím, že je to globální nastavení.\n- Takže.\n- Takže to je asi všechno.
+
+- Setkání se zúčastnili Ruda, Tomáš a David.
+- Projednávali se typografické věci, jako například citace slov z příkladu, čárky a uvozovky.
+- Ruda a David se zabývali nastavením Gramerly.
+- Tomáš se zaměřil na smazání slova syntu z poslední věty.
+- Diskutovalo se o tom, zda mají být použity britské nebo americké anglické styly.
+- Tomáš se zavázal, že do konce září dokončí projekt.
+- Na závěr se zeptal, zda má někdo další dotazy.
+\n
+
+- Projednávání stylu psaní vědecké publikace
+- Tomáš navrhl, aby se používala americká angličtina
+- Dohodli se, že se používá americká angličtina
+- Před se vždy píše čárka
+- Jindřich navrhl, aby se do rejstříku zařadily všechny zkratky
+- Jindřich navrhl, aby se k figurám psaly zkrácené názvy
+- Jindřich navrhl, aby se používal gloselíř i na pojmy, které nemají zkratku
+- Jindřich navrhl, aby se používalo slovo aftr vrd místo samery
+- Jindřich se podíval na komentáře v kapitole Rada
+- David a Tomáš navrhli, aby se udělal výcuc z konklůžnu
+\n(D) - Takže shrňme. Tomáš bude psát knihu, Ruda bude číst kapitoly, aby věděl o čem knížka je, Davide bude zařizovat recenzenty a všichni budou pracovat na abstraktu a samerych, aby byly dostatečně dlouhé.
+
+- Tomáš bude psát knihu.
+- Ruda bude číst kapitoly, aby věděl o čem knížka je.
+- Davide bude zařizovat recenzenty.
+- Všichni budou pracovat na abstraktu a samerych, aby byly dostatečně dlouhé.
+- Tomáš bude mít knihu hotovou do konce září.
+- Ruda bude mít čtení hotové do tejdne a do dne.
+- Davide bude chtít knihu odeslat recenzentům na konci září.
+- Setkání se zúčastnili PERSON1, PERSON2, PERSON3 a PERSON4.
+- Diskutovali o rozpoznávání koreference pro univerzal dipendencí.
+- PERSON3 měl otázku ohledně rozvržení předmětu.
+- PERSON4 navrhl, že by se mohlo vyučovat bez prezenční výuky.
+- PERSON1 se zmínil o tom, že pokud by se začalo vyučovat prezenčně, nebude čas předělat rozvrh.
+- PERSON2 se zmínil o tom, že v tabulce, kterou poslala bvh, nejsou zelenáči.
+- PERSON3 se zmínil o tom, že má jednu hodinu, protože je jedna plus jedna.
+- PERSON4 se zmínil o tom, že má špatně konec.
+- PERSON1 se zmínil o tom, že má dovolenou od pátku do středy.
+- PERSON2 se zmínil o tom, že má dovolenou od prvního října do patnáctého.
+- Setkání skončilo s tím, že se sejdou za týden a PERSON4 bude mít všechno napsané.

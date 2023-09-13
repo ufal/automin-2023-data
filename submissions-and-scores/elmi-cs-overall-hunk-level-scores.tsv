@@ -1,0 +1,5 @@
+team	A-mean	A-stdev	G-mean	G-stdev	F-mean	F-stdev	R-mean	R-stdev
+minutes_GENER_annot	4.81	0.59	4.36	0.87	4.81	0.59	4.34	0.84
+minutes_GENER_davinci003.txt	4.71	0.73	4.54	0.74	4.71	0.73	4.44	0.85
+minutes_GENER_gpt4.txt	4.84	0.56	4.77	0.57	4.84	0.56	4.68	0.56
+minutes_GENER_darbarer.txt	3.33	1.20	3.13	1.22	3.33	1.20	2.91	1.20

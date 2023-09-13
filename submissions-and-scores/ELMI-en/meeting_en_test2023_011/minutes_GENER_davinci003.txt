@@ -1,0 +1,26 @@
+- Project meeting discussed holidays and vacation plans
+- 21st and 28th of December meetings will be cancelled
+- Next meeting will be on January 4th
+- Partners are not bothering with paraphrasing or over integration
+- Deliverable to review is quality estimation
+- [PERSON1] asked to be bothered after New Year's for data collection
+- [PERSON5] has not received response from [ORGANIZATION1]
+- [PERSON7] will try to prepare baselines for multi-lingual multi-source translation
+
+(PERSON9) Yeah, yeah.
+
+- Person 5 and Person 7 discussed the progress of the multi-source task.
+- Person 9 is focused on the positive constraints and is preparing data for the negative constraints.
+- Person 2 is training the model for negative constraints and is using a Marion implementation.
+- Person 4 is focusing on the positive constraints and is doing data manipulation.
+- Person 9 is reprocessing the dataset and Person 2 noticed that it is being done 14000 times.
+- Person 9 is looking into the code to see why it is so slow.
+
+- Problem with speed identified and solution proposed
+- Analysis of (Marion) almost finished, outputs all attentional incoder decoder attentional weights
+- Need to figure out what to look for when analyzing the output
+- Deliverables from [PROJECT1] due on 21st, updates may come over Christmas break
+- [PROJECT2] is good and safe from their side
+- [PERSON8] reminded to submit deliverables before New Year's Eve
+- [PERSON6] reminded to stay for (outings)
+- Everyone wished a nice Christmas

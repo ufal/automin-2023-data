@@ -1,0 +1,43 @@
+- Person1 and Person2 discuss the progress of the second ASR (Automatic Speech Recognition) project, specifically the Czech ASR.
+- Person2 is currently focused on writing a paper for EMNLP, which is due in June, and needs to finish research before starting the paper.
+- Person1 offers to help with the project after June 10th, when their exams are finished.
+- They discuss using Flask, an HTTP server, to handle audio streams and text for multiple users at a time.
+- Person2 explains the need for a server that can receive a stream of audio and send back a stream of text, and suggests Flask as a possible solution.
+- They discuss the challenges of serving multiple users and scaling the ASR system.
+- Person1 agrees to look into Flask or another HTTP server solution after their exams.
+- They also discuss their experiences with various courses and assignments at their university, including data structures, deep learning, and Introduction to Computability and Complexity.
+- Person2 mentions the difficulty of some assignments in C++ and the lack of provided code or interfaces for certain tasks.
+- Person1 shares their experience with assignments in Deep Learning, noting that the professor is demanding but fair.
+- The project meeting discussed the ease of certain exams and the grading system.
+- They talked about working on automatic evaluation for compression and the correlation with BLEU (Bilingual Evaluation Understudy) scores.
+- The conversation touched on the challenges of low latency and translation quality in simultaneous translation.
+- They discussed the possibility of using COMET (Common Metric) for evaluation, but found it to have extremely low scores.
+- The meeting also covered the idea of isometric translation, which aims to match the length of the source language, and its potential use cases.
+- Meeting participants discussed the heat and lack of air conditioning in their offices.
+- The main topic was text compression and machine translation compression, with a focus on shortening translations.
+- They debated the usefulness of this approach for simultaneous translation and considered how much sentence length contributes to information preservation.
+- The discussion touched on language differences, such as German having specific words for certain concepts and longer words/sentences on average compared to English.
+- They also talked about the challenges of translating movies and matching the pace of different languages.
+- The conversation shifted to the potential use of shortening in low-latency models, with the paradox that more words might be needed for correctness.
+- There was a brief mention of organizing the IWLTS 2023 conference, but no decisions were made.
+- The group discussed the issues with retranslating systems, such as flickering and frequent updates of subtitles, and questioned their usefulness.
+- The project meeting discussed the idea of retranslating systems and whether they are useful or not.
+- Some team members believe that retranslating systems are not useful and can be annoying due to the flickering effect.
+- It was suggested that focusing on extreme low latency and forcing the model to output fluent translations might be a better approach.
+- The idea of having the model correct itself in a human-like manner was also discussed.
+- The team considered the balance between latency and quality, and how this might affect the user experience.
+- Some team members believe that retranslating systems might have been more useful in the past when the state of the art was different.
+- The idea of updating both ASR and MT hypotheses in live speech-to-text translation was discussed.
+- It was suggested that the model should translate in a safe and general way, then specify the translation with more context.
+- The team discussed how human translators recover from mistakes and finish sentences, rather than stopping and restarting.
+- Overall, the team seemed to lean towards the idea that retranslating systems may not be the best approach for their project.
+- The goal is to create a translation system that commits to translations without retranslation.
+- The system should focus on monotonization of sentences, not necessarily shortening them.
+- The ideal system would allow for translating prefixes of source sentences to create low latency.
+- The best approach for low latency is a monotonous translation system.
+- A paper on monotonous speech translation was presented at IWSLT this year, which can be found on the conference website.
+- The paper's system used a reordering network to reorder states and an output layer to match the reference.
+- The quality of the outputs is uncertain, but handpicked examples looked good.
+- The group agrees that focusing on retranslating systems is not the best approach for live speech translation.
+- The discussion was productive and generated various ideas for the project.
+- The group plans to meet again next week to continue the discussion.

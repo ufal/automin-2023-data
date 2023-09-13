@@ -1,0 +1,7 @@
+PERSON11 and PERSON13 discuss the upcoming events and the evaluation process for the ladder climbing and regular reports.
+They discuss the need for complementary metrics for the ASR and PROJEC210 domains, such as profanity filtering, rare words evaluation, and status per language pair.
+PERSON11 suggests using a multi-source tool to ship audio to multiple ASR or multiple workers and a language checker to merge the outputs.
+PERSON2 suggests asking PERSON3 to extract positive plus negative lists from domain documents and delay scores from the PROJECT3 test set.
+PERSON2 has done a lot of work for the end of the year and is happy with the tables that they have put into the tables.
+PERSON12 suggests having a call with PERSON8 and PERSON5 to compare the performance of the models using PROJECT1.
+PERSON9 is included in the call as a replacement for PERSON8.

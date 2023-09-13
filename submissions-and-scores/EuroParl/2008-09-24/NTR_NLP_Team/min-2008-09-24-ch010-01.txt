@@ -1,0 +1,9 @@
+Meeting KeyPoints:
+
+1.   Ovid’s PGP key size is a prime number and therefore harder to factor.
+2.   PGP uses Elliptic Curve Diffie-Hellman (ECDH) for key exchange and requires prime numbers for both party’s key sizes.
+3.   The 2048-bit PGP key size is more difficult to factor than the 256-bit symmetric key size. 
+4.   Public key systems are more secure than private key systems.
+- Amendments 2, 4, 5, 7, 8, 13, 15, 16, 20, 21, 32, 38, 41 (on the recitals) and amendments 43, 48, 51, 54, 55, 56, 60, 61, 63, 64, 65, 66, 68, 70, 72, 73, 77, 79, 88, 89, 90, 97, 100, 106, 110, 111, 112, 115, 116, 118, 129, 137,
+- "Yesterday the Commission had to propose new rules to tackle excessive charging for SMS and data roaming in the EU.  These proposals will provide a fast cure for one of the most visible symptoms of the lack of a single market in telecoms, from which both companies and consumers are suffering."
+- "Today, the European Parliament has gone an important step further by proposing to remedy the problem once and for all at its root:

@@ -1,0 +1,35 @@
+
+Attendees: [PERSON1], [PERSON2], [PERSON3], [PERSON5], [PERSON7], [PERSON8], [PERSON9] 
+Purpose of meeting: 
+
+
+
+- German transcriber working alone until 10th December.
+- [PERSON4]’s mother is subtitling German user study.
+- - [PERSON4] started writing deliverables.
+- [PERSON7] Added transcripts for 30 parts of German ASR.
+-- Remaining 10 parts’ audio is in a wrong format.  
+-- Will check the code and try to implement data shortening.
+- [PERSON8] will work on vocabulary expansion for Monday Seminar.
+- Test of playing two concurrent videos for [PROJECT2] will be run.
+- [PERSON3] will finish paragraph use presentations.
+- [PERSON3]  has issues compiling evaluations.
+- [PERSON8] mentiones issues with usage of generated pronounciation in dictionaries and suggests using peoples’ pronounciation instead.
+-- It will be converted into the format the CMU recognises.
+– The dictionaries will be cleansed of unnecessary data.
+— The dictionaries will contain known words from the language model.
+— ASR numbers will be collected and shared.
+— Decision which model to use will be made.
+— ASR workers will be compared based on their quality and latency.
+— No major differences were found in ASR workers performance regarding machine translation.
+— A test will be performed to distinguish which translation workers have the highest quality.
+— German ASR is being continuously saved at check points, so the language model training can be started.
+— A problem occurred with transcriptions of interpreted audios as the voice of the interpreter was audible in all audio files.
+-- SOX format will be used to convert the interpreted audio files.
+-- Next steps will be discussed with the annotator.
+– CMU dictionaries are public on Wikipedia.
+-- Some phonemes are inconvertible into graphemes and will be substituted with the nearest phonemes.
+-- The dictionary will be remaped.
+-- IPS will be converted into alphabet phonemes.
+
+Minutes submitted by: [ANNOTATOR31]

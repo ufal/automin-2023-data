@@ -1,0 +1,75 @@
+Date: 26.4.2022
+👥 Attendees: PERSON4, PERSON2, PERSON1, PERSON9, PERSON18, PERSON12, PERSON8, PERSON15
+
+
+🔷 Process of multilingual machine translations
+	🔹 [PERSON2] and [PERSON9] are in a meeting
+	💬 [PERSON2] wants to discuss their experience from running the sessions, the PROJET5 session that they had two or three weeks ago and their knowledge about the older systems
+	💬 They also want to discuss the status of the report of multilingual machine translations.
+
+🔷 Review of D 1.5
+	🔹 [PERSON2] is the reviewer of D 1.5
+	🔹 He will help [PERSON15], [PERSON17] and [PERSON8] to review it this week and push [PERSON5] to review the numbers within the next week
+	🔹 [PERSON2] wants to know how the training is going
+	🔹 There are some minor bugs with the ASR system.
+
+🔷 Preferences of the models
+	🔹 [PERSON2] and [PERSON18] want to know what to ask for in order to run all the models at the same time
+	🔹 They want the evaluation of the models to take place through the mediator
+
+
+🔷 Processing the sentences
+	🔹 The models are running as individual workers
+	🔹 The system doesn't do German to German
+	🔹 The workers are not designed to do better processing, so they receive sentences faster than they can process them
+	🔹 There are 16 workers
+	🔹 There is a fix to the text client, which allows it to run in real time mode
+
+
+🔷 Attention of the trade fair
+	🔹 [PERSON1] and [PERSON2] are going to attend the trade fair of the students companies in March
+	🔹 There will be the same competition as the previous one, but this time it will be over Zoom
+	🔹 The participants will have to take a headset to take part in it
+	🔹 The sessions are not ordered in in time
+	🔹 They will focus on the Clearest voice competition and the booth if they have to
+
+
+🔷 Writing and interprétation of the session
+	🔹 There will be no interpreters for this session
+	🔹 It will be run in the six official languages of organiser5 plus possibly Czech
+	🔹 There will be a conference on the survivors of Holocaust on the 25th of January
+	🔹 The premier of a computer-written theater play will be in Czech.
+
+🔷 Preparation of the test
+	🔹 [PERSON2] wants to make sure that the partners are ready and attend to the point
+	🔹 The bigger test sessions were the PROJET5 and [PROJECT4]
+	🔹 People need to be there at a quarter past eight to be able to record the important sessions
+
+
+🔷 Working on the project
+	🔹 [PERSON2] has been working on it for a long time with people from the theater in Prague and the result is going to be manually revised
+	💬 [PERSON4] had a brief discussion with [PERSON7] about it
+	💬 [PERSON2] and [PERSON4] will have a mid-January call to discuss the project.
+
+🔷 Working on a project
+	🔹 [PERSON2], [PERSON4] and [PERSON15] are working on a project
+	🔹 They need to provide two concurrent views for the online text flow, the paragraph view and the subtitle view
+	🔹 They also need to test the systems on paid hardware as a fallback solution for hardware issues.
+
+🔷 Working on translation project
+	🔹 [PERSON2] and [PERSON4] are working on a translation project
+	💬 They discuss the complexity of the project and how to improve it.
+
+🔷 Preparation of paper
+	🔹 [PERSON2] and [PERSON4] are trying to come up with a solution to the problem of automatically producing a speech interpretation corpus
+	🔹 They are going to prepare a paper with a particle experiment.
+
+🔷 Experiments on data augmentation
+	🔹 [PERSON2], [PERSON4], and [PERSON12] are planning an experiment on data augmentation for online translation
+	🔹 [PERSON2] will set up a doodle poll and they will start regular weekly calls
+	🔹 They will create a subteam within the project.
+
+🔷 [PERSON2] will get in touch with [PERSON16] to inform him about models
+	🔹 [PERSON2] will get in touch with [PERSON16] to inform him about MT models from English to Portuguese, Dutch, Croatian, Slovenian and Turkish.
+
+✍ Submitted by: Darbarer

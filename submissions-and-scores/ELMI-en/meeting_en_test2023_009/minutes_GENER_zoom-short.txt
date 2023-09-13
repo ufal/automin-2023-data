@@ -1,0 +1,5 @@
+PERSON10 and PERSON3 are discussing PERSON3's visa.
+They discuss the project they were working on during the holiday and the progress of the single set tadada project.
+PERSON3 suggests using data sets from ORGANIZATION2 websites to create dedicated data sets for comprehension linguistics and PERSON2 suggests using a Czech language conference to talk about how to define language domains.
+PERSON1 suggests sharing the link for the new paper with PERSON3, but PERSON5 is not sure where it is.
+They also discuss the deadlines for the NLP conferences, including the DEMO deadline on Friday the fifteenth of PERSON4uary and ACL deadline at the end of the month.

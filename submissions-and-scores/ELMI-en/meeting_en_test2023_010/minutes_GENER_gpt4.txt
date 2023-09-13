@@ -1,0 +1,24 @@
+- Person8 arrived in Iran and is using their phone for the meeting
+- Person1 is working on automating the Project1 dataset and dealing with different environments
+- Person7 suggests separating the processing and evaluation steps to parallelize the work
+- Person1 has some results but not for everything; Person7 requests a table with the current results
+- Person7 emphasizes the importance of parallelizing the work and re-running the evaluations quickly
+- Person1 will create a template for the table structure in the document
+- Person5 will start working on the evaluation of the systems after the meeting
+- Person7 reminds Person5 about the need to evaluate certain modules as soon as possible
+- The most important task right now is the evaluation of existing models.
+- Multi-source experiments are important but not urgent; they can be done later.
+- Focus on the evaluation of existing systems for both domain adaptation and multi-source tasks.
+- Meeting scheduled for tomorrow at 12 to discuss evaluation outcomes with PERSON1 and PERSON5.
+- Upcoming events include the Malach conference, domain adaptation, and student companies fair.
+- PERSON11 is learning about Kaldi models and should watch a video by PERSON3 and contact PERSON6 for more information.
+- PERSON8 and PERSON9 are working on index files for multi-lingual setups and are available for meetings to discuss any issues.
+- PERSON1 and PERSON5 are in contact with PERSON9 for SLTV and PROJECT1 test set integration.
+- PERSON8 will meet PERSON9 in person for a few days to discuss details about SLTV and other tasks.
+- Discussed evaluation process and division of tasks among team members
+- [PERSON1] will run systems and put output somewhere for [PERSON9] to access and continue evaluations
+- Discussed the need to cache outputs due to slow and heavy processes
+- [PERSON1] and [PERSON2] had a call to discuss the script and its workings
+- Next project meeting scheduled for January 7th
+- No Linguistic Monday seminar on December 21st, but one scheduled for January 4th
+- [PERSON7] needs to review CVs and plan meetings

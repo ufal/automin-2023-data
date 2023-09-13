@@ -1,0 +1,62 @@
+Meeting 028 CS
+Datum: Neznámé
+Seznam účastníků: [PERSON90], [PERSON85], [PERSON84]
+Důvod meetingu: Kontrola a opravy materiálů pro tisk knihy
+
+-Poděkování
+--Zatím poděkování jen grantu.
+--Vždycky se děkuje rodině, manželce aj.
+--Bývají problémy, když se děkuje i někomu jinému, než [ORGANIZATION31].
+--[ORGANIZATION112] to asi nevyžaduje.
+--[ORGANIZATION112] stačí správná afiliace.
+--Chybí afiliace.
+--[ORGANIZATION2] je na titulní stráně jako nakladatelství.
+--[PERSON120] děkuje spolupracovníkům a nakonec rodině.
+--[PERSON120] zmiňuje, že to vzniklo na [ORGANIZATION2].
+--Poděkování ústavu bude v acknowledgementech, tím bude jasný, že jsme z něj.
+--Reviewers se musí uvádět bez titulů.
+--Mohlo by být i poděkování recenzentům.
+
+-Barvy pro tisk
+--V dokumentu jsou zeleně citace.
+--Jestli je PDFko správně, tak bude elektronicky zelené, ale tiskne se to černě.
+--[PERSON90] zkoušel tisk, a byla modrá.
+
+-Barva obálky
+--Asi mohla být i jiná, než oranžová.
+--Je to vcelku jedno.
+
+-Poznámky z meetingu
+--Nejdřív se projde, co chybí, pak se zaměří na introduction.
+--Když se klikne na sekci tři tři dva na konci, tak to stejně skočí na abbreviations.
+
+-Afterword
+--K afterwordu nikdo neměl žádné komentáře.
+--Komentáře z afterwordu původně byly jinde.
+--Osmnátcého devátý okomentoval [PERSON415].
+
+-Zkratky
+--Nerozepisovat divné zkratky, rozepsat jen na začátku, týká se MBERT, BERT, ELMo, GloVe, GPT, BLEU.
+
+-Intro
+--Klidně by mohlo být podrobnější.
+
+-Resty účastníků meetingu
+--[PERSON84] má to nejdůležitější hotové, něco napsal na [ORGANIZATION16].
+
+-Vazba knihy
+--Počet stránek knihy musí být dělitelný šestnácti.
+--Jeden arch knihy je šestnáct stran.
+
+-Rozdělení práce
+--[PERSON85] dočte [PERSON90] kapitolu.
+--[PERSON85] s [PERSON84] projdou formulaci.
+--[PERSON90] má na starosti summary, [PERSON85] má introduction.
+--[PERSON65] má na starosti preface jedničku, dvojku a afterword.
+--[PERSON90] má na starosti pětku a summary.
+--[PERSON85] má na starosti intro a šestku.
+--[PERSON84] zkusí trojku a čtyřku víc rozepsat.
+--[PERSON418] by se měl vyndat ze šablony z důvodu úmrtí.
+
+
+Zápis vytvořila: [ANNOTATOR16]

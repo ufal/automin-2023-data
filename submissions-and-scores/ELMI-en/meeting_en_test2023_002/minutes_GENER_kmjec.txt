@@ -1,0 +1,17 @@
+PERSON2 is training the Czech ASR. He needs to write a paper on EMNLP, which is due in June. He is currently focusing on his research and writing the paper. (PERSON1) will help him with the second ASR after June 10th.
+PERSON2 has four 250 milliseconds for speech translation. He needs another 200 milliseconds to do the further logic for the model. He wants to create an HTTP client which can fill the queue, read from another queue and send the text back in an HTTP request. 
+PERSON1 is giving ICC this semester. They had to code data structures in C++ and Python. They also had to write their own code. 
+PERSON1 and PERSON2 are talking about their computer science courses. They both failed their courses.
+PERSON2 is working on automatic evaluation for compression. He's trying different inference strategies to get his model running online. The BLEU metric is highly correlated with othernoise COMET, but it's not good enough for his purposes. The COMET model needs a reference to
+(PERSON2) has found a data set on ?? phase. He is interested in trying to derive an automatic metric based on this data set. (PERSON7) does not speak German.
+PERSON2 and Dominik discuss the pros and cons of shortening and isometric translation.
+PERSON2 is in Paris for an internship. (PERSON7 is done with IWSLT.
+PERSON7 is working on a machine translation compression. The initial goal was to do it for online or for simultaneous translation, but now they are discussing with PERSON2 whether it is useful or not. German is famous for having a lot of words for lots of things, but also for having
+PERSON2 is translating TED talks from English to German. He doesn't want to do shortening as it is not useful for online speech translation. 
+PERSON2 explains to PERSON1 and PERSON7 how the translation system works. 
+PERSON7 thinks the retranslating system from PROJECT1 is not useful nowadays. (PERSON2) hates the idea. 
+(PERSON1) and (PERSON2) discuss the issue of flicker flickering in text translation. They discuss how the brain works with information. They also discuss the motivation behind retranslation.
+(PERSON1) and (PERSON2) discuss the pros and cons of speech to speech.
+The idea behind retranslating is that you have to guess, so you make a guess. If the guess is correct, then it's displayed immediately, whereas if it's not, then you wait for confirmed sentence. 
+PERSON1 and PERSON2 discuss the pros and cons of retranslating speech to text translation.
+(PERSON2) and (PERSON7) discuss monotonous speech translation as the best approach for low latency.

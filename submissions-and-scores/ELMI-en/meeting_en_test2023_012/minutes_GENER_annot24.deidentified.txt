@@ -1,0 +1,79 @@
+Virtual coffee hours
+Date: 11. 12. 2020
+Attendees: [PERSON27], [PERSON53], [PERSON7], [PERSON54]
+Purpose of meeting: ?
+
+-Keyword extraction.
+--TD ID was tested on the minutes.
+--The results were terrible.
+--The most occuring words were mhm, uhm, hello, laugh etc.
+--This problem would be included in the shared task.
+
+-Dates for SIGDial and Interspeech
+--Submission deadline for SIGDial is January 15th.
+---Notification will come in February.
+--Discussion which event to apply for.
+---It is a lot of hard work.
+--Papers for Interspeech will be prepared and if they are not approved, they will go to SIGDial.
+--The papers which fail for SIGDial will be sent to PBML.
+
+-[ORGANIZATION245] membership
+--It is necessary to apply for it.
+--The annual fee for student is 20 EUR.
+--The annual fee for institution is 240 EUR.
+--Full member fee is 60 EUR.
+--[PERSON96] and [PERSON134] should be contacted for information regarding fees and membership.
+
+-Website preparation.
+--[PERSON247] should be contacted.
+--Before that some of the old projects should be browsed to get an idea.
+
+-Extraction of keywords.
+--[PERSON29]  had worked on that as well with better results.
+--Results not provided, only the code.
+--It will be checked and [PERSON29] contacted.
+
+-Evaluation and automatic summarisation
+--The methods are running.
+--Results will be sent by email.
+
+-One team member´s work.
+--This team member does not attend meetings, is working individually on anonymization.
+--All the data must be available till March.
+
+-Gold standard is missing for comparing generated minutes.
+--The meetings will be split into the training part, development part and final test part.
+--One set of minutes will be stablished as a gold standard.
+
+-Screen of results of meeting evaluation was shared.
+--VIM should be used for that.
+--Very short summaries were produced, in fact this is extracting.
+--The team member shall contact the authors of the paper to send the input data.
+---It will be checked if the implementation is correct.
+---They will be at the same time invited for the shared task.
+---By this process both sides will learn some new information about their data/methods.
+
+-Next steps were discussed.
+--Make a timeline for the data preparation.
+--For every file or every set of files, we should know by when it should be processed to what level.
+--Anonymise data with the help of annotators and then show for the second consent.
+--Alignment is not so urgent at this moment.
+
+
+
+
+
+
+
+Minutes submitted by [ANNOTATOR19]
+
+
+
+
+
+
+
+
+
+
+

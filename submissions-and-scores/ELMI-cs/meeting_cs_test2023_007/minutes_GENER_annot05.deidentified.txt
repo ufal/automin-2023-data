@@ -1,0 +1,126 @@
+Zápis ze schůzky
+
+Datum schůzky: 25. 11. 2020
+
+Téma: Porada [ORGANIZATION16]
+Vedoucí schůzky: [PERSON7]
+Účastníci: [PERSON1], [PERSON2], [PERSON4], [PERSON8], [PERSON17], [PERSON25], [PERSON50], [PERSON18], [PERSON13], [PERSON12], [PERSON3], [PERSON24], [PERSON42], [PERSON51], [PERSON30], [PERSON19]
+
+
+
+- Jednání s [ORGANIZATION2]
+-- Sděleno, že se jedná o kompromisní řešení, regulativ splněn.
+-- Před podáním k vyjádření proběhne ještě jedna schůzka.
+-- Možnost pracovat s veřejným prostorem.
+-- Nechtějí přistoupit na zásadní připomínku.
+- Nová záložka Chat
+-- Lze použít k sestavení osnovy toho, co je potřeba probrat.
+- Od 1. prosince nový vedoucí [ORGANIZATION4]
+-- Bývalý vedoucí zůstává ve službě a bude se s ním i nadále spolupracovat.
+- Příští schůzka se bude týkat provozu kanceláře
+-- Konání: příští týden ve středu dopoledne.
+-- Schůzka pravděpodobně bude delší.
+- Vyjádření
+-- Je jich příliš velké množství a ne všechna jsou nutná.
+-- Každý může předložit návrh, jak je zredukovat, například použitím filtru.
+-- Podán námět na vytvoření filtru i pro vnitřní x vnější Prahu, zájmy se někde liší.
+-- Toto téma se bude řešit na příští schůzce.
+- [PROJECT2]
+-- Za 14 dní proběhne prezentace, poté bude možnost mít dotazy.
+- Do konce listopadu třeba nahlásit dovolené a zapsat do Outlooku
+-- Třeba zjistit, zda je možné převést dovolenou do příštího roku.
+- V případě externí činnosti nutno požádat o vyfakturování architekty a zhotovitele do 15. prosince
+- [PROJECT3]
+-- Bude fakturováno.
+- [PROJECT4]
+-- Bude fakturován.
+- [PROJECT5]
+-- Také nutno vyfakturovat.
+- ÚAP
+-- Proběhne 3. 12.
+-- Bude rozeslán link.
+- [PROJECT6]
+-- [ORGANIZATION5] zpracovává analýzu, cílem je vytipovat objekty, které budou zachovány pro nemocniční provoz a jiné účely, případně pozemky směnitelné se státem.
+- [PROJECT7]
+-- Neodesílat, není dostupná smlouva mezi [ORGANIZATION6] a [ORGANIZATION7].
+-- Vyjádření bylo zpracováno pro [ORGANIZATION31].
+- [PROJECT8]
+-- Proběhne schůzka s [ORGANIZATION8].
+-- Před schůzkou proběhne briefing, účastníkům bude sdělen termín.
+- Dnes proběhne jednání s [ORGANIZATION9]
+- [PROJECT9]
+-- Organizátorem bude [ORGANIZATION11].
+-- Soutěž by měla být v únoru.
+- [ORGANIZATION12]
+-- Postoupeno někomu jinému.
+- [PROJECT10], celé území
+-- 2. 12. proběhne výrobní výbor.
+- [PROJECT11]
+-- Budou dodány podklady ohledně soutěže na muzejní distrikt.
+- Tisk na [PROJECT13]
+-- [ORGANIZATION16] se bude podílet na urbanistickém řešení jejího okolí.
+- [PROJECT14]
+-- Proběhlo jednání mezi [ORGANIZATION3] a [ORGANIZATION6].
+- Program [PROJECT16]
+-- Předáno [ORGANIZATION15].
+- [PROJECT19]
+-- Proběhlo obsažnější jednání formou konzultace pro [ORGANIZATION17], na základě probíraných věcí byl sepsán elaborát.
+- Regulační studie na [PROJECT20]
+-- Vypracována analýza a navrženy možnosti regulace, třeba zkonzultovat.
+- [PROJECT21]
+-- Zítra proběhne konzultace s [ORGANIZATION18] ohledně zeleně v tržnici.
+- [ORGANIZATION19]
+-- Proběhla schůzka ohledně [PROJECT9].
+-- Dále proběhla samostatná online schůzka, projevena nespokojenost s koncepčním zadáním na [PROJECT22].
+-- Špatně uvedené názvy a špatně ukázaný rozsah [PROJECT22].
+-- Nesouhlas s redukcí pruhů křižovatky.
+-- Dnes proběhne další online jednání.
+-- Koncepční zadání zatím nebylo podepsáno a tudíž neodešlo.
+- [PROJECT23]
+-- Momentálně k dispozici vyjádření, ještě přijdou další podklady.
+-- Prezentována studie, postoupena k vyjádření.
+-- Město bude souhlasit s prodejem části pozemku jinému developerovi.
+- [PROJECT24]
+-- Připomínkováno, požadováno propojení přes komunikaci Kbelskou.
+-- Úvaha o propojení Proseku a Letňan tramvají, také přes Kbelskou.
+- Projekt [PROJECT26]
+-- Zadavatelem je [ORGANIZATION21], můžou požadovat vyjádření.
+- [PROJECT28]
+-- Momentálně ve fázi DSP, zatím neobdrženy digitální vstupy.
+- Studie [PROJECT4]
+-- Obdrženo interní vyjádření.
+- Dnes proběhne jednání s [ORGANIZATION22]
+- [PROJECT17]
+-- Proběhlo jednání.
+-- Další jednání se domluví, až budou k dispozici přesnější bilanční tabulky nad upravenou verzí, bude vysvětlena vybavenost a provedena kontrola.
+- [PROJECT31]
+-- Již pětkrát bylo odvolané jednání.
+-- Poslat e-mailem číslo jednací.
+- [PROJECT1]
+-- Proběhne schůzka s architektem z [ORGANIZATION26].
+-- Jednáno s architekty z [ORGANIZATION27].
+- [PROJECT32]
+-- Studie zpracovávána na základě koncepčního zadání z roku 2014.
+-- Vytvořen dokument, který je průřezem různých jednání a požadavků, některé požadavky budou zapracovány do DUR.
+- [PROJECT33]
+-- Připravována námitka.
+- Projekty [PROJECT34]
+-- Třeba ještě prodiskutovat výšky, momentálně se čeká na podněty.
+- Zadání na [PROJECT35]
+-- Třeba přečíst.
+- [PROJECT36]
+-- Bude předveden redukovaný objem.
+- EJA na [PROJECT38]
+-- Byly napadeny některé formulace.
+-- Rozporována podmíněnost, že bude jedna EJA na všechny tři etapy.
+- [PROJECT15]
+-- Obdrženo zaměření objektu.
+-- Nebyla zaslána studie.
+-- Bude se vypisovat zadání na veřejný prostor.
+
+
+
+
+
+
+Zápis předložila: [ANNOTATOR5]

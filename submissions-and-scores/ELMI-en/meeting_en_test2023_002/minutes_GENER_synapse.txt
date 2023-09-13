@@ -1,0 +1,47 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON2, PERSON7
+
+
+SUMMARY
+- PERSON1 will help PERSON2 with training the Czech ASR after June 10th.
+- PERSON1 has no experience with Flask but he can solve the problem of batching on the same ASR.
+- PERSON1 and PERSON2 discuss how to improve the performance of their speech translation system.
+- One of their ideas is to split the audio stream into two parts: one for streaming and one for getting the audio back.
+- PERSON1 is giving ICC this semester.
+- PERSON2 is giving IICC.
+- They had to code data structures in C and in Python.
+- PERSON1 and PERSON2 fail some of PERSON9's courses.
+- PERSON9 is crazy about the assignments and he makes it really difficult to pass his courses.
+- PERSON2 is working on automatic evaluation for compression.
+- She noticed that even the COMET metric is highly correlated with BLEU for her purposes.
+- She also noticed a big difference between the measurements.
+- She tried a reference-free COMET, but it didn't work very well.
+- PERSON2 explains to PERSON7 how to improve the quality of his translations.
+- PERSON2 speaks English and German.
+- PERSON7 speaks Czech, Slovak, French and English.
+- PERSON2 and PERSON7 discuss the pros and cons of shortening and isometric translation.
+- PERSON2 and PERSON7 discuss a problem with the Russian language and subtitles in a comedy.
+- They suggest shortening the subtitles.
+- PERSON2 is in Paris for an internship.
+- It's extremely hot in the office.
+- PERSON7 is working on a machine translation compression project.
+- The initial idea was to do it for online or for simultaneous translation, but now they are discussing with PERSON2 whether it's useful or not.
+- German is famous for having too many words for lots of things, whereas English and It takes more time to reproduce the same information in German than in English.
+- People say more phonemes per second in German.
+- Shortening is useful for online speech translation, but not so much for movies.
+- PERSON2 is no longer interested in shortening because the low-latency model doesn't work for her.
+- She is translating TED talks in English and German.
+- She will help organize IWLTS 2023.
+- PERSON7 joined the IWLSLT at the end of last year or the beginning of this year.
+- PERSON1 and PERSON2 hate the idea of retranslating systems.
+- PERSON1 and PERSON2 discuss the issue of flicker flickering in text-to-speech translation.
+- They also discuss the motivation behind retranslation.
+- PERSON1 and PERSON2 discuss the pros and cons of speech to speech.
+- The idea behind retranslating is that there is a point where you have to guess and then you want to display something.
+- If the guesses are correct, then it's great, but if they're not, it's better to display it immediately.
+- According to PERSON1 and PERSON2, it's not in the interest of PROJECT1 to retranslate live text as the latency is much higher.
+- PERSON2 and PERSON1 discuss monotonous speech translation.
+- They also discuss retranslating system and how to improve it.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,26 @@
+- Meeting began with greetings and discussing personal updates, including visa status and holiday plans.
+- Discussed the need to arrange accommodation for a team member and potential arrival dates in April.
+- Briefly mentioned work done during the holiday, but not directly related to the project.
+- Discussed the need for relevant data for the task and lack of response from a contact at [ORGANIZATION3]. Plan to try contacting other co-authors.
+- Plan to arrange a call with [PERSON12] to discuss details about the dataset and options.
+- Mentioned a week-long Hackathon on universal coreference with [PERSON4], [PERSON9], and [PERSON13].
+- Discussed a paper on the usefulness of context encoders in document translation and potential relevance to their project.
+- Talked about the possibility of using random sentences as context and the potential for regularization.
+- Briefly discussed the idea of appending paraphrases to original sentences, but it was noted that it didn't work well in previous experiments.
+- Ended the meeting with plans to follow up on data sources and continue discussing project details.
+- Meeting discussed the method of concatenating paraphrases and sources in multi-source experiments, with mixed results depending on the task and model used (RNN vs. Transformer).
+- The team considered using a special token to separate sentences in the concatenation setting, but there were concerns about sentence length and potential issues with tokenization.
+- The top priority is obtaining a dataset from [PERSON12] for their experiments.
+- Deadlines for EACL and ACL conferences were discussed, as well as the possibility of submitting papers to other conferences in the coming months.
+- The team discussed focusing on English-Portuguese models and using constraints for terminology improvement in specific domains, such as auditing and comprehension linguistics.
+- The team will look into extracting more data from OPUS and [ORGANIZATION2] websites, as well as potentially scraping institute web pages for monolingual Portuguese data.
+- The goal is to create a dedicated English-Portuguese model that can be used for both [PROJECT3] and [PROJECT2] use cases, with experiments conducted in both terminology and domain-specific settings.
+- [PERSON3] will work on processing datasets and training the English-Portuguese model, while also learning more about C++ to better understand and edit the code.
+- Discussion about linguistic domains and finding resources in Portuguese
+- Suggestion to look for NLP conferences in Brazil or Portugal for potential resources
+- PERSON5 finished implementation of printing attention weights in Marian and plans to analyze results
+- Method discussed by PERSON5 works but is not a complete solution; further work needed
+- PERSON5 to write results into paper for PERSON3 to review
+- Reminder of call on Thursday at 4 CET for those interested
+- Request to share document link with PERSON1 and PERSON8
+- Next meeting scheduled for the following week

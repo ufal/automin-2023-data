@@ -1,0 +1,109 @@
+- Setkali se A, B a C
+- A a B diskutovali o projektu
+- Hájič je tlačí, aby kniha byla vydaná do konce listopadu
+- Pavel Král má napsat recenzi, ale neví, kdy ji dodá
+- Pavel Straňák sehnal rozumnou tiskárnu a má domluvený termín
+- Kniha bude barevná a bude stát cca 45 tisíc
+- Všichni se shodli, že budou rádi, až bude kniha z krku
+\n(B) No, takže to bude v OverLeafu. \n
+
+- Hájič bude příští týden, ale nevíme, co si psali
+- Probíhají dvě paralelní vyjednávání
+- Musíme vyřešit naše připomínky, abychom mohli vodepsat editorům
+- Musíme mít ISBN
+- Divadelníci na Theateru mají vygenerované scénáře na leden
+- Bude potřeba ještě něco dogenerovat
+- Bude potřeba vodepsat editorům, abychom mohli včas
+- Bude potřeba vyřešit ISBN
+- Bude potřeba vyřešit připomínky
+- Magda bombarduje A_ho s požadavkem na ÚFAL seminář
+- Anča poslala odkaz na slajdy, které jsou pěkné
+- Slajdy byly vytvořeny Tomášem a Rudou
+null
+
+- PersonA a PersonB se baví o voranžové tekutině, která kape PersonB.
+- PersonB zjistí, že je to lahvová lampa, která je vypnutá.
+- PersonC se zmíní o své kočce, kterou musel nechat za dveřmi, protože se dobývala do piškotů.
+- PersonD navrhne PersonCovi, aby si pořídil psa, pokud chce zvíře, které ho bude poslouchat.
+- PersonA a PersonB se dohodnou na schůzce příští čtvrtek v 11 hodin.
+- PersonA navrhne, aby do té doby měli všechny komentáře zapracované.
+- PersonB souhlasí a navrhuje, aby PersonA nahodil slajdy a každý přidal do své sekce, co k tomu má co říct.
+- PersonA pošle Magdě Abstrakt a navrhne, aby do pondělí dvacátého třetího bylo všechno hotové.
+- PersonB souhlasí a navrhuje, aby byly zapracovány všechny komentáře.
+- PersonA navrhne, že napíše Introduction, pokud na to najde čas.
+- PersonC souhlasí a navrhuje, aby každý napsal Summary své kapitoly.
+- PersonA a PersonB se rozloučí.
+\n
+
+- Setkání se týkalo prezentace LSD.
+- [PERSON16] neměl v OverLeafu, protože se na tom nedělal.
+- [PERSONA] se snažil kompilovat, ale bylo to dlouhé.
+- [PERSONC] navrhl aktualizovat šablonu pro hezčí bibliografii.
+- [PERSONB] se domníval, že bibliografie je hnusná.
+- Seminář bude trvat asi hodinu, ale může být i kratší.
+- Výjezdní bylo na dvacet minut.
+- [PERSONA] navrhl, aby prezentace zahrnovala průřez toho, co se za tři roky udělalo.
+- Zahrnovat by měly embeddingy, kontextové embeddingy, probing, memorizaci a attention.
+- [PERSONB] a [PERSONC] by mohli mluvit o Jindřichově článku.
+- [PERSOND] může mluvit o kontextových embeddingech.
+- Prezentace bude probíhat na Zoomu s předáváním slova.
+\n
+
+- D a A diskutovali o titulkování a sentimentu
+- D a B diskutovali o rozpitvávání sítí a získávání pravidel
+- D a A diskutovali o multimodálním překladu a reprezentacích
+- B navrhl začít prezentací obecných věcí a představit výsledky
+- A navrhl zkopírovat prezentaci z minulého roku a poté ji redukovat
+\n(B) Jo. \n(C) To máme. \n
+
+- Abychom mohli prezentovat, bude potřeba napsat abstrakt a odeslat ho.
+- Musíme mít hotovou knihu do 31. 11., protože chce Straňák poslat do tiskárny.
+- Potřebujeme věci jako ISBN, které Straňák musí čtyřikrát kliknout, aby nám je poslal.
+- Hájič nereagoval na e-mail, takže jsem knížku poslal recenzentům sám.
+- Máme jen jednu recenzi, druhá by měla být příští týden, ale Pavel tvrdí, že to bude dřív než na konci listopadu.
+- Do knihy jsou již zapsány všechny doporučení pod mým jménem.
+- Do úvodu musíme dát, že používáme MT jako hlavní aplikaci.
+- Na konci knihy máme shrnutí.
+- Tomáš našel motto, které se líbí B, ale D ho nedoporučuje, protože je z jiného ražení než naše trable.
+- Na začátku se bavili o tom, že by měli do shrnutí jednotlivých kapitol napsat více věcí.
+- Pak se bavili o tom, že by měli do knihy napsat Foreword a Preface.
+- Pak se bavili o tom, že by měli do Introduction napsat MT.
+- Pak se bavili o tom, že by měli do Chapter One popsat co tam máme a doporučit, aby se tam vysvětlilo co je Overfitting.
+- Pak se bavili o tom, že by měli do Chapter Two napsat Word2vec a přepsat první odstavec.
+- Pak se bavili o tom, že by měli do Chapter Two napsat, že se skládají vrstvy a že se neřeší CNN.
+- Pak se bavili o tom, že by měli do Chapter Two vysvětlit co je <?another_language?>.
+- Pak se bavili o tom, že by měli do Chapter Two vysvětlit co je to (which).
+null
+
+Setkání se zabývalo definicí sentimentu a komentáři k tomu.
+Péťa vložila poznámku na stranu 65, kterou všichni nenašli.
+Vysvětlilo se, že strana 65 je to, co je před čtyři sedum.
+Péťa poslala Davidovi přímo to pédéefko, aby věděli, která strana je 65.
+Péťa dal poznámky tam, kam patří.
+Péťa se nelíbí, že v úvodu kapitoly není žádný stručný úvod.
+B se domnívá, že by měl ostručnit úvod, nebo tam přidat ještě stručný úvod.
+C navrhl vložit nadpis mezi první dva odstavce, aby to vypadalo jako úvod.
+B má nějakou vizi, kterou tam provede.
+A navrhl přepsat první odstavec, aby Péťa byla spokojená.
+Všichni mají různou délku úvodu, od jednoho odstavce až po stránku.
+\n(B) Hmm.\n(A) Takže to je dobrý.\n(B) Jo.\n
+
+- A a B diskutují o tom, jak lépe popsat výhody a nevýhody kontextových embeddinků ve své práci
+- C a D se zapojují do diskuze
+- Tomáš jí piškoty
+- Kontextové embeddinky jsou dobré pro některé úkoly, ale nejsou dobré pro sémantické úkoly
+- Není k dispozici lepší (feature) extraktor pro sémantické úkoly
+- Doporučuje se dokončit všechny komentáře a projít ještě jednou Grammarly
+- Ruda má dvě a půl stránky
+- Zjistili, že black box workshop je v Thomsonu a Indexu je ve Pop science
+- To jim pomůže získat dvě déčka navíc
+- Dva abstrakty jsou v black boxu
+\n(A) No, takže to je dobrý.\nTakže to je všechno.\n
+
+- Setkání se zúčastnili PERSON1, PERSON2, PERSON3, PERSON4 a PERSON5.
+- Diskutovali o článcích, balustrádách a derivacích.
+- Zmínili se o konferencích a workshopu v roce 2019.
+- Mluvili o finančních odměnách a výdajích.
+- Zmínili se o knize, která bude stát 35 000 Kč a zbude 5 000 Kč na kancelářské potřeby.
+- Diskutovali o tom, jak projít Grammarly.
+- Plánovali další setkání.

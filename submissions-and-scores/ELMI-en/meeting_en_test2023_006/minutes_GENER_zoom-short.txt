@@ -1,0 +1,7 @@
+PERSON17 and PERSON11 are discussing the multi-source project for the PROJECT4.
+They discuss the integration of the dashboard and monitor, the PROJECT5 Czech ASR, the domain adaptation, and recording segmentation.
+They also discuss the technical issues with PROJECT2 and suggest using the PROJECT9 ORGANIZATION2 mailing list to discuss the issue with PERSON19 and others.
+PERSON17 suggests that they use the same source of information as PERSON19 to fight the RUPn issue.
+PERSON17 also suggests that the deadline for PhD is at the end of the year, December 30th.
+PERSON6 is running out of storage quota on Mala Strana and PERSON17 suggests using command D F to tell him how much space he needs.
+PERSON17 and PERSON14 discuss the possibility of using a sentiment analysis tool to train a neural network for sentiment analysis, and they discuss how they need to train the sentiment analysis.

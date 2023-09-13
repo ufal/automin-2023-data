@@ -1,0 +1,32 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON5, PERSON8
+
+
+SUMMARY
+- PERSON8, PERSON10 and PERSON3 wish each other a happy new year.
+- PERSON8's holiday was okay.
+- PERSON3's visa is valid for half a year.
+- PERSON3 wants the meeting with April earlier.
+- PERSON8 wants to focus on the data set from the PERSON12's data set.
+- PERSON10 wants to talk to other alters of the paper.
+- PERSON8 is moving to Prague tomorrow and going to the PCR test on Wednesday.
+- If the result is negative, they will meet on Friday in person or through Zoom.
+- The next week PERSON8 is going to take part in Hacathon on universal coreference with PERSON4, PERSON PERSON8, PERSON10 and PERSON5 discuss the implementation of multi-source editing.
+- Two encoders work better for the context and random sentences, whereas concatenating the two sentences together doesn't work.
+- PERSON1, PERSON2, PERSON8 and PERSON10 are discussing a method of encoding two copies of the same sentence.
+- The method can sometimes be better or worse than the two encoders set up, depending on the task.
+- PERSON8, PERSON10, PERSON1 and PERSON12 are collecting data on NLP experiments.
+- The maximum sentence length is one hundred tokens.
+- There is a DEMO deadline on Friday the fifteenth of January, and then there is ACL at the end of the month.
+- The deadline PERSON1, John, PERSON5, PERSON3 and PERSON10 are doing research connected to PROJECT1.
+- They are preparing a short paper for the ASL and a training model for English-Portugese model.
+- PERSON1 and PERSON3 are planning a project.
+- They want to create a dedicated English to Portugese model for the auditing and PROJECT2.
+- They also need to create dedicated data sets for the comprehension linguistics within the project.
+- PERSON3 will write the results of the breakdown analysis of the new data from PERSON3 into the paper and share it with PERSON5.
+- PERSON1, PERSON3, PERSON5, PERSON8 and PERSON10 are trying to find the link to the project.
+- It's not working for all of them, but it's there for PERSON3.
+- There will be a call on Thursday at 4 pm.
+
+
+Minuted by: Team Synapse

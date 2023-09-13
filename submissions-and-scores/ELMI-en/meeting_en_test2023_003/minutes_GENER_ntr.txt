@@ -1,0 +1,98 @@
+Meeting KeyPoints:
+
+Sure, please go ahead.
+
+- PERSON5 knows where the agenda is, but is not sure if they have written it down.
+- PERSON4 thinks PERSON5 should take note of the agenda.
+- PERSON1 thinks PERSON5 should check the coffee things instead.
+- PERSON5 will create the agenda themselves.
+1. Create a set of candidate annotations for each unique type. Mark candidates as being named entities or not, depending on whether their corresponding entry in the parallel annotation has the NE label.
+3. Create a mapping from the original input to the updated versions, so that we can easily query the set of unique annotations for any input document.
+- Person 5 and Person 4 agreed to rename the document to a more descriptive name, e.g. annotation at the type level. 
+- Person 4 accidentally made a copy of Person 5's document instead of deleting the list.
+- Person 5 suggested keeping a list of all notes in the project and planned to replace named entities with placeholders at the end of the meeting.
+
+Word Type Annotation: 
+
+- The system operator, PERSON7, is away and will be missed.
+- There is a person, PERSON5, who can pick up the manual work of deciding who is a fitcandidate from this point.
+- The task of annotation will be completed as usual, even with PERSON7 away.
+- The manual decisions can be easily transferred and stored.
+1. There are a lot of different types of named entities in the Corpus, such as proper names, organizations, locations, and mascots.
+2. The student annotated 80% of the text as non-named entities, which includes the beginnings of sentences.
+3. Name tag would have helped the student collect the Corpus quicker.
+4. The multi-word named entities are also a problem, which includes words made
+1. The main task for the NE meeting summarisation system is to preserve the identity of the individuals (e.g. Jane, Peter, and so on).
+2. The summarisation system should also preserve who referred to who when (e.g. when Jane referred to Peter, the summarisation system should record that Peter was mentioned).
+3. A good summarisation system should also be able to summarize the content of the
+* We can either preserve the identity of project names and identify people using chains like “here was a project name, here was a project name and don't make it explicit whether it was the same project or different project” or not.
+* For speakers, like labels of speakers should be used. In addition to the speaker labels, we can also refer to the persons using these labels in the text. So labels for speakers can be “
+- The data annotation effort is called PropEr (person identification through praderCentric annotation)
+- The annotation is done by searching for entities in the meeting transcript and linking them to the corresponding speakers in the record
+- The annotation is mainly done to preserve the identities of the speakers
+- The annotation can be used to find out if a person is mentioned in the transcript, but not speaking (e.g. for filtering purposes)
+Okay, so here are the main takeaways from the meeting transcript:
+1. PERSON5 asked PERSON4 to set a date when they would call PERSON6 to setup deidentification procedures
+2. PERSON5 expects PERSON6 to have some new concerns by the end of the 1st meeting, so PERSON4 should plan something by then
+3. PERSON5 believes PERSON6 will need to read the regulations for deidentification, but PERSON4 doesn
+- The meeting transcript and any minute version for that particular meeting must be managed as a document in the GDPR compliance collection.
+- The participants agreed to a timeline for reviewing the requirements and expected time to complete the project.
+- Person data must be removed from the dataset, and a definition of person data must be clarified before the project can move forward.
+1. There will be a secondary or (territory), or final annotation stage where some of the annotations will be removed which PERSON6 has found out.
+2. PERSON6 will receive an e-mail this morning with 2 things - the guidelines that we will follow when conducting the survey and the consent form that we will need to obtain from PERSON5.
+3. PERSON5 and PERSON6 discussed the above 2
+- They have two consent forms, one for working with data, other one for publishing deidentified data
+- They do not need to re-do the first consent form, as they have the one that covers both activities
+- They will need the consent of 30% participants who have not signed the previous consents, to proceed with the project
+1. PERSON4 proposes to simplify the consent form by removing the requirement to provide samples.
+2. PERSON1 and PERSON5 disagree with PERSON4's approach and believe that providing the full dataset is the best solution.
+3. PERSON4 and PERSON5 agree that for the consent to be valid, it must be approved by all participants.
+4. PERSON5 proposes to focus on the
+Here are the main takeaways from the meeting transcript:
+- Prepare the dataset fully deindentified already.
+- People-PERSON4 want to publish the dataset with a link to it.
+- Who will do that, prepare the web page that people can browse.
+- The tedious part is linking who was mentioned where so that the metadata is available.
+The meeting was recorded and the transcript was released for public review. The team agreed that annotating the transcript with meeting participant information, such as names, would be a difficult manual task and not worthwhile. Therefore, the team decided to rely on the meeting notes and participant information extracted from the minutes to create a document with accurate participant information for future use.
+- It will take a few minutes to prepare the meeting IDs and participants.
+- Once we have the meeting IDs and participants, it will take very little time to extract the relevant information from the consent forms.
+- Participants will be sent a link to a ZIP file that contains the data files they need to download. The link will include a meeting ID that corresponds to each file.
+- Once participants download the ZIP file, the
+- I think we should have one master sheet, where we keep individualize columns, instead of having each participant having their own sheet.
+- We should keep a copy of the master sheet, with all the columns of the master sheet, but clear all the individual columns, for each participant.
+- Based on this master sheet, we will make the slides, for each participant.
+- We should have a sample document, with the
+- The data deidentification should be done by February end.
+- We need the data ready for the data buyers by mid-February.
+- The data buyers will do the consent in the first week of February or something around that.
+- The total task of the data deidentification should be done by March end.
+- The coding of the xml which is needed for item three should be done by February end.
+- According to person 5, students should not be present at the hiring meeting
+- Person 1 is willing to send a new e-mail to the committee, with the proposed list
+- Person 1 would like to keep this list away from the application process
+- Person 5 admits that the current hiring process is already late
+
+Armin Shwanford
+Elizabetha Janpil-Eroh
+Petr Verspoor
+Petr Veliunas
+Alex Gorban
+Sergey Karpov
+Dominique Lafage
+Jonathan Lisaye
+Colin Allen
+Paul Marks
+Georgios Avgoulvatzis
+Bastian Schmidt
+Nicolas Sadler
+
+* PERSON1 and PERSON5 are proposing the list of prospective speakers.
+* PERSON4 is recommending experienced people from the 2006 Damai event.
+* PERSON5 wants to use the experienced people from the 2006 Damai event and 2 colleagues for the keynote.
+* PERSON1 wants to start drafting the email to the prospective speakers.
+* The draft email should cover three topics: 1. Question for the prospective
+
+
+Person 5: Yeah, yeah, yeah, eh, and, and you can eh, at, at the same time you can actually word in Russian, because I (can't) validate, whether you're saying good things or bad things, I, I can't read it.
+Person 4: I, I think it's-
+Person 5: I'm, I'm just telling the like I, I, I (can

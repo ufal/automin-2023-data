@@ -1,0 +1,65 @@
+Meeting KeyPoints:
+
+- Person2 plans to deliver an automatic speech recognition (ASR) system for use with the Englishmucous NAACL 2020 conference.
+- Person2 would like Flask to serve as the platform for their ASR system.
+- Person1 can assist with the technical implementation of Flask by reviewing and/or annotating the source code.
+- There are concerns over whether Flask is well-suited for this application purpose.
+- A different HTTP server like Hypercore could be a better option for this application, as it can handle much more connections at a time and it can do session-less communication.
+- There are technical solutions for two-way communication, for example, if the sender has to send data to 2,000 recipients, it can do so by
+1. P2 said that if HTTP is not duplex, then there is no way for two clients to communicate with each other.
+2. P1 said that there could be a way to solve this if the clients could maintain two connections to server, one for sending and one for receiving.
+3. P2 explained how he imagined how this could work, by maintaining a “client ID” for each connection.
+4. P1
+
+- In the meeting, a person1 and a person2 were present.
+- The meeting was about a failed assignment.
+- The person2 said that there were many assignments and the person1 had many failed assignments.
+- The person2 suggested that it might have been better if the person1 had used C++.
+- The person1 disagreed and said that it was the person2 who had failed the assignment.
+The meeting went smoothly and the participants shared their insights about Deep Learning. One participant expressed fear that Deep Learning courses might not be really difficult and even though participants will have to put in a lot of work they might not be able to complete them. Another participant expressed interest in taking Deep Learning courses and reserved the semester just for that.
+One participant's course was very difficult and another participant is planning to take it. One participant suggested that the course's grading is not marked and therefore does not require much
+1. PERSON2 tried the comet tool and found it produced extremely low scores even for offline models.
+2. Because there is no difference between BLEU and comet, PERSON7 is currently sticking to BLEU for evaluating machine translation.
+3. Because the fixing part, the output are longer than what the model intended, the output sometimes sounds fluent even if the model made mistakes at first try.
+4.
+Here are some points that were extracted from the meeting transcript:
+1. PERSON7 said he doesn't speak German.
+2. PERSON2 said she does speak French.
+3. PERSON7 mentioned that it doesn't make sense to do a different language because the languages of interest for her are all from the IWLST list.
+4. PERSON2 said she doesn't speak other languages.
+5. PERSON7 said he was interested in speaking about data sets
+- Shorter sentences are not the right way to handle latency reductions in machine translation
+- Rather, to reduce latency, we need to consider context when translating with proper levels of detail
+- For this reason, computers are not well-suited to translating quickly and accurately
+1. The source language was Russian and the target language was English.
+2. According to the participants, generating more text from the source language would make the automated translation service less accurate.
+1. The team is now discussing whether it's useful or not to compress online or simultaneous translation for compression.
+2. The theoretical bound for compression ratio is that there is no theoretical boundary for compression ratio. For example, Germans have special words to describe various things.
+3. The team found that in theory, it's possible to compress even one word into a description sentence in some language for some thing.
+1. Germans need more words than English to describe the same idea
+2. Generally, a German movie will have many more letters to word the same idea in English
+3. Pace plays a big factor in the language learning experience
+4. Shorter words makes sense in the context of keeping the pace of a German movie matching English
+- The German dubbing of English movies or series tends to be much faster than the original English version.
+- To keep the pace of the dubbing even, the German dubbers have to speak much more phonemes per second than the English original speakers do.
+- Since the German dubbers are non-native English speakers, they find this difference in pace difficult to maintain.
+1. PERSON2 previously believed that the model should output more than less, because it's actually like it should commit to something.
+2. PERSON1 believes that the model should output something, because otherwise the model will guess wrong and the translation will be bad.
+3. The last time PERSON6 heard someone shortening, it was proposed for use case of online speech translation.
+4. PERSON7 believes that
+1.  PERSON7 joined the company after the end of the year, i.e., in the beginning of this year. 
+2. PERSON7 doesn't know the exact start time of the company, but thinks it is around the end of the year, i.e., in the beginning of this year.
+3. PERSON1 suggests that PERSON7 should still be in the preparing phase for IWLSLT, as she still has some study that she is
+There were conflicting views on the usefulness of retranslation on the meeting transcript. PERSON2 thought that retranslation is stupid and therefore don't think it has any value. However, PERSON7 think that retranslation is useful and should be continued.
+- The speech-to-speech idea is not viable without some form of latency between the speech and the synthesized speech.
+- There are theoretical or practical limitations on how accurately you can translate from live speech to speech.
+- It is possible for live speech-to-speech to be successful but the synthesized speech would need to be in certain boundaries where the system would need to correct itself for the interpreters.
+1. PERSON2 agrees that like two years ago, there was a development of a standalone retranslating system.
+2. PERSON2 doesn't know what was the state of the art back then.
+3. PERSON7 disagrees with the idea to not have retranslation, because nowadays it's a standalone system and it's independent from the model being tested.
+4. PERSON2 argues that it
+- When translating from English to Japanese, the computer should restart the translation where it stopped and translate from the prefix of the source sentence
+- When translating from Japanese to English, the computer should take the English word and the Japanese suffix and use the English word as the translation
+- The target sentence should be longer than the prefix because the prefix is the source sentence and the suffix is the translation
+- When translating, the computer should keep the
+P2: And I already saw some work and I think that if you guys can watch the IWSLT this year, then there is a paper, this one that is doing uh this kind of monotonous uh speech translation. And (??).  Even you can actually check the they have made the paper public..  On archives, so if you go to IWSLT and there are accepted papers, and you can Google which papers are on archive and one of them was uh this

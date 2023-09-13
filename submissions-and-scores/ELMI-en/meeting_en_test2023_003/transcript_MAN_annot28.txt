@@ -1,0 +1,1286 @@
+<other_noise/>
+(PERSON1) Hello.
+(PERSON4) Yeah, hi [PERSON1], hi.
+We are just two, 
+just two of us?
+(PERSON1) Yeah, ah, I, I guess so.
+[PERSON5] was about to join,
+because he told me that he wants to be in the meeting,
+because there are some (position) points from his end,
+so I had been in, in <laugh/> communication with him for today,
+like, there are already a chain of emails.
+(PERSON4) Yes, yes, he is writing a lot of emails today.
+Also, I have also got a round,
+<laugh/> <unintelligible/>.
+(PERSON1) Oh o-okay, okay, okay.
+(PERSON4) It just was a week for the for for Christmas holidays now,
+ah, and (whatevers),
+and today, toda-
+eh, yeah?
+(PERSON1) Can you drop under the message over phone,
+that we are on <unintelligible/>. 
+(PERSON4) Uh, okay, I'll try.
+Uh, <typing/>.
+Ah, he's here already,
+(PERSON5) Yeah, yeah.
+(PERSON4) I'm writing you email.
+(PERSON1) Hi.
+(PERSON5) Yeah, hi, sorry,
+I was calling in another in another call.
+Eh, yeah.
+(PERSON4) Hi.
+(PERSON5) So, ah, I'm I'm happy to see you.
+Eh, both of you.
+Ma-, eh I s-, eh,
+are others also joining, or you don't know yet?
+(PERSON4) We don't know yet.
+(PERSON5) Yeah, okay, yeah.
+That's- that's- that's okay,
+so you are the the t-
+(PERSON1) (the othersmin)?
+Yeah, (othersmin),
+(PERSON4) (Othersmin) [PERSON3].
+(PERSON1) I guess, eh all you know are regular (skolia),
+it is [PERSON3].
+I don't think [PERSON7] was joining us,
+(PERSON5) Yeah.
+(PERSON4) For quite a few time, yeah.
+(PERSON5) Yeah.
+(PERSON4) So, yeah.
+(PERSON5) So what, what we have for discuss today,
+I, eh, um, I, I reviewed the web page,
+eh, and eh, I don't know,
+if you have highlighted the portions of the document with the colourful papers,
+whether that's-
+(PERSON1) Oh, I, I-
+(PERSON5) Never mind, I, I didn't have a free minute since then,
+so don't worry.
+<laugh/> right.
+(PERSON1) Okay.
+(PERSON5) And, em, and then I'm really worried about [PERSON7],
+If he can actually help us or not,
+because I, eh, like,
+I think he might have started some Ph.D. somewhere, or whatevers,
+so he, he may be actually much more busy,
+than, than we would be hoping for.
+So it's possible that-
+(PERSON1) Yes, he was about to move to Canada, I think.
+(PERSON5) Yeah,
+so that, eh, that will not make our life easier,
+but, well, we have to work with this,
+eh, so, that means that we will lose a, eh, the person to, to prepare the data,
+so I'm, I was curious how far did [PERSON7] get,
+and that's probably something that [PERSON4] should know, right?
+Eh, he sent me  a list of named entities,
+and I have <unintelligible/> it myself and part to the annotator and he didn't reply,
+and now after this Christmas holidays, during the holidays,
+I didn't address him,
+but, now I see, that probably he's not going to finish it,
+because, he stopped,
+so <laugh/> <unintelligible/>.
+(PERSON5) Not responding, eh.
+(PERSON4) And I probably, I will just finish it myself and, um,
+but it's-
+(PERSON5) But, but what, well finish,
+you will finish the annotation,
+so the- yeah,
+so the annotator has stopped or [PERSON7] has stopped?
+(PERSON4) Ah, annotator has s-
+(PERSON5) Annotator stopped, okay, yeah,
+so, eh, so if you see, if it's an online document,
+if you see that the annotator i- stopped-
+(PERSON4) He didn't do anything,
+he just- didn't finish it,
+(PERSON5) Yeah, so please-
+(PERSON4) I have sended to him and it's an online document,
+I see that he di-
+(PERSON5) Yeah, that's, eh, okay,
+so that's good, that you can finish it yourself, so please do so,
+so that-
+(PERSON4) Mhm.
+(PERSON5) move forward,
+and then, em, eh, get in touch with [PERSON7] and double check that he would be able to do the processing, em,
+also at the (token) level, eh,
+so this annotation was done at the type level, like word types,
+and, eh, we need to do the second round for many of the words,
+eh, the (annoted) there's you and the annotator should have indicated that it depends on the context.
+And for these context dependiti-
+(PERSON4) Eh, I don't understand at all, what you're-
+(PERSON5) Yeah, <laugh/> yeah this is something that, that I was-
+(PERSON4) <laugh/> so write it down somehow somewhere to the-
+so I will not be able to transfer all this information to [PERSON7],
+and try to- so I have I-
+(PERSON5) Mhm.
+(PERSON4) was lost somewhere in the middle,
+I will open agenda now and send you the link so we can write it down.
+(PERSON5) Yeah, yeah, okay.
+(PERSON4) Eh, where is it.
+(PERSON1) I think I should also take note of this.
+(PERSON4) Mm, we can write to the agenda, if we find it <laugh/> somewhere.
+(PERSON5) Or we can actually put it to the, to the master plan,
+eh, for, eh hm, <parallel_talk> first to task on automatic (maintaining), the timeline </parallel_talk>,
+so we could put it into the share task components,
+or we could put it to your agenda,
+whatever you prefer.
+(PERSON4) So this is-
+(PERSON1) So, ah-
+(PERSON4) agenda-
+(PERSON1) (Adiadam) agenda.doc is in the master documents,
+so if you can check the (coffee) things?
+(PERSON4) O-oh, oh okay,
+so I have found it now too?
+(PERSON1) Okay
+(PERSON5) <parallel_talk> (ar) to a (coffee) agenda </parallel_talk>,
+so, am I in the correct one?
+(PERSON4) The last is from the middle of December.
+(PERSON5) Yes, yes, I'm here as well.
+(PERSON1) Yes.
+(PERSON4) <parallel_talk> eh, so five f- </parallel_talk>
+(PERSON5) oh, wait,
+so I thought,
+I know that I've disscused this with [PERSON7],
+and I'm not sure if, if we've written this anywhere, or not,
+eh, so this is eh, like, get in touch with [PERSON7],
+that's the short eh, thing,
+but if he's not responding,
+eh, then eh, like we have to-
+(PERSON1) Yes.
+(PERSON5) recreate it eh, ourselves,
+yeah ah, yeah <parallel_talk> the (identification) procedure </parallel_talk>,
+so there's eh, stages, au, oh, mm.
+(PERSON4) I'll be back in 30 seconds.
+(PERSON5) Yeah, I'll, I'll write the, eh, <laugh/> <unintelligible/>,
+so, eh <typing/> <parallel_talk> collect eh, candidates for eh, (enteens), annotate at word type level, candidates without context if they are surely and named entity ah, are a cannot be named entity  and <unintelligible/> context, eh mm are context dependent then in third type level annotations into xml mark-up of the documents </parallel_talk>,
+<parallel_talk> collect token level em, mm, instance is for annotation </parallel_talk>
+<parallel_talk> annotate eh, at word token level candidates in context of the sentence or perhaps in em, ehm, each occurrence eh, eh, or perhaps or eh, exactly at the <unintelligible/> in full document if eh, that particular instance is (NNE) is not (NNE) and then eh, insert token level annotations again into the same xml eh, (are the) documents </parallel_talk>,
+<parallel_talk> eh, so eh, at this point eh, the documents will ehm, contain information like, eh, this word was consi- eh, eh, was suspected to be (NNE) but at the word type eh, annotation it was  eh, marked eh, as regular word </parallel_talk>
+<parallel_talk> eh, this word was suspected eh, (NP) eh, marked as a clearly (NNE) in word type annotation, </parallel_talk>
+<parallel_talk> this word suspected (NE) marked as unclear eh, at type level eh, not processed at token level yet eh, and then eh, eh, marked as (NE) at token level, </parallel_talk> right?
+So that's, it's this list is not complete,
+but it illustrates eh, that eh, we want to have the eh, the th finest possible detail about the annotation process,
+so we need to know exactly what has been touched by people with what result?
+Um, eh, I'm saying that this eh, the process, is documented to the finest level.
+I'm not saying that the distinct decisions are made to the finest level,
+that's a different thing.
+So we may be unsure about the particular instances being or not being entities,
+but we um, we we always must be sure about the fact, whether someone has processed this or not <laugh/>.
+So, do you, do you understand?
+[PERSON4], you, you look puzzled so- <laugh/>.
+(PERSON4) Partly <laugh/>.
+(PERSON5) <laugh/>.
+But, eh, yeah so, so, but [PERSON1],
+eh, have you read the process?
+And, eh, it's the is that easy to follow?
+(PERSON1) No, <laugh/> I think I need to see an example-
+(PERSON5) Yeah, okay.
+(PERSON1) I'm really like eh,
+(PERSON5) Yeah eh, yeah.
+(PERSON1) <laugh/>
+(PERSON5) Yeah, yeah, eh,
+so eh, thanks [PERSON4] for the link eh, to the eh, annotation,
+maybe rename that document eh, so that it should not be a copy of,
+but it should say something like a- annotation at the type level and, and, and so on.
+(PERSON4) Well this is copy because [PERSON7] (did) send me to the the annotation the same file,
+and that's- want to name it,
+so the idea was eh, well but <unintelligible/>.
+(PERSON5) Okay, he doesn't want to rename it,
+if it's, if it's agreed-
+(PERSON4) He, he asked me to make a copy of his document,
+not to delete the list, so, so-
+(PERSON5) That's good-
+(PERSON4) Accidentally not to lose the information,
+but the-
+(PERSON5) Yeah, yeah, yeah, I, I just would like the name to be more descriptive for someone,
+(PERSON4) Okay.
+(PERSON5) so that it-
+(PERSON4) Of course.
+(PERSON5) Like the, the word copy is okay, like it,
+but it has to, uh be this this copy of that's like just an automatic label <unintelligible/>.
+(PERSON4) Yes, (proper note) is better, okay <laugh/>.
+(PERSON5) Proper (note) and then like, personal copy of [PERSON4], or whatever,
+that's like the word copy is, is good eh,
+but, this copy of, it's just automatic what eh, what happens if, if you make a copy, eh-
+(PERSON4) Yes, yes.
+(PERSON5) Eh, okay,
+so, well, the idea ah, is that an, at the end, we need to have the full collection of all our documents with all named entities replaced by placeholders.
+We agreed some time ago eh, in, in <laugh/> you should found out the, the notes on this,
+then we will stick to the name tech hierarchy,
+eh, eh, perhap- perhaps even a simplified one,
+so that we don't eh, go into the details of types of named (enties),
+so the, the eh, the least possibly (tail),
+for some of the entities eh, like eh, hm, names of months,
+we will plan to do them later,
+because they're close set, very, very simple ones to, to do,
+(PERSON4) Mhm.
+(PERSON5) eh, but they should also be like documented,
+so the process of the named entity removal eh, has to be very clean,
+and, and we have to know at what stage of this process we are.
+So this would be eh, the, the small close set, eh things,
+they, they would be handled separately and they are easy to do.
+Eh, the hard part are the entities which, eh, eh like <unintelligible/> names, or project names, or, or, or words which can't be names and may not be names at times.
+And we need this process to be like as fast as possible,
+ehm, eh, so that's why I suggested to proceed at the two levels,
+first at the word type level,
+and then the word token level.
+So that's the standard distinction from lexical (grafers),
+where types-
+(PERSON4) Eh, maybe I don't understand this, eh typ-, eh, word type level,
+and what is the difference.
+(PERSON5) Yeah, so eh, eh, word type is the word as it appears in the dictionary,
+eh, and word token-
+(PERSON4) Uhn, uhn.
+(PERSON5) is a particular instance of the word in-
+(PERSON4) In, in the context.
+(PERSON5) in a context.
+(PERSON4) Aha, okay.
+(PERSON5) In, in, yeah, in a (running) text,
+so that', that's the-
+(PERSON4) So first we, ahn, and now we are working on types,
+because I just see the words <unintelligible/>-
+(PERSON5) Yes, exactly, yeah.
+(PERSON4) A-, and, eh after that we will once more (something) with contexts.
+(PERSON5) Yes, exactly.
+So, what we do want to have the annotation of the documents,
+so that's we do want the token level annotation in the end,
+eh, but some words like Jan or some clear names,
+eh, they eh, like it would be totally waste of time to, to do proc-,
+to do them token eh, by token.
+So we can do these words all at once.
+So that's the word type anno-, word or type level annotation.
+(PERSON4) Mhm.
+(PERSON5) This is, this is the terms from lexical (references),
+so that's, that's professor <unintelligible/>-
+(PERSON4) Yes, yes, yes.
+(PERSON5) mentions, mentions that the word type and word token in, in one of the early <laugh/> seminars,
+so maybe, <laugh/> maybe you're too advanced and didn't <laugh/> (attended) those, those basic seminars <laugh/>.
+Eh-
+(PERSON4) Yes, it's okay,
+I just, no I just conne- try,
+well I needed to connect it to what-
+(PERSON5) Yeah, yeah, yeah.
+(PERSON4) doing, so-
+(PERSON5) Yeah, so, eh, so I'm not sure if we will have [PERSON7],
+eh, the eh, s- and he was supposed to be the like system operator,
+to do the like (bulk) processing of the documents,
+and the insertion of the annotations into the xml and things like that,
+so that is some programmers skill that we, if [PERSON7] is, is not available, that will be like seriously in need off,
+so that's, that's what worries me (somewhat).
+(PERSON4) And especially if [PERSON7] will be away,
+it means that w-
+(PERSON5) Yes.
+(PERSON4) we are doing now is actually <unintelligible/> to finish the annotation,
+because this is some procession-
+(PERSON5) No, no, no, no, no, no,
+that, that's eh, like the, someone can pick it up from that point.
+(PERSON4) Ah, okay,
+we'll hope-
+(PERSON5) so (there's no) <unintelligible/>
+(PERSON4) understand (it could),
+yeah, okay.
+(PERSON5) That's not the problem, lik- eh, you have eh,
+what you are doing is, is the manual decisions,
+that's the value,
+(PERSON4) Mhm.
+(PERSON5) Eh, like then eh, creating such a list again,
+eh, is very easy,
+eh, there could be some small mismatches,
+when there is tok- like (one crution) marks,
+eh, but eh, otherwise,
+it, eh, in ver- in most cases, in, in 99% of cases,
+these tokens that the, the particular eh, thing that you have in the list,
+they will appear in the list for anyone, whoever does it.
+So this, this distinct-
+the, the decisions that you make can be easily transferred and, and stored there.
+So that's the-.
+So, eh
+(PERSON4) Mhm.
+(PERSON5) eh, this collection of candidates that was done by [PERSON7],
+eh, at the stage where the documents eh, were,
+when he did it,
+and the annotation is still proceeding and new documents are still coming,
+I guess.
+(PERSON4) (But) it's really <unintelligible/> it has very bad quality (everything of that).
+First of all there lot of typos,
+and-
+(PERSON5) Mhm.
+(PERSON4) I get <unintelligible/>,
+so [ORGANISATION4] once written with M,
+once written N M and so on.
+At-
+(PERSON5) Mhm, eh, rememb-
+(PERSON4) <unintelligible/>
+(PERSON5) yeah, so this is the, the typos in named entities,
+eh, are mainly because of people do- the annotators not knowing the correct spelling.
+(PERSON4) Yes.
+(PERSON5) Yeah-
+(PERSON4) Yes, eh, so (I'm just saying) I'm looking for the list,
+there are a lot of different-
+(PERSON5) Yeah.
+(PERSON4) -mbrs, really mm, I don't know.
+(PERSON5) Yeah, that's-
+(PERSON4) Dozens, dozens, dozens,
+(PERSON5) Yes.
+(PERSON4) and then eh, also most of the output is not a named entity.
+80% is not a named entity.
+(PERSON5) Yeah, that's because there was probably beginnings of sentences,
+so all of eh, the words at the beginning of sentences also got into the list.
+This could have been better,
+if name tag was used,
+eh, and I, I'm not sure,
+I think that [PERSON7] did not use name tag,
+because he needed to collect this list quicker.
+(PERSON4) Yes.
+(PERSON5) Eh, the, the student [PERSON8], eh [PERSON8], he used name tag.
+So there is eh, quite eh, big chance,
+that eh, if [PERSON8] creates this list,
+it would be shorter,
+it would not include eh, named entities,
+eh, that eh, like it would not eh, suspect all beginnings of words to be-
+(PERSON4) Yes.
+(PERSON5) named entities.
+(PERSON4) And also the multi word-
+(PERSON5) The multi words ones are also (problem).
+(PERSON4) and never connected,
+so if you have world war 2,
+you, you, you will have three words,
+eh, and so.
+(PERSON5) Yeah, so these eh, hm, hmm, eh,
+so that's eh, al- I'll say stages,
+and then eh, <parallel_talk> <typing/> after that eh, un- eh, or remaining, or open problems, open problems, eh, and one of the open problems is the eh, edition of new documents, another big problem is eh, multi word eh, (entities). </parallel_talk>
+<parallel_talk> Eh, these are eve- </parallel_talk>
+(PERSON4) And I don't think it in- the prog- I don't think that the program included all the words beginning from capital.
+But there are eh, there ar- (really) not so many.
+Eh, not so many.
+(PERSON5) Mhm.
+(PERSON4) (That doesn't), I'm not sure that here <unintelligible/> include it all.
+All that-
+(PERSON5) Yeah.
+(PERSON4) beginnings.
+(PERSON5) Yeah, eh s- well ob- mm, <parallel_talk> <typing/> final checks. </parallel_talk>
+<parallel_talk> Eh, how do we ensure nothing eh, leaks into the final data. </parallel_talk>
+<parallel_talk> Eh, how do we ensure no N I leaks into the final data, and eh, the open problems will be also this close lists eh, months eh, eh, names eh, of eh, of days in the week, yeah. </parallel_talk>
+<parallel_talk> Eh, and eh, what I want to say is the eh, last stage is eh, the actual din- eh, eh, so replacement  of a- well actually there (they not need be replacement), but <unintelligible/> actual, actual removal of the original ex- eh, from the documents, leaving just the xml mark up to indicate, here was (NNE) of eh, this type, right? </parallel_talk>
+(PERSON4) Mhm.
+(PERSON5) <parallel_talk> And what is eh, in eh unresolved problem is the identity of (NEs) eh, preservation of a now, well (conferencing) chains, (conference) chains, including the identity of eh, individual speakers. </parallel_talk>
+So, we can, for the, for the summarisation,
+I think it is important to know, who said what,
+and when someone refers to someone else.
+Eh, we do want to hide the original name of the person,
+but we do want to ideally, we do want to keep,
+that this was like Jane and Peter and then Jane address Peter,
+and, and so on.
+(PERSON4) Mhm.
+(PERSON5) So eh, we eh, probably do not need to pr- it would be better also to preserve the identity of project names, or whatever.
+Eh, but eh, I think eh, we really need to focus on persons,
+and we can eh, for the sake of time, ignore the identity, or tracing of the identity of projects,
+eh, for projects and other thongs we can say like,
+here was a project name, here was a project name and, and don't eh, make it explicit,
+whether it was the same project, or different project.
+So there, there will be a lot of gaps eh, in this type of output,
+but I think it's for the sake of time,
+it's, it's a thing that we can do,
+we can't afford to, to ignore this eh, this type of (chaining).
+But we should not afford it for, for the people, right?
+Eh, so eh, eh, so eh, <parallel_talk> <typing/> for the sake of time, we eh, can't probably afford to eh, drop eh, or to, to ignore, ignore eh, tracing of eh, these chains eh, for project (GTC) eh, but we should not eh, ignore eh, it for speakers and eh, persons eh, referred to. </parallel_talk>
+Eh, so I eh, <other_yawn/> for speakers,
+I think that eh, <other_yawn/> for, for speakers, like eh,
+<parallel_talk> <typing/> eh, as eh, (utterance) eh, labels, eh, eh bu- bu- fo- and persons- well I don't- eh, but we should ignore, not ignore for speakers eh, in both cases, when they eh, appear eh, as utterance labels and eh, when they are referred to in the text. </parallel_talk>
+(PERSON4) Um-
+(PERSON5) We-
+(PERSON4) maybe sometimes complicated if annotator was already eh, they identifies <unintelligible/> they didn't know who is who,
+so the labels may be A, B-
+(PERSON5) Yes,
+(PERSON4) and so on.
+(PERSON5) That's okay.
+(PERSON4) (presume) the text that they never be the same <unintelligible/>.
+(PERSON5) Yes, that's eh, that's okay,
+like there can be errors,
+this is eh, there could be person swaps,
+I don't think the data set for the purposes of summarisation suffer um, much, if we-
+(PERSON4) Yeah, I, I <unintelligible/>.
+(PERSON5) <unintelligible/> people.
+Eh,
+(PERSON4) That-
+(PERSON5) <laugh/>
+(PERSON4) <laugh/>
+(PERSON5) <parallel_talk> <typing/> eh, we (might) eh, <unintelligible/> eh, tracing uh, other people, eh, who are only mentioned in the eh, in the text and eh, not eh, taking part in the meeting, </parallel_talk> 
+so eh, what I'm saying by this is that if eh, someone refers to Jane,
+Jane is not eh, not a speaker in this meeting,
+and someone refers to Jane at the top of the meeting,
+and someone else refers to Jane at the end of the meeting-
+(PERSON4) (the same be)
+(PERSON5) W- well exac- we, we, we can afford to ignore eh, that, that tracing.
+(PERSON4) Mhm.
+(PERSON5) We don't have to discuss (whether) this is the same Jane or different Jane,
+eh, we can say there was some person in the top,
+there was some person eh, at, at the end.
+And eh, tha- that's the same like i-, is- checking if Bill Gates is this Bill Gates or different Bill Gates,
+eh, so we don't have to do this type of annotation.
+We, we I, I suggest that we ignore it.
+Eh, we do it only for the speakers.
+If we can.
+(PERSON4) How do we know if this is the speaker, or not?
+(PERSON5) If we don't, we don't, never mind.
+(PERSON4) Mhm.
+Because actually, if the labels of-
+(PERSON5) Yeah, if the labels are A, B, C, that's what you said,
+let's leave it as eh, like let's leave it nonlinked.
+(PERSON4) Mhm.
+(PERSON5) That's, that's okay.
+Eh, yeah, so, so actually our main worry is that some true named entity will leak into the data.
+Our lower or less important worry is whether we preserve the identities,
+and I'm happy to eh, like do errors in the second part, 
+but I would be werry unhappy to do errors in the first part.
+(PERSON4) Mhm.
+(PERSON5) Yeah.
+So, this is the outline,
+eh, and eh, we need to put this outline on eh, time frame, <laugh/>
+and-
+(PERSON4) And person frame.
+(PERSON5) and person frame, yes.
+So get in touch with [PERSON7] and check if, like this is what was discussed with him,
+and maybe it's, it's in, in some document with him,
+I'm not sure.
+Em, so please get in touch with him and eh, extract from him the information if, if he can do this for us.
+And if not, then we have to do this ourselves.
+And in that case, that probably falls on [PERSON1] for eh, the programmatic <laugh/> parts,
+I'm, I'm afraid.
+So that means that you may need to (offload) some of your eh, the (water modelling) ideas or, to, to [PERSON3].
+(PERSON1) Mhm.
+(PERSON5) We still have time,
+I'm not like so worried, like I could eh, I could, I could (deidentify) this,
+if I had a week of eh, eh, if I could lock myself in a sanctuary for a week,
+then I think I, I will have eh, eh, anonymized the, the corpus myself,
+like it's, it's not to,
+if you do it eh, with clever eh, text editors and, and combining scripting and all that is,
+our data set is not too big.
+(PERSON1) Yes.
+(PERSON5) It's, it's doable.
+(PERSON1) Yeah, I think, I think like I'm not eh, like certain in many things are still not clear to me,
+(PERSON5) Mhm.
+(PERSON1) I will, I wil- I will have a session with [PERSON4],
+with the data how, like what is the input and what should look like,
+once I have that, then um, then it will be easier for me.
+(PERSON5) Yeah, so I-
+(PERSON1) So what-
+(PERSON5) what I'm thinking of is for example for the token level annotation,
+if I were, if I was doing it myself,
+if, if, if, if I locked myself for that week,
+it would be a few (VI macros) and I would be just hitting F1, F2, F1, F2, F1, F2, F1, F2,
+and that would be the token level annotation,
+and it would be done for document, like very quickly.
+So it's eh, I'm not so much worried,
+eh, I think it's, it's doable,
+eh, but it has to be a skilled person in, in this, like, text processing.
+It's a special type of text processing.
+(PERSON1) Yeah.
+(PERSON5) Eh, okay, so that's eh, eh, that's the (deidification) procedure,
+what is eh, equally important ah, is the, the identification guidelines,
+and potentially eh, some new concerns,
+will be, will be added,
+like, after [PERSON4] discusses this with [PERSON6],
+so this is now my question on [PERSON527,
+whether you have already um, uh, date set when to talk to or call or meet [PERSON6]?
+So please-
+(PERSON4) <unintelligible/> nothing.
+(PERSON5) Plea- please do.
+Plan something-
+(PERSON4) [PERSON6] i- is working on eh, our id- the identification from the beginning of January?
+(PERSON5) Yes, yes, thirty actually.
+I told her yesterday that she should start,
+so she-
+(PERSON4) And she, she has time and sh-
+(PERSON5) Uh, well she will have to eh, make the time for that,
+so sh- she is still on number of eh, projects,
+eh, and, but I, I really think that-
+(PERSON4) And where should I, so what do you, what do you mean.
+Eh, that I-
+(PERSON5) So she needs to-
+(PERSON4) <unintelligible/>
+(PERSON5) yeah, she-
+(PERSON4) Yeah, she needs to (work), yes.
+(PERSON5) She, she needs to read the regulations,
+that will take her some time.
+(PERSON4) About how (deidentificate) the-
+(PERSON5) Abou what this person <unintelligible/>.
+So we don't know exactly, I don't know what exactly is person (leida).
+(PERSON4) So she have- has to decide,
+what should be actually anonymized.
+(PERSON5) Eh, yes, kind of.
+The way, that I set it up now in the, the eh, the, in the procedure,
+that we discussed here,
+that is based on my intuition,
+but I-
+(PERSON4) Yes, so, so she has to say if we have to delete also the names of languages.
+(PERSON5) For example.
+(PERSON4) Well, so this is one of our basic (questions),
+so this is actually-
+(PERSON5) Yeah.
+(PERSON4) I would very, I would be very happy,
+if we leave it, if we don't anonymize it so-
+(PERSON5) Mhm.
+(PERSON4) leave English, German, Czech, and (don't)-
+(PERSON5) Yeah.
+mix it up,
+because it's, at least some information that could be preserved in the minutes,
+so actually, if we have some, well, eh-
+(PERSON5) Eh, we can always do eh, mock eh, ah named entities,
+so if-
+(PERSON4) Yes.
+(PERSON5) so for example for the languages,
+we can shaffle it eh, and we would say Romanian instead of French in all cases,
+and-
+(PERSON4) Yes, yeah, of course,
+but one, one more thing that we should (aline) eh, the transcript with the minutes.
+(PERSON5) Yes, that has to be done this, this, the identification has to be done on both, of course.
+(PERSON4) On the same (way),
+so that we-
+(PERSON5) Exactly the same way,
+so the, what I'm talking about a document,
+I mean either the transcript or any version of the minutes.
+(PERSON4) Eh-
+(PERSON5) So we have multiple version of minutes.
+(PERSON4) Yes.
+(PERSON5) So a document is either the transcript or any, any minute version for that particular meeting.
+(PERSON4) Ah, mhm.
+(PERSON5) So document is any text eh, in, in the collection.
+That is very important, I like, yeah.
+It seems natural to me,
+but <laugh/> we, we must not forget about this. <laugh/>
+(PERSON1) So eh, one question I have, like eh, so this should be done,
+especially on the (aliter data), right?
+So we don't need to do this on (ilupar)?
+(PERSON5) No, not at all.
+So you-
+(PERSON1) Not at all.
+(PERSON5) Not at all,
+your (part) doesn't go through this at all.
+(PERSON1) Yeah, okay.
+(PERSON5) So, back to [PERSON6],
+eh, <parallel_talk> I'm waiting for [PERSON4] to finish. </parallel_talk>
+(PERSON4) I'm just <unintelligible/> to this.
+(PERSON5) Yeah, yeah, yeah, so eh, back to [PERSON6],
+eh, so please get in touch with her as soon as possible,
+and eh, agree on timeline with her,
+so she will definitely need some time on ah, reading, for, for reading the, the regulations,
+the keyword is eh, indeed (person) data.
+She needs to tell us, what exactly is (person) data,
+and all (person) data must be removed,
+absolutely removed eh, the, the data set has to be free of personal data.
+(PERSON4) Mhm.
+(PERSON5) Eh, that  wil- she's like, she will have various concerns,
+we, we need to like, discuss with her what is, what is this <unintelligible/>.
+So that, from that eh, discussion from her survey of, of the regulations,
+eh, the guidelines eh, will follow,¨
+the guidelines will be the result,
+and the guidelines will say eh, things like person names must not appear in, in that,
+and we will then check, if the procedure, which we are already running, is in line with that or if anything else needs to be included in the procedures,
+so that the guidelines are satisfied.
+(PERSON4) I think that eh, this (aren't all) personal data.
+Things like months and language.
+(PERSON5) Yes, I agree that these are not personal eh, data,
+but she should check,
+like I kind of think about it, it's.
+(PERSON4) Mhm, <typing/>.
+(PERSON5) Yeah, so eh, so that's the guidelines,
+and eh, eh, yeah, this <other_yawn/>, agree on a timeline, exactly,
+so I think that the eh, the annotation can go independently,
+and there will be eh, in- eh, as the last eh, <unintelligible/>,
+there could be like a secondary or (territory), or, or final annotation stage,
+where we would be still removing something which, eh, like, we have been thought of and [PERSON6] has found it out.
+Eh, it's-
+(PERSON4) You mean the annotation of what?
+(PERSON5) The eh, um, when I say annotation now I mean the identification, eh-
+(PERSON4) Yeah, okay.
+(PERSON5) Yeah.
+(PERSON4) Mhm, mhm, mhm.
+(PERSON5) Uh, yeah, so eh, and then the other thing that [PERSON4] needs to discuss with [PERSON6] eh, is the consent forms,
+so that we do it-
+(PERSON4) Something (totally) different.
+(PERSON5) That's something totally different,
+eh, it's very closely related,
+but eh, expl-
+(PERSON4) But this is what eh, [PERSON6] actually doesn’t know at the moment.
+(PERSON5) I send an e-mail to her this morning mentioning-
+(PERSON4) Mhm.
+(PERSON5) these two things.
+She kind of eh, was expecting this so, so, eh, we discussed this before, so it's not-
+(PERSON4) Because I have also (showed so) many times this consent forms,
+this is totally new-
+(PERSON5) Mhm.
+(PERSON4) <unintelligible/> and she will (demand for) kind of piece of time for that to-
+(PERSON5) Yes, yes, exactly, yeah,
+so eh, with this we are in some time pressure,
+but not, not any worse time pressure than eh, like a month ago, uh-
+(PERSON4) So we have to decide, how, what should be included, <typing/> yes?
+(PERSON5) What should be the wording of the consent form.
+(PERSON4) Mhm. <typing/>
+(PERSON5) And there two types eh, to, to, like, two stages of the content forms,
+this is new compared to the beginning of the project,
+where we thought we would have only one consent form,
+now we have two consent forms.
+The first one is eh, the one that we are using,
+eh, eh, where people like give us the permission to work with the data,
+and we need primally now the second one,
+and the second one is we, er, are getting the permission to publish the data in the deidentified form.
+(PERSON4) So it means that we should (try to) forget everything, that we did before,
+and do eh, again from th ze- from zero,
+that first th- the first consent form, create it,
+which agrees with, ah, kind of working with our data,
+and then eh, create the second consent form, eh, about publishing-
+(PERSON5) Yeah.
+(PERSON4) and give all the participants of all meetings, both consent forms of the the same time- at the same time.
+(PERSON5) Eh, no, no, no.
+We, so actually, we do not need to redo the eh, the first-
+(PERSON4) We do, because we have, we have the-
+(PERSON5) Eh, yeah.
+(PERSON4) Kind of our consent form,
+our existing consent forms are about publishing actually, mostly-
+(PERSON5) Yes, but they are not eh, <unintelligible/> and people didn't read-
+(PERSON4) Yes, of course they are not perfect-
+(PERSON5) Yeah.
+(PERSON4) and they are signed by 30% of participants.
+(PERSON5) Yeah, that's, that's the problem.
+So eh, people who have not really signed those,
+eh, we are processing their data without eh, eh, having received the, the consent.
+Hopefully they will give us the, the consent now,
+so-
+(PERSON4) Yes, mostly we proceed eh, their data with the oral consent.
+(PERSON5) Yes, that's good,
+so that's eh, yeah, that, that's, we have at least that. <laugh/>
+(PERSON4) <laugh/>
+(PERSON5) And eh, so I would now with [PERSON6],
+I would focus on the second form,
+which is the consent to publish the data,
+and this eh, consent eh, will be complemented with samples,
+so, eh, ideally eh, every person would have all the meetings that he was taking part In,
+he could browse them and eh, check himself if, like, he is still represented in that or not.
+It would be-
+(PERSON4) So in th-
+(PERSON5) <unintelligible/> as (deidntified),
+so he should not be able to eh, eh, like feel identified,
+but he would know the, the content,
+so that's, the,
+(PERSON4) So why not to forget about the first phase, in this case.
+(PERSON5) Yes, so let's eh, let's totally ag- like forget about the first form,
+eh, for the purpose of the release of the corpus,
+and let's come to the first form eh, only once the corpus is finished and released,
+and let's eh, do this first form for the new meetings that we will still be collecting even after that.
+So I- that was my proposal as well,
+let's really focus on the second form now,
+eh, to have the permission to publish the data in the anonymised form,
+and, and later come to the first form again,
+because we will still be reaching out and trying to get more people provide us with meetings,
+and there, there we will need the, the first form,
+and the first form will be on the, the consent to process the data and deidentify it with the forcing goal of publication,
+when people will be asked with the second form again.
+<typing/>
+(PERSON4) Well, I'm just thinking about this eh, samples,
+(PERSON5) Yeah.
+(PERSON4) Em, if eh, so with eh, kid of prel- openly said,
+if we really need all these samples for eh, people we are sure about, like you and [PERSON1] and so on,
+so, eh, shoul-
+(PERSON5) We can simplify it also by eh, like giving everybody the full dataset,
+access to the full dataset, like brows this, you are prob-
+(PERSON4) (is it) the consent form?
+So I'm kind of, I am a little bit lost in what should be done.
+So-
+(PERSON5) So-
+(PERSON4) really should prepare the special samples for every consent for every participants,
+it appears to be the task for the whole year,
+and I-
+(PERSON5) Mm, well no it's a little bit of programming and a little bit of evidence, like, who wants (to be what).
+(PERSON4) Okay, but eh, (you know) me and [PERSON6] will never do it.
+(PERSON5) Yeah, yeah, yeah, yeah, sure, yeah. <laugh/>
+Eh, em, eh, so, eh, I understand,
+that there is eh, there could be, eh, eh, like a substantial amount of eh, s- administration so to say,
+or, or d- data management eh, eh, for this,
+eh, which can be skipped,
+and the easiest way that I see to skip,
+eh, is to eh, prepare the dataset fully deindentified already,
+eh, as simple eh, directory with documents,
+eh, that people-
+(PERSON4) (And give a link).
+(PERSON5) could browse,
+give a link and people could open these,
+eh, then in the eh, you would st- like tell- send everybody the consent form,
+so here is the consent form for you,
+we need eh, to, to get your permission to eh, to publish the data,
+you have eh, been eh, participant of meetings of these days,
+or something like that,
+so that the people-
+(PERSON4) Mhm.
+(PERSON5) can find themselves,
+if they want to check specifically themselves,
+and they would eh, be also av- allowed to, to browse any of the data.
+(PERSON4) Who will do that [PERSON5]?
+(PERSON5) Eh, s- so eh, ah, I think this is like a pre-release of the corpus,
+so as soon as we have the corpus clean eh, removed the named entities,
+eh, it is a matter of like uhh, putting it in a director,
+wrapping it in a (HDML) eh, or, or eh, any, any browsable format,
+so that is very simple,
+and I think [PERSON1] would do that in eh, in two hours.
+Eh, so the-
+(PERSON4) Mhm.
+the, the preparation of the web page,
+eh, that pe- people can browse.
+(PERSON4) Aha, so-
+(PERSON5) What is, what is the, the tedious part,
+is eh, the eh, the linking which person was mentioned where,
+so this metadata that is-
+(PERSON4) Yes, this is what I'm asking about, yes.
+(PERSON5) This should be eh, I hope that this is in your directory structure somewhere that you like, know who was participant of what meeting.
+(PERSON4) Not about all of them definitely,
+I have just made a sample.
+It's a <other_noise/> to make it manually,
+it's very eh, big task.
+What I-
+(PERSON5) Is it- can you-
+(PERSON4) Probably.
+Automatical extract is from (is to) extract the names of participants from meeting minutes.
+(PERSON5) Yes, yes, that is-
+(PERSON4) Created by annotator-
+(PERSON5) Yes-
+(PERSON4) so this is-
+(PERSON5) exactly.
+(PERSON4) um, yes, and,
+but sometimes this is-
+(PERSON5) Incomplete.
+(PERSON4) You have to incomplete and the names are incorrect,
+and you have to, some, some and ot- and others,
+and eh, some people that eh, the person <unintelligible/>-
+(PERSON5) Yeah, so that's, I think <other_noise/>,
+let's do the best effort (thing).
+So the best effort is to-
+(PERSON4) Mhm.
+(PERSON5) eh, like if you have an annotator, who could review this,
+if you know that this eh, meeting participants eh, information could be wi- like eh, improved, corrected by someone,
+eh, one of your annotators,
+eh, eh, if you have like items, (which) where you specifically know,
+that this is missing, or something like that,
+some manual effort could be invested there,
+but even if wo do not do this,
+(PERSON4) Mhm.
+(PERSON5) let's just collect it from the meeting minutes,
+eh, the list of participants,
+(PERSON4) Mhm.
+(PERSON5) and then we will say eh, in the context eh, cont- consent form,
+eh, based on-
+ow, I forgot to record this meeting. <laugh/>
+Is that a problem? <laugh/>
+(PERSON4) No, you're-
+(PERSON1) It's already recording (I guess)
+(PERSON4) (It's automatic)
+(PERSON5) Oh, okay, that's good.
+Yeah, yeah. <laugh/>
+(PERSON4) <laugh/>
+(PERSON5) <laugh/> So that-
+(PERSON4) You will never forget it.
+(PERSON5) Yeah. <laugh/>
+So, eh, even if don't do this em, manual refinement of the participants,
+we have some information on that,
+and with the consent forms send to Jane or, or Mary,
+we will say based on our records,
+you appeared,
+(PERSON4) Mhm.
+(PERSON5) you were participant of this and this meeting,
+maybe you were also present toother meetings,
+and eh, you were accidentally not listed,
+so feel free to browse any meetings you like.
+(PERSON4) So if you-
+(PERSON1) I think we can eh, what we can do is like eh, we create a master sheet,
+(PERSON5) Mhm.
+(PERSON1) where we extract the (name of) pa- participants from each of the minutes,
+(PERSON5) Yeah.
+(PERSON1) and give that to the, to all of them, like-
+(PERSON5) Yes.
+(PERSON1) <unintelligible/>-
+(PERSON5) You find yourself and-
+(PERSON1) and check.
+(PERSON5) Yes, yes, yes, yeah, so that's-
+(PERSON1) That could be <unintelligible/>.
+(PERSON5) This is eh, yeah, I, I don't think the, the sta- eh, the extra step of cutting out the relevant eh, portion of the master sheet is too eh, tedious.
+I think it's, it's doable,
+it's, it's kind of (mail merch),
+so eh, eh, (mail merch) operation.
+You eh, <laugh/> you like prepare individualized-
+(PERSON1) Yeah.
+(PERSON5) e-mail, so it's, it's not too bad.
+It, it is a little bit of work extra,
+(PERSON1) Mhm.
+(PERSON5) eh, I'll leave it up to you,
+what you find eh, like, like the balance between your labor and, and their labor,
+what is polite and, what, eh, what, what (this) labor is.
+So it's <laugh/> I'll leave that up to you. <laugh/>
+(PERSON1) Yeah, once we have, once we have the meeting IDs and (these are the) participants,
+so like, eh, we can easily find to which ID each par- participant,
+(PERSON5) Yeah.
+(PERSON1) and then,
+(PERSON5) Yeah.
+(PERSON1) that in-, that should be easy.
+It, it should-
+(PERSON5) Yeah.
+(PERSON1) not take much time to-
+(PERSON5) And eh, eh, then eh, kind of separately of the consent form,
+we should ask people for bug reports,
+so this is, this is a bi- big value,
+when we are sending the people again the links,
+and when we um, eh, know that the people will be again opening these files,
+every (gase) to that, in uh through that like (crowd), it's (crowd sourcing) essentially,
+eh, em, eh, every gaze into the data set gives us an opportunity to spot other things that should have been anonymised.
+So they need to have a place where they would record eh, these eh, extra observations.
+(PERSON1) Okay.
+(PERSON5) And then we would do a second pass,
+if there- we- we'll see, maybe there will be no more ah, outstanding ah, pieces of information that need to be deleted,
+but maybe they will,
+and then we'll do like a second pass of the data,
+and then remove these final things and, and release it.
+(PERSON1) Yes, so I think eh, what you are suggesting on this is that instead of the master sheet,
+we ke- we keep one master sheet,
+but we keep, well from the master sheet we be- we clear the individualize it-
+(PERSON5) Yeah.
+(PERSON1) sheet, and then (if they)-
+(PERSON5) <unintelligible/>
+(PERSON1) remarks, yeah.
+(PERSON5) <unintelligible/>
+(PERSON1) <unintelligible/> (we will) have the remarks in the remarks column,
+and the- the- <unintelligible/>,
+(PERSON5) Yeah.
+(PERSON1) and based on that we <unintelligible/>.
+(PERSON5) Yes.
+So eh, just please put this on a timeline,
+eh, we should have a sample document eh, one meeting or two meetings at most,
+ideally eh, at the end of January,
+so that we can mm, put it online s- eh, eh, to the prospective participants of the task,
+eh, at the beginning of February the (something) that I suggested in, in an e-mail to [PERSON1] this morning,
+and-
+(PERSON1) Yes.
+we need to have the full thing, was it end of March?
+(PERSON4) Sixteen.
+(PERSON1) Umm.
+(PERSON5) Or 16th of March?
+The full eh, the full dataset.
+(PERSON1) Eh, so- (trying) data is sixteen March,
+what training data first it will
+(PERSON5) Probably yes, so end of March.
+(PERSON1) Yeah.
+(PERSON5) Yeah.
+(PERSON1) Mhm, yeah.
+(PERSON5) So please put this eh, eh, deidentification procedure,
+and this eh, check with the consents on the time scale,
+so I think that eh, end of February-
+(PERSON1) I think we should-
+(PERSON5) end, end of February would be a good date for the participan- for the meeting participants, to eh, to get their eh, consents, right?
+Would that make sense?
+(PERSON1) Mhm.
+I think it's doable for us in those eh, kind of two months,
+to have almost finished the deidentification,
+and-
+(PERSON1) March <unintelligible/>, yes.
+(PERSON5) Yeah.
+(PERSON1) Yes, I think, I think two months would be great.
+(PERSON5) Two months for us a- are good,
+(PERSON1) Mhm.
+(PERSON5) and then one month eh, for them to answer, so they wo- they should answer within week,
+eh, and we-
+(PERSON1) Yeah.
+(PERSON5) would have three weeks to eh, to eh, finish it,
+and there is like uh, a little bit of-
+(PERSON1) So-
+(PERSON5) to handle any issues.
+(PERSON1) So we write the data deidentification eh, from the participants,
+by (February end).
+(PERSON5) Eh, s- sorry, say it again in a full words in full finances. <laugh/>
+(PERSON1) So yeah, <laugh/> so eh, the data deidentification conceived from their end should be done by eh, February end.
+(PERSON5) No eh, well eh, th- we have to have the data ready for them to browse,
+(PERSON1) Mhm.
+(PERSON5) so if we are able to have the data for them by mid-February, then I would agree with you,
+I'm a little bit eh, concerned about it,
+I think that we will have the data at the end of February,
+and they should then do the consent ah, in the first week of February or, or something like that.
+(PERSON1) Okay.
+(PERSON5) Sorry, first week of March, eh-
+(PERSON1) March, yeah.
+(PERSON5) Yeah, yeah.
+(PERSON1) Mhm, okay.
+Eh so, so talking about the timeline,
+what should be the timeline for this total task, like for the det- deindetification.
+Eh, he, yeah well, it depends on whether we have [PERSON7] or not,
+eh, that, that will also like, ah, affect that- eh, the timing, I believe,
+eh, but I think that [PERSON4] will be finished with the word type level annotation eh, s- well, in two days,
+(PERSON4) Yes, I ha- I have written that I will do (it) till tomorrow.
+(PERSON5) Yeah, okay. <laugh/>
+(PERSON4) <laugh/>
+(PERSON5) So eh,
+(PERSON4) It's not- it doesn't <unintelligible/> (thousand) and the half maybe, eh-
+(PERSON5) Yeah.
+(PERSON4) <unintelligible/> takes about two (hours).
+Yeah, so then eh, we need the coding of the xml,
+eh, which is item three, and then again, item six.
+Item three can be kind of delayed if, if inevitable,
+but it would be eh, better to do it so that you can also you already use this xml eh, eh mark up to, to find eh, eh, to extract the token level instances,
+um, so eh, I think that the exact timing really depends here on who is doing that,
+and eh, the actual remover of the original eh, text from the document,
+so the six, six and seven,
+this should not happen eh, later than in mid-February.
+(PERSON1) Mhm.
+(PERSON5) So, I'll put it here.
+Eh, <typing/> <parallel_talk> this eh, should not happen later or, or this, this should happen eh, by the end of eh, eh, by, by the, by the mid of February at the latest. </parallel_talk>
+(PERSON4) Where do you writeit?
+(PERSON5) Just as a comment to that eh, to, to (2.687).
+(PERSON4) Aha, aha, okay.
+Mhm.
+(PERSON5) So put it elsewhere eh, eh-
+(PERSON4) <unintelligible/> just i- if to the agenda document,
+I didn't see that, okay-
+(PERSON5) Yeah.
+Yeah, okay, so eh, is that it?
+Or is there anything else we <laugh/> need to discuss.
+(PERSON4) Uh, well, there is a lot of things I think [PERSON1] has created a lot of different things during-
+(PERSON5) Mhm.
+(PERSON4) Christmas holidays,
+(PERSON5) The, the webpage, I like the webpage,
+Eh, eve-
+(PERSON4) Eh, eh, the only thing I'm not sure, I don't like this changing um, (are) quickly.
+(PERSON5) That's modern eh, [PERSON4], you're too old, ignore that,
+I also hate (it). <laugh/>
+(PERSON4) <laugh/>
+<laugh/> <unintelligible/> <laugh/>
+(PERSON5) Yeah, yeah <laugh/> just, just like,
+close your eyes for that, <unintelligible/> <laugh/>
+(PERSON4) <laugh/>
+(PERSON1) So I eh,
+(PERSON5) <laugh/>
+(PERSON4) <laugh/> <unintelligible/>
+(PERSON1) Okay so, I will-
+(PERSON5) <laugh/>
+(PERSON4) Yeah. <laugh/>
+(PERSON1) I will increase the timer, so don't worry.
+(PERSON5) Yes, <unintelligible/> <laugh/>
+(PERSON1) It will <unintelligible/>-
+(PERSON4) <unintelligible/> <laugh/>
+(PERSON1) Yeah.
+(PERSON4) And maybe one will think, as you-
+(PERSON1) Okay
+(PERSON4) as you created the Scientific Committee,
+why did you include all the Russians, all the Russians in the year,
+so actually, I'm not sure-
+(PERSON1) It is-
+(PERSON4) should be in the Scientific Committee, they don't even know about that.
+They are probable participants-
+(PERSON1) No, no, it is, it is just-
+(PERSON5) (This) mock eh, or is that-
+(PERSON1) So, it is not finalized, you know [PERSON4],
+(PERSON4) Ah, okay.
+(PERSON1) so, un, it is not finalized,
+I've just put the names, because eh,
+(PERSON5) Oh, yes
+(PERSON1) if they're participating,
+so they could also be the potential reviewer so they can review (others work), right?
+(PERSON5) That's right, yes.
+(PERSON4) Yes, but you-
+(PERSON1) Yes.
+(PERSON4) should probably ask them,
+so if you-
+(PERSON1) Yes, yes, definitely, definitely,
+so that's why I-
+(PERSON4) <unintelligible/>
+(PERSON1) <unintelligible/> you the e-mail, right [PERSON4]?
+That e-mail template,
+that we would be eh, sending to the-
+(PERSON4) Yes, yes, yes, definitely.
+(PERSON1) Yes, I (do)-
+(PERSON4) If (I)- so ah, eh, kind of unsure of if we should invite all of these people to the Scientific Committee,
+because mor- half of them are master's students.
+(PERSON1) I-
+(PERSON5) No.
+(PERSON1) I don't know eh, yeah.
+(PERSON5) Yeah, let's, let's leave that open,
+but I, um, I think master's students should not be there really it's, it, it-
+(PERSON4) And I don't know who, and I don't- I don't know these people personally,
+so I don't know who (are)-
+(PERSON5) Yeah.
+(PERSON1) Students.
+(PERSON4) So this is kind of a special,
+so, ah, somebody is (an autumn),
+somebody's already eh, kind of se- eh, system (professors) also,
+(PERSON5) That's our, (let's) these are clear, (look) good,
+and Ph.D. students-
+(PERSON4) But I don't know who, so it's kind of-
+(PERSON5) Yeah.
+special task to look through this people,
+and somebody of them have eh, [ORGANIZATION1] eh, [ORGANIZATION1] some [ORGANIZATION1] scores or something,
+and some of them do have it, but don't have it online, so it's <laugh/>
+(PERSON5) Eh, well, eh, I would suggest [PERSON1] that you put this list down eh, and you will just put to be determined or in preparation in the, in the Scientific Committee,
+keep it elsewhere eh, and (we) will like discuss this separately.
+Do we have to have the list for the application?
+(PERSON1) Yes, yes-
+(PERSON5) Okay.
+(PERSON1) yes, yes, yes, that's the problem.
+Other ways, we could have done it late.
+(PERSON5) Oh, okay.
+(PERSON1) <unintelligible/>
+(PERSON4) Mhm.
+(PERSON5) So then eh, please prepare the text for eh, an e-mail to the prospective eh, members of this,
+(PERSON4) We already did.
+(PERSON5) Where is that text?
+(PERSON1) I <unintelligible/> forward.
+Uh,
+(PERSON5) Is it in the CFP eh, eh, col-
+(PERSON1) I guess I, I e-mailed you like, maybe in December, but I need to-
+(PERSON5) Yeah, Yeah, Yeah, sorry, it's my fault.
+So maybe can we paste it,
+so there is this interspeech <unintelligible/> 2021,
+that's the document with the CFP.
+Could we use the same document for eh, editing the text of that eh, e-mail?
+(PERSON1) Yeah, yeah, yeah,
+so, I am forwarding it to you again, and you put a link there. <typing/>
+(PERSON5) Okay, yeah, oh, sorry. <laugh/>
+(PERSON1) And in the scriptures, we keep track of whom, like who has eh, declined or accepted our invitation.
+(PERSON5) Yeah, yeah, yeah.
+So eh, for this to work better, the more personal you write it, the eh, the better.
+<parallel_talk> So eh, eh, the, the sheet where is the (goal) sheet, eh, that's the second one, right? </parallel_talk>
+<parallel_talk> (Contacted) with the status, </parallel_talk>
+okay, so please put all the candidates eh, from the web page to this list,
+and eh, fill what you- like do not spend too much time,
+eh, the critical is the name and the email <laugh/>,
+and then obviously the status, 
+but I would add one more column.
+I'm now in the eh, eh in this program committee eh, or let's, let's, let's call it Scientific Committee, right?
+Eh, Scientific Committee, so that we have the same label,
+I'm now on the [ORGANIZATION1] sheet eh, that you created.
+I don't see you [PERSON1] there,
+are you there or not?
+<typing/> <parallel_talk> (left) who will contact eh, him/her, </parallel_talk>
+so [PERSON1] I have now added column F in the [ORGANIZATION1] sheet,
+and I suggest that we divide the people eh, so that we invite them personally, if possible.
+(PERSON1) Okay.
+(PERSON5) So the eh, the invitation e-mail would be- will be personalized eh, in some way,
+so let's, let's eh, in this [ORGANIZATION1] document eh, with the invitation e-mail makes several copies eh, individualized in, in various ways,
+and I- I'll contact some, and you will contact some, and [PERSON4] will contact the Russian ones, perhaps we will get even more.
+And-
+(PERSON1) Yeah.
+(PERSON5) Eh, let's eh, we really have to do it, eh today, right?
+Eh, because-
+(PERSON1) Yes.
+(PERSON5) to need eh, have this information ten days,
+(PERSON1) No, I, I, I would, I would propose that we submit the proposal within January 7th or 8th.
+(PERSON5) Oh, <laugh/>
+(PERSON4) Oh <laugh/>
+(PERSON5) Okay <laugh/>
+(PERSON4) <laugh/>
+(PERSON5) Yeah, yeah, yeah, you have to be more insistent on <laugh/> getting information from me, like, December is hard eh, but eh, I should have not left this eh, unattended for two weeks. <laugh/>
+(PERSON1) So the thing is, so the thing is like,
+we have to just submitted the proposal because a Scientific Committee is not, will be fixed.
+So eh, like, like eh, like the people we know, they will quickly give us consent (like) like from the (illiterate projectism).
+(PERSON5) Mhm.
+(PERSON1) So eh-
+(PERSON5) We- well <other_noise/> peo- people from the eh, list,
+so let's, can you put their names in the eh, in the [ORGANIZATION1] sheet?
+So we-
+(PERSON1) Yeah, yeah, yeah.
+(PERSON5) Because I, I actually want to cancel some,
+for example, this (Armin Shwanford) and, and others,
+the (from all of you) I don't expect anyone to be eh, in any good position for eh, serving on this,
+for example-
+(PERSON1) Okay
+(PERSON5) so, <laugh/>
+(PERSON1) So eh, so on this, can you just eh, eh, tell me the names
+Eh, I will- 
+(PERSON5) I'll-
+(PERSON1) (whom) do you want to see.
+(PERSON5) Put them all, put all of them there and I will delete the lines or like, cancel them like strike them out.
+(PERSON1) Okay, okay, mhm.
+(PERSON5) Eh, yeah.
+(PERSON1) And you can also suggest some more people like-
+(PERSON5) Mhm.
+(PERSON1) you would, you would want to write.
+So-
+(PERSON5) Yeah.
+(PERSON1) I will propose that at least if we can have fifteen people eh, fifteen people,
+that would be great- 
+(PERSON5) Yeah.
+(PERSON1) in a Scientific Committee.
+(PERSON5) Yeah, okay.
+So I suggest, that for the sake of time, let's finish the call now,
+and let's keep working on the, o- on this request eh, to participate,
+(PERSON1) Mhm.
+(PERSON5) and on this list of people to contact,
+and eh, let's-
+(PERSON4) Mhm.
+(PERSON5) send them the e-mails today,
+ eh, unless aim for <laugh/> the deadline that you suggested in two days eh, from now,
+that's <laugh/> okay, yeah. <laugh/>
+(PERSON1) <laugh/>
+(PERSON4) I have one little question before we finish.
+(PERSON5) Mhm?
+(PERSON4) This (Elizabetha) I have written-
+(PERSON5) Mhm.
+(PERSON4) (you) and you answered <unintelligible/> and transferred to, to [PERSON1],
+eh-
+(PERSON5) <other_noise/> I didn't really-
+(PERSON4) Mhm.
+(PERSON5) transfer to [PERSON1],
+I kind of eh, like, transferred the data questions to [PERSON1].
+(PERSON4) Yes.
+So actually eh-
+(PERSON5) But not the (modelling) questions, so and-
+(PERSON4) assured [PERSON2] so I'm just- to ensure I <unintelligible/> take part in the call <unintelligible/>
+(PERSON5) No, eh, I, I, I haven't seen her answer,
+(PERSON4) No, she didn't answer yet.
+(PERSON5) Yeah exactly, so, so eh, I expect that I would be in the call only,
+I don't expect-
+(PERSON4) Okey, mhm.
+(PERSON5) [PERSON1] to be there.
+(PERSON4) Ah okay, okay, mhm.
+So eh, let do- let's do it later <unintelligible/>
+(PERSON5) Yeah.
+(PERSON4) Let's not-
+(PERSON1) S- so I <unintelligible/>,
+I would be (a ring you) to the <unintelligible/>,
+eh, for this-
+(PERSON5) Mhm.
+(PERSON1) that you can make changes to the <unintelligible/> if you want.
+(PERSON5) Yeah, yes.
+(PERSON1) And, and (out of things) <unintelligible/>,
+like, this can be done later,
+but at the same time do you have any (keynote) speaker in mind?
+For this summarization,
+so that-
+(PERSON5) We have to have one?
+(PERSON1) Yeah.
+It would be great, if you can have one.
+(PERSON5) Mhm, <laugh/>
+(PERSON4) <laugh/>
+(PERSON5) em, so obviously we have to ask the old dinosaur world- <other_noise/>
+(PERSON1) <laugh/>
+(PERSON5) but the experienced people from the eh, 2006,
+or what was that instance, the (DAMI),
+Corpus (Jean Kaleta), eh, and these, these people,
+eh, I've, I've clicked the link,
+I like the linked reference to the previous eh, interspeech eh, event,
+eh, did this word re- (rejuvenate),
+that's also perfect match,
+I, I like that in, in your text,
+eh, so I think we, we should try those people as the (keynote) speakers,
+because they will, they will eh, like give us the, the best eh, background knowledge from the past.
+(PERSON1) Mhm.
+(PERSON5) Em, and I'm happy to ask them,
+they em, also with the eh, with the request of being on the Committee,
+we should ask these two questions for these three eh, persons,
+and then eh, I would ask (Jung Hun Chou) if eh, he would either eh- 
+(PERSON1) Yeah.
+(PERSON5) himself be eh, like agree or eh, have someone else to, to suggest.
+(PERSON1) Yeah, okay, that would be great, mhm.
+(PERSON5) So these are my eh, things (methods),
+but yeah, okay-
+(PERSON1) Yeah, eh-
+(PERSON5) so let's-
+(PERSON1) we can (delete this later),
+so le- let us start writing the-
+(PERSON5) Mhm.
+(PERSON1) e-mails ah-
+(PERSON5) Yeah.
+(PERSON1) to the prospective people.
+(PERSON5) Yeah, yeah-
+(PERSON1) Yeah-
+(PERSON5) yeah, okay.
+(PERSON1) it, so ah, so ah, the plan is like we will <unintelligible/> (le test) by January 10th,
+uh we, we should be sending this proposal to (Iska),
+and a January 15th, we should be sending this proposal to (Sikdad).
+(PERSON5) Okay.
+(PERSON1) Yeah.
+(PERSON5) Yeah.
+Yeah. <laugh/>
+It's tight, but eh, okay. <laugh/>
+(PERSON1) Yeah.
+(PERSON5) Right, so that's it, let's, let's cut it short eh, now,
+and eh, [PERSON4] will hopefully get some response from both [PERSON6] and [PERSON7].
+These are my main-
+(PERSON4) Not today, ah, I, I will-
+(PERSON5) Not today the, like-
+(PERSON4) I will, I will come to [ORGANIZATION2] at Thursday and-
+(PERSON5) Mhm.
+(PERSON4) and eh, I will write [PERSON6] if she also comes <unintelligible/> (probably will speak) or if-
+(PERSON5) Yeah, yeah.
+(PERSON4) Otherwise we will do it somehow other-
+(PERSON5) (remodelling), that's okay.
+(PERSON4) <unintelligible/> mhm.
+(PERSON5) Yeah, okay, great,
+so thanks lot,
+(PERSON1) Okay.
+(PERSON4) Eh, one more, please [PERSON5]-
+(PERSON5) Yeah.
+(PERSON4) could you please eh, I will send you the pre-
+(PERSON5) Mhm.
+(PERSON4) the pre-prepared letters,
+could send it please to my candidates,
+because it will be better if you send it.
+(PERSON5) To your candidates?
+Who-
+(PERSON4) To my eh, to th-, to three Russians, so-
+(PERSON5) Mhm, candidates for-
+(PERSON4) Em, so I think it will be better if you se- if you send it eh-
+(PERSON5) Mhm.
+(PERSON4) from eh, as, as the leader of the (illitere),
+just, for them to feel better to be under (Crate) Committee.
+(PERSON5) Okay eh, I, I-
+(PERSON4) Just to <unintelligible/>.
+(PERSON5) Okay, I can do it,
+I thought it would be better from you,
+because you know them but never mind,
+I, I, I can do it easily, yes.
+(PERSON4) Uh, I think, well it's a little bit better from you.
+I also-
+(PERSON5) Okay.
+that- but I think if you send it, it, it's just-
+(PERSON5) Feel free to-
+(PERSON4) higher privilege-
+(PERSON5) Yeah.
+(PERSON4) because they have points for cooperating with foreigners and I'm not foreigner enough,
+so-
+(PERSON5) Ooh, I see, okay, yes.
+(PERSON4) cooperating (from who is) foreigner.
+(PERSON5) Eh, okay, okay-
+(PERSON4) That's really financial question,
+so if they-
+(PERSON5) Yes.
+(PERSON4) e-mail from [PERSON4], it's too Russian,
+it sounds-
+(PERSON5) too Russian, okay.
+(PERSON4) <laugh/>
+(PERSON5) (Bojar) doesn't sound <laugh/>
+(PERSON4) <laugh/>
+(PERSON1) <laugh/>
+(PERSON5) <laugh/> I'm just kidding. <laugh/>
+(PERSON4) <laugh/>
+(PERSON1) <laugh/>
+(PERSON4) Everybody knows, everybody knows that I am Russian,
+everybody would (believe that) so-
+Yeah, yeah <laugh/>
+better to cooperate with you than with me from the financial point-
+(PERSON5) Yeah, yeah, yeah,
+eh, and, and you can eh, at, at the same time you can actually word in Russian,
+because I (can't) validate, whether you're saying good things or bad things,
+I, I can't read it.
+(PERSON4) I, I think it's-
+(PERSON5) <laugh/> <unintelligible/>
+(PERSON4) I think it's better to be in English-
+(PERSON5) ye- yeah, of course. <laugh/>
+(PERSON4) <laugh/> <unintelligible/>
+(PERSON5) I'm, I'm just telling the like I, I, I (can't) validate Russian, <laugh/>
+(PERSON4) <laugh/> yeah
+no, that's <unintelligible/> in English,
+it's bet-
+(PERSON5) Yeah, okay.
+So let's, let's do it this afternoon, (right)?
+So-
+(PERSON4) Okay.
+(PERSON5) thank you.
+(PERSON4) Yeah, thank you.
+(PERSON1) Thank you.
+(PERSON4) Bye.
+(PERSON1) Oh, thank you.
+(PERSON5) Bye, bye.
+(PERSON1) Bye, bye.
+Bye, bye

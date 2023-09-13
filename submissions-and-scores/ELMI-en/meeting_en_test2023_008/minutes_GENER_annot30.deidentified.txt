@@ -1,0 +1,39 @@
+Bergamot regular meeting
+Date: 2021-01-11
+Attendees: [PERSON1], [PERSON2], [PERSON3, [PERSON4], [PERSON5]
+Purpose of meeting: Progress report
+
+
+- [PERSON1] and [PERSON2] discuss recent progress on ACL paper.
+
+- [PERSON1] points out the automatic metrics seems not to be sufficient to evaluate the performance system (it performs too good).
+- More challegning experiments are discussed by [PERSON1], [PERSON2] and [PERSON3]. 
+
+- The available test set does not contain enough less common and rare words, there is a need for bilingual vocabulary and additional sources for system training.
+--[PERSON3] is requested to provide more data for Portugese language model
+---[PERSON7](not attending the meeting) is expected to deliver additional training data
+---Options to find bilingual texts are being discussed, namely to search for aricles and texbooks, check university repositories for master theses and additional sources of terminology words.
+
+- [PERSON1] Proposed training of the system on different style of speech/writing (colloquial, male vs. female, scientific vs. non-scientific)
+-- The only available model of style transfer was regarding simplification or generalization of the text.
+- Sub-part of elitr test set will be created to cover language style specifics, such as gender transformations.
+
+- [PERSON4] showed how to search for named entities in the available bilingual dataset.
+-- Some manual work will be necessary to compare the outputs with those listed in there.
+- This might give an overview what are the common problems with terminology and make a basis for markable(?) experiments
+- Examples of related mistranslated words are mentioned (tenant vs lessee) and quality of writted audits is being discussed
+- For further work, [PERSON2] will proceed with WMT elitr dataset for spoken language and (sao? domain for written texts
+- Specific terms evaluation will be performed by [PERSON5] based on WMT testsuite markables.
+
+- [PERSON1] briefly mention the opportunity to multi source, however other people involved in this are busy, thus compatibility of their implementation will be asssessed later
+
+Minutes submited by: Karel Skoch
+
+
+[PERSON1]=(bez obrazu)
+[PERSON2]=(s maskou, mozna Josef)
+[PERSON3]=(Portugalec-Joao?)
+[PERSON4]= Ondrej Bojar
+[PERSON5]=Vilem?
+
+[PERSON7]= Lucia (not attending the meeting)

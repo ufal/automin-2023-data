@@ -1,0 +1,11 @@
+PERSON3, PERSON4 and PERSON5 will not be joining otheryawn today as they have a lot of work to do. 
+The general domain model is trained on Czech without sentences in the European dataset. The manual evaluation shows that the model learns to inflect the constraints more than the baseline. The problem with using limitized constraints words is that they do not have references with the correct word surface. 
+(PERSON3) and (PERSON4) are trying to solve the problem of mismatch. The problem with mismatch is that the output is correctly inflected, but the context is different. In the first 100 examples that were marked as error by automatic evaluation 91 of them were correctly
+(PERSON4) will try to extract the terminology for the European test set from the Czech training data. (PERSON6) has around 200 abstracts for the Portugese language model. 
+PERSON6 wants to use the training data for the evaluation, but first he needs to find the papers in Portuguese. He will contact another researcher in Brazil, who used to work with unintelligible Portuguese papers.
+(PERSON1) will forward the email to PERSON7. (PERSON3) will contact the university master thesis repository. They want to extract the European data completely from the training set, but they don't want to retrain the model, so they need to find some other
+(PERSON1) and (PERSON3) want to create a test set for the PROJECT1 project.
+PERSON1 and PERSON2 are trying to work out how to improve the unintelligible set document.
+(PERSON1) and (PERSON2) discuss how to extract data from the WMT PROJECT1 testsuite.
+PERSON1, PERSON4, PERSON3, PERSON5, PERSON6 and PERSON1 are discussing the data they have received from PERSON8. The data is unintelligible. They are going to have a call about the data next Monday after the school.
+PERSON1=uvadec bez obrazu, person2=clovek s maskou, mozna Josef, person3=PortugalecJoao, person4=Ondrej Bojar, person5=Vilem, person6

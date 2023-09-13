@@ -1,0 +1,89 @@
+Meeting KeyPoints:
+
+- PERSON19 is trying to start running the multi-source version of PROJECT2 for ORGANIZATION7 cards.
+- PERSON6 is still working on the multi-source version of PROJECT2 for ORGANIZATION3 cards, and is waiting for the data.
+- PERSON17 is worried that the multi-source version of PROJECT4 might not be ready in time
+The reviewer suggested that it would be useful to replicate the multi-source experiments on larger text text-only data.
+The meeting participants agreed to the following:
+- Create a shared folder for multi-source text data in Organization 8.
+- Create a separate folder for experiments with multi-source text in Organization 8.
+- Create a call with PERSON11 and PERSON17 for tomorrow at two thirty PM.
+1. PERSON8 and PERSON9 will likely be in touch early next week.
+2. PERSON17 was confused that the other PERSON4 on the call was not PERSON9. The other PERSON4 is the same PERSON who developed the profanity filtering.
+3. PERSON4 on the call can hear us now. The important message is to remind PERSON8 to integrate his pipeline with the language model tested by
+- PERSON8 and PERSON4 will setup a local copy of the shared folder for testing.
+- PERSON4 will be responsible for downloading the files from the shared folder to his laptop. 
+- PERSON10 is a alternative tool for downloading the files. 
+- For the profanity filtering, PERSON8 recommends to double apply the filtering on both the ASR and the MT pipeline.
+- Language Spasm Removal.  Idea is to have a single spasm removing module for each language pair.  The spasm removing module will take a stream of utterances in a given language pair, detect the spasms in the stream and remove the detected spasms from the input.
+- Spasm detection.  Use statistical model trained on annotated spasm data to detect spasms in a stream of input.  The language model will consider all words, their order and sentence boundaries
+- Domain adaptation to land on PERSON9 so PERSON9 can prepare for a upcoming Monday seminar
+- Automated domain adaptation using PERSON14's ASR system
+- Robust English trained using various English datasets to handle various accents
+- Person 9 will be leaving the company
+- A long term, or as well as a short-term pile of work has arrived because of the two sessions that we had
+As the team lead for Projeect1, PERSON8, it is your responsibility to ensure that the pipeline is regularly tested by others in the team and that do-it-yourself integrations are made available to users.
+
+Yesterday, you relied on PERSON5 to setup and test the system.  Unfortunately, he was unable to do so due to a personal crisis.  As the project lead, you should have made sure that PERSON5 was better prepared for the challenge
+1. The pipeline was the same for everyone except for the part for training the ASR and MT workers. This part needed to be customized for each person. 
+2. PERSON16 explained the pipeline to PERSON17, and PERSON17 was able to understand the pipeline by listening to PERSON16's explanation.
+3. The reason PERSON17 could not reuse the pipeline was that the pipeline
+- PERSON6 mentions he would like to have a single script for all his NMT workers
+- PERSON5 would like to discuss with the other two how to better structure their pipeline set-up so that it is more modular and easier to integrate new functionality
+- PERSON6 used to have multiple scripts for each of his NMT workers that have different parameters; he wants to simplify it to a single script that
+1. The model wasn't trained with fine tuning such as using partial sentences and other stuff.
+2. It was basically trained using tensor to tensor, which makes it very, very slow.
+3. If we could have multiple work-alikes, each emitting a different subset of languages, it would be a fallback solution, but the main question is, how come that it's slower with more languages.
+1. PERSON6 and PERSON17 are recommending not using the PROJECT2 tensorflow model as a tensorflow model on live sessions.
+2. PERSON17 is proposing PERSON6 use the PROJECT2 model as a backend for a tensorflow model.
+4. PERSON16 had issues running
+
+- PERSON6 might be using an old version of PROJECT2.
+- The issue PERSON6 is facing is related to path conflicts when running PROJECT2 models. 
+
+
+After PERSON17 sends the path and model location to PERSON6, PERSON
+1. PERSON6 and PERSON17 have identified the following tasks to be completed:
+    - shorten and extend machine learning models
+    - shorten and extend data science and engineering tasks
+    - identify storage needs and get more storage from Mala Strana
+2. PERSON6 and PERSON17 will collaborate with the rest of the team to complete the tasks.
+From the transcript, the following points can be extracted:
+* P19: There is a command to check the quota. 
+* P17: So, in the email, I'll check what is called - (alias).. So, I use - to check the quota.
+* P17: Or D F minus H to get the quota for human resources.
+* P17: There is too little space on Troja.
+* P19: Ask for much more.
+* PERSON6 and PERSON17 plan to have a call with PERSON19 and PERSON11 prior to the call between PERSON6 and PERSON17 and PERSON16.
+* PERSON17 will write to PERSON19 and PERSON11 mentioning PERSON16's name and PERSON17's intention to join the group.
+* PERSON16 is from Saarbrücken and he is interested in joining
+- PERSON6 has interest in applying for a PhD position at Organization 2.
+- PERSON17 had a conversation with PERSON16 about PERSON6.
+- PERSON16 will invite PERSON6 to join Organization 2 for applying for a PhD position.
+1. PERSON8 and PERSON17 will discuss the details of the project.
+2. PERSON2 will manage the storage of the results (outputs and scores) of the automated speech recognition evaluation.
+- It’s important to have a dedicated person for manual transcription of documents with non-native accents
+- It’s also important to have a dedicated person for creating documents with automatic tools that include terms and pronunciation for sessions
+- There’s a skill required for performing both tasks, and it’s important that people learn that skill
+- If we want people to perform both tasks, and also
+1. PERSON8 and PERSON17 are interested in pursuing  an approach to keyword spotting for the fully neural ASR that is independent of the data used for training.
+2. PERSON6 described various data that might be used for the fully neural ASR including the models developed by ORGANIZATION4 on ORGANIZATION5.
+3. PERSON6 and P
+- Person 6 suggests to steal data from ORG5 instead of scraping it
+- Person 17 agrees with the idea but lacks the human capacity to do so
+- Person 6 suggests reusing what ORG5 is doing and use tools to download filtered videos
+
+Person 6 suggests that their friend from country 14's friend might be able to help with the task.
+Person 17 expresses skepticism that their friend from country 14 could help with the task, due to the friend being in prison.
+Person 14 mentions that their friend has a prison sentence and therefore is not able to help.
+Person 17 suggests that their friend's prison sentence could
+The meeting transcript provided shows that participants agreed that a model that detects hate speech language would be useful for removing hate speech from official speeches.  The participants recognized that this setting might be less severe than competitions where hate speech is the goal.  The participants also recognized that the model would need to be trained differently for this setting, in which case, hate speech that is only a translation error would be removed.
+1. PERSON6, PERSON17, and PERSON14 are interested in supervising a student to do research.
+2. PERSON6 has some bachelor students at ORGANIZATION6, but they will be czech citizens.
+3. The rest of the people in the meeting were not interested in helping with the research tasks.
+4. PERSON8 can ask if some of the students in the meeting are interested
+- PERSON8 said they received their visa approval letter and will be visiting Prague in January.
+- PERSON10 said the meeting was too long and wanted to talk individually and next week.
+- PERSON14 said thank you for the attendence and patience.
+- PERSON16 asked to read the experience of others on record their experience and if they saw other useful ideas to add.
+- PERSON19 said thank you to

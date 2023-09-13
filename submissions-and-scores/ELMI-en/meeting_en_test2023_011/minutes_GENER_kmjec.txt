@@ -1,0 +1,5 @@
+PERSON9 is in the Czech Republic. He doesn't have holidays officially until 24, 25, 26, 27, 28. People are paid by the company and they have a lot of holidays. There is a dissemination, quality estimation and review of deliverables. The meeting on 21
+PERSON4, PERSON7 and PERSON9 agree to cancel the two meetings on the 21st and the 4th of January. The next meeting will be on January 4th. They will focus on the multisource navigation and train the model for negative constraints.
+PERSON9 is preparing the data for the training set. He's using the Marion implementation of negative constraints to prepare it. He doesn't know if it will work with more than one sentence, but if it does, he will fix it right away.
+PERSON2 is waiting on the dataset reprocessing from Europar. He's working on the analysis of the system. Europro had to start it over again because of the English term. 
+The deadline for the deliverable to be submitted is at the end of the year. For PROJECT1, the deadline is last year, from some cottage in the mountains. For Project2, it's the 21st, so PERSON7 will send them an email. 

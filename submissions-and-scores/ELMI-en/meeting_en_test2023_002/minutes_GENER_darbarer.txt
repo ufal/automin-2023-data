@@ -1,0 +1,58 @@
+Date: 1.2.2022
+👥 Attendees: PERSON1, PERSON7, PERSON2
+
+
+🔷 Edit and submission of paper
+	🔹 [PERSON2] needs to write a paper due in June, but he needs to finish his research first
+	🔹 He's training an ASR in Flask
+	🔹 He needs to create a queue to send audio files back to the server.
+
+🔷 Improvement of website
+	💬 [PERSON1] and [PERSON2] discuss how to improve the website.
+
+🔷 Implementation of tests
+	💬 [PERSON1] and [PERSON2] discuss the implementation of the tests
+	🔹 [PERSON1] has already implemented the tests, but they don't know how to implement them
+	📅 [PERSON2] has to write the exam and submit it within the second deadline ⚠️
+
+
+🔷 Quality of the COMET translation
+	🔹 [PERSON2] and [PERSON7] are arguing about the quality of the COMET translation
+	🔹 [PERSON2] thinks it's not that bad, but the overall quality sometimes is not that good
+
+
+🔷 Data processing of the sentence
+	🔹 [PERSON7] wants to develop an automatic metric based on the data set
+	🔹 [PERSON2] doesn't see any use case for shortening or increasing the length of sentences
+
+
+🔷 Working on machine translation compression
+	🔹 [PERSON7] is in Paris for an internship
+	🔹 He's working on a machine translation compression
+	🔹 It's concatenation of four different words
+	🔹 Germans are famous for having s- words for lots of things
+
+
+🔷 Translating the information into German
+	🔹 [PERSON2] is translating to German
+	🔹 He doesn't want to do a shortening as it takes too much time to reproduce the same information in different languages
+
+
+🔷 Organization of IWLTS 2023
+	🔹 [PERSON1] will be organizing IWLTS 2023
+	🔹 [PERSON2] and [PERSON7] hate the idea of retranslating systems
+
+
+🔷 Implementation of speech-to-speech interpreters
+	💬 [PERSON2] and [PERSON1] discuss the implementation of speech-to-speech interpreters.
+
+🔷 Pros and cons of retranslating speech
+	💬 [PERSON2], [PERSON1] and [PERSON7] discuss the pros and cons of retranslating speech.
+
+🔷 Improvement of translate
+	🔹 [PERSON1] and [PERSON2] think it's not in the best interest of the user to retranslate something even if it's wrong.
+
+🔷 Retranslating system
+	🔹 [PERSON7] and [PERSON1] agree that retranslating system should focus on speech.
+
+✍ Submitted by: Darbarer

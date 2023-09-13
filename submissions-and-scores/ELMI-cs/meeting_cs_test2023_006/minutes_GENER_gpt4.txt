@@ -1,0 +1,67 @@
+- Osoba má tři články, které chce upravit a přepsat jinak.
+- Počet článků je nakonec menší než se očekávalo.
+- Cílem je shrnout obecnou znalost získanou z práce mnoha lidí.
+- Rychlost, se kterou se kniha posouvá, je tragická a je nutné ji co nejdříve dokončit.
+- Všichni mají problém se zápočty a jinými povinnostmi, které brání práci na knize.
+- Je nutné dodělat chybějící části a přečíst si kapitoly ostatních.
+- Davidova kapitola ještě není v angličtině a potřebuje úpravy.
+- Cílem je dodělat knihu do konce září a poslat ji k recenzi.
+- Schůzka projektu proběhla, ale někteří účastníci nebyli přítomni.
+- Diskutovali o tom, co bylo uděláno od posledního setkání a co ještě zbývá udělat.
+- R (PERSON1) se ptal na názory ostatních na sumary, které napsal.
+- T (PERSON2) navrhl, aby sumary bylo kratší a více zaměřené na shrnutí.
+- D (PERSON3) navrhl, aby se samery zkonkretizovaly na základě konkluzí jednotlivých kapitol.
+- R (PERSON1) přidal "aftr vrd" do dokumentu a změnil název sumary.
+- Diskutovali o formálních požadavcích na samery a aftr vrds v knize.
+- R (PERSON1) navrhl založit nový samery pod tím, co už bylo napsáno, a přidat první odstavec z původního sumary.
+- D (PERSON3) zmínil, že měl problémy s přístupem ke svému pracovnímu počítači.
+- T (PERSON2) se ptal, proč Sakura (nějaký systém nebo služba) už nežije.
+- V projektovém setkání se diskutovalo o textu a jeho úpravách.
+- Byla zmíněna paní, která sedí na místě, kde dříve byla Sakura, a má pravděpodobně Windows stroj.
+- Diskutovali o pořadí "aftr vrd" a "samery" v textu, kde "samery" by mělo být úplně na konci.
+- Hovořili o tom, zda stihnou dodělat práci do příštího týdne, přičemž Ruda pravděpodobně ano, ale Tomáš má ještě další úkoly.
+- Cílem je mít práci hotovou do konce září, aby mohla být poslána recenzentům.
+- Příští úterý bude další schůzka, poté se uvidí.
+- Diskutovali o typografických záležitostech, jako jsou uvozovky a čárky v textu.
+- Zmínili rozdíl mezi britskou a americkou angličtinou a potřebu rozhodnout se pro jeden styl.
+- Hovořili o nastavení gramatiky v textu a zda je to globální nebo individuální nastavení.
+- Na konci setkání se ptali, zda má někdo další dotazy nebo potřeby.
+- Diskuze o tom, zda používat americkou nebo britskou angličtinu v textu, nakonec se rozhodli pro americkou variantu.
+- Různé názory na použití zkratky "ídží" a dalších pravidel v textu.
+- Rozhovor o použití glosáře a rejstříku v publikaci, zda zahrnovat všechny zkratky a pojmy.
+- Diskuze o formátování figur a zkrácených názvů v textu.
+- Jindřich se připojil k hovoru, informoval o svém testování na COVID-19 a upozornil na možnost pozitivního výsledku u ostatních účastníků.
+- Různé komentáře a názory na kapitoly, které účastníci napsali, a diskuse o tom, co ještě upravit nebo změnit.
+- Diskuze o rozdílu mezi "samery" a "aftr vrds" v textu, rozhodnutí použít "aftr vrd" a zvážit zkrácení konkluzí.
+- Abstrakt musí mít alespoň 64 znaků.
+- Projednávání délky abstraktu a samery v knihovnických systémech.
+- Návrh rozšířit samery o něco z konkluzí.
+- Každý by měl napsat část samery ze své kapitoly.
+- Plán poslat knihu recenzentům na konci září.
+- Tomáš plánuje dovolenou, ale chce knihu dokončit předtím.
+- Diskuze o rozvrhu předmětů a nejistota ohledně výuky.
+- Někteří studenti se zapsali na předměty učitelů.
+- Projednávali rozpoznávání koreference pro univerzal dipendencí.
+- Diskutovali o rozvržení předmětů a prezenční výuce.
+- Zmínili možnost využití Zoomu pro výuku, pokud nebude prezenční.
+- Hovořili o Úvodu do strojového učení a jeho rozvržení.
+- Zmínili se o dovolených a termínech porodu.
+- Plánují další schůzku za týden v jedenáct hodin.
+- Přejí si hezký den a dobrou chuť k obědu.
+- Setkání proběhlo mezi osobami A, B a C
+- Hovořili o recenzi knihy, kterou napsala osoba Péťa
+- Osoba A zmínila, že některé doporučení z recenze už mají v to-do listu
+- Hájič zdůraznil potřebu dodání chybějících citací a doporučil se podívat na další doporučení
+- Hájič také tlačil na to, aby kniha byla vydána co nejdříve, ideálně ještě tento rok
+- Osoba A uvedla, že mají do 30. listopadu na dokončení knihy
+- Knihu plánují vytisknout v barevném provedení, celkem 200 kusů za cenu kolem 45 000 Kč
+- Pavel Straňák sehnal tiskárnu a termín tisku je domluvený
+- Stále čekají na recenzi od Pavla Krále, která by měla přijít příští týden nebo dříve
+- Probíhají dvě paralelní vyjednávání ohledně projektu
+- Čekají na zásadní připomínky od Straňáka, které by měly být drobné
+- Potřebují zjistit, co všechno ještě potřebují, např. ISBN
+- Divadelníci na Theateru mají vygenerované scénáře na leden, takže projekt teď nehoří
+- Plánují se věnovat knize a přednášce na ÚFALim semináři
+- Přednáška byla slíbena Magdě, která o ni žádala už dva roky
+- Diskutují o prezentaci, kterou měli před rokem, a hledají slajdy v e-mailech a OverLeafu
+- Jindřich se připojil k diskusi

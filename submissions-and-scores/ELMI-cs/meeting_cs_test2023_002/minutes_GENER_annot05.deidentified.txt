@@ -1,0 +1,70 @@
+Zápis ze schůzky
+
+Datum schůzky: 18. 11. 2020
+
+Téma: Porada [ORGANIZATION138], informace týkající se celkového chodu kanceláře a jednotlivých projektů
+Vedoucí schůzky: [PERSON266]
+Účastníci: [PERSON286], [PERSON287], [PERSON316], [PERSON319], [PERSON272], [PERSON288], [PERSON304], [PERSON279], [PERSON278], [PERSON265], [PERSON264], [PERSON267], [PERSON275], [PERSON291], [PERSON271]
+
+Zápis:
+
+- Diskuze ohledně průběhu jednání
+-- Zezačátku nebylo možné se připojit.
+-- Jednání dopadlo dobře.
+-- Byly prezentovány připravené body, které byly odsouhlasené a prodiskutované.
+-- Lokalita není napojená na kanalizaci, třeba řešit jiným způsobem.
+-- Připraven schválený návrh kanalizace.
+-- Změna již probíhá dlouho, studie již byla v minulosti zpracována.
+-- Nutno zkonzultovat s dalšími účastníky.
+-- Domluvit se na rozsahu plochy.
+- Do konce roku nutno ukončit rozpočet
+-- Nedořešené peníze za model na [PROJECT87].
+- Projekt [PROJECT87]
+-- Zítra proběhne schůzka.
+-- Třeba poskytnout modelářům finální podklady.
+- [ORGANIZATION173]
+-- Odvolání nebylo akceptované.
+-- Postoupeno právnímu oddělení.
+-- Třeba posoudit dopady sporu na územní plán.
+-- Termín: 2 měsíce.
+- Restrukturalizace [ORGANIZATION138]
+-- Volné místo ředitele sekce strategií.
+-- Záměr sloučit kanceláře a agendy strategického a územního plánování.
+-- Vypsáno výběrové řízení.
+-- Proběhne debata ohledně fungování kanceláře.
+-- Ředitel by měl být vybrán do konce roku.
+- Komise na [ORGANIZATION151]
+-- Do konce roku by se měla situace vyřešit.
+-- Třeba zúčastnit se [ORGANIZATION178], kde se bude probírat podkladová studie.
+-- Možnost za sebe poslat náhradníka.
+-- Formulace připomínek proběhla minulý měsíc.
+- 3.12. od 14 hod. proběhne představení ÚAP
+- Území [ORGANIZATION180], [PROJECT89]
+-- Začínají probíhat analýzy.
+- Spolupráce na vytipování ploch parkovišť pro městskou výstavbu
+- Studie [PROJECT90]
+-- Třeba ujasnit, zda se jedná o připomínky, nebo je nutné vyjádření.
+- [PROJECT91]
+-- Připravuje se jednání, kde budou představeny připomínky.
+-- Do studie je třeba zaznamenat funkční plohy a veřejnou vybavenost.
+- Třeba připravidt odborné jednání o [PROJECT92]
+- Napsat na workshop na [PROJECT74]
+- [PROJECT95]
+-- Zítra se bude posílat námitka, nutno podepsat.
+-- Bude se rozporovat výška krajního objektu.
+- Dnes od půl 2 proběhne prezentace studie
+- Občanská vybavenost
+-- Studování uličních sítí, nejzásadnější je plynovod.
+- Tisk na [PROJECT97]
+-- V řešení.
+- Studie [PROJECT65]
+-- Nutno se vyjádřit.
+-- Pokročeno, na bornickém sídlišti je pouze jedna poloha [PROJECT65].
+
+
+
+
+Zapsala: [ANNOTATOR5]
+
+
+
